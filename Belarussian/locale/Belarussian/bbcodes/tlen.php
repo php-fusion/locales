@@ -1,0 +1,1 @@
+<?php$locale['bb_tlen_description'] = "Tlen Polish карыстацкі камунікатар, адлюстраваць статут";$locale['bb_tlen_usage'] = "Tlen user ID";?>

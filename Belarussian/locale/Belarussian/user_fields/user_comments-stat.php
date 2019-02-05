@@ -1,0 +1,1 @@
+<?php$locale['uf_comments-stat'] = "Дасланыя каментары";$locale['uf_comments-stat_desc'] = "Паказаць колькасць каментароў.";?>

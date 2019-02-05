@@ -1,0 +1,108 @@
+<?php
+$locale['400'] = "Enviar Link";
+// Submit Link Success
+$locale['410'] = "Obrigado por enviar seu Link";
+$locale['411'] = "Enviar outro Link";
+$locale['412'] = "Retornar ao ".$settings['sitename'];
+// Submit Link Form
+$locale['420'] = "Use o seguinte formulário para enviar um Link. Seu envio será verificado por um Administrador.
+Links considerados inadequados não serão aceitos.";
+$locale['421'] = "Categoria do Link:";
+$locale['422'] = "Nome do Link:";
+$locale['423'] = "URL do Link:";
+$locale['424'] = "Descrição do Link:";
+$locale['425'] = "Enviar Link";
+// Submit News
+$locale['450'] = "Enviar Notícia";
+// Submit News Success
+$locale['460'] = "Obrigado por enviar sua Notícia";
+$locale['461'] = "Enviar outra Notícia";
+// Submit News Form
+$locale['470'] = "Use o seguinte formulário para enviar uma Notícia. Seu envio será verificado por um Administrador. ".$settings['sitename']." reserva-se o direito de alterar ou editar qualquer envio. Notícias
+devem ser aplicáveis ao conteúdo deste site. Notícias consideradas inadequadas não serão aceitas.";
+$locale['471'] = "Assunto:";
+$locale['472'] = "Notícia:";
+$locale['473'] = " Ativar Quebra de Linha Automática";
+$locale['474'] = "Prever Notícia";
+$locale['475'] = "Enviar Notícia";
+$locale['476'] = "Categoria:";
+$locale['477'] = "- Nenhuma -";
+$locale['478'] = "Trecho da Notícia:";
+// Submit Article
+$locale['500'] = "Enviar Artigo";
+// Submit Article Success
+$locale['510'] = "Obrigado por enviar seu Artigo";
+$locale['511'] = "Enviar outro Artigo";
+// Submit Article Form
+$locale['520'] = "Use o seguinte formulário para enviar um Artigo. Seu envio será verificado por um Administrador. ".$settings['sitename']." reserva-se o direito de editar ou alterar qualquer envio. Artigos
+devem ser aplicáveis ao conteúdo deste site. Artigos considerados inadequados não serão aceitos.";
+$locale['521'] = "Categoria:";
+$locale['522'] = "Título:";
+$locale['523'] = "Descrição:";
+$locale['524'] = "Artigo:";
+$locale['525'] = " Ativar Quebra de Linha Automática";
+$locale['526'] = "Prever Artigo";
+$locale['527'] = "Enviar Artigo";
+// Submit Error
+$locale['550'] = "Por favor, complete o formulário.";
+$locale['551'] = "Não há categorias definidas.";
+$locale['552'] = "Não há álbuns definidos.";
+// Submit Photo
+$locale['570'] = "Enviar Foto";
+// Submit Photo Success
+$locale['580'] = "Obrigado por enviar sua Foto";
+$locale['581'] = "Enviar outra Foto";
+// Submit Photo Error
+$locale['600'] = "Sua Foto não pôde ser enviada";
+$locale['601'] = "Nome de arquivo inválido.";
+$locale['602'] = "A imagem deve ser menor que %u bytes.";
+$locale['603'] = "A imagem deve ser no formato GIF, JPEG ou PNG.";
+$locale['604'] = "A imagem não pode ser maior que %uw x %uh pixels.";
+// Submit Photo Form
+$locale['620'] = "Use o seguinte formulário para enviar uma Foto. Seu envio será verificado por um Administrador. ".$settings['sitename']." reserva-se o direito de editar ou alterar qualquer envio. Fotos devem ser aplicáveis ao conteúdo deste site. Fotos consideradas inadequadas não serão aceitas.";
+$locale['621'] = "Título:";
+$locale['622'] = "Descrição:";
+$locale['623'] = "Imagem: ";
+$locale['624'] = "Tamanho máx.: %s / Dimensões máx.: %ux%u pixels";
+$locale['625'] = "Álbum:";
+$locale['626'] = "Enviar Foto";
+// Submit Download
+$locale['650'] = "Enviar Download";
+// Submit Download Success
+$locale['660'] = "Obrigado por enviar o seu download";
+$locale['661'] = "Envie outro download";
+// Submit Download Error
+$locale['670'] = "Seu download não poderá ser enviado";
+$locale['671'] = "O nome do arquivo é inválido.";
+$locale['671a'] = "O nome da imagem do arquivo é inválida.";
+$locale['672'] = "O arquivo deve ser inferior a %s.";
+$locale['672a'] = "A imagem deve ser inferior a %s.";
+$locale['672b'] = "A imagem deve ser menor que %s.";
+$locale['673'] = "O arquivo deve ser de um dos seguintes tipos de arquivo: %s.";
+$locale['673a'] = "A imagem deve ser de um dos seguintes tipos de arquivo: %s.";
+$locale['674'] = "Título do Download não pode ser deixado em branco.";
+$locale['675'] = "O arquivo ou a url do download não pode ficar em branco.";
+$locale['676'] = "Breve descrição do Download não pode ser deixada em branco.";
+$locale['676a'] = "Erro desconhecido";
+// Submit Download Form
+$locale['680'] = "Utilize o formulário abaixo para enviar um Download. Sua apresentação será analisada por um
+Administrador. ".$settings['sitename']." se reserva o direito de alterar ou modificar qualquer apresentação. Downloads 
+devem ser aplicáveis ao conteúdo deste site. As inscrições consideradas inadequadas serão rejeitadas.";
+$locale['681'] = "Título:";
+$locale['682'] = "Descrição:";
+$locale['682b'] = "Descrição curta:";
+$locale['683'] = "URL:";
+$locale['684'] = "ou Arquivo:";
+$locale['685'] = "Calcule o tamanho do arquivo";
+$locale['686'] = "Imagem Miniatura:";
+$locale['687'] = "Categoria:";
+$locale['688'] = "Licença:";
+$locale['689'] = "S/O:";
+$locale['690'] = "Versão:";
+$locale['691'] = "Página na Web:";
+$locale['692'] = "Direitos Autorais:";
+$locale['693'] = "Tamanho:";
+$locale['694'] = "Tamanho Máx. do arquivo: %s / Tipos de arquivo permitidos: %s";
+$locale['694b'] = "Tamanho Máx. do arquivo: %s / Tipos de arquivo permitidos: %s / Largura Máx.: %spx, Altura Máx.: %spx";
+$locale['695'] = "Enviar Download";
+?>

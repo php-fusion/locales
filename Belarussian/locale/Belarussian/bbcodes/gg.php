@@ -1,0 +1,1 @@
+<?php$locale['bb_gg'] = "Gadu-Gadu";$locale['bb_gg_description'] = "Статут карыстача для Польскага камунікатара Gadu-Gadu";$locale['bb_gg_usage'] = "Gadu-Gadu user ID";?>

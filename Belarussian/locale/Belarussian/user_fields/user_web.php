@@ -1,0 +1,1 @@
+<?php$locale['uf_web'] = "Вэб-адрас";$locale['uf_web_desc'] = "Адрас вэб-сайта";$locale['uf_web_001'] = "Наведаць";?>

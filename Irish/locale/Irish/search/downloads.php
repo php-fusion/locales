@@ -1,0 +1,11 @@
+<?php
+$locale['d400'] = "Íoslódálacha";
+$locale['d401'] = "Íoslódáíl";
+$locale['d402'] = "Íoslódálacha";
+$locale['d403'] = "[NUA]";
+$locale['d404'] = "Ceadúnas:";
+$locale['d405'] = "Córas Obráide:";
+$locale['d406'] = "Leagan:";
+$locale['d407'] = "Dáta ar Cuireadh Suas:";
+$locale['d408'] = "Íoslódálacha:";
+?>

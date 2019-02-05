@@ -1,0 +1,1 @@
+<?php$locale['bb_yahoo'] = "Yahoo";$locale['bb_yahoo_description'] = "Yahoo Пошукавая машына";$locale['bb_yahoo_usage'] = "Тэкст для пошуку ў Yahoo!";?>

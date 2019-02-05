@@ -1,0 +1,1 @@
+<?php$locale['bb_olist_description'] = "Стварае нумараваны спіс для вызначанага тыпу";$locale['bb_olist_usage'] = "Text 1 :enter: Text 2 :enter: etc";?>

@@ -1,0 +1,1 @@
+<?php$locale['bb_center_description'] = "Размясціць абраны тэкст у цэнтры";$locale['bb_center_usage'] = "Тэкст у цэнтр";?>

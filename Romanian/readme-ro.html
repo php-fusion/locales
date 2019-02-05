@@ -1,0 +1,331 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Despre PHP-Fusion</title>
+<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-2'>
+<style type='text/css'>
+a { color:#003D71; text-decoration:none; }
+a:hover { color: #027AC6; text-decoration: underline; }
+.tbl1 {
+	font-family: Verdana,Tahoma,Arial,Sans-Serif;
+	font-size: 11px;
+	color: #000;
+	background-color: #fefefe;
+	border: 1px #ddd solid;
+	padding: 4px;
+	margin-bottom: 5px;
+}
+.tbl2 {
+	font-family: Verdana,Tahoma,Arial,Sans-Serif;
+	font-size: 11px;
+	color: #fff;
+	background-color: #444;
+	border: 1px #ddd solid;
+	padding: 4px;
+	margin-bottom: 5px;
+}
+.warning {
+	background-color:#CC0000;
+	border: 1px #ddd solid;
+}
+.hl {
+	color: #f00;
+	font-size: 105%;
+}
+</style>
+</head>
+<body>
+
+<div style='text-align:left;width:600px;margin: 0 auto;'>
+
+<div align='center' class='tbl1'><img src='files/images/php-fusion-logo.png' alt='PHP-Fusion' title='PHP-Fusion'><br /><br />
+Copyright &copy; 2002 - 2011 Nick Jones<br />
+<strong>Versiunea:</strong> 7.02.04 - <strong>Lansat&#259;:</strong> 28/11/2011</div>
+
+<div class='tbl2'>INTRODUCERE</div>
+
+<div class='tbl1'>PHP-Fusion este un sistem de gestiune a con&#355;inutului (CMS) de categorie u&#351;oar&#259;, scris &#238;n PHP 5.
+Acesta folose&#351;te o baz&#259; de date MySQL pentru stocarea informa&#355;iilor de pe saitul dvs. &#351;i include un sistem de administrare simplu &#351;i cuprinz&#259;tor.
+PHP-Fusion include cele mai &#238;ntâlnite func&#355;ii pe care v-a&#355;i a&#351;tepta s&#259; le g&#259;si&#355;i &#238;n alte pachete CMS.
+
+<p>Acest pachet con&#355;ine software liber: &#238;l pute&#355;i modifica &#351;i/sau redistribui &#238;n baza termenilor Licen&#355;ei Generale Publice GNU Affero (AGPL)
+a&#351;a cum este publicat&#259; de Funda&#355;ia pentru Software Liber (Free Software Foundation), fie versiunea 3 a Licen&#355;ei sau (la alegerea dvs.)
+oricare versiune ulterioar&#259;.</p>
+
+<p>Acest pachet software este distribuit cu speran&#355;a c&#259; va fi folositor, &#238;ns&#259; F&#258;R&#258; NICI O GARAN&#354;IE;
+chiar f&#259;r&#259; garan&#355;ia implicit&#259; V&#194;NZ&#258;RII sau POTRIVIRII PENTRU UN SCOP ANUME.
+See the Affero General Public License for more details.</p>
+
+<p>Ar trebui s&#259; fi primit o copie a Licen&#355;ei Publice Generale GNU Affero &#238;mpreun&#259; cu acest pachet software. Dac&#259; nu o ave&#355;i, vizita&#355;i <a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'>www.fsf.org</a>.</p>
+
+<p><strong>Not&#259; important&#259;</strong>: Nu ave&#355;i permisiunea de a elimina nota de drepturi de autor din subsol:</p>
+
+<p align='center' class='tbl1'>Powered by <a href='http://www.php-fusion.co.uk'>PHP-Fusion</a> copyright &copy; 2002 - 2010 by Nick Jones.<br />
+Released as free software without warranties under <a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'>GNU Affero GPL</a> v3</p>
+
+<p>Pentru op&#355;iuni privind eliminarea notei de drepturi de autor v&#259; rug&#259;m s&#259; citi&#355;i pagina cu informa&#355;ii despre licen&#355;iere de la 
+<a href='http://www.php-fusion.co.uk/'>www.php-fusion.co.uk</a>.
+</div>
+
+<div class='tbl2'>INSTALARE</div>
+
+<div class='tbl1'>&#206;nainte de instalarea PHP-Fusion va trebui s&#259; verifica&#355;i cerin&#355;ele minime pentru aceast&#259; versiune:<br />
+<p>
+- PHP 5.1.2 sau mai nou<br />
+- MySQL 4.1 sau mai nou<br />
+
+<p>Trebuie s&#259; crea&#355;i o baz&#259; de date MySQL. Pute&#355;i face asta din panoul de control al
+serviciului de g&#259;zduire sau phpMyAdmin. Asigura&#355;i-v&#259;
+c&#259; ave&#355;ii la &#238;ndem&#226;n&#259; datele de conectare la baza
+de date MySQL, inclusiv numele serverului, a utilizatorului, parola &#351;i
+denumirea bazei de date, deoarece va trebui s&#259; le folosi&#355;i pe parcursul instal&#259;rii.
+
+<p><strong>1.</strong> &#206;nainte s&#259; &#238;nc&#259;rca&#355;i fi&#351;ierele pe server,
+redenumi&#355;i fi&#351;ierul <span class="hl">_config.php</span> (aflat &#238;n
+directorul files) &#238;n <span class="hl">config.php</span>.
+
+<p><strong>2.</strong> &#206;nc&#259;rca&#355;i con&#355;inutul directorului <span class="hl">php-files</span> pe serverul dvs.
+
+<p><strong>3.</strong> Cu excep&#355;ia cazului &#238;n care folosi&#355;i PHP-Fusion pe un server local,
+&#238;n cele mai multe cazuri va trebui s&#259; executa&#355;i <span class="hl">CHMOD 777</span>
+pe urm&#259;toarele fi&#351;iere &#351;i directoare:
+
+<ul style='list-style-type:disc'>
+<li>administration/db_backups/</li>
+<li>downloads/</li>
+<li>downloads/images/</li>
+<li>downloads/submissions/</li>
+<li>downloads/submissions/images/</li>
+<li>forum/attachments/</li>
+<li>ftp_upload/</li>
+<li>images/</li>
+<li>images/imagelist.js</li>
+<li>images/articles/</li>
+<li>images/avatars/</li>
+<li>images/news/</li>
+<li>images/news/thumbs/</li>
+<li>images/news_cats/</li>
+<li>images/photoalbum/</li>
+<li>images/photoalbum/submissions/</li>
+<li>config.php</li>
+</ul>
+
+<p><strong>Note</strong>: Unele gazde nu permit setarea CHMOD 777. &#206;n acest caz pute&#355;i folosi <span class="hl">CHMOD 755</span> dac&#259; CHMOD 777 e&#351;ueaz&#259;.
+
+<p><strong>4.</strong> Intra&#355;i pe pagina dumneavoastr&#259; de internet,
+iar setup.php ar trebui s&#259; porneasc&#259; automat.
+Dac&#259; nu porne&#351;te, acceseaz&#259; setup.php manual,
+prin introducerea adresei complete a saitului, urmat&#259; de /setup.php.
+Exemplu: http://www.domeniultau.ro/setup.php
+
+<p><strong>5.</strong> Finaliza&#355;i procesul de instalare prin urmarea tuturor
+indica&#355;iilor din mesajele de pe ecran.
+
+<p><strong>6.</strong> Imediat dup&#259; finalizarea instal&#259;rii PHP-Fusion
+va trebui s&#259; executa&#355;i CHMOD 644 pe <strong>config.php</strong>
+<span class="hl">&#350;I</span> s&#259; &#351;terge&#355;i fi&#351;ierul
+<strong>setup.php</strong> de pe server. Nerespectarea acestei proceduri poate duce la
+accesul neautorizat asupra saitului dvs.</div>
+
+<div class='tbl2'>MIGRAREA DE LA V7.00.XX SAU V7.01.XX</div>
+
+<div class='tbl1'>&#206;nainte s&#259; migra&#355;i la noua versiune v&#259; recomand&#259;m
+s&#259; face&#355;i o copie de siguran&#355;&#259; a tuturor fi&#351;ierelor &#351;i a bazei de date,
+deoarece PHP-Fusion 7.02 este o actualizare major&#259; prin compara&#355;ie cu PHP-Fusion 7.01.
+Trebuie s&#259; urma&#355;i cu <span class="hl">mare aten&#355;ie</span> instruc&#355;iunile de mai jos.
+De asemenea, v&#259; recomand&#259;m s&#259; migra&#355;i de la 7.00.xx la 7.01.xx &#238;nainte s&#259; migra&#355;i la 7.02.00.
+
+
+<p>&#206;nainte de instalarea PHP-Fusion va trebui s&#259; verifica&#355;i cerin&#355;ele minime pentru aceast&#259; versiune:<br />
+- PHP 5.1.2 sau mai nou<br />
+- MySQL 4.1 sau mai nou<br /></p>
+
+<p><strong>1.</strong> Codul din versiunea 7.02 este &#238;n mare parte compatibil cu cel din versiunea 7.01,
+&#238;ns&#259; datorit&#259; numeroaselor modific&#259;ri din nucleu, unele componente (modific&#259;ri, infuzii, panouri sau tematici)
+ar putea s&#259; nu func&#355;ioneze corect.
+
+<p><strong>2.</strong> Mai &#238;nt&#226;i trebuie s&#259; &#238;nc&#259;rca&#355;i scriptul de migrare din directorul
+numit 'upgrade v7' &#238;n directorul <strong>/administration/</strong> al saitului dvs. <span class="hl">&#351;i</span>
+s&#259; &#238;nc&#259;rca&#355;i directorul "locale" &#238;n r&#259;d&#259;cina saitului dvs. F&#259;r&#259; fi&#351;ierele
+"locale" unele denumiri nu vor fi ad&#259;ugate &#238;n baza de date.</p>
+
+<p><strong>3.</strong> Conecta&#355;i-v&#259; la saitul dvs. ca Super administrator. Intra&#355;i &#238;n
+<strong>Panoul de administrare</strong> -> <strong>Administrare sistem</strong>
+&#351;i da&#355;i clic pe butonul <strong>Actualizare</strong>. TREBUIE s&#259; parcurge&#355;i
+procedura de actualizare &#238;nainte s&#259; &#238;nc&#259;rca&#355;i restul de fi&#351;iere prin FTP.
+Procesul de actualizare va fi finalizat numai dup&#259; afi&#351;area mesajului "Actualizarea bazei de date este complet&#259;".</p>
+
+<p><strong>4.</strong> FOARTE IMPORTANT: Deoarece aceast&#259; versiune con&#355;ine numeroase
+modific&#259;ri structurale, unele elemente ale portalului nu vor func&#355;iona corect
+p&#226;n&#259; c&#226;nd v&#259; ve&#355;i actualiza toate fi&#351;ierele. TREBUIE s&#259; &#238;nc&#259;rca&#355;i prin FTP
+toate fi&#351;ierele din directorul <strong>files</strong>, cu EXCEP&#354;IA:</p>
+
+<ul style='list-style-type:disc'>
+<li>_config.php</li>
+<li>setup.php</li>
+</ul>
+
+Executa&#355;i CHMOD 777 pe urm&#259;toarele fi&#351;iere &#351;i directoare:
+<ul style='list-style-type:disc'>
+<li>downloads/</li>
+<li>downloads/images/</li>
+<li>downloads/submissions/</li>
+<li>downloads/submissions/images/</li>
+<li>ftp_upload/</li>
+</ul>
+
+<p>Dac&#259; ave&#355;i &#238;ntreb&#259;ri &#238;n leg&#259;tur&#259; cu procesul de tranzi&#355;ie la noua versiune
+v&#259; rug&#259;m s&#259; ni le adresa&#355;i pe unul dintre saiturile noastre de asisten&#355;&#259; tehnic&#259;,
+deoarece comunitatea noastr&#259; are mul&#355;i utilizatori cunosc&#259;tori care v&#259; pot ajuta
+&#351;i sf&#259;tui &#238;n leg&#259;tur&#259; cu migrarea.</p></div>
+
+<div class='tbl2'>ACTUALIZARE MINOR&#258; PENTRU TEMATICILE DIN AFARA NUCLEULUI</div>
+
+<div class='tbl1'>Dac&#259; utiliza&#355;i o tematic&#259; din afara nucleului va trebui s&#259; edita&#355;i theme.php &#351;i styles.css ca temtica s&#259; afi&#351;eze aceste op&#355;iuni.<br />
+<br />
+Imaginile categoriilor de &#351;tiri:
+<ul>
+    <li>Deschide&#355;i themes/tematica_dvs/theme.php</li>
+    <li>&#206;n func&#355;ia render_news</li>
+    <li>C&#259;uta&#355;i <strong>&quot;.$news.&quot;</strong></li>
+    <li>&#206;nlocui&#355;i cu <strong>&quot;.$info['cat_image'].$news.&quot;</strong></li>
+  </ul>
+
+Avatar comentarii:
+  <ul>
+    <li>Deschide&#355;i themes/your_theme/theme.php</li>
+    <li>&#206;n func&#355;ia render_comments</li>
+    <li>Ad&#259;uga&#355;i <strong>if ($settings['comments_avatar'] == "1") { echo "&lt;span class='comment-avatar'>".$data['user_avatar']."&lt;/span>\n"; }</strong></li>
+    <li>Nu uita&#355;i s&#259; ad&#259;uga&#355;i clasa <strong>.comments_avatar { }</strong> &#238;n styles.css &#351;i s&#259; o personaliza&#355;i cum dori&#355;i.</li>
+  </ul>
+  
+Salva&#355;i &#351;i re&#238;nc&#259;rca&#355;i fi&#351;ierul.
+</div>
+
+<div class='tbl2'>SFATURI DE SECURITATE</div>
+
+<div class='tbl1'>Iat&#259; c&#226;teva sfaturi utile pentru a v&#259; men&#355;ine saitul &#238;n siguran&#355;&#259;:
+<ul style='list-style-type:disc'>
+<li>Asigura&#355;i-v&#259; c&#259; fi&#351;ierul <strong>config.php</strong> nu este inscriptibil
+(trebuie s&#259; aib&#259; CHMOD 644).</li>
+<li>Nu l&#259;sa&#355;i niciodat&#259; <strong>setup.php</strong> pe server odat&#259; ce PHP-Fusion este instalat.</li>
+<li>Asigura&#355;i-v&#259; &#238;ntotdeauna c&#259; parolele de FTP &#351;i MySQL sunt diferite.</li>
+<li>Nu permite&#355;i niciodat&#259; ata&#351;amente de tip php, html, exe sau oricare alt tip de
+fi&#351;ier text &#238;n forumul de discu&#355;ii.</li>
+<li>Folosi&#355;i numai componente care au fost testate &#351;i aprobate ca sigure.</li>
+</ul></div>
+
+<div class='tbl2'>COMUNIT&#258;&#354;I DE ASISTEN&#354;&#258; TEHNIC&#258;</div>
+
+<div class='tbl1'>Pentru orice &#238;ntreb&#259;ri legate de PHP-Fusion v&#259; rug&#259;m s&#259; vizita&#355;i
+saitul principal de dezvoltare - <a href='http://www.php-fusion.co.uk'>www.php-fusion.co.uk</a> -
+&#351;i posta&#355;i un mesaj &#238;n forumurile noastre de asisten&#355;&#259; tehnic&#259;. Avem o echip&#259; dedicat&#259;
+asisten&#355;ei tehnice, care &#238;ncearc&#259; s&#259; rezolve orice probleme a&#355;i avea &#238;n decurs de 48 de ore.<br /><br />
+
+Adi&#355;ii:
+
+PHP-Fusion poate fi &#238;mbog&#259;&#355;it prin ad&#259;ugarea de Infuzii. Acestea sunt componente
+extrem de u&#351;or de instalat. Pute&#355;i g&#259;si o larg&#259; varietate de Infuzii folositoare
+&#238;n baza noastr&#259; de componente: <a href='http://www.php-fusion.co.uk/infusions/addondb/'>AddonDB</a>.<br /><br />
+
+Dac&#259; nu sunte&#355;i satisf&#259;cu&#355;i cu tematicile incluse &#238;n pachetul oficial PHP-Fusion
+pute&#355;i vizita saitul nostru oficial, unde ve&#355;i g&#259;si o varietate de tematici de &#238;nalt&#259; calitate
+&#238;n <a href='http://www.php-fusion.co.uk/infusions/addondb/'>AddonDB</a>.<br /><br />
+
+PHP-Fusion are, de asemenea, mai multe saituri oficiale de asisten&#355;&#259; tehnic&#259;,
+&#238;n diferite limbi, aflate &#238;n &#355;&#259;rile:
+
+<a href='http://www.phpfusion-ar.com/'>Arabia</a>,
+<a href='http://www.phpfusion-nederlands.info/'>Belgia</a>,
+<a href='http://www.phpfusion-br.com/'>Brazilia</a>,
+<a href='http://php-fusion.cms-bg.org/'>Bulgaria</a>,
+<a href='http://www.phpfusion.cz/'>Cehia</a>,
+<a href='http://www.php-fusion.dk/'>Danemarca</a>,
+<a href='http://www.phpfusion-fr.com/'>Fran&#355;a</a>,
+<a href='http://www.phpfusion-support.de/'>Germania</a>,
+<a href='http://www.fusion.alaviweb.com/'>Iran</a>,
+<a href='http://www.php-fusion.it'>Italia</a>,
+<a href='http://www.phpfusion-nederlands.info/'>Olanda</a>,
+<a href='http://www.phpfusion-no.com/'>Norvegia</a>,
+<a href='http://www.php-fusion.pl/'>Polonia</a>,
+<a href='http://www.phpfusion.ro/' class='hl'>Rom&#226;nia</a>,
+<a href='http://www.rusfusion.ru/'>Rusia</a>,
+<a href='http://www.php-fusion.sk/'>Slovacia</a>,
+<a href="http://www.phpfusion.es/">Spania</a>,
+<a href='http://www.php-fusion.se/'>Suedia</a>,
+<a href='http://www.phpfusionturkiye.com/'>Turcia</a> &#351;i
+<a href='http://www.php-fusion.co.hu/'>Ungaria</a>.</div>
+
+<div class='tbl2'>RAPORTAREA DE ERORI</div>
+
+<div class='tbl1'>Dac&#259; descoperi&#355;i erori sau alte probleme &#238;n aceast&#259; edi&#355;ie,
+v&#259; rug&#259;m s&#259; intra&#355;i pe pagina de internet PHP-Fusion, la adresa <a href="http://www.php-fusion.co.uk/">http://www.php-fusion.co.uk/</a>
+sau <a href="http://www.phpfusion.ro/">http://www.phpfusion.ro/</a> &#351;i s&#259; urma&#355;i instruc&#355;iunile pentru raportarea problemelor.</div>
+
+<div class='tbl2'>RECUNOA&#350;TERI</div>
+
+<div class='tbl1'>
+
+<p><strong>Fondator proiect</strong><br />
+Nick Jones {Digitanium}</p>
+
+<p><strong>&#350;ef de proiect</strong><br />
+Philip Daly {Hobbyman}</p>
+
+<p><strong>Echipa de conducere</strong><br />
+Arda Kilicdagi {SoulSmasher}<br />
+Emma Wall {samem}<br />
+Happy Svensson {KEFF}<br />
+Jan M&oslash;lgaard {Janmol}<br />
+Joakim Falk {Domi}<br />
+Max Toball {Matonor}<br />
+Nicolae Crefelean {Kneekoo}<br />
+Richard Ainz {Homdax}</p>
+
+<p><strong>Liderul echipei de dezvoltare</strong><br />
+Max Toball {Matonor}</p>
+
+<p><strong>Dezvoltator principal</strong><br />
+Christian Damsgaard J&oslash;rgensen {PMM}<br />
+
+<p><strong>Dezvoltator seniori</strong><br />
+Bartlomiej Gajda {bartek124}<br />
+Ion Cladico {Falcon}<br />
+Joakim Falk {Domi}<br />
+Karoly Nagy {Korcsii}<br />
+Slawomir Nonas {slawekneo}<br />
+Valerio Vendrame {lelebart}</p>
+
+<p><strong>Dezvoltatori juniori</strong><br />
+Ankur Thakur {Ankur}<br />
+David G&uuml;tl {Discofan}<br />
+P&#259;tr&#259;nescu Florin {keddy}<br />
+Robin Frykholm {DrunkeN}</p>
+
+<p><strong>Al&#355;i contribuitori</strong><br />
+Andy B {gh0st2k}<br />
+Claus Pedersen {flyingduck}<br />
+Hans Kristian Flaatten {Starefossen}<br />
+James {Daywalker}<br />
+Johan Wilson {Barspin}<br />
+Maarten Kossen {mpkossen/mistermartin75}<br />
+Marcus Gottschalk {MarcusG}<br />
+Patric Forcelini {IceWasp}<br />
+Paul Beuk {muscapaul}<br />
+Robert Gaudyn {Wooya}<br />
+Sveinung Skjaerseth {sveinungs}</p>
+
+<p><strong>Componente realizate de ter&#355;i:</strong><br />
+<a href='http://tinymce.moxiecode.com/'>TinyMCE v3.3.8</a> - Un editor HTML WYSIWYG, de Moxiecode.<br />
+<a href='http://phpmailer.sourceforge.net/'>PHPMailer v5.1</a> - O clas&#259; sendmail cu suport SMTP, de Brent R. Matzelle, Andy Prevost, Marcus Bointon.<br />
+<a href='http://www.phpclasses.org/browse/package/2221.html'>HTTPDownload v1.3</a> - O clas&#259; de gestiune a desc&#259;rc&#259;rilor, de Nguyen Quoc Bao.<br />
+<a href='http://jquery.com/'>jQuery v1.7</a> - Bibliotec&#259; JavaScript/Ajax.<br />
+<a href='http://jqueryui.com/'>jQuery UI v1.8.16</a> - O bibliotec&#259; surs&#259;-deschis&#259; cu componente de interfa&#355;&#259;, bazat&#259; pe jQuery.<br />
+<a href='http://colorpowered.com/colorbox/'>ColorBox</a> - Un plugin lightbox jQuery, u&#351;or de personalizat.<br />
+<a href='http://icon-king.com'>Nuvola Icons</a> - Imagini folosite &#238;n coduri bb, categorii de &#351;tiri &#351;i panoul de administrare, de David Vignoni.</div>
+
+</div>
+
+</body>
+</html>

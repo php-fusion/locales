@@ -1,0 +1,1 @@
+<?php$locale['uf_location'] = "Месцажыхарства";$locale['uf_location_desc'] = "Краіна, горад або вобласць";?>

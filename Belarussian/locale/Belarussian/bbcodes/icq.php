@@ -1,0 +1,1 @@
+<?php$locale['bb_icq'] = "ICQ";$locale['bb_icq_description'] = "ICQ Паказаць статут";$locale['bb_icq_usage'] = "ICQ ID";?>

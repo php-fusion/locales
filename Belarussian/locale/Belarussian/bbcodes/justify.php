@@ -1,0 +1,1 @@
+<?php$locale['bb_justify_description'] = "Раўнамерна размяркоўвае абраны тэкст";$locale['bb_justify_usage'] = "Выраўнаваць раўнамерна";?>

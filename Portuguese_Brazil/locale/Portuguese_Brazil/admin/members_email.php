@@ -1,0 +1,47 @@
+<?php
+$locale['email_create_subject'] = "Conta criada em ";
+$locale['email_create_message'] = "Olá [USER_NAME],\n
+Sua conta no ".$settings['sitename']." já foi criada.\n
+Agora você pode entrar usando seus dados abaixo:\n
+Usuário: [USER_NAME]\n
+Senha: [PASSWORD]\n\n
+Saudações,\n
+".$settings['siteusername'];
+
+$locale['email_activate_subject'] = "Conta criada em ";
+$locale['email_activate_message'] = "Olá [USER_NAME],\n
+Sua conta no ".$settings['sitename']." já foi criada.\n
+Agora você pode entrar usando o Usuário e Senha criados.\n\n
+Saudações,\n
+".$settings['siteusername'];
+
+$locale['email_deactivate_subject'] = "Reativação da conta requerida em ".$settings['sitename'];
+$locale['email_deactivate_message'] = "Olá [USER_NAME],\n
+Já se passou ".$settings['deactivation_period']." dia(s) desde seu último acesso no site ".$settings['sitename'].". Seu nome de usuário foi marcado como inativo mas todos os dados da sua conta e contúdo permanecem intactos.\n
+Para reativar a sua conta basta clicar no link abaixo:\n
+".$settings['siteurl']."reactivate.php?user_id=[USER_ID]&code=[CODE]\n\n
+Saudações,\n
+".$settings['siteusername'];
+
+$locale['email_ban_subject'] = "Sua conta no ".$settings['sitename']." foi banida";
+$locale['email_ban_message'] = "Olá [USER_NAME],\n
+Sua conta no ".$settings['sitename']." foi banida para ".$userdata['user_name']." Pelo motivo citado abaixo:\n
+[REASON].\n
+Caso deseje saber mais informações sobre este banimento, por favor, entre em contato como o administrador do site em ".$settings['siteemail'].".\n
+".$settings['siteusername'];
+
+$locale['email_secban_subject'] = "Sua conta no ".$settings['sitename']." foi banida";
+$locale['email_secban_message'] = "Olá [USER_NAME],\n
+Sua conta no ".$settings['sitename']." foi banida para ".$userdata['user_name']." porque acretita-se que algumas ações estão associadas à sua conta. Foi considerada questão de segurança no site.\n
+Caso deseje saber mais informações sobre este banimento por segurança, por favor, entre em contato como o administrador do site em 
+".$settings['siteemail'].".\n
+".$settings['siteusername'];
+
+$locale['email_suspend_subject'] = "Sua conta no ".$settings['sitename']." foi suspensa";
+$locale['email_suspend_message'] = "Olá [USER_NAME],\n
+Sua conta no ".$settings['sitename']." foi suspensa para ".$userdata['user_name']." em [DATE] (site time) Pelo motivo citado abaixo:\n
+[REASON].\n
+Caso deseje saber mais informações sobre esta suspensão, por favor, contate o administrador do site em 
+".$settings['siteemail'].".\n
+".$settings['siteusername'];
+?>

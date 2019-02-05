@@ -1,0 +1,1 @@
+<?php$locale['bb_autolink_description'] = "Зрабіць спасылкі або e-mail адрас інтэрактыўнымі.";$locale['bb_autolink_usage'] = "Для гэтага bb-кода няма кнопкі. Павінен быць над URL і Mail bbcode.";?>

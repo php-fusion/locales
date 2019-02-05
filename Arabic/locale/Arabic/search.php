@@ -1,0 +1,66 @@
+<?php
+/*-------------------------------------------------------+
+| PHP-Fusion Content Management System
+| Copyright © 2002 - 2007 Nick Jones
+| http://www.php-fusion.co.uk/
++--------------------------------------------------------+
+| Filename: search.php
+| CVS Version: 2.00
+| Author: Nick Jones (Digitanium) & Robert Gaudyn (Wooya)
++--------------------------------------------------------+
+| This program is released as free software under the
+| Affero GPL license. You can redistribute it and/or
+| modify it under the terms of this license which you
+| can read by viewing the included agpl.txt or online
+| at www.gnu.org/licenses/agpl.html. Removal of this
+| copyright header is strictly prohibited without
+| written permission from the original author(s).
++--------------------------------------------------------*/
+$locale['400'] = "ãÍÑß ÈÍË  ".$settings['sitename'];
+$locale['401'] = "ÇáÈÍË Úä:";
+$locale['402'] = "ÈÍË";
+$locale['403'] = "ÇáÈÍË Úä Ãí ãä åÐå ÇáßáãÇÊ";
+$locale['404'] = "ÇáäÊÇÆÌ íÌÈ Ãä ÊÍÊæí Úáì ßá åÐå ÇáßáãÇÊ";
+$locale['405'] = "ÇáÈÍË Ýí:";
+$locale['406'] = "ÇáÎíÇÑÇÊ:";
+$locale['407'] = "ßÇãá ÇáãæÞÚ";
+$locale['408'] = "äÊÇÆÌ ÇáÈÍË";
+//addition date
+$locale['420'] = "ÇáÈÍË:";
+$locale['421'] = "Çáßá";
+$locale['422'] = "ÃÎÑ íæã";
+$locale['423'] = "ÃÎÑ ÃÓÈæÚ";
+$locale['424'] = "ÃÎÑ ÃÓÈæÚÇä";
+$locale['425'] = "ÃÎÑ ÔåÑ";
+$locale['426'] = "ÃÎÑ ËáÇËÉ ÔåæÑ";
+$locale['427'] = "ÃÎÑ ÓÊÉ ÔåæÑ";
+//where
+$locale['430'] = "ÇáÚäæÇä æÇáäÕ";
+$locale['431'] = "ÇáäÕ ÝÞØ";
+$locale['432'] = "ÇáÚäæÇä ÝÞØ";
+//sort by
+$locale['440'] = "ÇáÊÑÊíÈ æÝÞÇð áÜ:";
+$locale['441'] = "ÊÇÑíÎ ÇáÅÖÇÝÉ";
+$locale['442'] = "ÇáÚäæÇä";
+$locale['443'] = "ÇáßÇÊÈ";
+//
+$locale['450'] = "ÊäÇÒáí";
+$locale['451'] = "ÊÕÇÚÏí";
+//characters in results
+$locale['460'] = "ÚÑÖ:";
+$locale['461'] = "ÍÑÝ Ýí ÇáäÊíÌÉ";
+$locale['462'] = "ßÇãá ÇáäÕ";
+//No results
+$locale['500'] = "áÇ íæÌÏ äÊÇÆÌ ãØÇÈÞÉ.";
+$locale['501'] = "íÌÈ Ãä ÊÊßæä ßáãÇÊ ÇáÈÍË ãä ËáÇËÉ ÍÑæÝ Úáì ÇáÃÞá. ";
+$locale['502'] = "íÊã ÅÛÝÇá äÊÇÆÌ ÇáÈÍË ÇáÊí ÊÊßæä ãä ÃÞá ãä ËáÇËÉ ÍÑæÝ (%s) Ýí åÐå ÇáÚãáíÉ.";
+//Global search
+$locale['510'] = "ÇáÚäÇÕÑ ÇáãØÇÈÞÉ áãÚÇííÑ ÇáÈÍË Ýí ßÇÝÉ ÇáãæÞÚ:";
+//
+$locale['520'] = "ãÊØÇÈÞ";
+$locale['521'] = "ãÊØÇÈÞÇÊ";
+$locale['522'] = " ÇáãÊØÇÈÞÉ ãÚ ãÚÇííÑ ÇáÈÍË:";
+$locale['522a'] = "ãÊØÇÈÞÉ ãÚ ãÚÇííÑ ÇáÈÍË";
+//more than 100 results
+$locale['530'] = "äÑÌæ Ãä Êßæä ÃßËÑ ÊÍÏíÏÇð.  Êã ÇáÚËæÑ Úáì %s äÊíÌÉ. íÊã ÚÑÖ Ãæá 100 äÊíÌÉ.";
+?>

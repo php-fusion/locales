@@ -1,0 +1,1 @@
+<?php$locale['uf_birthdate'] = "Дзень нараджэнні";$locale['uf_birthdate_desc'] = "Дата нараджэння карыстача";?>

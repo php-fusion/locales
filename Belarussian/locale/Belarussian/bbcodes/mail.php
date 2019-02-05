@@ -1,0 +1,1 @@
+<?php$locale['bb_mail'] = "Email адрас";$locale['bb_mail_description'] = "«раб≥ць e-mail адрас актыҐным";$locale['bb_mail_usage'] = "E-mail або тэкст, адлюстроҐваць €к ";?>

@@ -1,0 +1,253 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>PHP-Fusion Readme</title>
+<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
+<style type='text/css'>
+a { color:#003D71; text-decoration:none; }
+a:hover { color:#027AC6; text-decoration:underline; }
+.tbl1 {
+	font-family:Verdana,Tahoma,Arial,Sans-Serif;
+	font-size:11px;
+	color:#000;
+	background-color:#fefefe;
+	border: 1px #ddd solid;
+	padding:4px;
+	margin-bottom: 5px;
+}
+.tbl2 {
+	font-family:Verdana,Tahoma,Arial,Sans-Serif;
+	font-size:11px;
+	color:#fff;
+	background-color:#444;
+	border: 1px #ddd solid;
+	padding:4px;
+	margin-bottom: 5px;
+}
+
+.warning {
+	background-color:#CC0000;
+	border: 1px #ddd solid;
+}
+
+</style>
+</head>
+<body>
+
+<div style='text-align:left;width:640px;margin: 0 auto;'>
+
+<div align='center' class='tbl1'><img src='files/images/php-fusion-logo.png' alt='PHP-Fusion' title='PHP-Fusion'><br /><br />
+Copyright &copy; 2002 - 2011 Nick Jones<br />
+<strong>Version:</strong> 7.02.04 - <strong>Ver&ouml;ffentlicht: </strong>11.11.2011</div>
+
+<div class='tbl2'>EINLEITUNG</div>
+
+<div class='tbl1'>PHP-Fusion ist ein Open-Scoure Content Management System (CMS), welches einfach zu bedienen ist und in PHP5 geschrieben ist. Es benutzt eine MySQL Datenbank, um den Inhalt deiner Homepage zu speichern und es beinhaltet ein einfaches umfangreiches Administrations-System. PHP-Fusion enth&auml;lt alle wichtigen Funktionen, die auch in anderen CMS zu finden sind.
+
+  <p>Dieses Softwarepacket ist eine freie Software. Du kannst diesen Code bearbeiten oder verbreiten, solange die Bedienungen der GNU Affero General Public Lizenz (AGPL), ver&ouml;ffentlicht von der Free Software Foundation, Version 3 oder (je nach deiner Wahl) jeder neueren Version, eingehalten werden.
+<p>Dieses Softwarepacket wird verteilt, in der Hoffnung, dass es von Nutzen sein wird, aber OHNE JEDE GARANTIE! Sogar ohne die implizite Gew&auml;hrleistung der Marktf&auml;higkeit oder Eignung f&uuml;r einen bestimmen Zweck. F&uuml;r weitere Details, siehe  Affero General Public Lizenz.<p>Es sollte eine Kopie der GNU Affero General Public Lizenz in diesem Software Packet beiliegen. Sollte dies nicht der Fall sein, kannst du diese hier nachlesen: <a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'>http://www.fsf.org</a>/<p><strong>Wichtiger Hinweis</strong>: Du bist nicht berechtigt, folgenden Copyright Hinweis im Footer zu entfernen:<p>Powered by <a href='http://www.php-fusion.co.uk'>PHP-Fusion</a> copyright &copy;
+2002 - 2011 by Nick Jones.<br />
+Released as free software without warranties under <a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'>GNU Affero GPL</a> v3.
+<p>Um das Copyright zu entfernen, besuche bitte unsere offizielle Homepage <a href='http://www.php-fusion.co.uk'>http://www.php-fusion.co.uk/</a><br />
+  Dort findest du alles, was du &uuml;ber die Lizenz wissen solltest.</div>
+
+<div class='tbl2'>INSTALLATION</div>
+
+<div class='tbl1'>Bevor du PHP-Fusion installieren kannst, &uuml;berpr&uuml;fe bitte, ob dein Server die folgenden Systemanforderungen erf&uuml;llt.
+  <p>- PHP 5.1.2 oder h&ouml;her<br />
+    - MySQL 4.1 oder h&ouml;her 
+<p>Du musst eine MySQL Datenbank erstellen. Dies kannst du &uuml;ber dein Webserver Kontrollzentrum oder phpMyAdmin tun. Stelle sicher, dass du deine MySQL Zugangsdaten zur Hand hast, und zwar den Hostname, Benutzername, Passwort und Datenbank Name, denn du brauchst diese w&auml;hrend der Installation.
+<p><strong>1.</strong> Bevor du die Dateien hochl&auml;dst, benenne bitte die _config.php, welche im Ordner &quot;files&quot; liegt, um in config.php.
+<p><strong>2.</strong> Lade den kompletten Inhalt des Ordners &quot;files&quot; auf dein Webspace hoch.
+<p><strong>3.</strong> Anschlie&szlig;end musst du f&uuml;r die folgenden Dateien und Ordner die Schreibrechte CHMOD 0777 setzen.
+
+<ul style='list-style-type:disc'>
+<li>administration/db_backups/</li>
+<li>downloads/</li>
+<li>downloads/images/</li>
+<li>downloads/submissions/</li>
+<li>downloads/submissions/images/</li>
+<li>forum/attachments/</li>
+<li>ftp_upload/</li>
+<li>images/</li>
+<li>images/imagelist.js</li>
+<li>images/articles/</li>
+<li>images/avatars/</li>
+<li>images/news/</li>
+<li>images/news/thumbs/</li>
+<li>images/news_cats/</li>
+<li>images/photoalbum/</li>
+<li>images/photoalbum/submissions/</li>
+<li>config.php</li>
+<li>robots.txt</li>
+</ul>
+
+<p><strong>Hinweis</strong>: Einige Hoster erlauben nicht die Schreibrechte CHMOD 0777, sollte dies der Fall sein, kannst du auch die Schreibrechte auf CHMOD 0755 setzen.
+<p><strong>4.</strong> Nun rufe bitte deine Webseite auf, hier sollte sich die &quot;setup.php&quot; selbst aufrufen. Sollte dies nicht der Fall sein, so rufe diese bitte manuell auf, unter folgender Adresse: http://www.meineseite.de/setup.php
+<p><strong>5.</strong> Schlie&szlig;e die Installation ab, indem du alle Schritte befolgst.
+<p><strong>6.</strong> Kurz nachdem du die Installation abgeschlo&szlig;en hast, ist es zwingend notwendig, die setup.php zu entfernen und die &quot;config.php&quot; wieder auf die Schreibrechte CHMOD 0644 zu setzen. Solltest du diesen Schritt nicht befolgen, k&ouml;nnten b&ouml;swillige Benutzer Kontrolle &uuml;ber deine Seite bekommen!</div>
+
+<div class='tbl2'>UPDATE VON V7.00.XX ODER V7.01.XX</div>
+
+<div class='tbl1'>Bevor du mit dem Update beginnst, empfehlen wir dir, unbedingt ein Backup der Dateien und der Datenbank vorzunehmen! Das Update von PHP-Fusion v7.01 auf v7.02 ist ein gro&szlig;es Update. Du musst den Anwei&szlig;ungen unbedingt folgen. Wir empfehlen dir weiters, zuerst von v7.00.xx auf v7.01.xx upzudaten, und danach erst auf v7.02.04.
+
+  <p>Bevor du mit dem Update beginnen kannst, pr&uuml;fe bitte, ob dein Server die folgenden Anforderungen erf&uuml;llt.
+  <p>- PHP 5.1.2 oder h&ouml;her<br />
+- MySQL 4.1 oder h&ouml;her
+  <p><strong>1.</strong> PHP-Fusion v7.02 ist gro&szlig;teils kombatibel mit der v7.01, seither wurden einige Dinge im Systemkern ge&auml;ndert, einige Addons (Mods, Infusions, Panels oder Themes) k&ouml;nnten eventuell nicht mehr funktionieren.
+    <p><strong>2.</strong> Als erstes musst du das Update-Script (upgrade.php) aus dem Ordner &quot;upgrade v7&quot; (oder &quot;upgrade v701&quot; falls du bereits eine v7.01 installiert hast) in den &quot;administration&quot;-Ordner deiner Seite hochladen. Danach musst du den Ordner &quot;locale&quot; in den Root deiner Webseite hochladen. Ohne den Sprachdateien k&ouml;nnte es sein, dass einige Namen, welche in die Datenbank eingef&uuml;gt werden, anschlie&szlig;end fehlen.
+    <p><strong>3.</strong> Rufe deine Webseite auf, melde dich als Seiten Administrator an. Danach klickst du auf &quot;Adminbereich&quot; -&gt; &quot;System Admin&quot; -&gt; &quot;Update&quot; und anschlie&szlig;end auf &quot;Upgrade&quot;. Du musst diesen Schritt unbedingt zuvor ausf&uuml;hren! Das Update ist erst abgeschlossen, wenn die Meldung &quot;Datenbank erfolgreich aktualisiert&quot; erscheint.    <p><strong>4.</strong> WICHTIG: Seit deiner Version wurden einige Ordnerstruckturen ver&auml;ndert, somit k&ouml;nnte es sein, dass einige Teile deiner Seite nicht funktionieren, solange nicht alle Dateien erneuert worden sind. Du musst alle Dateien des Ordners &quot;files&quot; hochladen, au&szlig;er:
+    <ul style='list-style-type:disc'>
+<li>_config.php</li>
+<li>setup.php</li>
+</ul>
+
+Setze den folgenden Dateien &amp; Ordnern die Schreibrechte CHMOD 0777:
+<ul style='list-style-type:disc'>
+<li>downloads/</li>
+<li>downloads/images/</li>
+<li>downloads/submissions/</li>
+<li>downloads/submissions/images/</li>
+<li>ftp_upload/</li>
+<li>robots.txt</li>
+</ul>
+
+<p>Solltest du mit dem Update nicht klar kommen, oder irgendwelche Fragen haben, kannst du gerne unsere Supportseiten aufsuchen. Auf diesen Seiten sind einige Benutzer mit viel Erfahrung unterwegs, diese helfen dir gerne.</div>
+
+<div class='tbl2'>KLEINERE FIXS F&Uuml;R NICHT STANDART THEMES</div>
+
+<div class='tbl1'>Solltest du ein nicht standartm&auml;&szlig;ig enthaltenes Theme f&uuml;r deine Seite benutzen, musst du deine theme.php &amp; styles.css bearbeiten, damit die folgenden zwei Optionen dargestellt werden k&ouml;nnen.<br />
+ <br /> 
+News Kategorie Bilder
+  <ul>
+    <li>&Ouml;ffne die Datei &quot;themes/dein-Theme/theme.php&quot;.</li>
+    <li>Suche in der Funktion render_news() nach <strong>&quot;.$news.&quot;</strong></li>
+    <li>Ersetzte dies mit <strong>&quot;.$info['cat_image'].$news.&quot;</strong></li>
+  </ul>
+  
+Avatar in den Kommentaren:
+  <ul>
+    <li>&Ouml;ffne die Datei &quot;themes/dein-Theme/theme.php&quot;.</li>
+    <li>Suche die Funktion render_comments().</li>
+    <li>F&uuml;ge folgendes hinzu:</li>
+    <li><strong>if ($settings['comments_avatar'] == "1") { echo "<span class='comment-avatar'>".$data['user_avatar']."</span>\n"; }</strong></li>
+    <li>Vergesse nicht, die Klasse  <strong>.comments_avatar { }</strong> in deiner styles.css (&quot;themes/dein-Theme/styles.css&quot;) hinzuzuf&uuml;gen und nach deinen W&uuml;nschen zu designen/anpassen.</li>
+  </ul>
+  
+Speichere die Dateien und lade diese erneut hoch.</div>
+<div class='tbl2'>SICHERHEITSHINWEISE</div>
+
+<div class='tbl1'>Hier sind ein paar Tipps, um deine Seite sicher zu halten:
+  <ul style='list-style-type:disc'>
+<li>Stelle sicher, dass deine config.php nicht schreibbar ist (CHMOD muss 0644 sein).</li>
+<li>L&ouml;sche unbedingt nach der Installation von PHP-Fusion die setup.php Datei.</li>
+<li>Stelle sicher, dass dein FTP und MySQL Passwort immer unterschiedlich ist.</li>
+<li>Erlaube niemals Forum Anh&auml;nge mit Dateitypen wie .php, .html, .exe oder andere Typen von Textdateien.</li>
+<li>Benutze nur Addons, welche getestet wurden und als sicher eingestuft wurden.</li>
+</ul></div>
+
+<div class='tbl2'>SUPPORT SEITEN</div>
+
+<div class='tbl1'>Solltest du Fragen oder Probleme mit PHP-Fusion haben, besuche bitte die offizielle Homepage, welche du unter <a href='http://www.php-fusion.co.uk'>www.php-fusion.co.uk</a>
+findest und schreibe dort in die Foren deine Frage. Wir haben ein eigenes Support Team, in der Regel bekommst du eine Antwort innerhalb von 48 Stunden. <br />
+<br />
+
+  Addons: PHP-Fusion Funktionen k&ouml;nnen ganz einfach erweitert werden, durch das hinzuf&uuml;gen von Infusionen, welche sich ganz leicht installieren lassen. Du kannst einige n&uuml;tzliche Addons in unserer 
+<a href='http://www.php-fusion.co.uk/infusions/addondb/'>AddonDB</a> finden.<br /><br />
+
+Sollten dir die in PHP-Fusion enthaltenen Themes nicht gefallen, oder du m&ouml;chtest einfach einen etwas eigenen Style f&uuml;r deine Seite, so findest du einige hochwertige Themen in unserer 
+<a href='http://www.php-fusion.co.uk/infusions/addondb/'>AddonDB</a>.<br /><br />
+
+PHP-Fusion hat unter anderem auch einige Supportseiten mit dem Sitz in
+
+<a href='http://www.phpfusion-ar.com'>Arabien</a>,
+<a href='http://www.phpfusion-nederlands.info'>Belgien</a>,
+<a href='http://www.phpfusionbrasil.com'>Brasilien</a>,
+<a href='http://php-fusion.cms-bg.org'>Bulgarien</a>,
+<a href='http://www.php-fusion.dk'>D&auml;nemark</a>,
+<a href='http://www.phpfusion.cz'>Tschechischer Republik</a>,
+<a href='http://www.phpfusion-fr.com'>Frankreich</a>,
+<a href='http://www.phpfusion-support.de'>Deutschland</a>,
+<a href='http://www.php-fusion.co.hu'>Ungarn</a>,
+<a href='http://www.fusion.alaviweb.com'>Iran</a>,
+<a href='http://www.php-fusion.it'>Italien</a>,
+<a href='http://www.phpfusion-lt.com'>Lithauen</a>,
+<a href='http://www.phpfusion-nederlands.info'>Niederlande</a>,
+<a href='http://www.phpfusion-no.com'>Norwegen</a>,
+<a href='http://www.php-fusion.pl'>Polen</a>,
+<a href='http://www.phpfusion.ro'>Rumenien</a>,
+<a href='http://www.rusfusion.ru/'>Russland</a>,
+<a href="http://php-fusion.uni.cc/">Spanien</a>,
+<a href='http://www.php-fusion.se'>Schweden</a> und <a href='http://www.phpfusionturkiye.com'>T&uuml;rkei</a>.</div>
+
+<div class='tbl2'>FEHLER MELDEN</div>
+
+<div class='tbl1'>
+  Solltest du Fehler oder &Auml;hnliches in dieser Version bemerken, besuche bitte die offizielle PHP-Fusion Webseite, welche du unter <a href="http://www.php-fusion.co.uk">http://www.php-fusion.co.uk</a> findest, und folge den Anwei&szlig;ungen wie man Fehler meldet. </div>
+
+<div class='tbl2'>CREDITS</div>
+
+<div class='tbl1'>
+
+<strong>Erfinder</strong><br />
+  Nick Jones {Digitanium}
+ 
+<p> <strong>Projekt Manager</strong><br />
+  Philip Daly {Hobbyman}
+  </p>
+<p><strong>Management Team</strong><br />
+  Arda Kilicdagi {SoulSmasher}<br />
+  Emma Wall {samem}<br />
+  Happy Svensson {KEFF}<br />
+  Jan Mølgaard {janmol}<br />
+  Joakim Falk {Domi}<br />
+  Max Toball {Matonor}<br />
+  Nicolae Crefelean {kneekoo}<br />
+  Richard Ainz {Homdax}
+  </p>
+<p><strong>Entwicklungs Manager</strong><br />
+  Max Toball {Matonor}</p>
+<p><strong>Entwicklungs Leiter</strong><br />
+Christian Damsgaard Jørgensen {PMM}</p>
+
+<p><strong>Alte Entwickler</strong><br />
+Bartlomiej Gajda {bartek124}<br />
+Ion Cladico {Falcon}<br />
+Joakim Falk {Domi}<br />
+Karoly Nagy {Korcsii}<br />
+Slawomir Nonas {slawekneo}<br />
+Valerio Vendrame {lelebart}</p>
+
+<p><strong>Junge Entwickler</strong><br />
+Ankur Thakur {Ankur}<br />
+David G&uuml;tl {Discofan}<br />
+Patranescu Florin {keddy}<br />
+Robin Frykholm {DrunkeN}</p>
+
+<p><strong>Fr&uuml;here Entwickler</strong><br />
+Andy B {gh0st2k}<br />
+Claus Pedersen {flyingduck}<br />
+Hans Kristian Flaatten {Starefossen}<br />
+James {Daywalker}<br />
+Johan Wilson {Barspin}<br />
+Maarten Kossen {mpkossen/mistermartin75}<br />
+Marcus Gottschalk {MarcusG}<br />
+Patric Forcelini {IceWasp}<br />
+Paul Beuk {muscapaul}<br />
+Robert Gaudyn {Wooya}<br />
+Sveinung Skjaerseth {sveinungs}</p>
+
+<strong>Fremdscripte</strong><br />
+<a href='http://tinymce.moxiecode.com/'>TinyMCE v3.3.8</a> - HTML WYSIWYG Editor von Moxiecode.<br />
+<a href='http://phpmailer.sourceforge.net/'>PHPMailer v5.1</a> - PHP Sendmail Class mit SMTP Support von Brent R. Matzelle, Andy Prevost, Marcus Bointon<br />
+<a href='http://www.phpclasses.org/browse/package/2221.html'>HTTPDownload v1.3</a> - PHP Download Handler Class von Nguyen Quoc Bao.<br />
+<a href='http://jquery.com/'>jQuery v1.7</a> - Javascript/Ajax Toolkit.<br />
+<a href='http://jqueryui.com/'>jQuery UI v1.8.16</a> - Eine Open Scoure Bibliothek von Interface Komponenten basierend auf jQuery.<br />
+<a href='http://colorpowered.com/colorbox/'>ColorBox</a> - Ein leichtes, anpassbares Lightbox Plugin f&uuml;r jQuery.<br />
+<a href='http://icon-king.com'>Nuvola Icons</a> - Bilder, welche in BB-Codes, News Kategorien und im Adminbereich benutzt werden, von David Vignoni.
+
+</div>
+</div>
+
+</body>
+</html>

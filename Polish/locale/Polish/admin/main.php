@@ -1,0 +1,81 @@
+<?php
+// Official SVN Trunk Rev: 2204
+// Admin Links
+$locale['200'] = $settings['sitename']." - panel administratora";
+$locale['ac00'] = "Pocz±tek panelu administratora";
+$locale['ac01'] = "Zarz±dzanie tre¶ci±";
+$locale['ac02'] = "Zarz±dzanie u¿ytkownikami";
+$locale['ac03'] = "Zarz±dzanie stron±";
+$locale['ac04'] = "Ustawienia";
+$locale['ac05'] = "Wtyczki (Infusions)";
+$locale['201'] = "Administratorzy";
+$locale['202'] = "Kategorie artyku³ów";
+$locale['203'] = "Artyku³y";
+$locale['204'] = "Czarna lista";
+$locale['205'] = "Komentarzy";
+$locale['206'] = "Dodatkowe strony";
+$locale['207'] = "Kopia bazy danych";
+$locale['208'] = "Kategorie downloadu";
+$locale['209'] = "Download";
+$locale['210'] = "Pytania i&nbsp;odpowiedzi";
+$locale['211'] = "Forum";
+$locale['212'] = "Obrazy";
+$locale['213'] = "Wtyczki";
+$locale['214'] = "Panele wtyczek";
+$locale['215'] = "U¿ytkownicy";
+$locale['216'] = "Newsy";
+$locale['217'] = "Panele";
+$locale['218'] = "Galeria zdjêæ";
+$locale['219'] = "Informacje o&nbsp;serwerze";
+$locale['220'] = "Ankiety";
+$locale['221'] = "";//"Shoutbox";
+$locale['222'] = "Nawigacja";
+$locale['223'] = "Nades³ane materia³y";
+$locale['224'] = "Aktualizacja";
+$locale['225'] = "Grupy u¿ytkowników";
+$locale['226'] = "Kategorie linków";
+$locale['227'] = "Linki";
+$locale['228'] = "G³ówne";
+$locale['229'] = "Data i&nbsp;czas";
+$locale['230'] = "Forum";
+$locale['231'] = "Rejestracja";
+$locale['232'] = "Galeria zdjêæ";
+$locale['233'] = "Ró¿ne";
+$locale['234'] = "Prywatne wiadomo¶ci";
+$locale['235'] = "Kategorie newsów";
+$locale['236'] = "Tagi BBCode";
+$locale['237'] = "U¶mieszki";
+$locale['238'] = "Pola profilu";
+$locale['239'] = "Rangi na forum";
+$locale['240'] = "Kategorie pól u¿ytkownika";
+$locale['241'] = "Newsy";
+$locale['242'] = "Konta u¿ytkowników";
+$locale['243'] = "Download";
+$locale['244'] = "Elementów na stronie";
+$locale['245'] = "Bannery";
+$locale['246'] = "Polityka bezpieczeñstwa";
+$locale['247'] = "U¿ytkownicy";
+$locale['248'] = "Odnowienie has³a administratora";
+$locale['249'] = "Dziennik b³êdów";
+//Dziennik zmian danych
+
+// Site Information
+$locale['250'] = "Informacje";
+$locale['251'] = "Zarejestrowanych u¿ytkowników:";
+$locale['252'] = "Nieaktywnych u¿ytkowników:";
+$locale['253'] = "Zablok. zp. bezpieczeñstwa u¿ytkowników:";
+$locale['254'] = "Nades³anych newsów:";
+$locale['255'] = "Nades³anych artyku³ów:";
+$locale['256'] = "Nades³anych linków:";
+$locale['257'] = "Komentarzy:";
+$locale['258'] = "";//"Postów w&nbsp;shoutboksie:";
+$locale['259'] = "Postów na forum:";
+$locale['260'] = "Nades³anych zdjêæ:";
+$locale['261'] = "Zdjêæ w&nbsp;galerii:";
+$locale['262'] = "Aktywnych kont:";
+$locale['263'] = "Wy³. zp. bezczynno¶ci u¿ytkowników:";
+$locale['264'] = "Bezczynnych u¿ytkowników:";
+$locale['265'] = "Nades³anych plików:";
+$locale['266'] = "Dziennik konta";
+$locale['267'] = "robots.txt";
+?>

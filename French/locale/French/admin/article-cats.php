@@ -1,0 +1,51 @@
+<?php
+/*
+ENGLISH
+French language Fileset for PHP-Fusion version 7.02.04
+Produced by the french team of PHP-Fusion :
+FRENCH
+Collection de fichiers de langue française pour PHP-Fusion version 7.02.04
+Réalisée par l'équipe française de PHP-Fusion :
+TEAM :
+Wedgemaster - http://www.phpfusion-fr.com - wedgemaster@gmail.com
+Quartzkyte - http://surgele.free.fr - quartzkyte@gmail.com
+sectorzero - http://www.aerotorshow.com - sectorzero@free.fr - francisation des thèmes
+C@rTeR_ - http://www.blass79.com - carter_hem_suppr@hotmail.com
+kiko26 - http://phpfusion.playingtobetogether.fr - webmaster@phpfusion.playingtobetogether.fr
+URL :
+French site : http://www.phpfusion-fr.com/
+*/
+// Category titles
+$locale['400'] = "Ajouter une catégorie d&#39;article";
+$locale['401'] = "Modifier une catégorie d&#39;article";
+$locale['402'] = "Catégorie(s) d&#39;article actuelle(s)";
+// Category messages
+$locale['410'] = "Catégorie d&#39;article ajoutée";
+$locale['411'] = "Catégorie d&#39;article mise à jour";
+$locale['412'] = "La catégorie d&#39;article ne peut pas être supprimée";
+$locale['413'] = "Il y a des articles liés à cette catégorie";
+$locale['414'] = "Catégorie d&#39;article supprimée";
+// Category form
+$locale['420'] = "Nom de la catégorie : ";
+$locale['421'] = "Description de la catégorie : ";
+$locale['422'] = "Tri de la catégorie : ";
+$locale['423'] = "ID de l&#39;article";
+$locale['424'] = "Sujet de l&#39;article";
+$locale['425'] = "Date de l&#39;article";
+$locale['426'] = "Croissant";
+$locale['427'] = "Décroissant";
+$locale['428'] = "Accès à la catégorie : ";
+$locale['429'] = "Sauvegarder la catégorie";
+// Current category options
+$locale['440'] = "Catégorie";
+$locale['441'] = "Accès";
+$locale['442'] = "Options";
+$locale['443'] = "Modifier";
+$locale['444'] = "Supprimer";
+$locale['445'] = "Aucune catégorie d&#39;article n&#39;est définie";
+// Delete Article category
+$locale['450'] = "Supprimer cette catégorie d&#39;article ?";
+// Error Messages
+$locale['460'] = "Veuillez entrer le nom de la catégorie.";
+$locale['461'] = "Cette catégorie existe déjà.";
+?>

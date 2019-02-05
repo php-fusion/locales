@@ -1,0 +1,1 @@
+<?php$locale['bb_google_description'] = "Google Пошукавая Машына";$locale['bb_google_usage'] = "Тэкст для пошуку ў Google";?>

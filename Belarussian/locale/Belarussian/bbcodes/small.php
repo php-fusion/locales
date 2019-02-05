@@ -1,0 +1,1 @@
+<?php$locale['bb_small_description'] = "Абраны тэкст паменшыць";$locale['bb_small_usage'] = "Дробны тэкст";?>

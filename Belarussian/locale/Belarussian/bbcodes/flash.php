@@ -1,0 +1,1 @@
+<?php$locale['bb_flash_description'] = "Паказаць флэш з абранага URL";$locale['bb_flash_usage'] = "Паказаць флэш з абранага URL";$locale['bb_flash_width'] = "Шырыня ў px";$locale['bb_flash_height'] = "Вышыня ў px";?>

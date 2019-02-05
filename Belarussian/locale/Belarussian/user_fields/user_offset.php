@@ -1,0 +1,1 @@
+<?php$locale['uf_offset'] = "Розніца ў часе";$locale['uf_offset_desc'] = "Розніца ў часе па змаўчанні.";?>

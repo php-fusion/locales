@@ -1,0 +1,1 @@
+<?php$locale['bb_ebay'] = "eBay";$locale['bb_ebay_description'] = "eBay Пошукавая машына";$locale['bb_ebay_usage'] = "Вылучае тэкст для eBay аўкцыёну";?>

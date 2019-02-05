@@ -1,0 +1,25 @@
+<?php
+// News Categories titles
+$locale['400'] = "Haber Kategorisini Düzenle";
+$locale['401'] = "Haber Kategorisi Ekle";
+$locale['402'] = "Mevcut Haber Kategorileri";
+// News Categories messages
+$locale['420'] = "Haber Kategorisi Eklendi";
+$locale['421'] = "Haber Kategorisi Güncellendi";
+$locale['422'] = "Haber Kategorisi Silinemedi";
+$locale['423'] = "Bu kategoriye baðlý haberler mevcut";
+$locale['424'] = "Haber Kategorisi Silindi";
+// News Categories form
+$locale['430'] = "Kategori Ýsmi:";
+$locale['431'] = "Kategori Resmi:";
+$locale['432'] = "Kategoriyi Kaydet";
+$locale['433'] = "Düzenle";
+$locale['434'] = "Sil";
+$locale['435'] = "Haber Kategorisi Bulunamadý";
+$locale['436'] = "Haber Kategorisi Resmi Yüklemek Ýçin Týklayýn";
+// Popup Error/Warning Messages
+$locale['450'] = "Bu Haber Kategorisini Silmek Ýstediðinizden Emin Misiniz?";
+// Error Messages
+$locale['460'] = "Lütfen bir kategori adý belirtin.";
+$locale['461'] = "Bu kategori adý zaten mevcut.";
+?>

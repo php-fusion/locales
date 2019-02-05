@@ -1,0 +1,4 @@
+<?php
+$locale['uf_location'] = "Localização";
+$locale['uf_location_desc'] = "País, distrito ou cidade";
+?>

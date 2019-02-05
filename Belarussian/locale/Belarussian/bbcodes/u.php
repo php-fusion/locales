@@ -1,0 +1,1 @@
+<?php$locale['bb_u_description'] = "Тэкст з падкрэсленнем";$locale['bb_u_usage'] = "Тэкст з падкрэсленнем";?>

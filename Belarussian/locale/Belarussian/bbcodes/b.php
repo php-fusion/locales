@@ -1,0 +1,1 @@
+<?php$locale['bb_b_description'] = "Паказаць абраны тэкст як тоўсты";$locale['bb_b_usage'] = "Тоўсты тэкст";?>

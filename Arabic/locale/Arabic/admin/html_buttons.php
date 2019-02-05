@@ -1,0 +1,21 @@
+<?php
+$locale['html400'] = "- ÇÎÊíÇÑ áæä -";
+$locale['html401'] = "- ÇÎÊíÇÑ ÕæÑÉ -";
+$locale['html402'] = "ÇáÃÍãÑ ÇáÏÇßä";
+$locale['html403'] = "ÇáÃÍãÑ";
+$locale['html404'] = "ÇáÈÑÊÞÇáí";
+$locale['html405'] = "ÇáÈäí";
+$locale['html406'] = "ÇáÃÕÝÑ";
+$locale['html407'] = "ÇáÃÎÖÑ";
+$locale['html408'] = "ÇáÃÎÖÑ ÇáÝÓÝæÑí";
+$locale['html409'] = "ÇáÒíÊæäí";
+$locale['html410'] = "ÇáÓãÇæí";
+$locale['html411'] = "ÇáÃÒÑÞ";
+$locale['html412'] = "ÇáÃÒÑÞ ÇáÏÇßä";
+$locale['html413'] = "ÇáÃÑÌæÇäí";
+$locale['html414'] = "ÇáÈäÝÓÌí";
+$locale['html415'] = "ÇáÃÓæÏ";
+$locale['html416'] = "ÇáÑãÇÏí";
+$locale['html417'] = "ÇáÝÖí";
+$locale['html418'] = "ÇáÃÈíÖ";
+?>

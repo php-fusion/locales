@@ -1,0 +1,1 @@
+<?php$locale['bb_search_description'] = "Пошук тэксту на сайце";$locale['bb_search_usage'] = "Шукаць тэкст";$locale['bb_search_prefix'] = "Пошук ";$locale['bb_search_suffix'] = " на ";$locale['bb_search_where'] = "Дзе";?>

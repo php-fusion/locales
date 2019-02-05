@@ -1,0 +1,47 @@
+<?php
+// Album titles
+$locale['400'] = "Adicionar Álbum";
+$locale['401'] = "Editar Álbum";
+$locale['402'] = "Álbuns Actuais";
+$locale['403'] = "Erro Crítico do Álbum de Fotos";
+// Album messages
+$locale['410'] = "Álbum adicionado";
+$locale['411'] = "Álbum actualizado";
+$locale['412'] = "Miniatura do álbum removida";
+$locale['413'] = "Álbum removido";
+$locale['414'] = "Ocorreu o seguinte erro:";
+$locale['415'] = "Imagem com nome de arquivo inválido.";
+$locale['416'] = "Imagem deve ser menor que %s.";
+$locale['417'] = "Imagem deve ser um arquivo GIF, JPEG ou PNG.";
+$locale['418'] = "Imagem deve ser menor que %uw x %uh pixels.";
+$locale['419'] = "O Álbum não pôde ser removido. Sua senha está incorreta.";
+$locale['420'] = "Nenhuma biblioteca GD foi detectada. Os álbuns de fotos não funcionarão sem a biblioteca GD. Contate o seu ISP para mais informações.";
+// Album confirmation
+$locale['430'] = "Confirmação para remoção de álbum";
+$locale['431'] = "O Álbum que está a tentar remover contém uma ou mais fotos.<br />\n"
+								."Por favor, insira sua senha administrativa para remover este álbum.";
+$locale['432'] = "Confirmar";
+$locale['433'] = "Cancelar";
+// Album form
+$locale['440'] = "Título: ";
+$locale['441'] = "Descrição: ";
+$locale['442'] = "Acesso: ";
+$locale['443'] = "Ordem: ";
+$locale['444'] = "Miniatura: ";
+$locale['445'] = "Gravar Álbum";
+// Current Albums
+$locale['460'] = "Abrir Álbum";
+$locale['461'] = "Sem miniatura";
+$locale['462'] = "Data: ";
+$locale['463'] = "Criado por: ";
+$locale['464'] = "Acesso: ";
+$locale['465'] = "Fotos: ";
+$locale['466'] = "Mover acima";
+$locale['467'] = "Mover abaixo";
+$locale['468'] = "Editar";
+$locale['469'] = "Remover";
+$locale['470'] = "Actualizar ordem de Álbuns e Fotos";
+$locale['471'] = "Nenhum Álbum de Fotos definido.";
+// Delete Album
+$locale['500'] = "Remover este Álbum?";
+?>

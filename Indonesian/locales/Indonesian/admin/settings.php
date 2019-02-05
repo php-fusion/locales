@@ -1,0 +1,139 @@
+<?php
+$locale['400'] = "Pengaturan";
+// Site Settings
+$locale['401'] = "Utama";
+$locale['402'] = "Nama situs:";
+$locale['403'] = "URL situs:";
+$locale['404'] = "Banner situs:";
+$locale['405'] = "Alamat e-mail situs:";
+$locale['406'] = "Nama atau nicknam Andae:";
+$locale['407'] = "Sambutan situs:";
+$locale['408'] = "Biarkan kosong jika tidak diperlukan";
+$locale['409'] = "Keterangan situs:";
+$locale['410'] = "Kata kunci situs:";
+$locale['411'] = "Pisahkan tiap kalimat dengan koma";
+$locale['412'] = "Footer situs:";
+$locale['413'] = "Halaman pembuka situs:";
+$locale['414'] = "Style Berita:";
+$locale['415'] = "Kolom Tunggal";
+$locale['416'] = "Kolom Ganda";
+$locale['417'] = "Bahasa Situs:";
+$locale['418'] = "Thema Situs:";
+$locale['419'] = "Lokasi asal pencarian:";
+$locale['420'] = "Keluarkan Panel Kiri:";
+$locale['421'] = "Keluarkan Panel Atas:";
+$locale['422'] = "Keluarkan Panel Bawah:";
+$locale['423'] = "Keluarkan Panel Kanan:";
+$locale['424'] = "<em>Examples:</em><br />/news.php<br />/forum/index.php";
+// Time & Date Settings
+$locale['450'] = "Jam dan Tanggal";
+$locale['451'] = "Format tanggal pendek:";
+$locale['452'] = "Format tanggal panjang:";
+$locale['453'] = "Format tanggal forum:";
+$locale['454'] = "Format tanggal Sub-header:";
+$locale['455'] = "-- Pilih Format --";
+$locale['456'] = "Time offset";
+// Forum Settings
+$locale['500'] = "Forum";
+$locale['501'] = "Panel susunan forum aktif terakhir:";
+$locale['502'] = "Aktif";
+$locale['503'] = "Non-Aktif";
+$locale['505'] = "Jumlah susunan forum untuk ditampilkan:";
+$locale['506'] = "(Panel susunan forum aktif terakhir)";
+$locale['507'] = "Tampilkan Publik IP:";
+$locale['508'] = "Ukuran maks Lampiran:";
+$locale['509'] = "Ukuran file maks dalam bytes";
+$locale['510'] = "Jenis file yang diizinkan:";
+$locale['511'] = "Pisahkan tiap kalimat dengan koma";
+$locale['512'] = "Aktifkan pemberitahuan susunan forum?";
+$locale['518'] = "Ya";
+$locale['519'] = "Tidak";
+$locale['520'] = "Aktifkan peringkat forum?";
+$locale['521'] = "Lock Edit:";
+$locale['522'] = "(Mencegah user menyunting kiriman mereka)";
+$locale['523'] = "Hitung ulang kiriman User";
+$locale['524'] = "[SELESAI]";
+// Registration Settings
+$locale['550'] = "Pendaftaran";
+$locale['551'] = "Aktifkan sistem pendaftaran?";
+$locale['552'] = "Gunakan verifikasi email untuk registrasi?";
+$locale['553'] = "Tampilkan kode validasi?";
+$locale['554'] = "Metode kode validasi:";
+$locale['555'] = "Gambar";
+$locale['556'] = "Teks";
+$locale['557'] = "Member baru diaktifkan oleh Admin?";
+$locale['558'] = "Aktifkan Kesepakatan Perjanjian?";
+$locale['559'] = "Perjanjian Kesepakatan";
+// Photo Gallery Settings
+$locale['600'] = "Galeri Gambar";
+$locale['601'] = "Ukuran thumb:";
+$locale['602'] = "Ukuran gambar:";
+$locale['603'] = "Ukuran gambar maksimum:";
+$locale['604'] = "Lebar x Tinggi";
+$locale['605'] = "Ukuran file maksimum (bytes):";
+$locale['606'] = "Metode kompresi Thumb:";
+$locale['607'] = "GD1";
+$locale['608'] = "GD2";
+$locale['609'] = "Thumbs per baris:";
+$locale['610'] = "Thumbs per halaman:";
+$locale['611'] = "Aktifkan gambar watermark?";
+$locale['612'] = "Spesifikasi PNG watermark";
+$locale['613'] = "Aktifkan keterangan teks pada gambar?";
+$locale['614'] = "Warna Judul Album";
+$locale['615'] = "Warna keterangan Album";
+$locale['616'] = "Warna Judul Gambar";
+$locale['617'] = "Simpan watermark tergenerasi?";
+$locale['618'] = "Kurangi beban load server; menyediakan ruang disk lebih";
+$locale['619'] = "Hapus watermarks yang ada";
+$locale['620'] = "Hapus watermarks yang ada?";
+// Other Settings
+$locale['650'] = "Lain-lain";
+$locale['651'] = "Daftar kalimat buruk:";
+$locale['652'] = "Masukan satu kalimat per baris.";
+$locale['653'] = "Kosongkan jika tidak perlu.";
+$locale['654'] = "PEnggantian kalimat buruk:";
+$locale['655'] = "Izinkan tamu untuk mengirim?";
+$locale['656'] = "Jumlah kiriman pesan singkat:";
+$locale['657'] = "Modus Maintenance:";
+$locale['658'] = "Pesan modus Maintenance:";
+$locale['659'] = "Aktifkan filter kalimat buruk?";
+$locale['660'] = "Interval Flood:";
+$locale['661'] = "Kosongkan untuk upload/ download lanjutan dari backups.";
+$locale['662'] = "Gunakan editor HTML TinyMCE?";
+$locale['663'] = "Hanya untuk admin artikel dan berita.";
+$locale['664'] = "Host SMTP";
+$locale['665'] = "Kosongkan jika sendmail diaktifkan.";
+$locale['666'] = "Username SMTP";
+$locale['667'] = "Password SMTP";
+$locale['668'] = "Izinkan user untuk mengganti thema";
+$locale['669'] = "Berita per halaman";
+$locale['670'] = "Harus ganjil";
+// Private Message Settings
+$locale['700'] = "Pesan Pribadi";
+$locale['701'] = "Limit pesan Inbox:";
+$locale['702'] = "Limit pesan Outbox:";
+$locale['703'] = "Limit Arsip pesan:";
+$locale['704'] = "Set ke 0 untuk tak terbatas";
+$locale['707'] = "Limit Pesan Pribadi";
+$locale['708'] = "Nilai default untuk opsi user";
+$locale['709'] = "Pemberitahuan email?";
+$locale['710'] = "Simpan Pesan Pribadi terkirim?";
+$locale['711'] = "Catatan: Opsi user individual take precendence jika di-set. Jika opsi user tidak di-set, maka opsi global akan digunakan.";
+// Save Settings
+$locale['750'] = "Simpan Pengaturan";
+// Other Settings
+$locale['800'] = "Pangkas forum";
+$locale['801'] = "Kiriman-kiriman terhapus: ";
+$locale['802'] = "Susunan terhapus: ";
+$locale['803'] = "Lampiran terhapus: ";
+// Banners Settings
+$locale['850'] = "Banner-banner";
+$locale['851'] = "Banner 1";
+$locale['852'] = "Banner 2";
+$locale['853'] = "Password Admin:";
+$locale['854'] = "Simpan Banner";
+$locale['855'] = "Lihat Banner";
+// Settings Error
+$locale['900'] = "Pengaturan diperbarui";
+$locale['901'] = "Terjadi kekeliruan pembaruan database: pengaturan tidak diperbarui!";
+?>

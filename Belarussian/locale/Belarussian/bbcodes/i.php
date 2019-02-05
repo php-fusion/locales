@@ -1,0 +1,1 @@
+<?php$locale['bb_i_description'] = "Çðàá³öü àáðàíû òýêñò øðûôòàì italic";$locale['bb_i_usage'] = "Òýêñò italic";?>

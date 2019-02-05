@@ -1,0 +1,6 @@
+<?php
+$locale['bb_code_description'] = "ÚÑÖ ÇáäÕ ßÔÝÑÉ ÈÑãÌíÉ";
+$locale['bb_code_usage'] = "ÈÚÖ ÇáÔÝÑÇÊ ÇáÈÑãÌíÉ";
+$locale['bb_code_code'] = "äÕ ÈÑãÌí";
+$locale['bb_code_save'] = "ÊäÒíá ÇáãÕÏÑ";
+?>

@@ -1,0 +1,315 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>PHP-Fusion Okubeni</title>
+<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-9'>
+<style type='text/css'>
+a { color:#003D71; text-decoration:none; }
+a:hover { color:#027AC6; text-decoration:underline; }
+.tbl1 {
+	font-family:Verdana,Tahoma,Arial,Sans-Serif;
+	font-size:11px;
+	color:#000;
+	background-color:#fefefe;
+	border: 1px #ddd solid;
+	padding:4px;
+	margin-bottom: 5px;
+}
+.tbl2 {
+	font-family:Verdana,Tahoma,Arial,Sans-Serif;
+	font-size:11px;
+	color:#fff;
+	background-color:#444;
+	border: 1px #ddd solid;
+	padding:4px;
+	margin-bottom: 5px;
+}
+
+.warning {
+	background-color:#CC0000;
+	border: 1px #ddd solid;
+}
+
+</style>
+</head>
+<body>
+
+<div style='text-align:left;width:620px;margin: 0 auto;'>
+	
+<div align='center' class='tbl1'><img src='files/images/php-fusion-logo.png' alt='PHP-Fusion' title='PHP-Fusion'><br /><br />
+Copyright &copy; 2002 - 2011 Nick Jones<br />
+<strong>Versiyon:</strong> 7.02.04 - <strong>Yayımlanma Tarihi:</strong> 10/11/2011</div>
+
+<div class='tbl2'>Genel Açıklamalar</div>
+
+<div class='tbl1'>PHP-Fusion kurulumu çok basit, kullanışlı bir yönetime sahip, PHP 5 ile kodlanmış 
+ve MySQL veritabanı kullanan harika bir içerik yönetim sistemi (CMS)dir. PHP-Fusion 
+diğer pek çok içerik sistemlerinde de bulunan ve görmek istediğiniz özellikleri bünyesinde standart 
+olarak barındırmaktadır.
+
+<p>Bu yazılım paketi ücretsizdir: yazılımı "Özgür Yazılım Fonu (Free Software Foundation)" tarafından yayımlanan
+"GNU Affero General Public License (AGPL)" lisansına uygun biçimde ve lisansın 3. sürümü veya daha yeni
+sürümlerini yazılıma dahil etmek koşulu ile yeniden dağıtabilir ve modifiye edebilirsiniz.
+
+<p>Bu yazılım, faydalı olacağı düşünülerek yayımlanmıştır, fakat HİÇBİR GARANTİ VERİLMEMEKTEDİR;
+bu olay PAZARLAMA veya ÖZEL BIR İŞTE KULLANMA için de geçerlidir.
+Detaylari için Affero General Public License Lisansına bakınız.
+
+<p>Bu yazılımı GNU Affero General Public License Lisansı ile birlikte edinmiş olmanız gerekmekte.
+Eğer lisans yazılıma dahil değilse, lütfen <a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'>www.fsf.org</a> 
+adresine baş vurarak durumu bildirin.
+
+<p><strong>Önemli Not</strong>: Lisans gereği footer bölümündeki mevcut copyright silinmemelidir:
+	
+<p>Powered by <a href='http://www.php-fusion.co.uk'>PHP-Fusion</a> copyright &copy;
+2002 - 2011 by Nick Jones.<br />
+Released as free software without warranties under <a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'>GNU Affero GPL</a> v3.
+
+<p>Çekirdek Sistem <a href='http://www.php-fusion.co.uk'>PHP-Fusion</a> copyright &copy; 2002 - 2011 Nick Jones.<br />
+<a href='http://www.fsf.org/licensing/licenses/agpl-3.0.html'>GNU Affero GPL</a> v3 altından herhangi bir 
+garantisi olmadan ücretsiz olarak dağıtılmaktadır.
+
+<p>Copyright silme işlemleri için lütfen <a href='http://www.php-fusion.co.uk'>www.php-fusion.co.uk</a> adresindeki 
+lisans bilgilendirme sayfasına bakin. Türkçe detaylar için <a href='http://www.phpfusionturkiye.com'>www.phpfusionturkiye.com</a> adresine bakabilirsiniz.
+</div>
+
+<div class='tbl2'>KURULUM</div>
+
+<div class='tbl1'>PHP-Fusion'u kurmadan önce bu sürüm için olan gereklilikleri lütfen kontrol edin:
+<p>- PHP 5.1.2 ya da daha yeni bir sürüm<br />
+- MySQL 4 ya da daha yeni bir sürüm
+<p>Öncelikle bir MySQL veritabanı oluşturmanız gerekmekte. Bu işlemi phpMyAdmin veya Web Host Kontrol Panelinizden yapabilirsiniz.
+Kurulum esnasında gerekli olacak MySQL erişim bilgilerinizi not almayı unutmayın. Bu bilgiler kurulumda gerekli olacak MySQL host adı, 
+kullanıcı adı, şifre ve veritabanı gibi bilgilerdir.
+
+<p><strong>1.</strong> Dosyaları yüklemeden önce, kök klasördeki (files içerisindeki) _config.php dosyasının adını 
+config.php olarak değiştirin.
+
+<p><strong>2.</strong> files klasörü içerisindeki dosyaları Web sunucunuza FTP aracılığı ile yükleyin.
+
+<p><strong>3.</strong> Daha Sonra PHP Fusion Türkçe dil dosyasını indirin, ve de dosyaları FTP aracılığı ile yükleyin.
+
+<p><strong>4.</strong> Eğer PHP-Fusion'u yerel sunucu (localhost) üzerinde kullanmayacaksanız, aşağıdaki dosya ve klasörlerin
+CHMOD değerlerini 777 yapmalısınız:
+
+<p><strong>Not</strong>: Bazı host sağlayıcıları 777 CHMODa izin vermemekte, böyle bir durumda 777 yerine 755 değerini girin.
+
+
+<ul style='list-style-type:disc'>
+<li>administration/db_backups/</li>
+<li>downloads/</li>
+<li>downloads/images/</li>
+<li>downloads/submissions/</li>
+<li>downloads/submissions/images/</li>
+<li>forum/attachments/</li>
+<li>ftp_upload/</li>
+<li>images/</li>
+<li>images/imagelist.js</li>
+<li>images/articles/</li>
+<li>images/avatars/</li>
+<li>images/news/</li>
+<li>images/news/thumbs/</li>
+<li>images/news_cats/</li>
+<li>images/photoalbum/</li>
+<li>images/photoalbum/submissions/</li>
+<li>forum/attachments/</li>
+<li>config.php</li>
+</ul>
+
+<p><strong>6.</strong> Web sitenize internet tarayıcınızdan erisin. setup.php işlemleri otomatik olarak başlayacaktır, 
+eğer başlamazsa setup.php yi manuel olarak tek seferlik tam adresini girerek çalıştırın.
+Örnek: http://www.siteadi.com/setup.php.
+
+<p><strong>7.</strong> Kurulum işlemini setup.php dosyasındaki yönergeleri takip ederek tamamlayın.
+
+<p><strong>8.</strong> PHP-Fusion kurulumu bittikten sonra <strong>mutlaka</strong> config.php dosyasının CHMOD'unu da 644 olarak değiştirin, daha sonra setup.php yi sunucunuzdan silmeyi unutmayın.</div>
+
+<div class='tbl2'>V7.00.XX VE 7.01.XX SÜRÜMLERİNDEN GÜNCELLEME</div>
+
+<div class='tbl1'>Güncelleme işlemini yapmadan önce lütfen mevcut php fusion sürümünüzün
+dosya ve veritabanı yedeklerini aldığınızdan emin olun. PHP-Fusion 7.02 güncellemesi, 7.01 güncellemelerine
+nazaran köklü bir güncelleme olduğundan bunu yapmanızı şiddetle tavsiye ediyoruz. 
+Aşağıdaki aşamaları birebir uygulamanız gerekmekte.
+Ayrıca siteniz 7.00.X sürümünde ise bu güncellemeyi yapmadan önce 7.01.xx sürümüne güncellemenizi öneriyoruz.
+
+<p><strong>1.</strong> Versiyon 7.02 kodları çogunlukla 7.01 versiyonu ile uyumludur, fakat
+çekirdek sistemde pek çok değişiklik olduğundan bazı eklentiler (modlar, modüller, paneller ya da temalar) 
+düzgün çalışmayabilir.
+
+<p><strong>2.</strong> Öncelikle 7.00.XX ya da 7.01.XX yüklü olan web sitenize Türkçe dil dosyasını, ardından da veritabanı güncellemesini gerçekleştirecek olan scripti yüklemelisiniz.
+'upgrade v7' klasörünün içerisindeki dosyayı (ya da 7.01 kullanıyorsanız upgrade v701 içindeki dosyayı) sitenizin administration klasörüne yükleyin. Üzerine yazılsın mi diye sorarsa evet diyin.
+
+<p><strong>3.</strong> Daha sonra sitenize Süper Yönetici olarak giriş yapın. 
+Yönetici Paneli/Sistem Yönetimi/Sürüm Yükseltme ye gidin, Sürümü Yükselt (Upgrade) butonuna basarak
+Güncellemeyi gerçekleştirin. Veritabanı güncelleme işlemi
+'Database upgrade complete' (Veritabanı Güncellemesi Başarılı) mesajı gözüktüğünde bitmiş demektir.
+
+<p><strong>4.</strong> ÇOK ÖNEMLİ: Bu sürüm çekirdek yapıda birkaç değişikliği bünyesinde barındırdığından dolayı 
+tüm dosyaları yüklemeden ve güncellemeyi bitirmeden sitenizi tam fonksiyonel olarak kullanamayabilirsiniz.
+Bu olay doğaldır. Şimdi ise files klasörü içerisindeki _config.php ve setup.php haricindeki tüm dosyaları, ve de ardından en güncel Türkçe dil dosyasını sunucunuza YÜKLEMELİSİNİZ.
+
+<p><strong>5.</strong> ÇOK ÖNEMLİ: Aşağıdaki satırı config.php nize ekleyin, ve de XXXXX yerine farklı ve rastgele sayı ve rakamlar ekleyin!
+Bu değerler her PHP-Fusion kurulumu için farklı olmalıdır<br /><br />
+<pre>define("COOKIE_PREFIX", "fusion_XXXXX");</pre><br /><br />
+
+Şu klasörlere 777 CHMOD verin:
+<ul style='list-style-type:disc'>
+<li>downloads/</li>
+<li>downloads/images/</li>
+<li>downloads/submissions/</li>
+<li>downloads/submissions/images/</li>
+<li>ftp_upload/</li>
+</ul>
+
+
+<p>Eğer herhangi bir aşamada sorun yaşadıysanız, dünya çapındaki resmi destek sitelerinden yardım isteyebilirsiniz.
+Tüm dünya üzerinde, bir topluluk olarak PHP-Fusion hakkında bilgi sahibi olup bunları paylaşan gönüllü insanlar
+bulunmakta, bu kişi veya kuruluşlardan güncelleme hakkında gerekli desteği temin edebilirsiniz.</div>
+
+<div class='tbl2'>ÇEKİRDEK DIŞI TEMALARDA UFAK BİR GÜNCELLEME</div>
+
+<div class='tbl1'>Eğer sitenizde standart paket dışında gelen üçüncü parti bir tema varsa, 7.02.x güncellemesiyle aşağıdaki özellikler gözükmeyebilir, bunu düzeltmek için
+  aşağıdaki yönergeleri takip etmelisiniz.
+  <br /><br />
+  Haber Kategorisi Resimleri:
+  <ul>
+    <li>themes/temaniz/theme.php dosyasını açın</li>
+    <li>render_news fonksiyonu içinde şu kodu bulun:</li>
+    <li><strong>&quot;.$news.&quot;</strong></li>
+    <li>Şöyle değiştirin: <strong>&quot;.$info['cat_image'].$news.&quot;</strong></li>
+  </ul>
+  
+Avatar yorumları:
+  <ul>
+    <li>themes/temaniz/theme.php dosyasını açın</li>
+    <li>render_comments fonksiyonu içine aşağıdaki kodu ekleyin:</li>
+    <li><strong>if ($settings['comments_avatar'] == "1") { echo "<span class='comment-avatar'>".$data['user_avatar']."</span>\n"; }</strong></li>
+    <li>Ayrıca temanızın styles.css dosyasına <strong>.comments_avatar { }</strong> sınıfını ekleyip kendinizce düzenlemeyi unutmayın.</li>
+  </ul>  
+
+Dosyaları Kaydedip kapatın.
+</div>
+
+<div class='tbl2'>GÜVENLIK İPUÇLARI</div>
+
+<div class='tbl1'>Aşağıdaki ipuçları ile sitenizi daha güvenli bir hale dönüştürebilirsiniz:
+<ul style='list-style-type:disc'>
+<li>config.php dosyasının yazılamaz olduğundan emin olun (CHMOD değeri 644 olmalıdır).</li>
+<li>setup.php dosyasını PHP-Fusion kurulumu bittikten sonra asla sunucuda bırakmayın.</li>
+<li>FTP ve MySQL parolalarınızın farklı olduğundan emin olun.</li>
+<li>php, html, exe ve herhangi bir türlü metin dosyalarınin foruma eklenmesine asla izin vermeyin.</li>
+<li>Sadece test edilmiş, ve de güvenliği onaylanmış modülleri kullanın.</li>
+</ul></div>
+
+<div class='tbl2'>RESMİ DESTEK SİTELERİ</div>
+
+<div class='tbl1'>Eğer PHP-Fusion hakkında bir sorunuz veya öneriniz mevcutsa, lütfen ana 
+geliştirme sitesi olan <a href='http://www.php-fusion.co.uk'>www.php-fusion.co.uk</a>
+adresine giderek forumlarda sorunuzu veya önerinizi belirtin. Her türlü soruya 48 saat içerisinde cevap verecek, bu işe
+kendilerini adamış bir destek takımımız mevcuttur.<br /><br />
+
+	Eklentiler:
+	
+PHP-Fusion modüller ile çok daha çekici ve özellikli hale getirilebilecek bir sistemdir. 
+Bu modüller birer eklenti olup kurulumları çok kolaydir. Pek çok çesitli modüle resmi mod sitemiz olan
+<a href='http://mods.php-fusion.co.uk'>http://mods.php-fusion.co.uk</a> adresinden erişebilirsiniz.<br /><br />
+
+  Eğer PHP-Fusion ile hazır gelen temalar size yetersiz geliyorsa resmi tema sitesi olan <a href='http://themes.php-fusion.co.uk'>themes.php-fusion.co.uk</a> adresinden çok çesitli ve yüksek kaliteli temaları temin edebilirsiniz.<br /><br />
+
+PHP-Fusion'un ayrıca İngilizce disinda pek çok dilde destek veren resmi destek siteleri mevcuttur. Bu siteler şunlardır: 
+
+<a href='http://www.phpfusion-ar.com'>Arabistan</a>, 
+<a href='http://www.phpfusion-nederlands.info'>Belçika</a>, 
+<a href='http://www.phpfusion-br.com'>Brezilya</a>, 
+<a href='http://php-fusion.cms-bg.org'>Bulgaristan</a>, 
+<a href='http://www.php-fusion.dk'>Danimarka</a>, 
+<a href='http://www.phpfusion.cz'>Çek Cumhuriyeti</a>, 
+<a href='http://www.phpfusion-fr.com'>Fransa</a>, 
+<a href='http://www.phpfusion-support.de'>Almanya</a>, 
+<a href='http://www.php-fusion.co.hu'>Macaristan</a>, 
+<a href='http://www.fusion.alaviweb.com'>Iran</a>, 
+<a href='http://www.php-fusion.it'>Italya</a>, 
+<a href='http://www.phpfusion-nederlands.info'>Hollanda</a>, 
+<a href='http://www.phpfusion-no.com'>Norveç</a>, 
+<a href='http://www.php-fusion.pl'>Polonya</a>, 
+<a href='http://www.phpfusion.ro'>Romanya</a>, 
+<a href='http://www.rufusion.ru'>Rusya</a>, 
+<a href='http://www.php-fusion.sk'>Slovakya</a>,  
+<a href="http://php-fusion.uni.cc/">İspanya</a>, 
+<a href='http://www.php-fusion.se'>İsveç</a> ve
+<a href='http://www.phpfusionturkiye.com'>Türkiye</a>.</div>
+
+<div class='tbl2'>HATA RAPORLAMA</div>
+
+<div class='tbl1'>Eğer herhangi bir hata ile ya da herhangi başka bir sorun ile karşılaşırsanız lütfen uluslararası PHP-Fusion web sitesi olan <a href="http://www.php-fusion.co.uk">http://www.php-fusion.co.uk</a> ya da Türkiye resmi sitesi olan <a href="http://www.phpfusionturkiye.com">http://www.phpfusionturkiye.com</a> adresine gidip prosedürler çerçevesinde sorununuzu belirtin.
+
+</div>
+
+<div class='tbl2'>KATKILARINDAN DOLAYI TEŞEKKÜRLER</div>
+
+<div class='tbl1'>
+	
+<p><strong>Project Kurucusu</strong><br />
+Nick Jones {Digitanium}</p>
+
+<p><strong>Takım Lideri</strong><br />
+Philip Daly {Hobbyman</p>
+
+<p><strong>Yönetim Takımı</strong><br />
+Arda Kılıçdağı {Arda, SoulSmasher}<br />
+Emma Wall {samem}<br />
+Happy Svensson {KEFF}<br />
+Jan Mølgaard {janmol}<br />
+Joakim Falk {Domi}<br />
+Max Toball {Matonor}<br />
+Nicolae Crefelean {kneekoo}<br />
+Richard Ainz {Homdax}</p>
+
+<p><strong>Geliştirici Yöneticisi</strong></p>
+Max Toball {Matonor}</p>
+
+<p><strong>Ana Geliştirici</strong></p>
+Christian Damsgaard Jørgensen {PMM}</p>
+
+<p><strong>Temel Geliştiriciler</strong><br />
+Bartlomiej Gajda {bartek124}<br />
+Ion Cladico {Falcon}<br />
+Joakim Falk {Domi}<br />
+Karoly Nagy {Korcsii}<br />
+Slawomir Nonas {slawekneo}<br />
+Valerio Vendrame {lelebart}</p>
+
+<p><strong>Yardımcı Geliştiriciler</strong><br />
+Ankur Thakur {Ankur}<br />
+David Gütl {Discofan}<br />
+Patranescu Florin {keddy}<br />
+Robin Frykholm {DrunkeN}</p>
+
+
+<p><strong>Projeye ayrıca destek olanlar</strong><br />
+Andy B {gh0st2k}<br />
+Claus Pedersen {flyingduck}<br />
+Hans Kristian Flaatten {Starefossen}<br />
+James {Daywalker}<br />
+Johan Wilson {Barspin}<br />
+Maarten Kossen {mpkossen/mistermartin75}<br />
+Marcus Gottschalk {MarcusG}<br />
+Patric Forcelini {IceWasp}<br />
+Paul Beuk {muscapaul}<br />
+Robert Gaudyn {Wooya}<br />
+Sveinung Skjaerseth {sveinungs}</p>
+
+
+<p><strong>Üçüncü Parti Bileşenler:</strong><br />
+<a href='http://tinymce.com/'>TinyMCE v3.3.8</a> - Moxiecode Systems AB tarafından hazırlanmış HTML WYSIWYG (ne görürsen onu alırsın) düzenleyicisi.<br />
+<a href='http://phpmailer.sourceforge.net/'>PHPMailer v5.1</a> - Brent R. Matzelle tarafından hazırlanmış SMTP desteği bulunan bir elektronik posta gönderme classı (sınıfı).<br />
+<a href='http://www.phpclasses.org/browse/package/2221.html'>HTTPDownload v1.3</a> - Nguyen Quoc Bao tarafından hazırlanmış bir dosya indirme classı (sınıfı).<br />
+<a href='http://jquery.com/'>jQuery v1.7</a> - Javascript/Ajax kütüphanesi (toolkit).<br />
+<a href='http://jqueryui.com/'>jQuery UI v1.8.16</a> - Açık kaynaklı jQuery arayüz kütüphanesi bütünü.<br />
+<a href='http://colorpowered.com/colorbox/'>ColorBox</a> - Hafif ve de düzenlenebilir bir jQuery lightbox eklentisi.<br />
+<a href='http://icon-king.com'>Nuvola Icons</a> - David Vignoni tarafından hazırlanmış BB kodları, haber kategorileri ve yönetici panelinde kullanılan ikonlar.</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+<?php$locale['bb_img_description'] = "Паказвае малюначак з абранага адрасу";$locale['bb_img_usage'] = "Image URL";?>

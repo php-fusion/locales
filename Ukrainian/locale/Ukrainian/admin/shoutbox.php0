@@ -1,0 +1,25 @@
+<?php
+// Shoutbox titles
+$locale['400'] = "Міні-чат";
+$locale['401'] = "Редагування";
+// Shoutbox messages
+$locale['410'] = "Запис оновлено";
+$locale['411'] = "Запис видалено";
+$locale['412'] = "Записи видалено";
+// Edit Shout form
+$locale['420'] = "Редагування запису";
+$locale['421'] = "Текст:";
+$locale['422'] = "Зберегти";
+// Prune Shoutbox
+$locale['430'] = "Видалення записів віком більш ніж ";
+$locale['431'] = " днів";
+$locale['432'] = "Видалити";
+// Current Shouts
+$locale['440'] = "Редагувати";
+$locale['441'] = "Видалити";
+$locale['442'] = "IP: ";
+$locale['443'] = "Записи відсутні";
+// Popup Error/Warning Messages
+$locale['450'] = "Видалити запис?";
+$locale['451'] = "Видалити цей запис?";
+?>

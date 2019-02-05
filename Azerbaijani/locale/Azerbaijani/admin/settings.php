@@ -1,0 +1,139 @@
+﻿<?php
+$locale['400'] = "Xüsusiyyətlər";
+// Sayt Xüsusiyyətlər
+$locale['401'] = "Əsas";
+$locale['402'] = "Saytın adı:";
+$locale['403'] = "Saytın URL:";
+$locale['404'] = "Banner:";
+$locale['405'] = "E-mail address:";
+$locale['406'] = "Sizin adınız ya da ləqəbiniz:";
+$locale['407'] = "Açılış sözü:";
+$locale['408'] = "Əgər ehtiyac yoxdursa sadəcə boş qoyun";
+$locale['409'] = "Saytın açıqlaması:";
+$locale['410'] = "Saytın 'keyword'-ləri:";
+$locale['411'] = "Hər sözü vergül ilə digərindən ayırın";
+$locale['412'] = "Saytın 'footer'-i:";
+$locale['413'] = "Açılacaq səhifə:";
+$locale['414'] = "Xəbərlərin görünməsi:";
+$locale['415'] = "Tək sütun";
+$locale['416'] = "Cüt sütun";
+$locale['417'] = "Saytın dili:";
+$locale['418'] = "Saytın görünüşü:";
+$locale['419'] = "Cari axtarış yeri:";
+$locale['420'] = "Sol tərəfdəki lövhələrin görünməyəcəyi səhifələr:";
+$locale['421'] = "Üst lövhələrin görünməyəcəyi səhifələr:";
+$locale['422'] = "Alt lövhələrin görünməyəcəyi səhifələr:";
+$locale['423'] = "Sağ lövhələrin görünməyəcəyi səhifələr:";
+$locale['424'] = "<em>Məsələn:</em><br />/news.php<br />/forum/index.php";
+// Time & Date Settings
+$locale['450'] = "Saat və Tarix";
+$locale['451'] = "Qısa tarix formatı:";
+$locale['452'] = "Uzun tarix formatı:";
+$locale['453'] = "Forum tarix formatı:";
+$locale['454'] = "Sub-header-dəki tarix formatı:";
+$locale['455'] = "-- Format seçin --";
+$locale['456'] = "Vaxt şaxəniz";
+// Forum Settings
+$locale['500'] = "Forum";
+$locale['501'] = "Ən son aktiv forum başlıqları paneli:";
+$locale['502'] = "On";
+$locale['503'] = "Off";
+$locale['505'] = "Neçə forum başlığı görüntülənsin?:";
+$locale['506'] = "(Ən son aktiv forum başlıqları panelində)";
+$locale['507'] = "IP ünvanı hər kəs görsünmü?:";
+$locale['508'] = "Qoşulmuş faylların maksimum ölçüsü:";
+$locale['509'] = "Maksimum fayl ölçüsü baytlarla";
+$locale['510'] = "İzn verilən fayl tipləri:";
+$locale['511'] = "Hər bir tipi vergül ilə digərindən ayırın";
+$locale['512'] = "Enable forum thread notification?";
+$locale['518'] = "Hə";
+$locale['519'] = "Yox";
+$locale['520'] = "Forum rütbəsi aktivləşdirilsinmi?";
+$locale['521'] = "İsmarıc dəyişmək ləğvi:";
+$locale['522'] = "(İstifadəçilərə öz ismarıclarını dəyişmək hüququ vermir)";
+$locale['523'] = "İsmarıc sayını yenilə";
+$locale['524'] = "[TAMAM]";
+// Registration Settings
+$locale['550'] = "Qeydiyyat";
+$locale['551'] = "Qeydiyyat aktivləşdirilsinmi?";
+$locale['552'] = "E-mail ilə təsdiqləmə aktivləşdirilsinmi?";
+$locale['553'] = "Təsdiqləmə şifrəsi görüntülənsinmi?";
+$locale['554'] = "Təsdiqləmə şifrəsinin görüntülənmə tipi:";
+$locale['555'] = "Şəkil";
+$locale['556'] = "Mətn";
+$locale['557'] = "Yeni istifadəçilər idarəçi tərəfindən aktivləşdirilsinmi?";
+$locale['558'] = "Enable terms of agreement?";
+$locale['559'] = "Terms of Agreement";
+// Photo Gallery Settings
+$locale['600'] = "Şəkil Albomu";
+$locale['601'] = "Üz qabığının ölçüsü:";
+$locale['602'] = "Şəkil ölçüsü:";
+$locale['603'] = "Max. şəkil ölçüsü:";
+$locale['604'] = "Eni x Uzunu <i>(pixellərlə)</i>";
+$locale['605'] = "Max. şəkil həcmi <i>(baytlarla)</i>:";
+$locale['606'] = "Üz qabığını sıxma metodu:";
+$locale['607'] = "GD1";
+$locale['608'] = "GD2";
+$locale['609'] = "Hər cərgədə neçə üz qabığı olsun?:";
+$locale['610'] = "Hər səhifədə neçə üz qabığı olsun?:";
+$locale['611'] = "Şəkillərin üzərində watermark görünsünmü?";
+$locale['612'] = "PNG formatında watermark şəkili";
+$locale['613'] = "Şəkillərin üzərində yazı şəklində açıqlama görünsünmü?";
+$locale['614'] = "Albom başlığının rəngi";
+$locale['615'] = "Albom amıqlamasının rəngi";
+$locale['616'] = "Şəkil başlığının rəngi";
+$locale['617'] = "Watermark-lar Saxlansınmı?";
+$locale['618'] = "Serverin sürətini aşağı salır; diskdə daha çox yer tələb edir";
+$locale['619'] = "Cari watermarkları sil";
+$locale['620'] = "Cari watermarklar silinsimi?";
+// Other Settings
+$locale['650'] = "Müxtəlif";
+$locale['651'] = "Yasaqlanmış sözlər siyahısı:";
+$locale['652'] = "Hər sətirdə bir söz qeyd edin.";
+$locale['653'] = "Əgər ehtiyac yoxdursa heç nə yazmayın.";
+$locale['654'] = "Yasaqlanmış sözlər əvəz edilsin:";
+$locale['655'] = "Qonaqlar ismarıc yaza bilsinmi?";
+$locale['656'] = "Mini çatdakı ismarıc sayı:";
+$locale['657'] = "Məhdudlaşdırılmış rejim:";
+$locale['658'] = "Məhdudlaşdırılmanın səbəbi:";
+$locale['659'] = "Yasaqlanmış sözlərin filteri aktivləşdirilsinmi?";
+$locale['660'] = "Flood intervalı:";
+$locale['661'] = "Məlumat bazasını endirmək üçün boş saxlayın.";
+$locale['662'] = "TinyMCE HTML redaktoru aktivləşdirilsinmi?";
+$locale['663'] = "<i>Yalnız məqalə və xəbər əlavəsi üçün</i>.";
+$locale['664'] = "SMTP Host";
+$locale['665'] = "<i>Əgər sendmail aktivdirsə xananı boş buraxın</i>";
+$locale['666'] = "SMTP istifadəçi adı";
+$locale['667'] = "SMTP Şifrə";
+$locale['668'] = "İstifadəçilər sayt görünüşünü dəyişə bilsinlərmi?";
+$locale['669'] = "Səhifədə neçə xəbər görünsün?";
+$locale['670'] = "Cüt rəqəm olmamalıdır";
+// Private Message Settings
+$locale['700'] = "Şəxsi ismarıclar";
+$locale['701'] = "Gələnlər qutusunun limiti:";
+$locale['702'] = "Göndərilənlər qutusunun limiti:";
+$locale['703'] = "Arxivin limiti:";
+$locale['704'] = "<i>Limitsiz olmasını istəyirsinizsə '0' olaraq qeyd edin</i>";
+$locale['707'] = "Şəxsi ismarıc qutusunun limitlənməsi";
+$locale['708'] = "Cari xüsusiyyətlər";
+$locale['709'] = "Yeni ismarıc gəldiyi e-mail ilə bildirilsinmi?";
+$locale['710'] = "Göndərilmiş şəxsi ismarıclar saxlansınmı?";
+$locale['711'] = "Qeyd: Yalnız istifadəçi özü individual olaraq xüsusiyyətləri təyin etməmişsə, yuxarıdakı xüsusiyyətlər aktivləşmiş olur.";
+// Save Settings
+$locale['750'] = "Saxla";
+// Other Settings
+$locale['800'] = "Forum təmizlənməsi";
+$locale['801'] = "İsmarıc silindi: ";
+$locale['802'] = "Bölmə silindi: ";
+$locale['803'] = "Qoşulmuş fayl silindi: ";
+// Banners Settings
+$locale['850'] = "Bannerlər";
+$locale['851'] = "Banner 1";
+$locale['852'] = "Banner 2";
+$locale['853'] = "İdarəçi şifrəsi:";
+$locale['854'] = "Saxla";
+$locale['855'] = "Görüntülə";
+// Settings Error
+$locale['900'] = "Xüsusiyyətlər yeniləndi";
+$locale['901'] = "XƏTA: Xüsusiyyətlər yenilənmədi!";
+?>

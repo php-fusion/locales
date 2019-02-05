@@ -1,0 +1,1 @@
+<?php$locale['uf_forum-stat'] = "Тэмы форума";$locale['uf_forum-stat_desc'] = "Колькасць пастоў форума.";?>

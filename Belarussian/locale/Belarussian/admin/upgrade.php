@@ -1,0 +1,1 @@
+<?php$locale['400'] = "Абнавіць";//No upgrade$locale['401'] = "Няма даступных абнаўленняў.";//Upgrade locales$locale['500'] = '';?>

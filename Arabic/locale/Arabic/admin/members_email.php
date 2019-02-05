@@ -1,0 +1,45 @@
+<?php
+$locale['email_create_subject'] = "Êã ÊÃÓíÓ ÇáÍÓÇÈ Ýí ";
+$locale['email_create_message'] = "ÃåáÇð [USER_NAME]¡\n
+Êã ÊÃÓíÓ ÍÓÇÈß Ýí  ".$settings['sitename']." æÝÞÇð ááãØáæÈ\n
+íãßäß ÇáÂä ÇáÏÎæá ÈÇÓÊÎÏÇã ÇáãÚáæãÇÊ ÇáÊÇáíÉ:\n
+ÇáÇÓã: [USER_NAME]\n
+ßáãÉ ÇáÓÑ: [PASSWORD]\n\n
+ÊÍíÇÊäÇ¡\n
+".$settings['siteusername'];
+
+$locale['email_activate_subject'] = "Êã ÊÝÚíá ÇáÍÓÇÈ Ýí ";
+$locale['email_activate_message'] = "ÃåáÇð [USER_NAME]¡\n
+Êã ÊÝÚíá ÍÓÇÈß Ýí ".$settings['sitename']." æÝÞÇð ááãØáæÈ.\n
+íãßäß ÇáÂä ÇáÏÎæá ÈÇÓÊÎÏÇã ÇáÇÓã æßáãÉ ÇáÓÑ ÇáÎÇÕíøä Èß.\n\n
+ÊÍíÇÊäÇ¡\n
+".$settings['siteusername'];
+
+$locale['email_deactivate_subject'] = "ÇáÍÇÌÉ áÊÝÚíá ÍÓÇÈß Ýí ".$settings['sitename'];
+$locale['email_deactivate_message'] = "ÃåáÇð [USER_NAME]¡\n
+äæÏ ÇáÊÐßíÑ ÈÃäå ÞÏ ãÖì It has been ".$settings['deactivation_period']." íæã/ÃíÇã ÈÏæä ÏÎæáß áãæÞÚäÇ Ýí  ".$settings['sitename'].". æÞÏ Êã æÖÚ ÃÓãß ßÛíÑ äÔØ æáßä ÌãíÚ ÊÝÇÕíá ÍÓÇÈß æãÍÊæíÇÊå áã ÊÊÛíÑ.\n
+áÅÚÇÏÉ ÊÝÚíá ÍÓÇÈß¡ íãßä ÇáÖÛØ Úáì ÇáÑÇÈØ ÇáÊÇáí:\n
+".$settings['siteurl']."reactivate.php?user_id=[USER_ID]&code=[CODE]\n\n
+ÊÍíÇÊäÇ¡\n
+".$settings['siteusername'];
+
+$locale['email_ban_subject'] = "Êã ÅíÞÇÝ ÍÓÇÈß Ýí ".$settings['sitename'];
+$locale['email_ban_message'] = "ÃåáÇð [USER_NAME]¡\n
+Êã ÅíÞÇÝ ÍÓÇÈß Ýí  ".$settings['sitename']." ãä ÞÈá ".$userdata['user_name']." ááÃÓÈÇÈ ÇáÊÇáíÉ:\n
+[REASON].\n
+ÅÐÇ ßäÊ ÊÑíÏ ÇáãÒíÏ ãä ÇáãÚáæãÇÊ Úä åÐÇ ÇáÍÙÑ¡ äÑÌæ ÇáÇÊÕÇá ÈãÏíÑ ÇáãæÞÚ Ýí  ".$settings['siteemail'].".\n
+".$settings['siteusername'];
+
+$locale['email_secban_subject'] = "Êã ÍÙÑ ÍÓÇÈß Ýí ".$settings['sitename'];
+$locale['email_secban_message'] = "ÃåáÇð [USER_NAME]¡\n
+Êã ÍÙÑ ÍÓÇÈß Ýí  ".$settings['sitename']." ãä ÞÈá ".$userdata['user_name']." æÐáß ÈÓÈÈ ÈÚÖ ÇáÊÕÑÝÇÊ ÇáãÑÊÈØÉ Èß Ãæ ÈÍÓÇÈß æÇáÊí Êã ÇáäÙÑ ÅáíåÇ ßÊÕÑÝÇÊ ÊÄËÑ Úáì Ããä ÇáãæÞÚ.\n
+ÅÐÇ ßäÊ ÊÑíÏ ÇáãÒíÏ ãä ÇáãÚáæãÇÊ Úä åÐÇ ÇáÍÙÑ ÇáÃãäí¡ íãßäß ÇáÇÊÕÇá ÈãÏíÑ ÇáãæÞÚ Ýí  ".$settings['siteemail'].".\n
+".$settings['siteusername'];
+
+$locale['email_suspend_subject'] = "Êã ÅíÞÇÝ ÍÓÇÈß Ýí  ".$settings['sitename'];
+$locale['email_suspend_message'] = "ÃåáÇð [USER_NAME]¡\n
+Êã ÅíÞÇÝ ÍÓÇÈß Ýí  ".$settings['sitename']." ãä ÞÈá ".$userdata['user_name']." ÍÊì [DATE] (site time) æÐáß ááÃÓÈÇÈ ÇáÊÇáí:\n
+[REASON].\n
+ÅÐÇ ÃÑÏÊ ÇáãÒíÏ ãä ÇáãÚáæãÇÊ Úä åÐÇ ÇáÅíÞÇÝ¡ äÑÌæ ÇáÇÊÕÇá ÈãÏíÑ ÇáãæÞÚ Ýí  ".$settings['siteemail'].".\n
+".$settings['siteusername'];
+?>

@@ -1,0 +1,1 @@
+<?php$locale['bb_big_description'] = "Паказаць як BIG";$locale['bb_big_usage'] = "Буйны тэкст";?>

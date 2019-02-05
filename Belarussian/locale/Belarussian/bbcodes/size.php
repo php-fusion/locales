@@ -1,0 +1,1 @@
+<?php$locale['bb_size_description'] = "Вызначае памер абранага тэксту";$locale['bb_size_usage'] = "Памер тэксту";?>

@@ -1,0 +1,1 @@
+<?php$locale['bb_url_displayas'] = "Паказаць спасылку як";$locale['bb_url_description'] = "Зрабіць URL актыўным";$locale['bb_url_usage'] = "URL";?>

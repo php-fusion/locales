@@ -1,0 +1,139 @@
+<?php
+$locale['400'] = "Configurações";
+// Site Settings
+$locale['401'] = "Principal";
+$locale['402'] = "Nome do site:";
+$locale['403'] = "URL do site:";
+$locale['404'] = "Logotipo do site:";
+$locale['405'] = "Endereço de email do site:";
+$locale['406'] = "O seu nome ou apelido:";
+$locale['407'] = "Apresentação do site:";
+$locale['408'] = "Deixe em branco caso não seja necessária.";
+$locale['409'] = "Descrição do site:";
+$locale['410'] = "Palavras-chave do site:";
+$locale['411'] = "Separe cada palavra com uma vírgula";
+$locale['412'] = "Rodapé do site:";
+$locale['413'] = "Página inicial:";
+$locale['414'] = "Estilo das notícias:";
+$locale['415'] = "Uma Coluna";
+$locale['416'] = "Duas Colunas";
+$locale['417'] = "Idioma:";
+$locale['418'] = "Tema do site:";
+$locale['419'] = "Local padrão para a busca:";
+$locale['420'] = "Excluir Painéis da Esquerda:";
+$locale['421'] = "Excluir Painéis Superiores:";
+$locale['422'] = "Excluir Painéis Inferiores:";
+$locale['423'] = "Excluir Painéis da Direita:";
+$locale['424'] = "<em>Exemplos:</em><br />/news.php<br />/forum/index.php";
+// Time & Date Settings
+$locale['450'] = "Data e Hora";
+$locale['451'] = "Formato de data curto:";
+$locale['452'] = "Formato de data longo:";
+$locale['453'] = "Formato de data do fórum:";
+$locale['454'] = "Formato de data do sub-cabeçalho:";
+$locale['455'] = "-- Seleccione um Formato --";
+$locale['456'] = "Fuso Horário";
+// Forum Settings
+$locale['500'] = "Fórum";
+$locale['501'] = "Painel de últimos tópicos activos no fórum:";
+$locale['502'] = "Ligado";
+$locale['503'] = "Desligado";
+$locale['505'] = "Número de tópicos a serem exibidos:";
+$locale['506'] = "(Painel dos últimos tópicos activos no fórum)";
+$locale['507'] = "Mostrar IPs publicamente:";
+$locale['508'] = "Tamanho máximo de anexos:";
+$locale['509'] = "Tamanho de fcheiros em bytes";
+$locale['510'] = "Tipos de ficheiros permitidos:";
+$locale['511'] = "Separe cada tipo com uma vírgula";
+$locale['512'] = "Permitir notificação por email de novas respostas em tópicos?";
+$locale['518'] = "Sim";
+$locale['519'] = "Não";
+$locale['520'] = "Habilitar ranks no fórum?";
+$locale['521'] = "Bloquear Edições:";
+$locale['522'] = "(Impeça os membros de editarem as suas mensagens)";
+$locale['523'] = "Recontar Mensagens dos Membros";
+$locale['524'] = "[FEITO]";
+// Registration Settings
+$locale['550'] = "Registo";
+$locale['551'] = "Permitir registos de utilizadores?";
+$locale['552'] = "Usar verificação de email nos registos?";
+$locale['553'] = "Mostrar código de validação?";
+$locale['554'] = "Tipo de código de validação:";
+$locale['555'] = "Imagem";
+$locale['556'] = "Texto";
+$locale['557'] = "Activação de novos membros pelo administrador?";
+$locale['558'] = "Activar termos de registo?";
+$locale['559'] = "Termos de Registo";
+// Photo Gallery Settings
+$locale['600'] = "Galeria de Fotos";
+$locale['601'] = "Tamanho das miniaturas:";
+$locale['602'] = "Tamanho das fotos:";
+$locale['603'] = "Tamanho máximo das fotos:";
+$locale['604'] = "Largura x Altura";
+$locale['605'] = "Tamanho máximo de ficheiros (bytes):";
+$locale['606'] = "Método de compressão para miniaturas:";
+$locale['607'] = "GD1";
+$locale['608'] = "GD2";
+$locale['609'] = "Miniaturas por linha:";
+$locale['610'] = "Miniaturas por página:";
+$locale['611'] = "Activar marca d'água?";
+$locale['612'] = "Imagem PNG da marca d'água";
+$locale['613'] = "Permitir descrições em fotos?";
+$locale['614'] = "Cor dos títulos de álbuns";
+$locale['615'] = "Cor das descrições de álbuns";
+$locale['616'] = "Cor dos títulos de fotos";
+$locale['617'] = "Gravar as marcas d'água geradas?";
+$locale['618'] = "Reduz a carga do servidor; ocupa mais espaço em disco";
+$locale['619'] = "Remover marcas d'água existentes";
+$locale['620'] = "Remover as marcas d'água existentes?";
+// Other Settings
+$locale['650'] = "Variadas";
+$locale['651'] = "Lista de palavras censuradas:";
+$locale['652'] = "Insira uma palavra por linha.";
+$locale['653'] = "Deixe em branco caso não seja necessário.";
+$locale['654'] = "Substituir palavras proibidas com:";
+$locale['655'] = "Permitir postagens de visitantes?";
+$locale['656'] = "Número de recados no mural:";
+$locale['657'] = "Modo de manutenção:";
+$locale['658'] = "Mensagem para o modo de manutenção:";
+$locale['659'] = "Activar filtro de palavras proibidas?";
+$locale['660'] = "Intervalo entre postagens:";
+$locale['661'] = "Deixe em branco para upload/download imediato de backups.";
+$locale['662'] = "Usar editor WYSIWYG TinyMCE?";
+$locale['663'] = "Apenas para a administração de artigos e notícias.";
+$locale['664'] = "Servidor SMTP";
+$locale['665'] = "Deixe em branco se o sendmail estiver disponível.";
+$locale['666'] = "Utilizador do SMTP";
+$locale['667'] = "Senha do SMTP";
+$locale['668'] = "Permitir que os membros alterem o tema";
+$locale['669'] = "Notícias por página";
+$locale['670'] = "Deve ser Ímpar";
+// Private Message Settings
+$locale['700'] = "Mensagens Privadas";
+$locale['701'] = "Limite de mensagens na caixa de entrada:";
+$locale['702'] = "Limite de mensagens na caixa de saída:";
+$locale['703'] = "Limite de mensagens arquivadas:";
+$locale['704'] = "Use 0 para mensagens ilimitadas";
+$locale['707'] = "Limites de Mensagens Privadas";
+$locale['708'] = "Configuração padrão para utilizadores";
+$locale['709'] = "Notificação por email?";
+$locale['710'] = "Gravar MPs enviadas?";
+$locale['711'] = "Aviso: Estas configurações apenas serão aplicadas aos utilizadores que não definirem suas próprias opções.";
+// Save Settings
+$locale['750'] = "Gravar Configurações";
+// Other Settings
+$locale['800'] = "Limpar fóruns";
+$locale['801'] = "Mensagens removidas: ";
+$locale['802'] = "Tópicos removidos: ";
+$locale['803'] = "Anexos removidos: ";
+// Banners Settings
+$locale['850'] = "Banners";
+$locale['851'] = "Banner 1";
+$locale['852'] = "Banner 2";
+$locale['853'] = "Senha Administrativa:";
+$locale['854'] = "Gravar Banners";
+$locale['855'] = "Antever Banners";
+// Settings Error
+$locale['900'] = "Configurações Actualizadas";
+$locale['901'] = "Ocorreram erros na bas de dados: as Configurações não foram Actualizadas!";
+?>

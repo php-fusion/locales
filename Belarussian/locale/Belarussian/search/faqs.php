@@ -1,0 +1,1 @@
+<?php$locale['fq400'] = "FAQs";$locale['fq401'] = "FAQ";$locale['fq402'] = "FAQs";$locale['fq403'] = "знойдзена ў";$locale['fq404'] = "FAQ пытанне";$locale['fq405'] = "FAQ адказ";?>

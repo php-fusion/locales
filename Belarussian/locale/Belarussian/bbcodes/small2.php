@@ -1,0 +1,1 @@
+<?php$locale['bb_small2_description'] = "Паказвае абраны тэкст як alt. small";$locale['bb_small2_usage'] = "Альтэрнатыўны дробны";?>

@@ -1,0 +1,1 @@
+<?php$locale['bb_php'] = "PHP";$locale['bb_php_description'] = "Адзначыць абраны тэкст як PHP код";$locale['bb_php_usage'] = "PHP падсвятленне кода";$locale['bb_php_save'] = "Загрузіць код";?>

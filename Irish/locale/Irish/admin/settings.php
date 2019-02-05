@@ -1,0 +1,139 @@
+<?php
+$locale['400'] = "Socruithe";
+// Site Settings
+$locale['401'] = "Príomh";
+$locale['402'] = "Ainm an tSuímh:";
+$locale['403'] = "URL an tSuímh:";
+$locale['404'] = "Ceanntásc an tSuímh:";
+$locale['405'] = "Seoladh Ríomhphoist an tSuímh:";
+$locale['406'] = "Do ainm/leasainm:";
+$locale['407'] = "Brollach an tSuímh:";
+$locale['408'] = "Fág folamh muna bhfuil ag teastáil";
+$locale['409'] = "Cur síos ar an suíomh:";
+$locale['410'] = "Eochair-fhocail an tSuímh:";
+$locale['411'] = "Scar gach focal le camóg";
+$locale['412'] = "Buntásc an tSuímh:";
+$locale['413'] = "Leathanach tosaigh an tSuímh:";
+$locale['414'] = "Stíl Nuachta:";
+$locale['415'] = "Colún amháin";
+$locale['416'] = "Dhá cholún";
+$locale['417'] = "Logchaighdeán an tsuímh:";
+$locale['418'] = "Téama an tsuímh:";
+$locale['419'] = "Áit a dtosaítear cuardach:";
+$locale['420'] = "Fág amach na painéil seo ar chlé:";
+$locale['421'] = "Fág amach na painéil seo in uachtar:";
+$locale['422'] = "Fág amach na painéil seo in íochtar:";
+$locale['423'] = "Fág amach na painéil seo ar dheis:";
+$locale['424'] = "<em>Samplaí:</em><br />/news.php<br />/forum/index.php";
+// Time & Date Settings
+$locale['450'] = "Dáta agus Am";
+$locale['451'] = "Formáid ghearr Dáta:";
+$locale['452'] = "Formáid fhada Dáta:";
+$locale['453'] = "Formáid Dáta fóraim:";
+$locale['454'] = "Formáid Dáta fó-theideal/fó-cheanntásc:";
+$locale['455'] = "-- Roghnaigh formáid --";
+$locale['456'] = "Difríocht ama";
+// Forum Settings
+$locale['500'] = "Fóram";
+$locale['501'] = "Painéal leis na snátha fóraim gníomhacha is deireanaí:";
+$locale['502'] = "Ar";
+$locale['503'] = "As";
+$locale['505'] = "Líon snátha fóraim le taispeáint:";
+$locale['506'] = "(Painéal leis na snátha fóraim gníomhacha is deireanaí)";
+$locale['507'] = "Taispeáin seoladh IP go Poiblí:";
+$locale['508'] = "Cáipéis is mó gur féidir uaslódáil:";
+$locale['509'] = "Méid cáipéise i mbearta";
+$locale['510'] = "Cineálacha cáipéise ceadaithe:";
+$locale['511'] = "Scar gach focal le camóg";
+$locale['512'] = "Ceadaigh fógraíocht snáth fóraim?";
+$locale['518'] = "Sea";
+$locale['519'] = "Ní hEa";
+$locale['520'] = "Cumasaigh rátáil fóraim?";
+$locale['521'] = "Cuir glas ar áis eagrúchána:";
+$locale['522'] = "(Stop úsáideoirí ó a bheith ag eagrú a gcuid iontrálacha)";
+$locale['523'] = "Comhairigh Iontrálacha Úsáideora";
+$locale['524'] = "[DÉANTA]";
+// Registration Settings
+$locale['550'] = "Clárúchán";
+$locale['551'] = "Ceadaigh córas clárúcháin?";
+$locale['552'] = "Úsáid fíorú le ríomhphost le haghaidh clárúcháin?";
+$locale['553'] = "Taispeáin cód bailíochta?";
+$locale['554'] = "Modh lena dtaispeáintear cód bailíochta:";
+$locale['555'] = "Íomhá";
+$locale['556'] = "Téacs";
+$locale['557'] = "An mbeidh ar riarthóir baill nua a chur i ngníomh?";
+$locale['558'] = "Ceadaigh Téarmaí Chomhaontaithe?";
+$locale['559'] = "Téarmaí Chomhaontaithe";
+// Photo Gallery Settings
+$locale['600'] = "Gailearaí";
+$locale['601'] = "Toisí - mionsamhail:";
+$locale['602'] = "Toisí - grianghraf:";
+$locale['603'] = "Uastoisí - grianghraf:";
+$locale['604'] = "Leithead x Airde";
+$locale['605'] = "Méid cáipéise is mó i mbearta:";
+$locale['606'] = "Modh chomhbhrúite le haghaidh mionsamhlacha:";
+$locale['607'] = "GD1";
+$locale['608'] = "GD2";
+$locale['609'] = "Mionsamhlacha in aghaidh na sraithe:";
+$locale['610'] = "Mionsamhlacha in aghaidh an leathanaigh:";
+$locale['611'] = "Ceadaigh dobharmharcanna i ngrianghraf?";
+$locale['612'] = "Tabhair cáipéis PNG mar dhobharmharc";
+$locale['613'] = "Ceadaigh cur síos téacs ar ghrianghraif?";
+$locale['614'] = "Dath - Teideal Albaim";
+$locale['615'] = "Dath - Cur síos Albaim";
+$locale['616'] = "Dath theideal ghrianghraif";
+$locale['617'] = "Sábháil dobharmharcanna a ghintear?";
+$locale['618'] = "(Laghdaíonn ualach oibre an fhreastalaí ach tógann níos mó spáis suas)";
+$locale['619'] = "Scrios dobharmharcanna atá ann";
+$locale['620'] = "Scrios dobharmharcanna atá ann?";
+// Other Settings
+$locale['650'] = "Ilghnéitheach";
+$locale['651'] = "Liosta droch-fhocail:";
+$locale['652'] = "Ná cuir ach focal amháin an líne.";
+$locale['653'] = "(Fág folamh muna bhfuil ag teastáil)";
+$locale['654'] = "Ionadaíocht droch-fhocail:";
+$locale['655'] = "Lig do chuairteoirí iontrálacha a dheánamh?";
+$locale['656'] = "Líon iontrálacha scairtbhosca:";
+$locale['657'] = "Modh cothabhála:";
+$locale['658'] = "Teachtaireacht nuair a bhíonn Modh Cothabhála i bhFeidhm:";
+$locale['659'] = "Cumasaigh scagú droch-fhocail?";
+$locale['660'] = "Méid soicind idir iontrálacha fóraim (<I>Flood interval</I>):";
+$locale['661'] = "Fág folamh le haghaidh uaslódáil/íoslódáil chúltacaí.";
+$locale['662'] = "Úsáid eagarthóir HTML TinyMCE?";
+$locale['663'] = "(Le haghaidh riarthóireach ailt/nuachta)";
+$locale['664'] = "Óstóir SMTP";
+$locale['665'] = "(Fág folamh má tá \"sendmail\" cumasaithe)";
+$locale['666'] = "Ainm úsáideora SMTP";
+$locale['667'] = "Pasfhocal SMTP";
+$locale['668'] = "Lig do úsáideoirí téama a athrú";
+$locale['669'] = "Ailt nuachta an leathanach";
+$locale['670'] = "Ba cheart corr-uimhir a bheith anseo";
+// Private Message Settings
+$locale['700'] = "Teachtaireachtaí Inmheánacha";
+$locale['701'] = "Teorainn bosca isteach:";
+$locale['702'] = "Teorainn bosca amach:";
+$locale['703'] = "Teorainn cartlann teachtaireachtaí:";
+$locale['704'] = "Socraigh go 0 chun nach mbeidh aon teorainn ann";
+$locale['707'] = "Teorainneacha Teachtaireachtaí Inmheánacha";
+$locale['708'] = "Luachanna réamhshocraithe le haghaidh roghanna úsáideora";
+$locale['709'] = "Fógraíocht ríomhphoist?";
+$locale['710'] = "Sábháil Teachtaireachtaí Inmheánacha a seoladh?";
+$locale['711'] = "Tabhair faoi deara: Tabharfar tús áite do rogha úsáideora má shocraítear iad. Muna socraítear iad, cuirfear roghanna an tsuímh i bhfeidhm.";
+// Save Settings
+$locale['750'] = "Sábháil socrúcháin";
+// Other Settings
+$locale['800'] = "Bearr fóraim";
+$locale['801'] = "Iontrálacha scriosta: ";
+$locale['802'] = "Snátha scriosta: ";
+$locale['803'] = "Iatáin scriosta: ";
+// Banners Settings
+$locale['850'] = "Ceanntásc";
+$locale['851'] = "Ceanntásc 1";
+$locale['852'] = "Ceanntásc 2";
+$locale['853'] = "Pasfhocal Riarthóra:";
+$locale['854'] = "Sábháil Ceanntásca";
+$locale['855'] = "Réamhamharc ar Cheanntásca";
+// Settings Error
+$locale['900'] = "Athraíodh na Socrúcháin";
+$locale['901'] = "Tharla earráid le nuashonrú an bhunachar sonraí: Níor athraíodh na Socrúcháin!";
+?>

@@ -1,0 +1,1 @@
+<?php$locale['bb_smiley_description'] = "ׁלאיכû";$locale['bb_smiley_usage'] = "׃סעאג³צü סלאיכ";?>

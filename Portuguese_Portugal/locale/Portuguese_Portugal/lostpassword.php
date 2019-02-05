@@ -1,0 +1,24 @@
+<?php
+$locale['400'] = "Recuperar Senha";
+$locale['401'] = "Um email de confirmação foi enviado para o seu endereço de email.";
+$locale['402'] = "A sua nova senha foi enviada para o seu endereço de email.";
+$locale['403'] = "Voltar à Página Principal";
+$locale['404'] = "O endereço de email especificado não encontrado.";
+$locale['405'] = "O endereço de email especificado é inválido.";
+$locale['406'] = "Por favor, tente novamente.";
+$locale['407'] = "Por favor, insira a conta de e-mail usada no registo.<br />
+Uma nova senha será gerada e enviada para esse email.";
+$locale['408'] = "Enviar Senha";
+$locale['409'] = "Nova senha para ";
+$locale['410'] = "Olá [USER_NAME],\n
+Solicitou uma nova senha para aceder à sua conta em ".$settings['sitename'].".\n
+Para alterar sua senha clique no seguinte link:\n
+[NEW_PASS_LINK]\n
+Atentamente,
+".$settings['siteusername'];
+$locale['411'] = "Olá [USER_NAME],\n
+A sua nova senha para aceder à sua conta em ".$settings['sitename']." é:\n
+[NEW_PASS]\n
+Atentamente,
+".$settings['siteusername'];
+?>

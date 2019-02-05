@@ -1,0 +1,36 @@
+<?php
+$locale['400'] = "PHP Info.";
+//General
+$locale['401'] = "Geral";
+$locale['402'] = "Software de servidor";
+$locale['403'] = "Software de servidor Web";
+$locale['404'] = "Versão do PHP";
+$locale['405'] = "Interface do PHP";
+$locale['406'] = "Versão do Servidor MySQL";
+$locale['407'] = "Versão do PHP-Fusion";
+$locale['408'] = "Prefixo do Banco de Dados";
+$locale['409'] = "Prefixo do Cookie";
+$locale['410'] = "Navegador e S.O.";
+
+//PHP settings
+$locale['420'] = "Configuração do PHP";
+$locale['421'] = "Sim";
+$locale['422'] = "Não";
+$locale['423'] = "Modo de Segurança";
+$locale['424'] = "Registros Globais";
+$locale['425'] = "Suporte para";
+$locale['426'] = "Upload de arquivos (tamanho máx.)";
+$locale['428'] = "Mostrar erros";
+$locale['429'] = "Funções Desativadas";
+$locale['430'] = "n/d";
+$locale['431'] = "versão";
+
+//Write permission
+$locale['440'] = "Permissões das pastas";
+$locale['441'] = "Gravável";
+$locale['442'] = "Não Gravável";
+
+//PHPinfo
+$locale['450'] = "Detalhes";
+$locale['451'] = "Não foi possível obter os dados. Verifique se a função phpinfo() está desligada!";
+?>

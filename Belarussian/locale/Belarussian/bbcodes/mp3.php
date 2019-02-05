@@ -1,0 +1,1 @@
+<?php$locale['bb_mp3'] = "MP3";$locale['bb_mp3_description'] = "Ãףכÿצü MP3 פאיכ ח האהחוםאדא URL";$locale['bb_mp3_usage'] = "MP3 file url";?>

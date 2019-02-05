@@ -1,0 +1,1 @@
+<?php$locale['uf_shouts-stat'] = "Паведамленні міні-чата";$locale['uf_shouts-stat_desc'] = "Колькасць паведамленняў.";?>

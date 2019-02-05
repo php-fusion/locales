@@ -1,0 +1,1 @@
+<?php$locale['bb_code_description'] = "Паказаць тэкст як код";$locale['bb_code_usage'] = "Гэта код";$locale['bb_code_code'] = "Код";$locale['bb_code_save'] = "Загрузіць код";?>

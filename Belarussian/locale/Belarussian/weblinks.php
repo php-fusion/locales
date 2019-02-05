@@ -1,0 +1,1 @@
+<?php$locale['400'] = "Спасылкі";// Download File Information$locale['410'] = "[NEW]";$locale['411'] = "Дададзеная:";$locale['412'] = "Пераходаў:";// Downloads Notices$locale['430'] = "Няма катэгорый";$locale['431'] = "У гэтай катэгорыі няма спасылак";?>

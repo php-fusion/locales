@@ -1,0 +1,1 @@
+<?php$locale['bb_left_description'] = "Выраўноўвае абраны тэкст налева";$locale['bb_left_usage'] = "Выраўнаваць налева";?>

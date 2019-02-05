@@ -1,0 +1,1 @@
+<?php$locale['bb_color_description'] = "Колер абранага тэксту";$locale['bb_color_usage'] = "Колер абранага тэксту";$locale['bb_color_hex'] = "HEX значэнне колеру (без рашоткі)";?>

@@ -1,0 +1,1 @@
+<?php$locale['bb_alt_description'] = "Паказаць абраны тэкст як альтэрнатыўны";$locale['bb_alt_usage'] = "Альтэрнатыўны тэкст";?>

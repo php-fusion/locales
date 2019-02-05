@@ -1,0 +1,1 @@
+<?php//news, articles$locale['400'] = "Даслана ";$locale['401'] = " ";$locale['402'] = "Пашыраныя навіны";//forums$locale['500'] = "Тэма:";$locale['501'] = "Даслана ";$locale['502'] = " ";$locale['503'] = "Рэдагаваў ";//License Agreement$locale['600'] = "Дамова";$locale['601'] = "Апошняе абнаўленне:";?>

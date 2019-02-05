@@ -1,0 +1,1 @@
+<?php$locale['bb_quote_description'] = "Абраны тэкст як вынятка";$locale['bb_quote_usage'] = "Тэкст у двукоссі";?>

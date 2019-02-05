@@ -1,0 +1,19 @@
+===============================================
+Paquete de Idioma Español para PHP-Fusion v7.02
+===============================================
+Autor: Javier Esteban (NobNob)
+Email: nobnob@gmail.com
+Web: http://php-fusion.uni.cc
+
+y
+
+Autor: Álvaro Herrero (aherrero96)
+Email: aherrero96@gmail.com
+
+--------------------
+Registro de Cambios:
+--------------------
+2011/04/10 - Traducción inicial de PHP-Fusion v7.02.00 		(NobNob)
+2011/04/18 - Traducción actualizada para PHP-Fusion v7.02.01	(NobNob)
+2011/07/06 - Traducción actualizada para PHP-Fusion v7.02.02	(aherrero96)
+2011/07/06 - Traducción actualizada para PHP-Fusion v7.02.03	(aherrero96)

@@ -1,0 +1,1 @@
+<?php$locale['bb_hide'] = "Паведамленне для адміна";$locale['bb_hide_description'] = "Паведамленне бачыць толькі адмін";$locale['bb_hide_usage'] = "Тэкст толькі для адміністратара";?>

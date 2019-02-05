@@ -1,0 +1,69 @@
+<?php
+// Panel Management
+$locale['400'] = "Painéis";
+$locale['401'] = "Nome do Painel";
+$locale['402'] = "Lado";
+$locale['403'] = "Ordem";
+$locale['404'] = "Tipo";
+$locale['405'] = "Acesso";
+$locale['406'] = "Opções";
+// Panel Settings
+$locale['420'] = "Esquerda";
+$locale['421'] = "Centro-Sup";
+$locale['422'] = "Direita";
+$locale['423'] = "Arquivo";
+$locale['424'] = "PHP";
+$locale['425'] = "Centro-Inf";
+// Panel Options
+$locale['430'] = "Mover à esquerda";
+$locale['431'] = "Mover à direita";
+$locale['432'] = "Mover acima";
+$locale['433'] = "Mover abaixo";
+$locale['434'] = "Editar";
+$locale['435'] = "Ativar";
+$locale['436'] = "Desativar";
+$locale['437'] = "Remover";
+$locale['438'] = "Adicionar Novo Painel";
+$locale['439'] = "Atualizar Ordem dos Painéis";
+$locale['440'] = "Remover este Painel?";
+$locale['441'] = "Esquerda";
+$locale['442'] = "Direita";
+$locale['443'] = "Acima";
+$locale['444'] = "Abaixo";
+$locale['445'] = "Mover para o superior";
+$locale['446'] = "Mover para o inferior";
+// Add/Edit Panel Form
+$locale['450'] = "Editar Painel";
+$locale['451'] = "Adicionar Painel";
+$locale['452'] = "Nome do Painel:";
+$locale['453'] = "Nome do Arquivo do Painel:";
+$locale['454'] = "Caso selecionado o Conteúdo do Painel será ignorado";
+$locale['455'] = "Conteúdo do Painel:";
+$locale['456'] = "Senha Administrativa:";
+$locale['457'] = "Lado do Painel:";
+$locale['458'] = "Acesso ao Painel:";
+$locale['459'] = "Exibir painel em todas as páginas";
+$locale['460'] = "Prever Painel";
+$locale['461'] = "Salvar Painel";
+$locale['462'] = "Restrição de Painel:";
+$locale['463'] = "Examplos:";
+$locale['464'] = "Excluir nestas páginas";
+$locale['465'] = "Inclua nestas páginas";
+// Update/Add new Panel Errors
+$locale['470'] = "O nome do painel não foi definido";
+$locale['471'] = "O nome do painel já está sendo utilizado";
+$locale['472'] = "O conteúdo do painel não foi definido";
+$locale['473'] = "O nome de arquivo do painel não foi definido";
+$locale['474'] = "A senha administrativa está incorreta";
+$locale['475'] = "Você precisa assinalar \"Mostrar em todas as páginas\" quando restringir Centro Superior ou painéis Centro Inferiores";
+// Update/Add new Panel Success/Fail
+$locale['480'] = "Atualizar Painel";
+$locale['481'] = "Não foi possível atualizar o Painel";
+$locale['482'] = "Painel atualizado";
+$locale['483'] = "Adicionar Novo Painel";
+$locale['484'] = "Não foi possível adicionar um novo Painel";
+$locale['485'] = "Novo Painel Adicionado";
+$locale['486'] = "Retornar à Administração de Painéis";
+$locale['487'] = "Retornar ao Início da Administração";
+$locale['488'] = "Ordem de atualização dos Painéis.";
+?>
