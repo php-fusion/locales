@@ -17,8 +17,8 @@ $locale['421'] = "Ja";
 $locale['422'] = "Nej";
 $locale['423'] = "Safemode";
 $locale['424'] = "RegisterGlobals";
-$locale['425'] = "Understøttelse af";
-$locale['426'] = "Upload af filer - maksimal filstørrelse";
+$locale['425'] = "UnderstÃ¸ttelse af";
+$locale['426'] = "Upload af filer - maksimal filstÃ¸rrelse";
 $locale['428'] = "Vis fejl";
 $locale['429'] = "Deaktiverede funktioner";
 $locale['430'] = "n/a";
@@ -31,5 +31,5 @@ $locale['442'] = "Ikke skrivbar";
 
 //PHPinfo
 $locale['450'] = "Detaljer";
-$locale['451'] = "Ude af stand til at hente data. Se efter om funktionen phpinfo() er slået fra?";
+$locale['451'] = "Ude af stand til at hente data. Se efter om funktionen phpinfo() er slÃ¥et fra?";
 ?>

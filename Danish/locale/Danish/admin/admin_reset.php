@@ -1,48 +1,48 @@
 <?php
 // Infusion titles & description
-$locale['apw_title'] = "Ændring af administratorkodeord";
-$locale['apw_desc'] = "Ændrer almindeligt kodeord og administratorkodeord";
+$locale['apw_title'] = "Ã†ndring af administratorkodeord";
+$locale['apw_desc'] = "Ã†ndrer almindeligt kodeord og administratorkodeord";
 $locale['apw_admin1'] = "Administrator Reset";
 
-$locale['400'] = "Vælg administratorer der skal ændres:";
+$locale['400'] = "VÃ¦lg administratorer der skal Ã¦ndres:";
 $locale['401'] = "Alle administratorer";
 $locale['402'] = "Kun superadmins";
 $locale['403'] = "Kun admins";
-$locale['404'] = "Begrundelse for ændringen:";
-$locale['405'] = "Nulstil / ændre både almindeligt kodeord og administratorkodeord";
+$locale['404'] = "Begrundelse for Ã¦ndringen:";
+$locale['405'] = "Nulstil / Ã†ndre bÃ¥de almindeligt kodeord og administratorkodeord";
 $locale['406'] = "Nulstil kodeord";
 $locale['407'] = "Kodeord nulstillet d. ";
 $locale['408'] = "Hej [USER_NAME]
 
-Dit administrative kodeord er blevet nulstillet og ændret på ".$settings['siteurl'].":
+Dit administrative kodeord er blevet nulstillet og Ã¦ndret pÃ¥ ".$settings['siteurl'].":
 
 Administrativt kodeord: [NEW_ADMIN_PASS]
 
-Årsagen til denne ændring er: [RESET_MESSAGE]
+Ã…rsagen til denne Ã¦ndring er: [RESET_MESSAGE]
 
 Venlig hilsen
 [ADMIN]";
 $locale['409'] = "Hej [USER_NAME]
 
-Både dit almindelige kodeord og dit administrative kodeord er blevet ændret på ".$settings['siteurl'].":
+BÃ¥de dit almindelige kodeord og dit administrative kodeord er blevet Ã¦ndret pÃ¥ ".$settings['siteurl'].":
 
 Almindeligt kodeord: [NEW_PASS]
 Admininistrativt kodeord: [NEW_ADMIN_PASS]
 
-Årsagen til denne ændring er: [RESET_MESSAGE]
+Ã…rsagen til denne Ã¦ndring er: [RESET_MESSAGE]
 
 Venlig hilsen
 [ADMIN]";
-$locale['410'] = "Resultater af ændringen";
-$locale['411'] = "<strong>Bemærk:</strong> Administratorkodeord er enten ikke angivet eller ikke korrekt.";
+$locale['410'] = "Resultater af Ã¦ndringen";
+$locale['411'] = "<strong>BemÃ¦rk:</strong> Administratorkodeord er enten ikke angivet eller ikke korrekt.";
 $locale['412'] = "Administratorkodeord:";
-$locale['415'] = "Log over kodeordsændringer";
-$locale['416'] = "Log ID";
-$locale['417'] = "Ændringstidspunkt";
+$locale['415'] = "Log over kodeordsÃ¦ndringer";
+$locale['416'] = "Log-ID";
+$locale['417'] = "Ã†ndringstidspunkt";
 $locale['418'] = "Ansvarlig";
-$locale['419'] = "Ændret";
+$locale['419'] = "Ã†ndret";
 $locale['420'] = "Virksomt";
-$locale['421'] = "Årsag";
+$locale['421'] = "Ã…rsag";
 $locale['422'] = "af";
-$locale['423'] = "Ingen årsag angivet.";
+$locale['423'] = "Ingen Ã¥rsag angivet.";
 ?>

@@ -4,6 +4,6 @@ $locale['p401'] = "Billede";
 $locale['p402'] = "Billeder";
 $locale['p403'] = "[NY]";
 $locale['p404'] = "Album:";
-$locale['p405'] = "Tilføjelsesdato:";
+$locale['p405'] = "TilfÃ¸jelsesdato:";
 $locale['p406'] = "Fremvisninger:";
 ?>

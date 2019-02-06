@@ -1,5 +1,5 @@
 <?php
 $locale['bb_allegro'] = "Allegro";
-$locale['bb_allegro_description'] = "Søger efter varer på Allegro - Polsk auktionsportal";
-$locale['bb_allegro_usage'] = "Tekst der skal søges efter";
+$locale['bb_allegro_description'] = "SÃ¸ger efter varer pÃ¥ Allegro - Polsk auktionsportal";
+$locale['bb_allegro_usage'] = "Tekst der skal sÃ¸ges efter";
 ?>

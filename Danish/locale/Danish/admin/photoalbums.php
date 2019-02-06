@@ -1,31 +1,31 @@
 <?php
 // Album titles
-$locale['400'] = "Tilf¯j album";
+$locale['400'] = "Tilf√∏j album";
 $locale['401'] = "Rediger album";
 $locale['402'] = "Aktuelt oprettede albums";
-$locale['403'] = "Der er opstÂet en alvorlig fejl";
+$locale['403'] = "Der er opst√•et en alvorlig fejl";
 // Album messages
-$locale['410'] = "Det nye album er tilf¯jet";
+$locale['410'] = "Det nye album er tilf√∏jet";
 $locale['411'] = "Album'et er opdateret";
 $locale['412'] = "Albumikonet er slettet";
 $locale['413'] = "Dit album er slettet";
-$locale['414'] = "Der er opstÂet f¯lgende fejl:";
-$locale['415'] = "Filnavnet er fejlbehÊftet.";
-$locale['416'] = "Billedet skal vÊre mindre end %s.";
-$locale['417'] = "Billedformatet skal vÊre GIF, JPEG eller PNG.";
-$locale['418'] = "Billedet mÂ ikke vÊre st¯rre end %uw x %uh pixels.";
+$locale['414'] = "Der er opst√•et f√∏lgende fejl:";
+$locale['415'] = "Filnavnet er fejlbeh√¶ftet.";
+$locale['416'] = "Billedet skal v√¶re mindre end %s.";
+$locale['417'] = "Billedformatet skal v√¶re GIF, JPEG eller PNG.";
+$locale['418'] = "Billedet m√• ikke v√¶re st√∏rre end %uw x %uh pixels.";
 $locale['419'] = "Album'et kan ikke slettes. Dit kodeord er forkert.";
-$locale['420'] = "GD er ikke installeret pÂ serveren. Fotoalbumfunktionen vil kun virke, nÂr der er adgang til GD. Kontakt din leverand¯r.";
+$locale['420'] = "GD er ikke installeret p√Ç serveren. Fotoalbumfunktionen vil kun virke, n√•r der er adgang til GD. Kontakt din leverand√∏r.";
 // Album confirmation
-$locale['430'] = "BekrÊftelse af sletning";
-$locale['431'] = "Det album, du pr¯ver at slette, indeholder et eller flere billeder<br />\nFor at slette dette album, skal du angive dit administratorkodeord:";
-$locale['432'] = "BekrÊft";
+$locale['430'] = "Bekr√¶ftelse af sletning";
+$locale['431'] = "Det album, du pr√∏ver at slette, indeholder et eller flere billeder<br />\nFor at slette dette album, skal du angive dit administratorkodeord:";
+$locale['432'] = "Bekr√¶ft";
 $locale['433'] = "Fortryd";
 // Album form
 $locale['440'] = "Overskrift: ";
 $locale['441'] = "Beskrivelse: ";
 $locale['442'] = "Adgang for: ";
-$locale['443'] = "RÊkkef¯lge: ";
+$locale['443'] = "R√¶kkef√∏lge: ";
 $locale['444'] = "Ikon: ";
 $locale['445'] = "Gem album";
 // Current Albums

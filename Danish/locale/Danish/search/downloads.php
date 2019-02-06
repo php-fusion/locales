@@ -6,6 +6,6 @@ $locale['d403'] = "[NY]";
 $locale['d404'] = "Licens:";
 $locale['d405'] = "O/S:";
 $locale['d406'] = "Version:";
-$locale['d407'] = "Tilføjelsesdato:";
+$locale['d407'] = "TilfÃ¸jelsesdato:";
 $locale['d408'] = "Downloads:";
 ?>

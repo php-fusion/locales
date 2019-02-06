@@ -1,18 +1,18 @@
 <?php
 $locale['400'] = "Glemt kodeord";
-$locale['401'] = "En bekrÊftelsesmail er blevet sendt til din mail adresse.";
-$locale['402'] = "Dit nye kodeord er blevet sendt til din mail adresse.";
+$locale['401'] = "En bekr√¶ftelsesmail er blevet sendt til din mailadresse.";
+$locale['402'] = "Dit nye kodeord er blevet sendt til din mailadresse.";
 $locale['403'] = "Tilbage til hjemmesiden";
-$locale['404'] = "Den mail adresse, du opgav, kunne ikke findes.";
-$locale['405'] = "Den mail adresse, du opgav, er ikke gyldig.";
-$locale['406'] = "Venligst pr¯v igen.";
-$locale['407'] = "Indtast venligst den mail adresse din konto er registreret med nedenfor.<br />
+$locale['404'] = "Den mailadresse, du opgav, kunne ikke findes.";
+$locale['405'] = "Den mailadresse, du opgav, er ikke gyldig.";
+$locale['406'] = "Venligst pr√∏v igen.";
+$locale['407'] = "Indtast venligst den mailadresse din konto er registreret med nedenfor.<br />
 Et nyt kodeord vil blive oprettet og sendt til den adresse.";
 $locale['408'] = "Send kodeord";
 $locale['409'] = "Nyt kodeord til ";
 $locale['410'] = "Hej [USER_NAME],\n
-Du eller en anden har bedt om at fÂ et nyt kodeord til din konto hos ".$settings['sitename']." tilsendt.\n
-For at skifte dit kodeord bedes du klikke pÂ f¯lgende link:\n
+Du eller en anden har bedt om at f√• et nyt kodeord til din konto hos ".$settings['sitename']." tilsendt.\n
+For at skifte dit kodeord bedes du klikke p√• f√∏lgende link:\n
 [NEW_PASS_LINK]\n
 Venlig hilsen
 ".$settings['siteusername'];
@@ -21,5 +21,5 @@ Dit nye kodeord til ".$settings['sitename']." er:\n
 [NEW_PASS]\n
 Venligst,
 ".$settings['siteusername'];
-$locale['412'] = "Der opstod en fejl. Pr¯v igen senere.";
+$locale['412'] = "Der opstod en fejl. Pr√∏v igen senere.";
 ?>

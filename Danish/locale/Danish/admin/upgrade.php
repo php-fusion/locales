@@ -1,7 +1,7 @@
 <?php
 $locale['400'] = "Opgrader";
 //No upgrade
-$locale['401'] = "Der er ingen databaseopgradering tilgængelig.";
+$locale['401'] = "Der er ingen databaseopgradering tilgÃ¦ngelig.";
 // Stage 6 - User Field Categories
 $locale['420'] = "Kontaktoplysninger";
 $locale['421'] = "Diverse Information";
@@ -14,19 +14,19 @@ $locale['435'] = "Sikkerhed";
 $locale['436'] = "Nyhedsindstillinger";
 $locale['437'] = "Downloadindstillinger";
 // v7.02 new locales
-$locale['440'] = "Foreslå download";
+$locale['440'] = "ForeslÃ¥ download";
 $locale['441'] = "Replikboks";
 $locale['442'] = "robots.txt";
 $locale['443'] = "Brugerlog";
 $locale['444'] = "Rediger administrativt kodeord";
 $locale['445'] = "Fejllog";
 //Upgrade locales
-$locale['500'] = "En %s opgradering til databasen er tilgængelig.";
-$locale['501'] = "Klik ganske enkelt på opgrader for at gennemføre den.";
-$locale['502'] = "Opgraderingen er gennemført.";
-$locale['503'] = "større";
+$locale['500'] = "En %s opgradering til databasen er tilgÃ¦ngelig.";
+$locale['501'] = "Klik ganske enkelt pÃ¥ opgrader for at gennemfÃ¸re den.";
+$locale['502'] = "Opgraderingen er gennemfÃ¸rt.";
+$locale['503'] = "stÃ¸rre";
 $locale['504'] = "mindre";
 $locale['505'] = "Erstat disse linjer i filen config.php!";
 
-$locale['600'] = "Du skal redigere din config.php, og erstatte indholdet med følgende kode:";
+$locale['600'] = "Du skal redigere din config.php, og erstatte indholdet med fÃ¸lgende kode:";
 ?>

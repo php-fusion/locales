@@ -1,5 +1,5 @@
 <?php
-$locale['uf_birthdate'] = "Fødselsdag";
-$locale['uf_birthdate_desc'] = "Viser brugerens fødselsdag";
-$locale['uf_birthdate_error'] = "Fødselsdagen blev ikke indtastet korrekt.";
+$locale['uf_birthdate'] = "FÃ¸dselsdag";
+$locale['uf_birthdate_desc'] = "Viser brugerens fÃ¸dselsdag";
+$locale['uf_birthdate_error'] = "FÃ¸dselsdagen blev ikke indtastet korrekt.";
 ?>

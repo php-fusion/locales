@@ -1,10 +1,10 @@
 <?php
 // News Categories titles
 $locale['400'] = "Rediger nyhedskategori";
-$locale['401'] = "Tilføj nyhedskategori";
+$locale['401'] = "TilfÃ¸j nyhedskategori";
 $locale['402'] = "Aktuelle nyhedskategorier";
 // News Categories messages
-$locale['420'] = "Nyhedskategorien er tilføjet";
+$locale['420'] = "Nyhedskategorien er tilfÃ¸jet";
 $locale['421'] = "Nyhedskategorien er opdateret";
 $locale['422'] = "Nyhedskategorien kan ikke slettes";
 $locale['423'] = "Der er knyttet nyheder til denne kategori";

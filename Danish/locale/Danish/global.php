@@ -19,7 +19,7 @@ $locale['months'] = "&nbsp|Januar|Februar|Marts|April|Maj|Juni|Juli|August|Septe
 $locale['shortmonths'] = "&nbsp|Jan|Feb|Mar|Apr|Maj|Jun|Jul|Aug|Sep|Okt|Nov|Dec";
 
 // Standard User Levels
-$locale['user0'] = "Gæst";
+$locale['user0'] = "GÃ¦st";
 $locale['user1'] = "Bruger";
 $locale['user2'] = "Administrator";
 $locale['user3'] = "Super Administrator";
@@ -30,7 +30,7 @@ $locale['status0'] = "Aktiv";
 $locale['status1'] = "Udelukket";
 $locale['status2'] = "Ikke aktiveret";
 $locale['status3'] = "Suspenderet";
-$locale['status4'] = "Udelukket af sikkerhedsårsager";
+$locale['status4'] = "Udelukket af sikkerhedsÃ¥rsager";
 $locale['status5'] = "Annulleret";
 $locale['status6'] = "Anonym";
 $locale['status7'] = "Deaktiveret";
@@ -41,8 +41,8 @@ $locale['userf1'] = "Ordstyrer";
 $locale['global_001'] = "Navigation";
 $locale['global_002'] = "Der er ikke oprettet links\n";
 // Users Online
-$locale['global_010'] = "Besøgende";
-$locale['global_011'] = "Gæster online";
+$locale['global_010'] = "BesÃ¸gende";
+$locale['global_011'] = "GÃ¦ster online";
 $locale['global_012'] = "Brugere online";
 $locale['global_013'] = "Ingen brugere online";
 $locale['global_014'] = "Antal brugere";
@@ -58,7 +58,7 @@ $locale['global_025'] = "Seneste kommentarer";
 $locale['global_026'] = "Der er ikke skrevet kommentarer";
 // Articles Side panel
 $locale['global_030'] = "Nyeste artikler";
-$locale['global_031'] = "Ingen artikler tilgængelige";
+$locale['global_031'] = "Ingen artikler tilgÃ¦ngelige";
 // Downloads Side panel
 $locale['global_032'] = "Seneste downloads";
 $locale['global_033'] = "Der er ikke oprettet downloads";
@@ -68,28 +68,28 @@ $locale['global_035'] = "Velkommen";
 $locale['global_040'] = "Senest aktive debatemner";
 $locale['global_041'] = "Mine nyeste emner";
 $locale['global_042'] = "Mine nyeste emner";
-$locale['global_043'] = "Nye indlæg";
+$locale['global_043'] = "Nye indlÃ¦g";
 $locale['global_044'] = "Debat";
 $locale['global_045'] = "Visninger";
 $locale['global_046'] = "Svar";
-$locale['global_047'] = "Nyeste indlæg";
+$locale['global_047'] = "Nyeste indlÃ¦g";
 $locale['global_048'] = "Forum";
 $locale['global_049'] = "Skrevet";
 $locale['global_050'] = "Forfatter";
 $locale['global_051'] = "Afstemning";
 $locale['global_052'] = "Flyttet";
 $locale['global_053'] = "Du har ikke oprettet debatemner endnu.";
-$locale['global_054'] = "Du har ikke oprettet debatindlæg endnu.";
-$locale['global_055'] = "Der er kommet %u nye indlæg siden dit sidste besøg.";
+$locale['global_054'] = "Du har ikke oprettet debatindlÃ¦g endnu.";
+$locale['global_055'] = "Der er kommet %u nye indlÃ¦g siden dit sidste besÃ¸g.";
 $locale['global_056'] = "Mine udvalgte emner";
 $locale['global_057'] = "Valgmuligheder";
 $locale['global_058'] = "Stop";
 $locale['global_059'] = "Du har ikke udvalgt emner.";
-$locale['global_060'] = "Fravælg dette emne?";
+$locale['global_060'] = "FravÃ¦lg dette emne?";
 // News & Articles
 $locale['global_070'] = "Skrevet af ";
 $locale['global_071'] = "d. ";
-$locale['global_072'] = "Læs mere";
+$locale['global_072'] = "LÃ¦s mere";
 $locale['global_073'] = " Kommentarer";
 $locale['global_073b'] = " Kommentar";
 $locale['global_074'] = " Fremvisninger";
@@ -100,8 +100,8 @@ $locale['global_078'] = "Der er ikke oprettet nyheder endnu";
 $locale['global_079'] = "I ";
 $locale['global_080'] = "Ukategoriseret";
 // Page Navigation
-$locale['global_090'] = "Foregående";
-$locale['global_091'] = "Næste";
+$locale['global_090'] = "ForegÃ¥ende";
+$locale['global_091'] = "NÃ¦ste";
 $locale['global_092'] = "Side ";
 $locale['global_093'] = " af ";
 // Guest User Menu
@@ -128,14 +128,14 @@ $locale['global_129'] = "forslag";
 // Poll
 $locale['global_130'] = "Brugerafstemning";
 $locale['global_131'] = "Stem";
-$locale['global_132'] = "Du er nødt til at logge på for at stemme.";
+$locale['global_132'] = "Du er nÂ¯dt til at logge pÃ¥ for at stemme.";
 $locale['global_133'] = "Stemme";
 $locale['global_134'] = "Stemmer";
 $locale['global_135'] = "Stemmer: ";
-$locale['global_136'] = "Påbegyndt: ";
+$locale['global_136'] = "PÃ¥begyndt: ";
 $locale['global_137'] = "Afsluttet: ";
 $locale['global_138'] = "Afstemningsarkiv";
-$locale['global_139'] = "Vælg en afstemning fra listen:";
+$locale['global_139'] = "VÃ¦lg en afstemning fra listen:";
 $locale['global_140'] = "Se";
 $locale['global_141'] = "Se afstemning";
 $locale['global_142'] = "Der er endnu ikke oprettet afstemninger.";
@@ -143,48 +143,48 @@ $locale['global_142'] = "Der er endnu ikke oprettet afstemninger.";
 $locale['global_150'] = "Replikboks";
 $locale['global_151'] = "Navn:";
 // Footer Counter
-$locale['global_170'] = "Unikt besøg";
-$locale['global_171'] = "Unikke besøg";
-$locale['global_172'] = "Siden dannet på: %s sekunder";
-$locale['global_173'] = "Forespørgsler";
+$locale['global_170'] = "Unikt besÃ¸g";
+$locale['global_171'] = "Unikke besÃ¸g";
+$locale['global_172'] = "Siden dannet pÃ‚: %s sekunder";
+$locale['global_173'] = "ForespÃ¸rgsler";
 // Admin Navigation
 $locale['global_180'] = "Administration";
 $locale['global_181'] = "Forside";
-$locale['global_182'] = "<strong>Bemærk</strong>: Administratorkodeordet er ikke blevet indtastet eller er ikke korrekt.";
+$locale['global_182'] = "<strong>BemÃ¦rk</strong>: Administratorkodeordet er ikke blevet indtastet eller er ikke korrekt.";
 // Miscellaneous
 $locale['global_190'] = "Vedligeholdelsestilstand er aktiveret";
-$locale['global_191'] = "Din IP adresse er aktuelt udelukket.";
+$locale['global_191'] = "Din IP-adresse er aktuelt udelukket.";
 $locale['global_192'] = "Logger ud som ";
 $locale['global_193'] = "Logger ind som ";
 $locale['global_194'] = "Denne konto er aktuelt lukket.";
 $locale['global_195'] = "Denne konto er endnu ikke aktiveret.";
 $locale['global_196'] = "Forkert brugernavn eller kodeord.";
-$locale['global_197'] = "Vent et øjeblik, mens vi overfører dig ...<br /><br />
-[ <a href='index.php'>Eller klik her, hvis du ikke ønsker at vente</a> ]";
+$locale['global_197'] = "Vent et Ã¸jeblik, mens vi overfÃ¸rer dig ...<br /><br />
+[ <a href='index.php'>Eller klik her, hvis du ikke Ã¸nsker at vente</a> ]";
 $locale['global_198'] = "<strong>Advarsel:</strong> Du har glemt at slette setup.php. Slet den med det samme!";
-$locale['global_199'] = "<strong>Advarsel:</strong> administratorkodeord er ikke oprettet. Klik på <a href='".BASEDIR."edit_profile.php'>Rediger profil</a> for at oprette det.";
+$locale['global_199'] = "<strong>Advarsel:</strong> administratorkodeord er ikke oprettet. Klik pÃ¥ <a href='".BASEDIR."edit_profile.php'>Rediger profil</a> for at oprette det.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = $locale['global_200']."Søg";
+$locale['global_202'] = $locale['global_200']."SÃ¸g";
 $locale['global_203'] = $locale['global_200']."FAQ";
 $locale['global_204'] = $locale['global_200']."Debat";
 //Themes
 $locale['global_210'] = "Spring til indhold";
 // No themes found
 $locale['global_300'] = "intet tema fundet";
-$locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte årsager kan sidens tema ikke findes. 
-Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema designet til brug i forbindelse med 
+$locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte Ã¥rsager kan sidens tema ikke findes. 
+Hvis du er administrator pÃ¥ siden, sÃ¥ brug din FTP-klient til at uploade et tema designet til brug i forbindelse med 
 <strong>PHP-Fusion version 7</strong> til folderen <strong>themes/</strong>. Efter at du har gjort det, skal du se 
-under <strong>Hovedopsætning</strong> for at sikre dig, at det uploadede tema er kommet korrekt op på siden. 
-Bemærk at den uploadede temafolder skal have nøjagtigt samme navn inklusive store og små bogstaver som navnet 
-på det tema, du vælger under <strong>Hovedopsætning</strong>.<br /><br /> Hvis du er medlem på siden, så skal 
+under <strong>HovedopsÃ¦tning</strong> for at sikre dig, at det uploadede tema er kommet korrekt op pÃ¥ siden. 
+BemÃ¦rk at den uploadede temafolder skal have nÃ¸jagtigt samme navn inklusive store og smÃ¥ bogstaver som navnet 
+pÃ¥ det tema, du vÃ¦lger under <strong>HovedopsÃ¦tning</strong>.<br /><br /> Hvis du er medlem pÃ¥ siden, sÃ¥ skal 
 du kontakte sidens administrator via ".hide_email($settings['siteemail'])." mail og rapportere om problemet.";
-$locale['global_302'] = "Det tema, som du har valgt under hovedopsætning eksisterer ikke eller er inkompatibelt!";
+$locale['global_302'] = "Det tema, som du har valgt under hovedopsÃ¦tning eksisterer ikke eller er inkompatibelt!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Jamen dog! Hvor finder vi det stærke <strong>JavaScript</strong>?<br />Din browser understøtter ikke
-JavaScript eller har ikke understøttelsen slået til. Slå <strong>JavaScript til</strong> i din browser for at se denne side
-ordentligt,<br /> eller <strong>opgrader</strong> til en browser, der understøtter JavaScript; <a href='http://firefox.com' rel='nofollow' 
+$locale['global_303'] = "Jamen dog! Hvor finder vi det stÃ¦rke <strong>JavaScript</strong>?<br />Din browser understÃ¸tter ikke
+JavaScript eller har ikke understÃ¸ttelsen slÃ¥et til. SlÃ¥ <strong>JavaScript til</strong> i din browser for at se denne side
+ordentligt,<br /> eller <strong>opgrader</strong> til en browser, der understÃ¸tter JavaScript; <a href='http://firefox.com' rel='nofollow' 
 title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, 
 <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' 
 rel='nofollow' title='Google Chrome'>Chrome</a> eller en version af <a href='http://www.microsoft.com/windows/internet-explorer/' 
@@ -197,37 +197,37 @@ $locale['global_402'] = "deaktiveret";
 $locale['global_403'] = "brugerkontoen lukket";
 $locale['global_404'] = "brugerkontoen anonymiseret";
 $locale['global_405'] = "anonym bruger";
-$locale['global_406'] = "Denne brugerkonto er udelukket af følgende årsag:";
+$locale['global_406'] = "Denne brugerkonto er udelukket af fÃ¸lgende Ã¥rsag:";
 $locale['global_407'] = "Denne brugerkonto er suspenderet indtil ";
-$locale['global_408'] = " af følgende årsag:";
-$locale['global_409'] = "Denne konto er blevet udelukket af sikkerhedsårsager.";
+$locale['global_408'] = " af fÃ¸lgende Ã¥rsag:";
+$locale['global_409'] = "Denne konto er blevet udelukket af sikkerhedsÃ¥rsager.";
 $locale['global_410'] = "Begrundelsen er: ";
 $locale['global_411'] = "Denne konto er blevet sat i passiv tilstand.";
-$locale['global_412'] = "Denne konto er blevet anonymiseret sandsynligvis på grund af manglende aktivitet.";
+$locale['global_412'] = "Denne konto er blevet anonymiseret sandsynligvis pÃ¥ grund af manglende aktivitet.";
 // Banning due to flooding
 $locale['global_440'] = "Automatisk udelukkelse via Flood Control";
-$locale['global_441'] = "Din brugerkonto på ".$settings['sitename']."er blevet udelukket";
+$locale['global_441'] = "Din brugerkonto pÃ¥ ".$settings['sitename']."er blevet udelukket";
 $locale['global_442'] = "Hej [USER_NAME]\n
-Din konto på ".$settings['sitename']." blev registreret fordi den offentliggjorde for mange indlæg på for kort tid fra IP-adressen ".USER_IP.". Derfor er kontoen blevet udelukket. Dette sker for at forhindre, at scripts kan lægge spam ind meget hurtigt.\n
-Kontakt administratoren på ".$settings['siteemail']." for at få genåbnet din konto eller dokumenter, at det ikke var dig der udløste denne udelukkelse.\n
+Din konto pÃ¥ ".$settings['sitename']." blev registreret fordi den offentliggjorde for mange indlÃ¦g pÃ¥ for kort tid fra IP-adressen ".USER_IP.". Derfor er kontoen blevet udelukket. Dette sker for at forhindre, at scripts kan lÃ¦gge spam ind meget hurtigt.\n
+Kontakt administratoren pÃ¥ ".$settings['siteemail']." for at fÃ¥ genÃ¥bnet din konto eller dokumenter, at det ikke var dig der udlÃ¸ste denne udelukkelse.\n
 ".$settings['siteusername'];
 // Lifting of suspension
-$locale['global_450'] = "Udelukkelsen er automatisk ophævet af systemet";
-$locale['global_451'] = "Udelukkelse er ophævet på ".$settings['sitename'];
+$locale['global_450'] = "Udelukkelsen er automatisk ophÃ¦vet af systemet";
+$locale['global_451'] = "Udelukkelse er ophÃ¦vet pÃ¥ ".$settings['sitename'];
 $locale['global_452'] = "Hej USER_NAME\n
-Udelukkelsen af din konto på ".$settings['siteurl']." er blevet ophævet. Her er dine pålogningsoplysninger:\n
+Udelukkelsen af din konto pÃ¥ ".$settings['siteurl']." er blevet ophÃ¦vet. Her er dine pÃ¥logningsoplysninger:\n
 Brugernavn: USER_NAME
-Kodeord: Skjult af sikkerhedsårsager\n
-Hvis du har glemt dit kodeord kan du oprette et nyt via følgende link: LOST_PASSWORD\n\n
+Kodeord: Skjult af sikkerhedsÃ¥rsager\n
+Hvis du har glemt dit kodeord kan du oprette et nyt via fÃ¸lgende link: LOST_PASSWORD\n\n
 Venlig hilsen\n
 ".$settings['siteusername'];
 $locale['global_453'] = "Hej USER_NAME\n
-Udelukkelsen af din konto på ".$settings['siteurl']." er blevet ophævet.\n\n
+Udelukkelsen af din konto pÃ¥ ".$settings['siteurl']." er blevet ophÃ¦vet.\n\n
 Venlig hilsen\n
 ".$settings['siteusername'];
-$locale['global_454'] = "Kontoen er genaktiveret på ".$settings['sitename'];
+$locale['global_454'] = "Kontoen er genaktiveret pÃ¥ ".$settings['sitename'];
 $locale['global_455'] = "Hej USER_NAME\n
-Sidste gang du loggede på, blev din konto reaktiveret på ".$settings['siteurl']." og du er ikke længere registreret som inaktiv.\n\n
+Sidste gang du loggede pÃ¥, blev din konto reaktiveret pÃ¥ ".$settings['siteurl']." og du er ikke lÃ¦ngere registreret som inaktiv.\n\n
 Venlig hilsen\n
 ".$settings['siteusername'];
 // Function parsebytesize()
@@ -238,7 +238,7 @@ $locale['global_463'] = "MB";
 $locale['global_464'] = "GB";
 $locale['global_465'] = "TB";
 //Safe Redirect
-$locale['global_500'] = "Vi sender dig videre til %s, vent venligst. Hvis du ikke bliver sendt videre, så klik her.";
+$locale['global_500'] = "Vi sender dig videre til %s, vent venligst. Hvis du ikke bliver sendt videre, sÃ¥ klik her.";
 
 // Captcha Locales
 // Captcha Locales

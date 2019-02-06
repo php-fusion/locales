@@ -1,10 +1,10 @@
 <?php
 // Web Link Category titles
-$locale['400'] = "Tilføj linkkategori";
+$locale['400'] = "TilfÃ¸j linkkategori";
 $locale['401'] = "Rediger linkkategori";
 $locale['402'] = "Aktuelle linkkategorier";
 // Web Link Category messages
-$locale['410'] = "Linkkategorien er tilføjet";
+$locale['410'] = "Linkkategorien er tilfÃ¸jet";
 $locale['411'] = "Linkkategorien er opdateret";
 $locale['412'] = "Linkkategorien kunne ikke slettes";
 $locale['413'] = "Der er knyttet links til denne kategori";
@@ -29,11 +29,11 @@ $locale['440'] = "Skal kategorien slettes?";
 $locale['460'] = "Du skal indskrive et kategorinavn.";
 $locale['461'] = "Denne kategori eksisterer allerede.";
 // Web Link titles
-$locale['500'] = "Tilføj link";
+$locale['500'] = "TilfÃ¸j link";
 $locale['501'] = "Rediger link";
 $locale['502'] = "Aktuelt oprettede links";
 // Web Link messages
-$locale['510'] = "Linket er tilføjet";
+$locale['510'] = "Linket er tilfÃ¸jet";
 $locale['511'] = "Linket er opdateret";
 $locale['512'] = "Linket er slettet";
 // Web Link form
@@ -51,7 +51,7 @@ $locale['534'] = "Slet";
 $locale['535'] = "Der er ikke tilknyttet links til denne kategori";
 $locale['536'] = "Der er ikke oprettet linkkategorier";
 $locale['537'] = "Der er ikke oprettet linkkategorier";
-$locale['538'] = "Du er nødt til at oprette mindst en kategori, før du kan oprette et link";
+$locale['538'] = "Du er nÃ¸dt til at oprette mindst en kategori, fÃ¸r du kan oprette et link";
 $locale['539'] = "Klik her";
 $locale['540'] = " for at springe til linkkategorier";
 // Delete Web Link

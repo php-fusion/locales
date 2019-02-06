@@ -1,7 +1,7 @@
 <?php
-$locale['bb_search_description'] = "Søg efter en bestemt tekst på den aktuelle side";
-$locale['bb_search_usage'] = "Den tekst der skal søges efter";
-$locale['bb_search_prefix'] = "Søg efter ";
-$locale['bb_search_suffix'] = " på ";
+$locale['bb_search_description'] = "SÃ¸g efter en bestemt tekst pÃ¥ den aktuelle side";
+$locale['bb_search_usage'] = "Den tekst, der skal sÃ¸ges efter";
+$locale['bb_search_prefix'] = "SÃ¸g efter ";
+$locale['bb_search_suffix'] = " pÃ¥ ";
 $locale['bb_search_where'] = "Hvor";
 ?>

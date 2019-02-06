@@ -1,22 +1,22 @@
 <?php
 // Downloads titles
-$locale['400'] = "Tilføj download";
+$locale['400'] = "TilfÃ¸j download";
 $locale['401'] = "Rediger download";
 $locale['402'] = "Aktuelle downloads";
 // Downloads messages
-$locale['410'] = "Denne download er tilføjet";
+$locale['410'] = "Denne download er tilfÃ¸jet";
 $locale['411'] = "Oplysninger er opdateret";
 $locale['412'] = "Denne download er slettet";
-$locale['413'] = "Følgende fejl er opstået:";
+$locale['413'] = "FÃ¸lgende fejl er opstÃ¥et:";
 $locale['414'] = "Fejl i filnavnet.";
-$locale['415'] = "Filen skal være mindre end %s.";
-$locale['415a'] = "Billedet skal være under %s.";
-$locale['415b'] = "Billedet skal være mindre end %s.";
-$locale['416'] = "Filen skal være af en af følgende filtyper: %s.";
-$locale['416a'] = "Billedfilen skal være af en af følgende typer: %s.";
+$locale['415'] = "Filen skal vÃ¦re mindre end %s.";
+$locale['415a'] = "Billedet skal vÃ¦re under %s.";
+$locale['415b'] = "Billedet skal vÃ¦re mindre end %s.";
+$locale['416'] = "Filen skal vÃ¦re af en af fÃ¸lgende filtyper: %s.";
+$locale['416a'] = "Billedfilen skal vÃ¦re af en af fÃ¸lgende typer: %s.";
 $locale['417'] = "Overskriften skal udfyldes.";
-$locale['418'] = "Filnavn eller adresse må ikke stå tomme.";
-$locale['419'] = "Den korte beskrivelse af en download må ikke være tom.";
+$locale['418'] = "Filnavn eller adresse mÃ¥ ikke stÃ¥ tomme.";
+$locale['419'] = "Den korte beskrivelse af en download mÃ¥ ikke vÃ¦re tom.";
 $locale['419a'] = "Ukendt fejl";
 // Downloads form
 $locale['420'] = "Overskrift:";
@@ -27,22 +27,22 @@ $locale['423'] = "Kategori:";
 $locale['424'] = "Licensforhold:";
 $locale['425'] = "O/S:";
 $locale['426'] = "Version:";
-$locale['427'] = "Filstørrelse:";
+$locale['427'] = "FilstÃ¸rrelse:";
 $locale['428'] = "Gem download";
 $locale['429'] = "Opdater publiceringsdato";
 $locale['430'] = "Filnavn:";
 $locale['431'] = "Slet";
-$locale['432'] = "Beregn filstørrelse";
-$locale['433'] = "Maksimal filstørrelse: %s / Tilladte filtyper: %s";
-$locale['433b'] = "Maksimal filstørrelse: %s / Tilladte filtyper: %s / Maksimal bredde: %spx, Maksimal højde: %spx";
-$locale['434'] = "Skærmkopi:";
+$locale['432'] = "Beregn filstÃ¸rrelse";
+$locale['433'] = "Maksimal filstÃ¸rrelse: %s / Tilladte filtyper: %s";
+$locale['433b'] = "Maksimal filstÃ¸rrelse: %s / Tilladte filtyper: %s / Maksimal bredde: %spx, Maksimal hÃ¸jde: %spx";
+$locale['434'] = "SkÃ¦rmkopi:";
 $locale['435'] = "Hjemmeside:";
 $locale['436'] = "Copyright:";
 $locale['437'] = "Kommentarer:";
 $locale['438'] = "Vuderinger:";
 $locale['439'] = "Fortryd";
-$locale['461'] = "%s er nu slået fra for alle.
-Dette valg vil først være tilgængeligt, når funktionen slås til igen.";
+$locale['461'] = "%s er nu slÃ¥et fra for alle.
+Dette valg vil fÃ¸rst vÃ¦re tilgÃ¦ngeligt, nÃ¥r funktionen slÃ¥s til igen.";
 $locale['462'] = "Kommentarer";
 $locale['463'] = "Vurdering";
 $locale['464'] = $locale['462']." and ".$locale['463'];
@@ -52,9 +52,9 @@ $locale['441'] = "Valgmuligheder";
 $locale['442'] = "Rediger";
 $locale['443'] = "Slet";
 // No Downloads/Download Categories Defined
-$locale['450'] = "Der er ikke tilføjet downloads til denne kategori";
+$locale['450'] = "Der er ikke tilfÃ¸jet downloads til denne kategori";
 $locale['451'] = "Der er ikke defineret kategorier til downloads";
-$locale['452'] = "Du er nødt til at definere mindst en kategori før du kan tilføje downloads";
+$locale['452'] = "Du er nÃ¸dt til at definere mindst en kategori fÃ¸r du kan tilfÃ¸je downloads";
 $locale['453'] = "Klik her";
 $locale['454'] = " for at springe til kategoriadministration";
 // Popup Error/Warning Messages

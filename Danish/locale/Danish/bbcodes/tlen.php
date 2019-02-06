@@ -1,4 +1,4 @@
 <?php
-$locale['bb_tlen_description'] = "Vis status på den polske Tlen kommunikationsfunktion";
-$locale['bb_tlen_usage'] = "Tlen bruger ID";
+$locale['bb_tlen_description'] = "Vis status pÃ¥ den polske Tlen kommunikationsfunktion";
+$locale['bb_tlen_usage'] = "Tlen bruger-ID";
 ?>

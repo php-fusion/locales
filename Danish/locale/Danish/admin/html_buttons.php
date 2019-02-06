@@ -1,21 +1,21 @@
 <?php
-$locale['html400'] = "- Vælg farve -";
-$locale['html401'] = "- Vælg billede -";
-$locale['html402'] = "Rødbrun";
-$locale['html403'] = "Rød";
+$locale['html400'] = "- VÃ¦lg farve -";
+$locale['html401'] = "- VÃ¦lg billede -";
+$locale['html402'] = "RÃ¸dbrun";
+$locale['html403'] = "RÃ¸d";
 $locale['html404'] = "Orange";
 $locale['html405'] = "Brun";
 $locale['html406'] = "Gul";
-$locale['html407'] = "Grøn";
+$locale['html407'] = "GrÃ¸n";
 $locale['html408'] = "Lime";
-$locale['html409'] = "Olivengrøn";
+$locale['html409'] = "OlivengrÃ¸n";
 $locale['html410'] = "Turkis";
-$locale['html411'] = "Blå";
-$locale['html412'] = "Marineblå";
+$locale['html411'] = "BlÃ¥";
+$locale['html412'] = "MarineblÃ¥";
 $locale['html413'] = "Purpur";
 $locale['html414'] = "Violet";
 $locale['html415'] = "Sort";
-$locale['html416'] = "Grå";
-$locale['html417'] = "Sølv";
+$locale['html416'] = "GrÃ¥";
+$locale['html417'] = "SÃ¸lv";
 $locale['html418'] = "Hvid";
 ?>

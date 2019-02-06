@@ -13,9 +13,9 @@ $locale['409'] = "Mail";
 $locale['410'] = "Hjemmeside";
 $locale['411'] = "Afinstaller";
 $locale['412'] = "Skal denne infusion afinstalleres?";
-$locale['413'] = "Nøgle:";
+$locale['413'] = "NÃ¸gle:";
 $locale['414'] = "Ikke installeret";
 $locale['415'] = "Installeret";
-$locale['416'] = "Opgradering tilgængelig";
-$locale['417'] = "Ingen infusioner tilgængelige.";
+$locale['416'] = "Opgradering tilgÃ¦ngelig";
+$locale['417'] = "Ingen infusioner tilgÃ¦ngelige.";
 ?>

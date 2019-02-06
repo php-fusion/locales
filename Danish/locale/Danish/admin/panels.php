@@ -3,33 +3,33 @@
 $locale['400'] = "Elementer";
 $locale['401'] = "Elementets navn";
 $locale['402'] = "Side";
-$locale['403'] = "Rækkefølge";
+$locale['403'] = "RÃ¦kkefÃ¸lge";
 $locale['404'] = "Type";
 $locale['405'] = "Adgang for";
 $locale['406'] = "Valgmuligheder";
 
 // Panel Settings
 $locale['420'] = "Venstre";
-$locale['421'] = "Øverst i midten";
-$locale['422'] = "Højre";
+$locale['421'] = "Ã˜verst i midten";
+$locale['422'] = "HÃ¸jre";
 $locale['423'] = "Fil";
 $locale['424'] = "PHP";
 $locale['425'] = "Nederst i midten";
 
 // Panel Options
 $locale['430'] = "Flyt til venstre";
-$locale['431'] = "Flyt til højre";
+$locale['431'] = "Flyt til hÃ¸jre";
 $locale['432'] = "Flyt op";
 $locale['433'] = "Flyt ned";
 $locale['434'] = "Rediger";
-$locale['435'] = "Slå til";
-$locale['436'] = "Slå fra";
+$locale['435'] = "SlÃ¥ til";
+$locale['436'] = "SlÃ¥ fra";
 $locale['437'] = "Slet";
-$locale['438'] = "Tilføj nyt element";
-$locale['439'] = "Genopfrisk rækkefølge";
+$locale['438'] = "TilfÃ¸j nyt element";
+$locale['439'] = "Genopfrisk rÃ¦kkefÃ¸lge";
 $locale['440'] = "Skal dette element slettes?";
 $locale['441'] = "Venstre";
-$locale['442'] = "Højre";
+$locale['442'] = "HÃ¸jre";
 $locale['443'] = "Op";
 $locale['444'] = "Ned";
 $locale['445'] = "Flyt til upper";
@@ -37,10 +37,10 @@ $locale['446'] = "Flyt til lower";
 
 // Add/Edit Panel Form
 $locale['450'] = "Rediger element";
-$locale['451'] = "Tilføj element";
+$locale['451'] = "TilfÃ¸j element";
 $locale['452'] = "Elementets navn:";
 $locale['453'] = "Filnavn til element:";
-$locale['454'] = "Indholdsfeltet vil blive ignoreret, hvis du vælger her";
+$locale['454'] = "Indholdsfeltet vil blive ignoreret, hvis du vÃ¦lger her";
 $locale['455'] = "Elementets indhold:";
 $locale['456'] = "Administratorkodeord:";
 $locale['457'] = "Placering:";
@@ -48,12 +48,12 @@ $locale['458'] = "Adgang for:";
 $locale['459'] = "Gem element";
 $locale['460'] = "Vis element";
 $locale['461'] = "Gem element";
-$locale['462'] = "Begrænsning i element:";
+$locale['462'] = "BegrÃ¦nsning i element:";
 $locale['463'] = "Eksempler:";
-$locale['464'] = "Udeluk på disse sider";
-$locale['465'] = "Medtag på disse sider";
-$locale['475'] = "Du er nødt til at markere \"Vis på alle sider\" når du sætter begrænsninger på elementer
-øverst i midten og nederst i midten";
+$locale['464'] = "Udeluk pÃ¥ disse sider";
+$locale['465'] = "Medtag pÃ¥ disse sider";
+$locale['475'] = "Du er nÃ¸dt til at markere \"Vis pÃ¥ alle sider\" nÃ¥r du sÃ¦tter begrÃ¦nsninger pÃ¥ elementer
+Ã¸verst i midten og nederst i midten";
 // Update/Add new Panel Errors
 $locale['470'] = "Der mangler et elementnavn";
 $locale['471'] = "Dette navn bruges allerede";
@@ -65,10 +65,10 @@ $locale['480'] = "Opdater element";
 $locale['481'] = "Elementet kunne ikke opdateres";
 $locale['482'] = "Elementet er opdateret";
 $locale['483'] = "Nyt element";
-$locale['484'] = "Det nye element kunne ikke tilføjes";
-$locale['485'] = "Det nye element er tilføjet";
+$locale['484'] = "Det nye element kunne ikke tilfÃ¸jes";
+$locale['485'] = "Det nye element er tilfÃ¸jet";
 $locale['486'] = "Tilbage til elementadministration";
 $locale['487'] = "Tilbage til administrationsside";
-$locale['488'] = "Elementernes rækkefølge er opdateret.";
+$locale['488'] = "Elementernes rÃ¦kkefÃ¸lge er opdateret.";
 
 ?>

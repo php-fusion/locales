@@ -1,4 +1,4 @@
 <?php
-$locale['bb_google_description'] = "Google Søgemaskine";
-$locale['bb_google_usage'] = "Den tekst der skal søges i Google";
+$locale['bb_google_description'] = "Google SÃ¸gemaskine";
+$locale['bb_google_usage'] = "Den tekst, der skal sÃ¸ges i Google";
 ?>

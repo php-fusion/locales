@@ -1,10 +1,10 @@
 <?php
 // Category titles
-$locale['400'] = "Tilføj artikelkategori";
+$locale['400'] = "TilfÃ¸j artikelkategori";
 $locale['401'] = "Rediger artikelkategori";
 $locale['402'] = "Aktuelt oprettede kategorier";
 // Category messages
-$locale['410'] = "Kategorien er tilføjet";
+$locale['410'] = "Kategorien er tilfÃ¸jet";
 $locale['411'] = "Kategorien er opdateret";
 $locale['412'] = "Kategorien kan ikke slettes";
 $locale['413'] = "Der er oprettet artikler under denne kategori";
@@ -31,6 +31,6 @@ $locale['445'] = "Der er endnu ikke oprettet kategorier";
 $locale['450'] = "Skal denne artikelkategori slettes?";
 
 // Error Messages
-$locale['460'] = "Der skal angives et navn på kategorien.";
+$locale['460'] = "Der skal angives et navn pÃ¥ kategorien.";
 $locale['461'] = "Denne kategori eksisterer allerede.";
 ?>

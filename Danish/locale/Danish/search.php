@@ -1,29 +1,29 @@
 <?php
-$locale['400'] = "Søg på ".$settings['sitename'];
-$locale['401'] = "Søg efter:";
-$locale['402'] = "Søg";
-$locale['403'] = "søg efter et af ordene";
+$locale['400'] = "SÃ¸g pÃ¥ ".$settings['sitename'];
+$locale['401'] = "SÃ¸g efter:";
+$locale['402'] = "SÃ¸g";
+$locale['403'] = "sÃ¸g efter et af ordene";
 $locale['404'] = "resultatet skal indeholde samtlige ord";
-$locale['405'] = "Hvor skal der søges:";
+$locale['405'] = "Hvor skal der sÃ¸ges:";
 $locale['406'] = "Valgmuligheder:";
 $locale['407'] = "Hele siden";
-$locale['408'] = "Søgeresultater";
+$locale['408'] = "SÃ¸geresultater";
 //addition date
-$locale['420'] = "Søg:";
+$locale['420'] = "SÃ¸g:";
 $locale['421'] = "alle";
 $locale['422'] = "seneste dag";
 $locale['423'] = "seneste uge";
 $locale['424'] = "seneste to uger";
-$locale['425'] = "seneste måned";
-$locale['426'] = "seneste tre måneder";
-$locale['427'] = "seneste seks måneder";
+$locale['425'] = "seneste mÃ‚ned";
+$locale['426'] = "seneste tre mÃ¥neder";
+$locale['427'] = "seneste seks mÃ¥neder";
 //where
 $locale['430'] = "overskrift og indhold";
 $locale['431'] = "bare indhold";
 $locale['432'] = "bare overskrift";
 //sort by
 $locale['440'] = "Sorter efter:";
-$locale['441'] = "tilføjelsesdato";
+$locale['441'] = "tilfÃ¸jelsesdato";
 $locale['442'] = "overskrift";
 $locale['443'] = "forfatter";
 //
@@ -34,16 +34,16 @@ $locale['460'] = "Vis:";
 $locale['461'] = "karakterer af teksten";
 $locale['462'] = "hele teksten";
 //No results
-$locale['500'] = "Ingen resultater af søgningen.";
-$locale['501'] = "Søgeteksten skal være på mindst 3 karakterer.";
-$locale['502'] = "Søgeudtryk der er kortere end tre karakterer (%s) ignoreres i søgningen.";
+$locale['500'] = "Ingen resultater af sÃ¸gningen.";
+$locale['501'] = "SÃ¸geteksten skal vÃ¦re pÃ¥ mindst 3 karakterer.";
+$locale['502'] = "SÃ¸geudtryk, der er kortere end tre karakterer (%s) ignoreres i sÃ¸gningen.";
 //Global search
-$locale['510'] = "forekomster i søgningen på hele siden";
+$locale['510'] = "forekomster i sÃ¸gningen pÃ¥ hele siden";
 //
 $locale['520'] = "forekomst";
 $locale['521'] = "forekomster";
-$locale['522'] = "fundet, der passer med søgekriteriet";
+$locale['522'] = "fundet, der passer med sÃ¸gekriteriet";
 //more than 100 results
-$locale['530'] = "Vær lidt mere præcis i opsætningen af dine søgekriterier. Din søgning giver %s resultater. 
-Vi viser kun de første 100 resultater";
+$locale['530'] = "VÃ¦r lidt mere prÃ¦cis i opsÃ¦tningen af dine sÃ¸gekriterier. Din sÃ¸gning giver %s resultater. 
+Vi viser kun de fÃ¸rste 100 resultater";
 ?>
