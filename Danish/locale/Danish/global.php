@@ -25,7 +25,7 @@ $locale['short_lang_name'] = "da";
 $locale['tinymce'] = "da";
 $locale['select2'] = "da";
 $locale['phpmailer'] = "da";
-$locale['filemanager'] = "da_DK";
+$locale['filemanager'] = "da";
 $locale['datepicker'] = "da";
 $locale['datepicker_js'] = "DD-M-YYYY H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y H:i:s";
@@ -288,12 +288,12 @@ $locale['global_204'] = $locale['global_200']."Debat";
 //Themes
 $locale['global_210'] = "Spring til indhold";
 $locale['global_300'] = "intet tema fundet";
-$locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte årsager kan sidens tema ikke findes. 
-Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema designet til brug i forbindelse med 
-<strong>PHP-Fusion version 7</strong> til folderen <strong>themes/</strong>. Efter at du har gjort det, skal du se 
-under <strong>Hovedopsætning</strong> for at sikre dig, at det uploadede tema er kommet korrekt op på siden. 
-Bemærk at den uploadede temafolder skal have nøjagtigt samme navn inklusive store og små bogstaver som navnet 
-på det tema, du vælger under <strong>Hovedopsætning</strong>.<br/><br/> Hvis du er medlem på siden, så skal 
+$locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte årsager kan sidens tema ikke findes.
+Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema designet til brug i forbindelse med
+<strong>PHP-Fusion version 7</strong> til folderen <strong>themes/</strong>. Efter at du har gjort det, skal du se
+under <strong>Hovedopsætning</strong> for at sikre dig, at det uploadede tema er kommet korrekt op på siden.
+Bemærk at den uploadede temafolder skal have nøjagtigt samme navn inklusive store og små bogstaver som navnet
+på det tema, du vælger under <strong>Hovedopsætning</strong>.<br/><br/> Hvis du er medlem på siden, så skal
 du kontakte sidens administrator via ".hide_email($settings['siteemail'])." mail og rapportere om problemet.";
 $locale['global_302'] = "Det tema, som du har valgt under hovedopsætning eksisterer ikke eller er inkompatibelt!";
 // JavaScript Not Enabled

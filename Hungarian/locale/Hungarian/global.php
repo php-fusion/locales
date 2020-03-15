@@ -15,6 +15,7 @@ $locale['short_lang_name'] = "hu";
 $locale['tinymce'] = "hu";
 $locale['select2'] = "hu";
 $locale['phpmailer'] = "hu";
+$locale['filemanager'] = "hu";
 $locale['datepicker'] = "hu";
 $locale['datepicker_js'] = "YYYY-M-DD H:mm:ss";
 $locale['datepicker_php'] = "Y-m-d H:i:s";

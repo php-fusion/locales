@@ -6,7 +6,8 @@
  * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
  * @locale tinymce           refer to path includes/jscripts/tinymce/langs/{value}.js
  * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
- * @package locale/English
+ * @locale filemanager refer to path includes/elFinder/js/i18n/{value}.js
+ * @package locale/Deutsche
  */
 
 setlocale(LC_TIME, "de_DE.UTF-8");
@@ -17,6 +18,7 @@ $locale['short_lang_name'] = "de";
 $locale['tinymce'] = "de";
 $locale['select2'] = "de";
 $locale['phpmailer'] = "de";
+$locale['filemanager'] = "de";
 $locale['datepicker'] = "de-de";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
