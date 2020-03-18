@@ -202,6 +202,16 @@ $locale['699e'] = "Email";
 $locale['699f'] = "Algemeen";
 $locale['699g'] = "Controleer uploaded bestanden op MIME type?";
 $locale['699h'] = "Registratie Gateway inschakelen?";
+$locale['699ha'] = "GateWay Methode";
+$locale['699hb'] = "Woorden";
+$locale['699hc'] = "Cijfers";
+$locale['699hd'] = "Beide";
+$locale['699i'] = "Scheidingteken getallen";
+$locale['699j'] = "Scheidingsteken duizentallen";
+
+$locale['settings_100'] = "PHP Executie toestaan";
+$locale['settings_101'] = "Update checker";
+
 // Private Message Settings
 $locale['700'] = "Priv&eacute; Berichten";
 $locale['701'] = "Berichtenlimiet inbox:";
