@@ -8,4 +8,4 @@ $locale['501'] = "Klik eenvoudigweg op Upgrade om uw systeem te updaten.";
 $locale['502'] = "Database upgrade gereed.";
 $locale['503'] = "grote";
 $locale['504'] = "kleine";
-$locale['505'] = "Verwvang a.u.b. deze regels in uw config.php!";
+$locale['505'] = "Vervang a.u.b. deze regels in uw config.php!";
