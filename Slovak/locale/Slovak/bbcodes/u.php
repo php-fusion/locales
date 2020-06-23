@@ -1,3 +1,3 @@
 <?php
-$locale['bb_u_description'] = "Zobrazí text podčiarknutým písmom";
-$locale['bb_u_usage'] = "Text je podčiarknutý";
+$locale['bb_u_description'] = "Podčiarkne vybraný text";
+$locale['bb_u_usage'] = "Text, ktorý chcete podčiarknuť";

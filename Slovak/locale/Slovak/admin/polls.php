@@ -6,8 +6,8 @@ $locale['402'] = "Existujúce ankety";
 $locale['403'] = "Náhľad ankety";
 // Polls messages
 $locale['410'] = "Anketa bola pridaná";
-$locale['411'] = "Anketa bola aktualizovaná";
-$locale['412'] = "Anketa bola vymazaná";
+$locale['411'] = "Anketa bola akualizovaná";
+$locale['412'] = "Anketa bola odstránená";
 // Edit/Delete Polls
 $locale['420'] = "Existujúce ankety";
 $locale['421'] = "Upraviť";
@@ -20,9 +20,9 @@ $locale['432'] = "Odpoveď ";
 $locale['433'] = " Ukončiť túto anketu";
 $locale['434'] = "Začiatok: ";
 $locale['435'] = "Koniec: ";
-$locale['436'] = "Pridať odpoveď";
-$locale['437'] = "Zobraziť anketu";
-$locale['438'] = "Uložiť";
-$locale['439'] = "Nedefinovaný";
+$locale['436'] = "Pridať možnosť";
+$locale['437'] = "Náhľad ankety";
+$locale['438'] = "Uložiť anketu";
+$locale['439'] = "Neurčený";
 $locale['439a'] = "Prosím, zadajte názov ankety";
 $locale['439b'] = "Musíte zadať aspoň jednu možnosť hlasovania";

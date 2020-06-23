@@ -1,39 +1,25 @@
 <?php
 $locale['email_create_subject'] = "Účet vytvorený ";
-$locale['email_create_message'] = "Ahoj [USER_NAME],\n
-Váš účet na ".$settings['sitename']." bol vytvorený.\n
-Pre prihlásenie použite nasledovné údaje:\n
-Meno: [USER_NAME]\n
-Heslo: [PASSWORD]\n\n
-s pozdravom,\n
-".$settings['siteusername'];
-$locale['email_activate_subject'] = "Účet aktivovaný";
-$locale['email_activate_message'] = "Ahoj [USER_NAME],\n
-Váš účet na ".$settings['sitename']." bol aktivovaný.\n
-Môžete sa prihlásiť pomocou vášho mena a hesla.\n\n
-s pozdravom,\n
-".$settings['siteusername'];
-$locale['email_deactivate_subject'] = "Reaktiváciu účtu požaduje ".$settings['sitename'];
-$locale['email_deactivate_message'] = "Ahoj [USER_NAME],\n
-Uplynulo ".$settings['deactivation_period']." dní od vášho posledného prihlásenia na ".$settings['sitename'].". Boli ste označený ako neaktívny, ale údaje vášho účtu ostávajú nezmenené.\n
-Na reaktiváciu vášho účtu kliknite na tento odkaz:\n
-".$settings['siteurl']."reactivate.php?user_id=[USER_ID]&code=[CODE]\n\n
-s pozdravom,\n
-".$settings['siteusername'];
-$locale['email_ban_subject'] = "Váš účet na ".$settings['sitename']." bol zabanovaný";
-$locale['email_ban_message'] = "Ahoj [USER_NAME],\n
-Váš účet ".$userdata['user_name']." na ".$settings['sitename']." bol zabanovaný z týchto dôvodov:\n
-[REASON].\n
-Ak chcete viac informácií ohľadne tohto banu, prosím kontaktujte hlavného administrátora cez ".$settings['siteemail'].".\n
-".$settings['siteusername'];
-$locale['email_secban_subject'] = "Váš účet na ".$settings['sitename']." bol zabanovaný";
-$locale['email_secban_message'] = "Ahoj [USER_NAME],\n
-Váš účet ".$userdata['user_name']." na ".$settings['sitename']." bol zabanovaný, pretože niektoré vami vykonané akcie boli považované za bezpečnostnú hrozbu pre web.\n
-Ak chcete viac informácií ohľadne tohto bezpečnostného banu, prosím kontaktujte hlavného administrátora cez ".$settings['siteemail'].".\n
-".$settings['siteusername'];
-$locale['email_suspend_subject'] = "Váš účet na ".$settings['sitename']." bol pozastavený";
-$locale['email_suspend_message'] = "Ahoj [USER_NAME],\n
-Váš účet ".$userdata['user_name']." na ".$settings['sitename']." bol pozastavený od [DATE] (site time) z týchto dôvodov:\n
-[REASON].\n
-Ak chcete viac informácií ohľadne tohto pozastavenia účtu, prosím kontaktujte hlavného administrátora cez ".$settings['siteemail'].".\n
-".$settings['siteusername'];
+$locale['email_create_message'] = "Ahoj [USER_NAME],<br/>\r\n
+Váš účet na [SITENAME] bol vytvorený.<br/>\r\nPre prihlásenie použite nasledovné údaje:<br/>\r\n
+Užívateľské meno: [USER_NAME]<br/>\r\nHeslo: [PASSWORD]<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";
+$locale['email_activate_subject'] = "Účet aktivovaný ";
+$locale['email_activate_message'] = "Ahoj [USER_NAME],<br/>\r\nVáš účet na [SITENAME] bol aktivovaný.<br/>\r\n
+Teraz sa môžete prihlásiť pomocou zvoleného mena a hesla.<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";
+$locale['email_deactivate_subject'] = "Vyžaduje sa reaktivácia účtu na ";
+$locale['email_deactivate_message'] = "Ahoj [USER_NAME],<br/>\r\nUplynulo [DEACTIVATION_PERIOD] dní od vášho posledného prihlásenia na [SITENAME]. Boli ste označený ako neaktívny, ale údaje vášho účtu ostávajú nezmenené.<br/>\r\n
+Na reaktiváciu vášho účtu kliknite na tento odkaz: [REACTIVATION_LINK]<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";
+$locale['email_deactivate_message'] = "Ahoj [USER_NAME],<br/>\r\nUplynulo [DEACTIVATION_PERIOD] dní od vášho posledného prihlásenia na [SITENAME]. Boli ste označený ako neaktívny, ale údaje vášho účtu ostávajú nezmenené.<br/>\r\n
+Na reaktiváciu vášho účtu kliknite na tento odkaz: [REACTIVATION_LINK]<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";
+$locale['email_ban_subject'] = "Váš účet na [SITENAME] bol zabanovaný";
+$locale['email_ban_message'] = "Ahoj [USER_NAME],<br/>\r\nVáš účet na [SITENAME] bol zabanovaný od [ADMIN_USERNAME] z tohto dôvodu:<br/>\r\n
+[REASON]<br/>\r\nAk chcete získať viac informácií o tomto zákaze, kontaktujte správcu webu na [SITENAME].<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";
+$locale['email_ban_message'] = "Ahoj [USER_NAME],<br/>\r\nVáš účet na [SITENAME] bol zabanovaný od [ADMIN_USERNAME] z tohto dôvodu:<br/>\r\n
+[REASON]<br/>\r\nAk chcete získať viac informácií o tomto zákaze, kontaktujte správcu webu na [SITENAME].<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";
+$locale['email_secban_subject'] = "Váš účet na [SITENAME] bol zabanovaný";
+$locale['email_secban_message'] = "Ahoj [USER_NAME],<br/>\r\nVáš účet na [SITENAME] bol zabanovaný od [ADMIN_USERNAME] pretože niektoré vami vykonané akcie boli považované za bezpečnostnú hrozbu pre web.<br/>\r\n
+Ak chcete získať ďalšie informácie o tomto bezpečnostnom zákaze, kontaktujte správcu webu na [SITENAME].<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";
+$locale['email_suspend_subject'] = "Váš účet na [SITENAME] bol pozastavený";
+$locale['email_suspend_message'] = "Ahoj [USER_NAME],<br/>\r\n
+Váš účet na [SITENAME] bol zabanovaný od [ADMIN_USERNAME] od [DATE] (čas stránky) z týchto dôvodov:<br/>\r\n
+[REASON]<br/>\r\nAk chcete získať ďalšie informácie o tomto pozastavení, obráťte sa na správcu webu na [SITENAME].<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";

@@ -7,7 +7,7 @@ $locale['402'] = "Existujúce kategórie";
 $locale['410'] = "Kategória bola pridaná";
 $locale['411'] = "Kategória bola aktualizovaná";
 $locale['412'] = "Kategória nemôže byť vymazaná";
-$locale['413'] = "S touto kategóriou sú spojené downloady";
+$locale['413'] = "S touto kategóriou sú spojené súbory na stiahnutie";
 $locale['414'] = "Kategória bola vymazaná";
 // Download Category form
 $locale['420'] = "Názov kategórie:";

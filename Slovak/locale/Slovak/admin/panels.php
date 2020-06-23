@@ -48,7 +48,7 @@ $locale['455'] = "Obsah panelu:";
 $locale['456'] = "Admin heslo:";
 $locale['457'] = "Umiestnenie:";
 $locale['458'] = "Prístup:";
-$locale['459'] = "Zobraziť panel na každej strane";
+$locale['459'] = "Zobraziť panel na každej strane<br /> <b> Poznámka </b>: Ak chcete použiť výnimky, musíte ju povoliť.";
 $locale['460'] = "Náhľad";
 $locale['461'] = "Uložiť";
 $locale['462'] = "Obmedzenie panela:";
@@ -64,7 +64,7 @@ $locale['471'] = "Tento názov už existuje";
 $locale['472'] = "Nebol definovaný obsah panelu";
 $locale['473'] = "Nebol definovaný súbor panelu";
 $locale['474'] = "Admin heslo je nesprávne";
-$locale['475'] = "Musíte zaškrtnúť \"Zobrazenie na všetkých stránkach\", keď obmedzujete Horný alebo Dolný stredný panel";
+$locale['475'] = "Musí existovať aspoň jedna sekcia v zozname filtrov, aby sa použil filter";
 // Update/Add new Panel Success/Fail
 $locale['480'] = "Aktualizovať panel";
 $locale['481'] = "Panel sa nedá aktualizovať";
@@ -75,7 +75,7 @@ $locale['485'] = "Nový panel bol pridaný";
 $locale['486'] = "Návrat do administrácie panelov";
 $locale['487'] = "Návrat do administrátorského indexu";
 $locale['488'] = "Zoradenie panelov uložené.";
-$locale['489'] = "Panel bol odstránený";
+$locale['489'] = "Panel bol odstránený.";
 //Visual Panel
 $locale['600'] = "Rozhranie pre správu panelov";
 $locale['602'] = "Nepoužité panely";

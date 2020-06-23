@@ -3,7 +3,7 @@
 $locale['400'] = "Šablóny e-mailov";
 $locale['401'] = "Dostupné šablóny";
 $locale['410'] = "Šablóna bola úspešne aktualizovaná.";
-$locale['411'] = "Testovaci e-mail bol odoslaný na %s.";
+$locale['411'] = "Testovací e-mail bol odoslaný na %s.";
 $locale['412'] = "Test-Predmet";
 $locale['413'] = "Test-Správa";
 $locale['414'] = "Nejaký užívateľ";

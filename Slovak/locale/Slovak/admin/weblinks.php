@@ -2,7 +2,7 @@
 // Web Link Category titles
 $locale['400'] = "Pridať kategóriu odkazov";
 $locale['401'] = "Upraviť kategóriu odkazov";
-$locale['402'] = "Current Web Link Categories";
+$locale['402'] = "Aktuálne kategórie odkazov";
 // Web Link Category messages
 $locale['410'] = "Kategória odkazov bola pridaná";
 $locale['411'] = "Kategória odkazov bola aktualizovaná";
@@ -18,21 +18,21 @@ $locale['424'] = "Podľa názvu";
 $locale['425'] = "Podľa dátumu";
 $locale['426'] = "Vzostupne";
 $locale['427'] = "Zostupne";
-$locale['428'] = "Prístupné:";
-$locale['429'] = "Uložiť";
+$locale['428'] = "Prístup kategórií:";
+$locale['429'] = "Uložiť kategóriu";
 // Current Web Link categories
 $locale['430'] = "Kategória";
 $locale['431'] = "Prístup";
 // Delete Web Link category
 $locale['440'] = "Vymazať kategóriu odkazov?";
 // Error Messages
-$locale['460'] = "Prosím, zadajte názov kategórie.";
+$locale['460'] = "Zadajte názov kategórie.";
 $locale['461'] = "Táto kategória už existuje.";
 $locale['462'] = "Prosím, zadajte názov odkazu.";
 // Web Link titles
 $locale['500'] = "Pridať odkaz";
 $locale['501'] = "Upraviť odkaz";
-$locale['502'] = "Existjúce odkazy";
+$locale['502'] = "Existujúce odkazy";
 // Web Link messages
 $locale['510'] = "Odkaz bol pridaný";
 $locale['511'] = "Odkaz bol aktualizovaný";
@@ -42,18 +42,18 @@ $locale['520'] = "Názov stránky:";
 $locale['521'] = "Popis:";
 $locale['522'] = "URL stránky:";
 $locale['523'] = "Kategória:";
-$locale['524'] = "Obnoviť dátum publikovania";
+$locale['524'] = "Aktualizovať dátum publikácie";
 $locale['525'] = "Uložiť";
 // Current Web Links
 $locale['531'] = "Odkaz [Kliknite pre odskúšanie]";
-$locale['532'] = "Nastavenia";
+$locale['532'] = "Možnosti";
 $locale['533'] = "Upraviť";
 $locale['534'] = "Vymazať";
 $locale['535'] = "Táto kategória odkazov je prázdna";
 $locale['536'] = "Neboli definované žiadne kategórie odkazov";
 $locale['537'] = "Neboli definované žiadne kategórie odkazov";
 $locale['538'] = "Musíte definovať aspoň jednu kategóriu pred pridaním odkazu";
-$locale['539'] = "Kliknite sem";
+$locale['539'] = "Kliknite tu";
 $locale['540'] = " na prechod do kategórií odkazov";
 // Delete Web Link
 $locale['550'] = "Vymazať tento odkaz?";

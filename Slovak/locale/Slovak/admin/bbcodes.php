@@ -4,11 +4,11 @@ $locale['BBCA_400a'] = "Administrácia BB kódov";
 $locale['BBCA_401'] = "Test BB kódov";
 // Enabled BB Codes
 $locale['BBCA_402'] = "Povolené BB kódy";
-$locale['BBCA_403'] = "Meno";
+$locale['BBCA_403'] = "Názov";
 $locale['BBCA_404'] = "Ikona";
 $locale['BBCA_405'] = "Popis";
 $locale['BBCA_406'] = "Použitie";
-$locale['BBCA_407'] = "Zoradiť";
+$locale['BBCA_407'] = "Poradie";
 $locale['BBCA_408'] = "Dole";
 $locale['BBCA_409'] = "Hore";
 $locale['BBCA_410'] = "Zakázať";

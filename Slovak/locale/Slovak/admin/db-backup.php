@@ -29,13 +29,13 @@ $locale['439'] = "Zrušiť";
 $locale['440'] = "Podporované typy súborov:";
 // Database Backup
 $locale['450'] = "Zálohovanie databázy";
-$locale['451'] = "Informácie o databáze:";
+$locale['451'] = "Informácie o databáze";
 $locale['452'] = "Celková veľkosť tabuliek:";
 $locale['453'] = "Veľkosť tabuliek jadra:";
 $locale['454'] = "Nastavenie zálohy:";
 $locale['455'] = "Typ zálohy:";
 $locale['456'] = "(kompresia)";
-$locale['457'] = "Tabuľky databázy:";
+$locale['457'] = "Tabuľky databázy";
 $locale['458'] = "jadro";
 $locale['459'] = "Zálohuj";
 $locale['460'] = "Admin heslo:";

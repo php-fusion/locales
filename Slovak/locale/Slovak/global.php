@@ -1,24 +1,13 @@
 <?php
-/**
- * Slovak Locale by RobiNN
- *
- * @locale charset     ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * @locale region      ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- * @locale tinymce     refer to path includes/jscripts/tinymce/langs/{value}.js
- * @locale phpmailer   refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
- * @locale filemanager refer to path includes/elFinder/js/i18n/{value}.js
- * @package locale/Slovak
- */
-
-setlocale(LC_ALL, "sk_SK.UTF-8", "sk-SK", "slovak");
-$locale['charset'] = "utf-8";
-$locale['region'] = "SK";
+$locale['setlocale'] = "sk_SK"; // https://www.php.net/manual/en/function.setlocale.php
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "SK"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "sk";
 $locale['short_lang_name'] = "sk";
-$locale['tinymce'] = "sk";
-$locale['select2'] = "sk";
-$locale['phpmailer'] = "sk";
-$locale['phpmailer'] = "sk";
+$locale['tinymce'] = "sk"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "sk"; // refer to path includes/jscripts/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "sk"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "sk"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "sk";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
@@ -166,15 +155,15 @@ $locale['global_093'] = " z ";
 $locale['global_094'] = " z celkových ";
 // Guest User Menu
 $locale['global_100'] = "Prihlásenie";
-$locale['global_101'] = "Meno";
+$locale['global_101'] = "Užívateľské meno";
 $locale['global_101a'] = "Zadajte užívateľské meno";
 $locale['global_101b'] = "Zadajte e-mail";
 $locale['global_101c'] = "Zadajte e-mail alebo užívateľské meno";
 $locale['global_102'] = "Heslo";
 $locale['global_103'] = "Neodhlasovať";
-$locale['global_104'] = "Prihlásiť";
-$locale['global_105'] = "Ešte nie ste členom?<br><a href='".BASEDIR."register.php'>Kliknite sem</a><br> a zaregistrujte sa.";
-$locale['global_106'] = "Zabudli ste heslo?<br>Pre získanie nového <a href='".BASEDIR."lostpassword.php' class='side'>Kliknite sem</a>.";
+$locale['global_104'] = "Prihlásenie";
+$locale['global_105'] = "Ešte nie ste členom? [LINK]Kliknite sem[/LINK] a zaregistrujte sa.";
+$locale['global_106'] = "[LINK]Zabudli ste heslo?[/LINK]";
 $locale['global_107'] = "Registrácia";
 $locale['global_108'] = "Zabudnuté heslo";
 $locale['global_109'] = "Prihlásiť sa";
@@ -194,16 +183,16 @@ $locale['global_130'] = "Anketa";
 $locale['global_131'] = "Odoslať hlas";
 $locale['global_132'] = "Len prihlásení môžu hlasovať.";
 $locale['global_133'] = "Hlas";
-$locale['global_134'] = "Hlasy";
+$locale['global_134'] = "Hlasov";
 $locale['global_135'] = "Hlasy: ";
-$locale['global_136'] = "Začiatok hlasovania: ";
-$locale['global_137'] = "Koniec hlasovania: ";
+$locale['global_136'] = "Začiatok: ";
+$locale['global_137'] = "Koniec: ";
 $locale['global_138'] = "Archív ankiet";
 $locale['global_139'] = "Vyber anketu zo zoznamu:";
-$locale['global_140'] = "Prezrieť";
+$locale['global_140'] = "Zobraziť";
 $locale['global_141'] = "Prezrieť anketu";
-$locale['global_142'] = "Žiadne ankety.";
-$locale['global_143'] = "Hodnotenia";
+$locale['global_142'] = "Nie sú pridané žiadne ankety.";
+$locale['global_143'] = "Hodnotenie";
 // User Menu
 $locale['UM060'] = "Prihlásiť sa";
 $locale['UM061'] = "Užívateľské meno";
@@ -212,14 +201,14 @@ $locale['UM061b'] = "Užívateľské meno alebo e-mail";
 $locale['UM062'] = "Heslo";
 $locale['UM063'] = "Pamätať si ma na tomto počítači";
 $locale['UM064'] = "Prihlásiť sa";
-$locale['UM065'] = "Ešte nie ste členom? <a href='".BASEDIR."register.php' class='side'>Kliknite sem</a> a zaregistrujte sa.";
-$locale['UM066'] = "Zabudli ste heslo?<br/><a href='".BASEDIR."lostpassword.php' class='side'Požiadať o nové</a>.";
+$locale['UM065'] = "Ešte nie ste členom? [LINK]Kliknite sem[/LINK] a zaregistrujte sa.";
+$locale['UM066'] = "Zabudli ste heslo?<br/>[LINK]Požiadať o nové[/LINK].";
 $locale['UM067'] = "(neodporúča na verejnom alebo zdieľanom počítači)";
 $locale['UM080'] = "Upraviť profil";
 $locale['UM081'] = "Súkromné správy";
-$locale['UM082'] = "Zoznam členov";
+$locale['UM082'] = "Užívatelia";
 $locale['UM083'] = "Administrácia";
-$locale['UM084'] = "Odhlásiť sa";
+$locale['UM084'] = "Odhlásiť";
 $locale['UM085'] = "Máte %u novú/é ";
 $locale['UM086'] = "správu";
 $locale['UM087'] = "správy";
@@ -247,7 +236,7 @@ $locale['notfound'] = "Neboli nájdené žiadne výsledky..";
 $locale['sel_user'] = "Vyberte užívateľa";
 // Captcha
 $locale['global_150'] = "Validačný kód:";
-$locale['global_151'] = "Vložte validačný kód:";
+$locale['global_151'] = "Zadajte validačný kód:";
 // Footer Counter
 $locale['global_170'] = "unikátne návštevy";
 $locale['global_171'] = "unikátnych návštev";
@@ -261,17 +250,16 @@ $locale['global_180'] = "Administrácia";
 $locale['global_181'] = "Späť na stránku";
 $locale['global_182'] = "Heslo správcu nebolo zadané alebo je nesprávne.";
 // Miscellaneous
-$locale['global_190'] = "Režim údržby bol aktivovaný";
+$locale['global_190'] = "Režim údržby je aktivovaný";
 $locale['global_191'] = "Z tejto IP adresy nemáte povolenie pristupovať na túto stránku.";
 $locale['global_192'] = "Platnosť vašej prihlasovacej relácie uplynula. Ak chcete pokračovať, prihláste sa znova.";
 $locale['global_193'] = "Nepodarilo sa nastaviť súbor cookie. Uistite sa, že máte povolené súbory cookie, aby ste sa mohli správne prihlásiť.";
 $locale['global_194'] = "Tento účet je momentálne pozastavený.";
 $locale['global_195'] = "Tento účet nebol aktivovaný.";
 $locale['global_196'] = "Nesprávne meno alebo heslo.";
-$locale['global_197'] = "Počkajte prosím, prihlasovanie môže chvíľu trvať...<br><br>
-[ <a href='index.php'>Alebo kliknite sem, ak nechcete čakať</a> ]";
+$locale['global_197'] = "Počkajte prosím, prihlasovanie môže chvíľu trvať...<br/><br/>[LINK]Alebo kliknite sem, ak nechcete čakať[/LINK]";
 $locale['global_198'] = "UPOZORNENIE: INŠTALAČNÝ SÚBOR BOL DETEKOVANÝ, PROSÍM VYMAŽTE SETUP.PHP.";
-$locale['global_199'] = "<strong>Upozornenie:</strong> heslo administrátora nie je nastavené, kliknite na <a href='".BASEDIR."edit_profile.php'>Upraviť profil</a> a nastavte ho.";
+$locale['global_199'] = "UPOZORNENIE: heslo administrátora nie je nastavené, kliknite na [LINK]Upraviť profil[/LINK] a nastavte ho.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
@@ -282,7 +270,7 @@ $locale['global_204'] = " - Fórum";
 $locale['global_210'] = "Prejsť na obsah";
 $locale['global_300'] = "nebola nájdená žiadna téma";
 $locale['global_301'] = "Je nám ľúto, ale táto stránka sa nedá zobraziť. Z nejakých okolností nie je možné nájsť tému webu.
- Ak ste administrátorom stráky, použite svoj FTP klient na nahrávanie akejkoľvek témy určenej pre PHP-Fusion 9 do priečinka tém.
+ Ak ste administrátorom stránky, použite svoj FTP klient na nahrávanie akejkoľvek témy určenej pre PHP-Fusion 9 do priečinka tém.
  Po nahraní skontrolujte nastavenia témy, či ste správne nahrali vybranú tému do priečinka tém.
  Upozorňujeme, že nahraná zložka témy musí mať presne rovnaký názov (vrátane znakovej sady, ktorá je dôležitá na Unixových serveroch)
  ako je vybraná na stránke Nastavenie tém.<br/><br/>Ak ste pravidelný člen tejto stránky, prosím kontaktujte administrátora cez [SITE_EMAIL] e-mail a nahláste tento problém.";
@@ -336,10 +324,10 @@ $locale['global_460'] = "Prázdny";
 $locale['global_461'] = "Bajtov";
 $locale['global_462'] = "kB";
 $locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
+$locale['global_464'] = "SK";
 $locale['global_465'] = "TB";
 //Safe Redirect
-$locale['global_500'] = "Budete presmerovaný do %s, prosím, čakajte. Ak ste neboli presmerovaný, kliknite sem.";
+$locale['global_500'] = "Budete presmerovaný na %s, prosím čakajte. Ak ste neboli presmerovaný, kliknite sem.";
 // Captcha Locales
 $locale['global_600'] = "Validačný kód";
 $locale['global_601'] = "Musíte zadať správny overovací kód";
@@ -357,7 +345,7 @@ $locale['global_ML103'] = "Prepnúť jazyk";
 // Flood Control
 $locale['flood'] = "Je zakázané odoslať príspevok, dokedy nebude ukončené pretečenie. Počkajte prosím %s.";
 $locale['no_image'] = "Žiadny obrázok";
-$locale['send_message'] = "Poslať správu";
+$locale['send_message'] = "Odoslať";
 $locale['go_profile'] = "Prejsť na profil %s";
 // Global one word locales
 $locale['hello'] = "Ahoj!";
@@ -384,7 +372,7 @@ $locale['na'] = "Nie sú k dispozícii žiadne informácie";
 $locale['joined'] = "Pripojený od: ";
 $locale['enter'] = "Vstúpiť";
 // Navigation
-$locale['next'] = "Ďalšie";
+$locale['next'] = "Ďalej";
 $locale['previous'] = "Predchádzajúce";
 $locale['back'] = "Späť";
 $locale['forward'] = "Dopredu";
@@ -408,7 +396,7 @@ $locale['remove'] = "Odstrániť";
 $locale['delete'] = "Vymazať";
 $locale['search'] = "Hľadať";
 $locale['help'] = "Pomoc";
-$locale['register'] = "Registrovať";
+$locale['register'] = "Registrácia";
 $locale['ban'] = "Ban";
 $locale['reactivate'] = "Reaktivovať";
 $locale['user'] = "Užívateľ";
@@ -442,8 +430,8 @@ $locale['choose-user'] = "Prosím, vyberte užívateľa..";
 $locale['choose-location'] = "Prosím, vyberte miesto";
 $locale['parent'] = "Vytvoriť ako nový rodič..";
 $locale['item_order'] = "Zoradenie položiek";
-$locale['status'] = "Status";
-$locale['note'] = "Poznačte si túto položku";
+$locale['status'] = "Stav";
+$locale['note'] = "Poznačiť si túto položku";
 $locale['publish'] = "Publikovať";
 $locale['unpublish'] = "Nepublikovať";
 $locale['sticky'] = "Pripnúť";
@@ -456,7 +444,7 @@ $locale['edit'] = "Upraviť";
 $locale['qedit'] = "Rýchla úprava";
 $locale['view'] = "Zobraziť";
 $locale['login'] = "Prihlásiť sa";
-$locale['logout'] = "Odhlásiť sa";
+$locale['logout'] = "Odhlásiť";
 $locale['admin-logout'] = "Odhlásenie správcu";
 $locale['message'] = "Súkromné správy";
 $locale['logged'] = "Prihlásený ako ";

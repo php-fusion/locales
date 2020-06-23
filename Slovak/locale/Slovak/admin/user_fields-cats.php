@@ -11,7 +11,7 @@ $locale['413'] = "Kategória užívateľských polí nemôže byť zmazaná";
 $locale['414'] = "Existujúce užívateľské polia v tejto kategórii";
 // User Fields Categories form
 $locale['420'] = "Názov kategórie";
-$locale['421'] = "Zoradenie kategórie";
+$locale['421'] = "Poradie kategórie";
 $locale['422'] = "Uložiť kategóriu";
 $locale['423'] = "DB názov kategórie";
 $locale['424'] = "Názov tabuľky databázy";
@@ -21,21 +21,21 @@ $locale['427'] = "Áno, vytvoriť ako novú stránku.";
 $locale['428'] = "Primárny index";
 $locale['429'] = "Názov primárneho stĺpca";
 // User Fields Categories list
-$locale['430'] = "Zoradenie";
+$locale['430'] = "Poradie";
 $locale['431'] = "Možnosti";
 $locale['432'] = "Upraviť";
-$locale['433'] = "Zmazať";
+$locale['433'] = "Vymazať";
 $locale['434'] = "Neboli definované žiadne kategórie užívateľských polí.";
 $locale['435'] = "Stránka";
 $locale['436'] = "Stránka s informáciami o užívateľovi";
 // User Fields Categories Ordering
 $locale['440'] = "Hore";
 $locale['441'] = "Dole";
-$locale['442'] = "Posun hore";
-$locale['443'] = "Posun dole";
+$locale['442'] = "Posunúť nahor";
+$locale['443'] = "Posunúť nadol";
 $locale['444'] = "Obnovenie zoradenia kategórií užívateľského poľa";
 // Delete User Fields category
 $locale['450'] = "Zmazať túto kategóriu užívateľského poľa?";
 // Error message
-$locale['450a'] = 'Prosím, zadajte názov kategórie.';
+$locale['450a'] = 'Zadajte názov kategórie.';
 $locale['450b'] = 'Ak používate inú než štandardnú tabuľku užívateľov, vyplňte názov databázy a jej stĺpec UserId.';

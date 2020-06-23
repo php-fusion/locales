@@ -1,4 +1,4 @@
 <?php
-$locale['bb_color_description'] = "Zobrazí farebný text";
-$locale['bb_color_usage'] = "Farebný text";
-$locale['bb_color_hex'] = "HEX farby bez hodnoty hash";
+$locale['bb_color_description'] = "Zafarbí vybraný text";
+$locale['bb_color_usage'] = "Zafarbí vybraný text";
+$locale['bb_color_hex'] = "HEX hodnota farby s hash (#)";

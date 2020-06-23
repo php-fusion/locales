@@ -5,5 +5,5 @@ $locale['402'] = "Počet položiek:";
 $locale['403'] = "Nekategorizované novinky";
 $locale['404'] = "Táto kategória je prázdna.";
 $locale['405'] = "Viac";
-$locale['406'] = "Ukázať všetky kategórie";
-$locale['407'] = "Neboli definované žiadne kategórie noviniek";
+$locale['406'] = "Zobraziť všetky kategórie";
+$locale['407'] = "Nie sú pridané žiadne kategórie noviniek";

@@ -21,7 +21,7 @@ $locale['426'] = "Administrátorov";
 $locale['427'] = "Hl. administrátorov";
 $locale['428'] = "Uložiť";
 $locale['429'] = "Typ hodnosti:";
-$locale['429a'] = "Špecialny";
+$locale['429a'] = "Špeciálny";
 $locale['429b'] = "Admin";
 $locale['429c'] = "Počet príspevkov";
 // Current Forum Ranks
@@ -35,5 +35,5 @@ $locale['436'] = "Vymazať";
 $locale['437'] = "Vo fóre nie sú definované hodnosti.";
 $locale['438'] = "Typ / Počet";
 // Forum Ranks Disabled
-$locale['450'] = "Hodnosti fóra sú práve vypnuté.<br>Prosím choďte do %s a zapnite ich.";
+$locale['450'] = "Hodnosti fóra sú práve vypnuté.<br />Prosím choďte do %s a zapnite ich.";
 $locale['451'] = "Nastavenie fóra";

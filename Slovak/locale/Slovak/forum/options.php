@@ -1,35 +1,35 @@
 <?php
 // Delete Thread
-$locale['400'] = "Vymazať tému";
-$locale['401'] = "Téma bola vymazaná.";
-$locale['402'] = "Návrat do fóra";
-$locale['403'] = "Návrat na index fóra";
-$locale['404'] = "Naozaj chcete vymazať túto tému?";
+$locale['400'] = "Odstrániť vlákno";
+$locale['401'] = "Vlákno bolo odstránené";
+$locale['402'] = "Späť na fórum";
+$locale['403'] = "Späť na index fóra";
+$locale['404'] = "Naozaj chcete odstrániť toto vlákno?";
 $locale['405'] = "Áno";
 $locale['406'] = "Nie";
 // Lock Thread
-$locale['410'] = "Zamknúť tému";
-$locale['411'] = "Téma bola zamknutá.";
+$locale['410'] = "Zamknúť vlákno";
+$locale['411'] = "Vlákno bolo zamknuté.";
 // Unlock Thread
-$locale['420'] = "Odomknúť tému";
-$locale['421'] = "Téma bola odomknutá.";
+$locale['420'] = "Odomknúť vlákno";
+$locale['421'] = "Vlákno bolo odomknuté";
 // Make Thread Sticky
-$locale['430'] = "Označiť tému ako obľúbenú";
-$locale['431'] = "Téma bola nastavená ako obľúbená.";
+$locale['430'] = "Pripnúť vlákno";
+$locale['431'] = "Vlákno bolo pripnuté.";
 // Make Thread Non-Sticky
-$locale['440'] = "Vypnúť obľúbenosť témy";
-$locale['441'] = "Téma bola nastavená na obyčajnú.";
+$locale['440'] = "Odopnúť vlákno";
+$locale['441'] = "Vlákno bolo odopnuté.";
 // Move Thread
-$locale['450'] = "Presunúť tému";
-$locale['451'] = "Presunúť tému do:";
-$locale['452'] = "Téma bola presunutá.";
+$locale['450'] = "Presunúť vlákno";
+$locale['451'] = "Presunúť vlákno do:";
+$locale['452'] = "Vlákno bolo úspešne presunuté.";
 // Renew Thread
-$locale['458'] = "Obnoviť tému";
-$locale['459'] = "Téma bola obnovená.";
+$locale['458'] = "Obnoviť vlákno";
+$locale['459'] = "Vlákno bolo obnovené.";
 // Search Forum
 $locale['460'] = "Fórum";
 $locale['461'] = "Predmet";
 $locale['462'] = "Autor";
-$locale['463'] = "Poslal";
+$locale['463'] = "Pridané";
 $locale['464'] = "Žiadne výsledky k zobrazeniu.";
 $locale['465'] = "Text musí obsahovať minimálne 1 slovo.";

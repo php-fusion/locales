@@ -15,7 +15,7 @@ $locale['off'] = "Vyp.";
 $locale['on'] = "Zap.";
 
 // Navigation
-$locale['next'] = "Ďalšie";
+$locale['next'] = "Ďalej";
 $locale['previous'] = "Predchádzajúce";
 $locale['back'] = "Späť";
 $locale['forward'] = "Dopredu";
@@ -27,14 +27,14 @@ $locale['update'] = "Aktualizovať";
 $locale['remove'] = "Odstrániť";
 $locale['search'] = "Hľadať";
 $locale['help'] = "Pomoc";
-$locale['register'] = "Registrovať";
+$locale['register'] = "Registrácia";
 $locale['ban'] = "Ban";
 $locale['reactivate'] = "Reaktivovať";
 $locale['user'] = "Užívateľ";
 $locale['promote'] = "Podporovať";
 
 //Tables
-$locale['status'] = "Status";
+$locale['status'] = "Stav";
 $locale['order'] = "Poradie";
 $locale['id'] = "ID";
 $locale['title'] = "Nadpis";
@@ -45,11 +45,11 @@ $locale['info'] = "Info";
 // Forms
 $locale['choose'] = "Prosím, vyberte jedno...";
 $locale['parent'] = "Vytvoriť ako nový rodič..";
-$locale['order'] = "Poradie";
-$locale['status'] = "Status";
+$locale['order'] = "Zoradenie položiek";
+$locale['status'] = "Stav";
 $locale['note'] = "Poznačiť si túto položku";
-$locale['publish'] = "Publikovať";
-$locale['unpublish'] = "Nepublikovať";
+$locale['publish'] = "Publikované";
+$locale['unpublish'] = "Nepublikované";
 $locale['draft'] = "Koncept";
 $locale['settings'] = "Nastavenia";
 $locale['posted'] = "publikované";
@@ -58,8 +58,9 @@ $locale['profile'] = "Profil";
 $locale['edit'] = "Upraviť";
 $locale['view'] = "Zobraziť";
 $locale['login'] = "Prihlásiť sa";
-$locale['logout'] = "Odhlásiť sa";
+$locale['logout'] = "Odhlásiť";
 $locale['pm'] = "Súkromné správy";
 $locale['logged'] = "Prihlásený ako ";
 $locale['version'] = "Verzia ";
 $locale['browse'] = "Prezerať...";
+$locale['or'] = "alebo";

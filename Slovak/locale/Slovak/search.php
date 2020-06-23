@@ -1,9 +1,9 @@
 <?php
-$locale['400'] = "Hľadať na ".$settings['sitename'];
+$locale['400'] = "Hľadať na [SITENAME]";
 $locale['401'] = "Vyhľadávanie:";
 $locale['402'] = "Hľadať";
 $locale['403'] = "hľadať hociktoré z týchto slov";
-$locale['404'] = "výsledok musí obsahovať všetky slová";
+$locale['404'] = "výsledok musí obsahovať všetky tieto slová";
 $locale['405'] = "Kde:";
 $locale['406'] = "Možnosti:";
 $locale['407'] = "Celá stránka";
@@ -40,8 +40,8 @@ $locale['502'] = "Vyhľadávacie reťazce, ktoré majú menej ako 3 znaky (%s) b
 //Global search
 $locale['510'] = "výsledkov bolo nájdených na celej stránke";
 //
-$locale['520'] = "článok";
-$locale['521'] = "články";
+$locale['520'] = "výsledok";
+$locale['521'] = "výsledkov";
 $locale['522'] = "bolo nájdených podľa zadaných kritérií";
 //more than 100 results
 $locale['530'] = "Prosím buďte presnejší vo vašom dotaze. Vaše dotazy %s výsledkov. Zobrazujeme len 100 výsledkov";

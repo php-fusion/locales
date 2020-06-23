@@ -5,7 +5,7 @@ $locale['401'] = "Administrátor aktualizovaný";
 $locale['402'] = "Administrátor odstránený";
 // Search/Add Administrator
 $locale['410'] = "Pridať nového administrátora";
-$locale['411'] = "Vyhľadajte užívateľov";
+$locale['411'] = "Vyhľadajte užívateľov.";
 $locale['412'] = "ID užívateľa";
 $locale['413'] = "Meno";
 $locale['414'] = "Hľadať";

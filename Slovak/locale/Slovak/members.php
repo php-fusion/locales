@@ -1,11 +1,11 @@
 <?php
-$locale['400'] = "Zoznam užívateľov";
+$locale['400'] = "Užívatelia";
 $locale['401'] = "Meno";
 $locale['402'] = "Typ účtu";
 $locale['403'] = "Neexistuje žiadny užívateľ začínajúci na ";
-$locale['404'] = "Zobraziť všetkých";
+$locale['404'] = "Ukázať všetko";
 $locale['405'] = "Užívateľské skupiny";
-$locale['406'] = "Nie je v žiadnej skupine";
-$locale['407'] = "Pridať do všetkých skupín";
-$locale['408'] = "Hľadať člena...";
+$locale['406'] = "Nie je registrovaný do žiadnej skupiny";
+$locale['407'] = "Prístup do všetkých skupín";
+$locale['408'] = "Hľadať užívateľa:";
 $locale['409'] = "Hľadať";

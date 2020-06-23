@@ -1,7 +1,7 @@
 <?php
 // Section Titles
 $locale['400'] = "Povolené trvalé odkazy";
-$locale['401'] = "Zakazané trvalé odkazy";
+$locale['401'] = "Zakázané trvalé odkazy";
 // Common
 $locale['402'] = "Názov";
 $locale['403'] = "Popis";
@@ -30,7 +30,7 @@ $locale['424'] = "Úspešne povolené trvalé odkazy pre %s.";
 $locale['425'] = "Trvalé odkazy pre %s už sú povolené.";
 $locale['426'] = "Úspešne zakázané trvalé odkazy pre %s.";
 // Other
-$locale['427'] = "Žiadne trvalé odkazy nie sú povolené";
+$locale['427'] = "Žiadne trvalé odkazy nie sú povolené.";
 // Settings
 $locale['430'] = "Nastavenia SEO";
 $locale['431'] = "Nastavenia";

@@ -31,7 +31,7 @@ Chystáte sa odstrániť užívateľa <strong>%s</strong> !<br />
 Ak budete pokračovať, nasledujúci obsah <u>uverejnený týmto užívateľom</u> na tejto stránke bude odstránený:<br />
 - Články<br />
 - Novinky<br />
-- Vlákna fóra. Upozorňujeme, že aj príspevky ostatných používateľov v týchto vláknoch budú tiež odstránené spolu s hlasmi v anketách a prílohami, ktoré sa v tomto vlákne nachádzajú.<br />
+- Vlákna fóra. Upozorňujeme, že aj príspevky ostatných používateľov v týchto vláknách budú tiež odstránené spolu s hlasmi v anketách a prílohami, ktoré sa v tomto vlákne nachádzajú.<br />
 - Príspevky vo fóre<br />
 - Prílohy vo fóre<br />
 - Komentáre<br />
@@ -55,13 +55,13 @@ $locale['440'] = "Uložiť zmeny";
 $locale['450'] = "Nemôžem upraviť hlavného administrátora.";
 $locale['451'] = "Musíte zadať meno a e-mailovú adresu.";
 $locale['452'] = "Meno obsahuje nepovolené znaky.";
-$locale['453'] = "Meno ".(isset($_POST['user_name']) ? $_POST['user_name'] : "")." už niekto používa. Zvoľte si prosím iné.";
+$locale['453'] = "Meno [user_name] už niekto používa.";
 $locale['454'] = "Nesprávna e-mailová adresa.";
-$locale['455'] = "Emailovú adresu ".(isset($_POST['user_email']) ? $_POST['user_email'] : "")." už niekto používa. Zvoľte si prosím inú.";
+$locale['455'] = "Email [user_email] už niekto používa.";
 $locale['456'] = "Nové heslá sa nezhodujú.";
-$locale['457'] = "Nesprávne heslo. Používajte len alfa-numerické znaky.<br>
+$locale['457'] = "Nesprávne heslo. Používajte len alfa-numerické znaky.<br />
 Heslo musí mať minimálne 6 znakov.";
-$locale['458'] = "<strong>Upozornenie:<strong> nepovolené spustenie skriptu.";
+$locale['458'] = "<strong>Upozornenie:</strong> nepovolené spustenie skriptu.";
 // View Member Profile
 $locale['470'] = "Profil";
 $locale['472'] = "Štatistiky";
@@ -119,17 +119,17 @@ $locale['581'] = "Máte viac než 50 neaktívnych užívateľov a budete musieť
 $locale['582'] = "Reaktivácia";
 $locale['583'] = "Obnovenie";
 $locale['584'] = "Vyberte novú funkciu";
-$locale['585'] = "Tento užívateľ bol pôvodne zakázaný z bezpečnostných dôvodov! Ste si istý, že chcete zrušiť zákaz tohto užívateľa ?";
+$locale['585'] = "Tento užívateľ bol pôvodne zakázaný z bezpečnostných dôvodov! Ste si istý, že chcete zrušiť zákaz tohto užívateľa?";
 $locale['590'] = "Pozastavenie";
 $locale['591'] = "Obnovenie";
 $locale['592'] = "pozastavenie";
 $locale['593'] = "obnovenie";
-$locale['594'] = "Zadajte prosím dôvod, prečo ste  ";
+$locale['594'] = "Zadajte prosím dôvod, prečo ste ";
 $locale['595'] = " užívateľ ";
 $locale['596'] = "Trvanie:";
 $locale['600'] = "Bezpečnostný ban";
 $locale['601'] = "bezpečnostné banovanie";
-$locale['602'] = "Odban";
+$locale['602'] = "Odbanovanie";
 $locale['603'] = "odbanovanie";
 $locale['604'] = "Dôvod:";
 // Deactivation System

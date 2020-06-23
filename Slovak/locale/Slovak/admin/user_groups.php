@@ -21,22 +21,22 @@ $locale['433'] = "Popis skupiny:";
 $locale['434'] = "Uložiť skupinu";
 // Search/Add Group Users
 $locale['440'] = "Pridať užívateľov do skupiny";
-$locale['441'] = "Nájdite užívateľa a pridajte ho do skupiny pomocou tohoto formulára.";
+$locale['441'] = "Nájdite užívateľa a pridajte ho do skupiny pomocou tohto formulára.";
 $locale['442'] = "Pre vyhľadávanie viacerých užívateľov, mená oddeľte čiarkou.";
 $locale['443'] = "Užívateľova ID";
 $locale['444'] = "Užívateľské mená";
-$locale['445'] = "Vyhľadávanie";
+$locale['445'] = "Hľadať";
 $locale['446'] = "Meno";
 $locale['447'] = "Typ účtu";
 $locale['448'] = "Označiť všetko";
 $locale['449'] = "Odznačiť všetko";
-$locale['450'] = "Pridať označených užívateľov";
-$locale['451'] = "Žiadny užívatelia sa nenašli.";
+$locale['450'] = "Pridať vybratých užívateľov";
+$locale['451'] = "Nenašli sa žiadny užívatelia.";
 $locale['452'] = "Hľadať znova";
 // Current Group Users
-$locale['460'] = "Existujúci užívatelia v skupine";
-$locale['461'] = "Odstráňte vybraného užívateľa";
-$locale['462'] = "Odstráňťe všetkých užívateľov";
-$locale['463'] = "V tejto skupine nie sú žiadny užívatelia.";
+$locale['460'] = "Súčasní užívatelia v skupine";
+$locale['461'] = "Odstrániť vybraných užívateľov";
+$locale['462'] = "Odstrániť všetkých užívateľov";
+$locale['463'] = "V tejto skupine nie sú žiadni používatelia.";
 // Error Messages
 $locale['464'] = "Prosím, zadajte názov skupiny";

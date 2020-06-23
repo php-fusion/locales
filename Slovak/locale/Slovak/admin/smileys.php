@@ -2,7 +2,7 @@
 // Smiley titles
 $locale['401'] = "Pridať smajlíka";
 $locale['402'] = "Upraviť smajlíka";
-$locale['400'] = "Existujúce smajlíky";
+$locale['400'] = "Aktuálne smajlíky";
 // Smiley messages
 $locale['410'] = "Smajlík bol pridaný";
 $locale['411'] = "Smajlík bol aktualizovaný";
@@ -21,10 +21,10 @@ $locale['424'] = "Náhľad smajlíka:";
 $locale['430'] = "Kód";
 $locale['431'] = "Obrázok";
 $locale['432'] = "Text";
-$locale['433'] = "Nastavenia";
+$locale['433'] = "Možnosti";
 $locale['434'] = "Upraviť";
 $locale['435'] = "Vymazať";
-$locale['436'] = "Žiadne smajlíky neboli definované.";
+$locale['436'] = "Neboli pridané žiadne smajlíky.";
 // Error Message
 $locale['437'] = "Prosím, zadajte kód smajlíka";
 $locale['438'] = "Prosím vyberte smajlíka";

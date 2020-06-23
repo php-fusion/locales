@@ -37,4 +37,4 @@ $locale['547'] = "Vymazať FAQ?";
 // Error Messages
 $locale['460'] = "Prosím vložte názov kategórie.";
 $locale['461'] = "Táto kategória už existuje.";
-$locale['462'] = "Prosím vložte otázku a odpoveď pe FAQ.";
+$locale['462'] = "Prosím vložte otázku a odpoveď pre FAQ.";

@@ -19,7 +19,7 @@ $locale['419'] = "Album sa nedá odstrániť. Vaše heslo je nesprávne.";
 $locale['420'] = "GD knihovňa nebola nájdená. Fotoalbum nebude pracovať bez GD knihovne. Kontaktujte vášho poskytovateľa webhostingu.";
 // Album confirmation
 $locale['430'] = "Vymazať album";
-$locale['431'] = "Album ktorý sa pokúšate vymazať, obsahuje obrázky.<br>\n"."Ak chcete vymazať album, musíte zadať vaše heslo.";
+$locale['431'] = "Album ktorý sa pokúšate vymazať, obsahuje obrázky.<br />\n"."Ak chcete vymazať album, musíte zadať vaše heslo:";
 $locale['432'] = "Potvrdiť";
 $locale['433'] = "Zrušiť";
 // Album form

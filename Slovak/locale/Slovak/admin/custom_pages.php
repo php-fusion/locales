@@ -26,7 +26,7 @@ $locale['450'] = "Vymazať vlastnú stránku?";
 $locale['451'] = "Prosím zadajte titulok stránky";
 $locale['452'] = "Prosím zadajte heslo";
 $locale['453'] = "Admin heslo nie je správne";
-$locale['454'] = "%s sú zakázané pre všetky položky. Toto nastavenie bude mať vplyv iba ak budú znova povolené.";
+$locale['454'] = "%s sú zakázané pre všetky položky.<br />Toto nastavenie bude mať vplyv iba ak budú znova povolené.";
 $locale['455'] = "Komentáre";
 $locale['456'] = "Hodnotenia";
 $locale['457'] = $locale['455']." a ".$locale['456'];
@@ -34,3 +34,4 @@ $locale['457'] = $locale['455']." a ".$locale['456'];
 $locale['460'] = "TinyMCE:";
 $locale['461'] = "Povoliť";
 $locale['462'] = "Zakázať";
+

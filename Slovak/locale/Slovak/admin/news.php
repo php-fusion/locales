@@ -30,14 +30,14 @@ $locale['434'] = "Povoliť komentáre";
 $locale['435'] = "Povoliť hodnotenie";
 $locale['436'] = "Náhľad";
 $locale['437'] = "Uložiť";
-$locale['438'] = "[NÁVRH]";
+$locale['438'] = "[KONCEPT]";
 $locale['439'] = "Obrázok noviniek";
 $locale['440'] = "Max. veľkosť súboru: %s / Povolené typy: GIF, JPG alebo PNG.";
 $locale['441'] = "Oddeľovač stránok";
 // Popup Error/Warning Messages
 $locale['450'] = "Prosím vyplňte predmet";
 $locale['451'] = "Vymazať túto novinku?";
-$locale['452'] = "%s sú zakázané pre všetky položky. Toto nastavenie bude mať vplyv iba ak budú znova povolené.";
+$locale['452'] = "%s sú zakázané pre všetky položky.<br />Toto nastavenie bude mať vplyv iba ak budú znova povolené.";
 $locale['453'] = "Komentáre";
 $locale['454'] = "Hodnotenia";
 $locale['455'] = $locale['453']." a ".$locale['454'];

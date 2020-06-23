@@ -30,5 +30,12 @@ $locale['463'] = "Upraviť";
 $locale['464'] = "Vymazať";
 $locale['465'] = "Nikto nie je zablokovaný.";
 $locale['466'] = "N/A";
-$locale['467'] = "Admin";
+$locale['467'] = "Administrátor";
 $locale['468'] = "Dátum";
+/*
+// IPv6 specific
+$locale['480'] = "IPv6 options";
+$locale['481'] = "The specified IPv6 address contains a shortcut (::) therefore cannot be determined unequivocally.";
+$locale['482'] = "Which version would you use?";
+$locale['483'] = "Save";
+*/

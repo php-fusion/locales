@@ -11,27 +11,11 @@ $locale['404'] = "Odôvodnenie pre obnovenie:";
 $locale['405'] = "Obnovenie prihlasovacieho a admin hesla";
 $locale['406'] = "Obnovenie hesiel";
 $locale['407'] = "Heslo obnovené na ";
-$locale['408'] = "Dobrý deň, [USER_NAME],
-
-Vaše admin heslo bolo obnovené na ".$settings['siteurl'].":
-
-Admin heslo: [NEW_ADMIN_PASS]
-
-Dôvod pre obnovenie je: [RESET_MESSAGE]
-
-S pozdravom,
-[ADMIN]";
-$locale['409'] = "Dobrý deň, [USER_NAME],
-
-Vaše  prihlasovacie a admin heslo bolo obnovené na ".$settings['siteurl'].":
-
-Prihlasovacie heslo: [NEW_PASS]
-Admin heslo: [NEW_ADMIN_PASS]
-
-Dôvod pre obnovenie je: [RESET_MESSAGE]
-
-S pozdravom,
-[ADMIN]";
+$locale['408'] = "Dobrý deň [USER_NAME],<br/>\r\nVaše admin heslo bolo obnovené na [SITEURL]:<br/>\r\n
+Admin heslo: [NEW_ADMIN_PASS]<br/>\r\nDôvod pre obnovenie je: [RESET_MESSAGE]<br/>\r\nS pozdravom,<br/>\r\n[ADMIN]";
+$locale['409'] = "Dobrý deň [USER_NAME],<br/>\r\nVaše  prihlasovacie a admin heslo bolo obnovené na [SITEURL]:<br/>\r\n
+Prihlasovacie heslo: [NEW_PASS]<br/>\r\nAdmin heslo: [NEW_ADMIN_PASS]<br/>\r\nDôvod pre obnovenie je: [RESET_MESSAGE]<br/>\r\n
+S pozdravom,<br/>\r\n[ADMIN]";
 $locale['410'] = "Výsledky obnovení";
 $locale['411'] = "<strong>Upozornenie:</strong> Admin heslo nebolo zadané alebo je nesprávne.";
 $locale['412'] = "Admin heslo:";

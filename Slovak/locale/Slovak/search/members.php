@@ -1,5 +1,5 @@
 <?php
-$locale['m400'] = "Užívateľov";
-$locale['m401'] = "Užívateľ";
-$locale['m402'] = "užívateľov";
-$locale['m403'] = "Profil je viditeľný len pre užívateľov!";
+$locale['m400'] = "Užívatelia";
+$locale['m401'] = "Člen";
+$locale['m402'] = "Užívatelia";
+$locale['m403'] = "Profily sú viditeľné len pre členov!";

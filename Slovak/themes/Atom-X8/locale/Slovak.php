@@ -27,7 +27,7 @@ $locale['ax8_24'] = 'Pred tromi týždňami';
 $locale['ax8_25'] = 'Pred mesiacom';
 $locale['ax8_26'] = "Najnovšie aktivity";
 $locale['ax8_27'] = 'zatiaľ nemá žiadne aktivity.';
-$locale['ax8_28'] = 'Nemáte povolenie na zobrazenie tohto. Prosím, <a href=\'".BASEDIR."login.php\'>prihláste sa</a> pre zobrazenie najnovších aktivít užívateľa.';
+$locale['ax8_28'] = '[Nemáte povolenie na zobrazenie tohto. Prosím, [link]prihláste sa[/link] pre zobrazenie najnovších aktivít užívateľa.';
 $locale['ax8_29'] = " profil";
 $locale['ax8_30'] = 'Odkazy';
 $locale['ax8_31'] = 'Súkromné správy';

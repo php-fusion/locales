@@ -1,15 +1,15 @@
 <?php
 $locale['400'] = "PHP Info";
 //General
-$locale['401'] = "Hlavné";
-$locale['402'] = "Hosting servera";
+$locale['401'] = "Všeobecné";
+$locale['402'] = "Serverový softvér";
 $locale['403'] = "Webserver";
-$locale['404'] = "Verzia PHP";
+$locale['404'] = "PHP verzia";
 $locale['405'] = "PHP rozhranie";
 $locale['406'] = "Verzia MySQL servera";
 $locale['407'] = "Verzia PHP-Fusionu";
 $locale['408'] = "Prefix databázy";
-$locale['409'] = "Prefix Cookie";
+$locale['409'] = "Prefix cookie";
 $locale['410'] = "Prehliadač a OS";
 //PHP settings
 $locale['420'] = "Nastavenia PHP";
@@ -18,7 +18,7 @@ $locale['422'] = "Nie";
 $locale['423'] = "Bezpečnostný mód";
 $locale['424'] = "RegisterGlobals";
 $locale['425'] = "Podpora pre";
-$locale['426'] = "Nahrávanie súborov (max.veľkosť súboru)";
+$locale['426'] = "Nahrávanie súborov (max. veľkosť súboru)";
 $locale['428'] = "Zobraziť chybové hlášky";
 $locale['429'] = "Zakázané funkcie";
 $locale['430'] = "n/a";
@@ -29,4 +29,4 @@ $locale['441'] = "Zapisovateľné";
 $locale['442'] = "Nezapisovateľné";
 //PHPinfo
 $locale['450'] = "Podrobnosti";
-$locale['451'] = "Nemožno získať údaje? Skontrolujte, či nie je funkcia phpinfo() zakázaná.";
+$locale['451'] = "Nie je možné získať údaje. Skontrolujte, či nie je funkcia phpinfo() vypnutá.";

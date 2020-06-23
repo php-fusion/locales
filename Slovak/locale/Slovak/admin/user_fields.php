@@ -1,7 +1,7 @@
 <?php
 // Enabled User Fields
 $locale['400'] = "Povoliť užívateľské polia";
-$locale['401'] = "Názov pola";
+$locale['401'] = "Meno poľa";
 $locale['402'] = "Popis";
 $locale['403'] = "Poradie";
 $locale['404'] = "Možnosti";
@@ -22,13 +22,13 @@ $locale['424'] = "Aktualizovať";
 $locale['425'] = "Povoliť";
 $locale['426'] = "Verzia API:";
 $locale['427'] = "Požaduje sa";
-$locale['428'] = "Toto užívateľské pole nepodporuje danú požiadavku.";
+$locale['428'] = "Toto užívateľské pole nepodporuje danú požiadavku";
 $locale['429'] = "Záznam";
-$locale['429a'] = "Toto užívateľské pole nepodporuje daný záznam.";
+$locale['429a'] = "Toto užívateľské pole nepodporuje daný záznam";
 // Disabled user fields
 $locale['430'] = "Zakázané užívateľské polia";
 $locale['431'] = "Povoliť";
-// All user fields are enabled
+// All user fields are enabled / No user fields are enabled
 $locale['440'] = "Všetky užívateľské polia sú povolené.";
 $locale['441'] = "Užívateľské polia nie sú povolené.";
 // User Field Groups

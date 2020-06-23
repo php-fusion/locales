@@ -1,3 +1,3 @@
 <?php
-$locale['bb_autolink_description'] = "Zapne odkaz na email adresu, použitie klikutím na hyperlink.";
-$locale['bb_autolink_usage'] = "Tento bbkód nemá tlačítko. MUSÍ byť nad URL a email bbkódom.";
+$locale['bb_autolink_description'] = "Zmení odkazy alebo e-mailové adresy na hypertextové odkazy, na ktoré je možné kliknúť.";
+$locale['bb_autolink_usage'] = "Tento BB kód nemá žiadne tlačidlo. MUSÍ byť nad URL a e-mail BB kódom.";

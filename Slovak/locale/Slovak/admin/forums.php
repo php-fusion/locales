@@ -9,9 +9,9 @@ $locale['412'] = "Kategória fóra nemôže byť vymazaná";
 $locale['413'] = "S touto kategóriou sú spojené fóra";
 $locale['414'] = "Kategória fóra bola vymazaná";
 // Forum Category form
-$locale['420'] = "Názov kategórie:";
+$locale['420'] = "Názov kategórie";
 $locale['420b'] = "Popis kategórie";
-$locale['421'] = "Poradie:";
+$locale['421'] = "Poradie";
 $locale['422'] = "Uložiť kategóriu";
 // Delete Forum Category
 $locale['440'] = "Vymazať kategóriu fóra?";
@@ -20,7 +20,7 @@ $locale['500'] = "Pridať fórum";
 $locale['501'] = "Upraviť fórum";
 // Forum Category messages
 $locale['510'] = "Fórum bolo pridané";
-$locale['511'] = "Fórum bolo aktulizované";
+$locale['511'] = "Fórum bolo aktualizované";
 $locale['512'] = "Fórum nemôže byť vymazané";
 $locale['513'] = "S týmto fórom sú spojené príspevky";
 $locale['514'] = "Fórum bolo vymazané";
@@ -32,18 +32,18 @@ $locale['520'] = "Názov fóra:";
 $locale['521'] = "Popis fóra:";
 $locale['522'] = "Kategória fóra:";
 $locale['523'] = "Poradie:";
-$locale['524'] = "Prístupnosť fóra:";
+$locale['524'] = "Prístupnosť fóra";
 $locale['525'] = "Prístup pre:";
 $locale['526'] = "Založenie témy:";
-$locale['527'] = "Odpoveď v téme:";
+$locale['527'] = "Odpovede príspevku:";
 $locale['528'] = "Pridať prílohy:";
 $locale['529'] = "Vytvoriť anketu:";
 $locale['530'] = "Hlasovať v ankete:";
 $locale['531'] = "Vypnúť";
 $locale['532'] = "Uložiť fórum";
-$locale['533'] = "Moderátori fóra:";
+$locale['533'] = "Moderátori fóra";
 $locale['534'] = "Uložiť moderátorov fóra";
-$locale['535'] = "Stiahnúť prílohy:";
+$locale['535'] = "Stiahnuť prílohy:";
 // Forum Settings
 $locale['540'] = "Nastavenia fóra:";
 $locale['541'] = "Spájanie príspevkov:";
