@@ -8,7 +8,7 @@ $locale['410'] = "Kategorie byla vytvořena";
 $locale['411'] = "Kategorie byla aktualizována";
 $locale['412'] = "Kategorie byla smazána";
 $locale['413'] = "Kategorie nemůže být smazána, protože";
-$locale['414'] = "na tuto kategorii jsou odkazována některé uživatelská pole";
+$locale['414'] = "S touto kategorií jsou spojena uživatelská pole";
 // User Fields Categories form
 $locale['420'] = "Název kategorie";
 $locale['421'] = "Řazení kategorie";

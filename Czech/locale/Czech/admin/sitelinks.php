@@ -7,7 +7,7 @@ $locale['402'] = "Existující odkazy";
 $locale['410'] = "Odkaz byl přidán";
 $locale['411'] = "Odkaz byl aktualizován";
 $locale['412'] = "Odkaz byl vymazán";
-// Site Links Form
+// Site Links form
 $locale['420'] = "Název odkazu:";
 $locale['421'] = "URL odkazu:";
 $locale['422'] = "Přístupné:";

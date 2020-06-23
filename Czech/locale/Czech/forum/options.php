@@ -14,10 +14,10 @@ $locale['411'] = "Diskuze byla uzamčena.";
 $locale['420'] = "Odemknout diskuzi";
 $locale['421'] = "Diskuze byla odemčena.";
 // Make Thread Sticky
-$locale['430'] = "Nastavit diskuzi jako oblíbenou";
-$locale['431'] = "Diskuze byla nastavena jako oblíbená.";
+$locale['430'] = "Připnout vlákno";
+$locale['431'] = "Vlákno bylo připnuté.";
 // Make Thread Non-Sticky
-$locale['440'] = "Zrušit diskuzi jako oblíbenou.";
+$locale['440'] = "Zrušit připnutí";
 $locale['441'] = "Diskuze už není oblíbená.";
 // Move Thread
 $locale['450'] = "Přesunout diskuzi";

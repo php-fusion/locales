@@ -1,6 +1,6 @@
 <?php
 $locale['100'] = "Záznam uživatelů";
-$locale['101'] = "ID";
+$locale['101'] = "Id";
 $locale['102'] = "Datum";
 $locale['103'] = "Uživatelské jméno";
 $locale['104'] = "Uživatelské pole";
@@ -18,4 +18,4 @@ $locale['115'] = "Uživatelské Pole:";
 $locale['116'] = "Vymazat";
 $locale['117'] = "Možnosti";
 $locale['118'] = "Všechny položky starší než %d dny / dní jsou smazány.";
-$locale['119'] = "Záznam v záznamu uživatelů byl vymazán.";
+$locale['119'] = "Záznam byl odstraněn";

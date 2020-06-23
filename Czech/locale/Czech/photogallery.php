@@ -6,14 +6,12 @@ $locale['403'] = "Datum: ";
 $locale['404'] = "Vytvořil/a: ";
 $locale['405'] = "Fotky: ";
 $locale['406'] = "Zatím nejsou žádné kategorie Galerie fotek.";
-
 $locale['420'] = "Informace o albu";
 $locale['421'] = "Album: ";
 $locale['422'] = "Počet fotek: ";
 $locale['423'] = "Poslední fotku přidal/a ";
 $locale['424'] = " dne ";
 $locale['425'] = "Do alba nebyly vloženy žádné fotky";
-
 $locale['430'] = "Prohlédnout album";
 $locale['431'] = "Prohlédnout";
 $locale['432'] = "Žádný náhled";
@@ -24,7 +22,6 @@ $locale['436'] = "Komentáře: ";
 $locale['436b'] = "Komentář: ";
 $locale['437'] = "Hodnocení: ";
 $locale['438'] = "Žádný";
-
 $locale['450'] = "Prohlédnout fotku";
 $locale['451'] = "Předcházející fotka";
 $locale['452'] = "Další fotka";

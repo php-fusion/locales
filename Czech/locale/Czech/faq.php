@@ -5,4 +5,3 @@ $locale['402'] = "Nejčtenější";
 // Notices
 $locale['410'] = "Nebyly definovány žádné kategorie FAQ.";
 $locale['411'] = "Tato kategorie je prázdná.";
-?>

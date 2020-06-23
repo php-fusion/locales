@@ -1,10 +1,10 @@
 <?php
-// News titles
+// Article titles
 $locale['400'] = "Přidat článek";
 $locale['401'] = "Upravait člálenk";
 $locale['402'] = "Existující články";
 $locale['403'] = "Články";
-// News messages
+// Article messages
 $locale['410'] = "Článek byl přidaný";
 $locale['411'] = "Článek byl aktualizovaný";
 $locale['412'] = "Článek byl smazaný";

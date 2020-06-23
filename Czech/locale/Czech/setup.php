@@ -28,7 +28,7 @@ $locale['023'] = "V pořádku";
 $locale['024'] = "Chyba";
 $locale['025'] = "Obnovit";
 
-// Step 3 - Access criteria
+// Step 3 - Access
 $locale['030'] = "Vyplňte prosím veškerá nastavení potřebná k přístupu do MySQL databáze.";
 $locale['031'] = "Adresa umístění databáze:";
 $locale['032'] = "Přihlašovací jméno k databázi:";
@@ -46,12 +46,12 @@ $locale['039c'] = "Vyberte jazyky, které chcete používat:";
 $locale['040'] = "Úspěšné připojení k databázi.";
 $locale['041'] = "Konfigurační soubor uložen.";
 $locale['042'] = "Databázové tabulky vytvořeny.";
-$locale['043'] = "CHYBA:";
+$locale['043'] = "Chyba:";
 $locale['044'] = "Nelze se připojit do databáze.";
 $locale['045'] = "Zkontrolujte prosím MySQL nastavení.";
 $locale['046'] = "Nelze zapsat údaje do souboru config.";
 $locale['047'] = "Prosím zkontrolujte, jestli je soubor config.php zapisovatelný.";
-$locale['048'] = "V databázi nelze vytvořit tabulky";
+$locale['048'] = "V databázi nelze vytvořit tabulky.";
 $locale['049'] = "Prosím upřesněte jméno databáze.";
 $locale['050'] = "Není možné se spojit s MySQL databází.";
 $locale['051'] = "Zadaná MySQL databáze neexistuje.";
@@ -80,12 +80,12 @@ $locale['072b'] = "Pole pro <strong>heslo</strong> nemůže zůstat nevyplněné
 $locale['073'] = "Admin hesla se neshodují.";
 $locale['074'] = "Heslo a Admin heslo nesmí být stejné.";
 $locale['075'] = "Nesprávné Admin heslo, použijte jen alfanumerické znaky.<br>Heslo musí mít minimálně 8 znaků.";
-$locale['075b'] = "Pole pro Admin heslo nemůže zůstat nevyplněné!";
+$locale['075b'] = "Pole pro Admin heslo nemůže zůstat nevyplněné.";
 $locale['076'] = "Nesprávný e-mail.";
-$locale['076b'] = "Pole pro e-mail nemůže zůstat nevyplněné!";
+$locale['076b'] = "Pole pro e-mail nemůže zůstat nevyplněné.";
 $locale['077'] = "Registrace selhala z těchto důvodů:";
 
-// Step 6 - Admin Panels
+// Step 6 - Admin Items
 $locale['080'] = "Administrátoři";
 $locale['081'] = "Kategorie článků";
 $locale['082'] = "Články";
@@ -211,8 +211,8 @@ $locale['193'] = "Software";
 $locale['194'] = "Vzhledy";
 $locale['195'] = "Windows";
 
-// Stage 6 - Sample Forum Ranks
-$locale['200'] = "Hlavní administrátor ";
+// Stage 6 - Default Forum Ranks
+$locale['200'] = "Hlavní administrátor";
 $locale['201'] = "Administrátor";
 $locale['202'] = "Moderátor";
 $locale['203'] = "Nováček";
@@ -222,26 +222,26 @@ $locale['206'] = "Diskutující";
 $locale['207'] = "Stařešina";
 $locale['208'] = "Fusionista";
 
-// Stage 6 - Sample Smileys
+// Stage 6 - Default Smileys
 $locale['210'] = "Úsměv";
 $locale['211'] = "Mrknutí";
 $locale['212'] = "Smutný";
 $locale['213'] = "Zamračený";
 $locale['214'] = "Vyděšený";
-$locale['215'] = "Pff";
-$locale['216'] = "Cool";
+$locale['215'] = "Pfft";
+$locale['216'] = "Hustý";
 $locale['217'] = "Šklebící se";
 $locale['218'] = "Naštvaný";
 
-// Stage 7 - User Field Categories
+// Stage 6 - User Field Categories
 $locale['220'] = "Kontaktní informace";
 $locale['221'] = "Osobní informace";
 $locale['222'] = "Nastavení";
 $locale['223'] = "Statistiky";
 $locale['224'] = "Soukromí";
 
-// Welcome message
-$locale['230'] = "Uvítací zpráva, změníte jí v administraci.";
+// Welcome panel message
+$locale['230'] = "Vítejte na vašem webu";
 
 // Final message
 $locale['240'] = "Instalace byla úspěšně dokončena, PHP-Fusion 8 je připraven k použití.<br>
@@ -264,7 +264,7 @@ $locale['T102'] = "Máte novou soukromou zprávu od [USER] čekající na [SITEN
 $locale['T103'] = "Ahoj [RECEIVER],<br/>Obdrželi jste novou zprávu s názvem [SUBJECT] od [USER] na [SITENAME]. Můžete si přečíst soukromou zprávu na adrese [SITEURL]messages.php<br/>Zpráva: [MESSAGE]<br/>Pokud již nechcete být upozorněni na nové zprávy, můžete vypnout upozornění e-mailem prostřednictvím panelu možností na stránce Soukromá zpráva.<br/>S pozdravem,<br/>[SENDER].";
 $locale['T201'] = "Oznámení o nových příspěvcích na fóru";
 $locale['T202'] = "Oznámení odpovědi na téma - [SUBJECT]";
-$locale['T203'] = "Ahoj [RECEIVER],<br/>Odpověď byla zveřejněna ve fóru \'[SUBJECT]\' které sledujete na [SITENAME]. Pro zobrazení odpovědi můžete použít následující odkaz:<br/>[THREAD_URL]<br/>Pokud již nechcete sledovat tuto vlákno, můžete kliknout na \'Zastavit sledování tohoto vlákna\' odkaz umístěný v horní části vlákna.<br/>S pozdravem,<br/>[SENDER].";
+$locale['T203'] = "Ahoj [RECEIVER],<br/>Odpověď byla zveřejněna ve fóru \\'[SUBJECT]\\' které sledujete na [SITENAME]. Pro zobrazení odpovědi můžete použít následující odkaz:<br/>[THREAD_URL]<br/>Pokud již nechcete sledovat tuto vlákno, můžete kliknout na \\'Zastavit sledování tohoto vlákna\\' odkaz umístěný v horní části vlákna.<br/>S pozdravem,<br/>[SENDER].";
 $locale['T301'] = "Kontaktní formulář";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";

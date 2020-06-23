@@ -22,7 +22,7 @@ $locale['434'] = "Uložit";
 // Search/Add Group Users
 $locale['440'] = "Přidat uživatele do skupiny";
 $locale['441'] = "Najděte uživatele a přidejte ho do skupiny pomocí tohoto formuláře.";
-$locale['442'] = "Pokud budete hledat více uživatelů, oddělte jména čárkou (franta, flinta, ja).";
+$locale['442'] = "Můžete hledat více uživatelů oddělením každé položky čárkou.";
 $locale['443'] = "ID Uživatele";
 $locale['444'] = "Jména uživatelů";
 $locale['445'] = "Vyhledat";
@@ -35,7 +35,7 @@ $locale['451'] = "Žádný uživatel nebyl nalezen.";
 $locale['452'] = "Hledat znovu";
 // Current Group Users
 $locale['460'] = "Existující uživatelé ve skupině";
-$locale['461'] = "Odstranit vybraného užívatele";
+$locale['461'] = "Odebrat vybrané uživatele";
 $locale['462'] = "Odstranit všechny uživatele";
 $locale['463'] = "V této skupině zatím není žádný uživatel.";
 // Error Messages

@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Nemáte oprávnění k prohlížení této stránky.";
-$locale['401'] = "Vnitřní chyba. Kontaktujte administrátora";
-$locale['402'] = "Obsah stránky není možné zobrazit.";
-$locale['403'] = "Vrátit se zpět";
+$locale['400'] = "Přístup odepřen!<br/>Nemáte oprávnění tuto stránku prohlížet.";
+$locale['401'] = "Interní chyba";
+$locale['402'] = "Nelze načíst obsah stránky.";
+$locale['403'] = "Vraťte se zpět";

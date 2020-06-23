@@ -4,12 +4,12 @@ $locale['400'] = "Existující novinky";
 $locale['401'] = "Přidat novinku";
 $locale['402'] = "Upravit novinku";
 // News messages
-$locale['410'] = "Novinka byla přidána.";
-$locale['411'] = "Novinka byla aktualizována.";
-$locale['412'] = "Novinka byla smazána.";
-$locale['413'] = "Nesprávný název(koncovka) souboru.";
+$locale['410'] = "Novinka byla přidána";
+$locale['411'] = "Novinka byla aktualizována";
+$locale['412'] = "Novinka byla smazána";
+$locale['413'] = "Nesprávný název souboru.";
 $locale['414'] = "Obrázek musí být menší než %s.";
-$locale['415'] = "Obrázek musí být v <b>GIF</b>,<b>PNG</b> nebo <b>JPG</b> formátu.";
+$locale['415'] = "Obrázek musí být v GIF, PNG nebo JPG formátu.";
 $locale['416'] = "Obrázek nesmí být větší než %uw x %uh pixelů.";
 // News form
 $locale['420'] = "Upravit";
@@ -30,9 +30,9 @@ $locale['434'] = "Povolit komentáře";
 $locale['435'] = "Povolit hodnocení";
 $locale['436'] = "Náhled";
 $locale['437'] = "Uložit";
-$locale['438'] = "[KONCEPT]";
+$locale['438'] = "[DRAFT]";
 $locale['439'] = "Obrázek novinky";
-$locale['440'] = "Max. velikost: %s / Povolené formáty: <b>GIF</b>, <b>JPEG</b> nebo <b>PNG</b>.";
+$locale['440'] = "Max. velikost: %s / Povolené formáty: GIF, JPEG nebo PNG.";
 $locale['441'] = "Oddělovač stránek";
 // Popup Error/Warning Messages
 $locale['450'] = "Prosím vyplňte předmět";

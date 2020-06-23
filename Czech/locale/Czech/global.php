@@ -1,24 +1,13 @@
 <?php
-/**
- * Czech Locale
- *
- * @locale charset     ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * @locale region      ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- * @locale tinymce     refer to path includes/jscripts/tinymce/langs/{value}.js
- * @locale phpmailer   refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
- * @locale filemanager refer to path includes/elFinder/js/i18n/{value}.js
- * @package locale/Czech
- */
-
-setlocale(LC_ALL, "cs_CZ.UTF-8", "cs_CZ", "czech");
-$locale['charset'] = "utf-8";
-$locale['region'] = "CZ";
+$locale['setlocale'] = "cs_CZ"; // https://www.php.net/manual/en/function.setlocale.php
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "CZ"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "cs";
 $locale['short_lang_name'] = "cs";
-$locale['tinymce'] = "cs";
-$locale['select2'] = "cs";
-$locale['phpmailer'] = "cs";
-$locale['filemanager'] = "cs";
+$locale['tinymce'] = "cs"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "cs"; // refer to path includes/jscripts/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "cs"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "cs"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "cs";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
@@ -116,14 +105,14 @@ $locale['global_044'] = "Vlákno";
 $locale['global_045'] = "Zobrazení";
 $locale['global_046'] = "Odpovědi";
 $locale['global_047'] = "Poslední příspěvek";
-$locale['global_048'] = "Forum";
+$locale['global_048'] = "Fórum";
 $locale['global_049'] = "Přidáno";
 $locale['global_050'] = "Autor";
 $locale['global_051'] = "Anketa";
 $locale['global_052'] = "Přesunul";
 $locale['global_053'] = "Nezačali jste zatím žádné téma.";
 $locale['global_054'] = "Dosud jste nezveřejnili žádné příspěvky ve fóru.";
-$locale['global_055'] = "Bylo napsaných %u nových příspěvků, od vaší poslední návštěvy.";
+$locale['global_055'] = "Od vaší poslední návštěvy je %u nových příspěvků v %u různých vláknech.";
 $locale['global_056'] = "Sledovaná vlákna";
 $locale['global_057'] = "Možnosti";
 $locale['global_058'] = "Zastavit sledování";
@@ -173,8 +162,8 @@ $locale['global_101c'] = "Zadejte e-mail nebo uživatelské jméno";
 $locale['global_102'] = "Heslo";
 $locale['global_103'] = "Zůstat přihlášen";
 $locale['global_104'] = "Přihlásit se";
-$locale['global_105'] = "Ještě nejste členem?<br><a href='".BASEDIR."register.php'>Klikněte zde</a> a zaregistrujte se.";
-$locale['global_106'] = "<a href='".BASEDIR."lostpassword.php' class='side'>Zapomenuté heslo?</a>";
+$locale['global_105'] = "Ještě nejste členem? [LINK]Klikněte zde[/LINK] a zaregistrujte se.";
+$locale['global_106'] = "[LINK]Zapomenuté heslo?[/LINK]";
 $locale['global_107'] = "Registrace";
 $locale['global_108'] = "Ztracené heslo";
 $locale['global_109'] = "Přihlásit se";
@@ -224,7 +213,7 @@ $locale['UM085'] = "Máte %u novou/é";
 $locale['UM086'] = "zprávu";
 $locale['UM087'] = "zprávy";
 $locale['UM088'] = "Moje sledovaná vlákna";
-// Submit (news, link, article)
+// Submit (news, blog, link, article)
 $locale['UM089'] = "Přidat...";
 $locale['UM090'] = "Přidat novinku";
 $locale['UM091'] = "Přidat odkaz";
@@ -259,25 +248,24 @@ $locale['global_176'] = "Zásady ochrany osobních údajů";
 // Admin Navigation
 $locale['global_180'] = "Admin Index";
 $locale['global_181'] = "Zpět na stránku";
-$locale['global_182'] = "<strong>Poznámka:</strong> Admin heslo nebylo zadané, nebo je chybné.";
+$locale['global_182'] = "Heslo správce nebylo zadáno nebo je nesprávné.";
 // Miscellaneous
 $locale['global_190'] = "Mód údržby byl aktivován";
 $locale['global_191'] = "Z této IP adresy nemáte povolený přístup na tuto stránku.";
-$locale['global_192'] = "Vaše cookie vypršela. Pro pokračování se musíte přihlásit.  ";
+$locale['global_192'] = "Vaše relace vypršela. Prosím, přihlaste se znovu.";
 $locale['global_193'] = "Nelze nastavit uživatelovo cookie. Prosím ujistěte se, že máte zapnutou podporu cookie aby jste se mohl(a) přihlásit.";
 $locale['global_194'] = "Váš účet je zablokován.";
 $locale['global_195'] = "Tento účet nebyl aktivován.";
 $locale['global_196'] = "Nesprávné jméno nebo heslo.";
-$locale['global_197'] = "Počkejte prosím. Přihlašování může chvíli trvat...<br /><br />
-[ <a href='index.php'>Pokud se stránka nezobrazí do 10 sekund klikněte sem.</a> ]";
-$locale['global_198'] = "<strong>UPOZORNĚNÍ:</strong> setup.php nebyl smazán. Smažte jej co nejdříve.";
-$locale['global_199'] = "<strong>UPOZORNĚNÍ:</strong> Není nastavené Admin heslo. Klikněte na <a href='edit_profile.php'>Editovat profil</a> a nastavte ho.";
+$locale['global_197'] = "Počkejte prosím, než vás přenesem...<br/>[ [LINK]Nebo klikněte zde, pokud nechcete čekat[/LINK]]";
+$locale['global_198'] = "UPOZORNĚNÍ: INSTALAČNÍ SOUBOR BOL DETEKOVÁN, PROSÍM VYMAŽTE SETUP.PHP.";
+$locale['global_199'] = "VAROVÁNÍ: admin heslo není nastaveno, klikněte na [LINK]Upravit profil[/LINK] pro jeho nastavení.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = $locale['global_200']."Vyhledávání";
-$locale['global_203'] = $locale['global_200']."FAQ";
-$locale['global_204'] = $locale['global_200']."Fórum";
+$locale['global_202'] = " - Hledat";
+$locale['global_203'] = " - FAQ";
+$locale['global_204'] = " - Fórum";
 //Themes
 $locale['global_210'] = "Přejít na obsah";
 $locale['global_300'] = "žádná téma nebyla nalezena";
@@ -330,13 +318,13 @@ $locale['global_457'] = "Ahoj USER_NAME,
 <br/>Nové heslo bylo pro váš účet nastaveno na [SITENAME]. Najdete zde nové přihlašovací údaje:<br/>
 Uživatelské jméno: USER_NAME<br/>Heslo: [PASSWORD]<br/>S pozdravem,<br/>[SITEUSERNAME]";
 $locale['global_458'] = "Bylo nastaveno nové heslo USER_NAME";
-$locale['global_459'] = "Bylo nastaveno nové heslo USER_NAME, A e-mail nebyl odeslán. Ujistěte se, že uživatel byl informuován o nových podrobnostech.";
+$locale['global_459'] = "Bylo nastaveno nové heslo USER_NAME, a e-mail nebyl odeslán. Ujistěte se, že uživatel byl informuován o nových podrobnostech.";
 // Function parsebytesize()
 $locale['global_460'] = "Prázdné";
 $locale['global_461'] = "Byty";
 $locale['global_462'] = "kB";
 $locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
+$locale['global_464'] = "CZ";
 $locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "Budete přesměrováni %s, prosím, čekejte. Pokud nejste přesměrováni, klikněte sem.";
@@ -438,9 +426,9 @@ $locale['image'] = "Obrázek";
 $locale['choose'] = "Vyberte prosím jedno...";
 $locale['no_opts'] = "Žádný výběr";
 $locale['root'] = "Jako rodič";
-$locale['choose-user'] = "Vyberte prosím uživatele ...";
+$locale['choose-user'] = "Vyberte prosím uživatele...";
 $locale['choose-location'] = "Zvolte prosím místo";
-$locale['parent'] = "Vytvořit jako nový nadřazený ..";
+$locale['parent'] = "Vytvořit jako nový nadřazený..";
 $locale['item_order'] = "Pořadí položek";
 $locale['status'] = "Stav";
 $locale['note'] = "Poznamenejte si tuto položku";

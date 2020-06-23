@@ -1,6 +1,6 @@
 <?php
 $locale['susp00'] = "Členové";
-$locale['susp01'] = "Zabanovaní";
+$locale['susp01'] = "Zabanován";
 $locale['susp02'] = "Neaktivovaní";
 $locale['susp03'] = "Pozastavení";
 $locale['susp04'] = "Bezpečnostně banovaní";

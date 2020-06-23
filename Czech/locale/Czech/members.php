@@ -7,5 +7,5 @@ $locale['404'] = "Zobrazit všechny";
 $locale['405'] = "Uživatelské skupiny";
 $locale['406'] = "Není v žádné skupině";
 $locale['407'] = "Přidat do všech skupin";
-$locale['408'] = "Hledat člena...";
+$locale['408'] = "Hledat uživatele:";
 $locale['409'] = "Hledat";

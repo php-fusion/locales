@@ -25,12 +25,12 @@ $locale['460'] = "Označit vše";
 $locale['461'] = "Odznačit vše";
 $locale['462'] = "Vymazat diskuzi";
 $locale['463'] = "Vymazat označenou diskuzi?";
-// Forum Guide/Privelages
-$locale['470'] = "Obsahuje nové příspěvky.";
-$locale['471'] = "20 a nebo více.";
+// Forum Guide/Privileges
+$locale['470'] = "Otevřít vlákno s novými příspěvky od poslední návštěvy";
+$locale['471'] = "20 a nebo více";
 $locale['472'] = "Neobsahuje nové příspěvky.";
 $locale['473'] = "Uzamčená.";
-$locale['474'] = "Oblíbená.";
+$locale['474'] = "Připnuté";
 // View Thread Poll
 $locale['480'] = "Počet hlasů";
 $locale['481'] = "Hlasovat";
@@ -41,7 +41,7 @@ $locale['502'] = "Příspěvek:";
 $locale['503'] = "Bydliště:";
 $locale['504'] = "Založený:";
 $locale['505'] = "Přidané ";
-$locale['506'] = " přiloženo následující";
+$locale['506'] = " přiloženo následující ";
 $locale['506a'] = "obrázek:";
 $locale['506b'] = "obrázky:";
 $locale['506c'] = "soubor:";
@@ -72,7 +72,7 @@ $locale['518a'] = "Přemístit označené příspěvky?";
 $locale['519'] = "Vytisknout diskuzi";
 $locale['519a'] = "Vytisknout příspěvek";
 // Moderator Options
-$locale['520'] = "Moderátorský panel:";
+$locale['520'] = "Možnosti moderátora:";
 $locale['521'] = "Vymazat diskuzi";
 $locale['522'] = "Zamknout diskuzi";
 $locale['523'] = "Odemknout diskuzi";
@@ -100,16 +100,16 @@ $locale['533d'] = "Název";
 $locale['534'] = "Pořadí";
 $locale['534a'] = "Vzestupně";
 $locale['534b'] = "Sestupně";
-// Jump to Forum
-$locale['540'] = "Přejít na fórum:";
+// Jump to Forum, back to top
+$locale['540'] = "Přejít na fórum";
 $locale['541'] = "Horní část";
-$locale['542'] = "Zpět nahuru";
+$locale['542'] = "Zpět nahoru";
 // Search Forum
 $locale['550'] = "Vyhledávaní";
 // Image Alt attributes
 $locale['560'] = "Nové příspěvky";
 $locale['561'] = "Žádné nové příspěvky";
-$locale['562'] = "Žhavá diskuze";
+$locale['562'] = "Oblíbené vlákno";
 $locale['563'] = "Oblíbená diskuze";
 $locale['564'] = "Uzamčená diskuze";
 $locale['565'] = "Poslat odpověď";
@@ -127,12 +127,12 @@ $locale['575'] = "Žádný příspěvek nebyl nalezen.";
 $locale['600'] = "Přemístit příspěvky";
 $locale['601'] = "Vybrat nové fórum";
 $locale['602'] = "Další";
-$locale['603'] = "Vybrat novou tému";
+$locale['603'] = "Vybrat nové vlákno";
 $locale['604'] = "Přemístit příspěvky";
 $locale['605'] = "Pokoušíte se přesunout na první příspěvek v tomto vlákně!<br />První příspěvek <strong> nesmí být přesunut</strong> a byl odebrán ze seznamu, protože stále existují další příspěvky ve vlákně.";
 $locale['606'] = "Pokoušíte se přesunout na první příspěvek v tomto vlákně!<br />První příspěvek<strong> bude přesunut </strong>a vlákno bude smazáno.";
 $locale['607'] = "Žádné příspěvky k přesunutí.";
-$locale['608'] = "Žádná vlákna v tomto fóru";
+$locale['608'] = "Žádná vlákna v tomto fóru.";
 $locale['609'] = "Zpět na diskuzi.";
 $locale['610'] = "Žádné téma k přesunutí.";
 // Viewforum icons
@@ -144,4 +144,4 @@ $locale['614'] = "Anketa";
 $locale['error-MP000'] = "Přemístění - Chyba";
 $locale['error-MP001'] = "Nové téma neexistuje.";
 $locale['error-MP002'] = "Příspěvky, které jsou označeny nelze přesunout, protože neexistují a nebo byly již přesunuty.";
-$locale['error-MP003'] = "Žádný příspěvek k přemístění";
+$locale['error-MP003'] = "Žádný příspěvek k přemístění.";

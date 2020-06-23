@@ -14,12 +14,12 @@ $locale['414'] = "Vznikla následující chyba:";
 $locale['415'] = "Neplatný název obrázku.";
 $locale['416'] = "Obrázek musí být menší jak %s.";
 $locale['417'] = "Obrázek musí být ve formátech GIF, JPEG a PNG.";
-$locale['418'] = "Obrázek musí mít méně jako %uw x %uh pixlů.";
+$locale['418'] = "Obrázek musí mít méně jako %uw x %uh pixelů.";
 $locale['419'] = "Album se nedá odstranit. Vaše heslo je nesprávné.";
 $locale['420'] = "GD knihovna nebyla nalezená. Fotoalbum nebude pracovat bez GD knihovny. Kontaktujte vašeho poskytovatele webhostingu.";
 // Album confirmation
 $locale['430'] = "Smazat album";
-$locale['431'] = "Album které se pokoušíte smazat, obsahuje obrázky.<br />\n"."Pokud chcete album odstranit, musíte zadat Admin heslo";
+$locale['431'] = "Album které se pokoušíte smazat, obsahuje obrázky.<br />\n"."Pokud chcete album odstranit, musíte zadat admin heslo:";
 $locale['432'] = "Potvrdit";
 $locale['433'] = "Zrušit";
 // Album form

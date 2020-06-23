@@ -34,3 +34,4 @@ $locale['457'] = $locale['455']." a ".$locale['456'];
 $locale['460'] = "TinyMCE:";
 $locale['461'] = "Povolit";
 $locale['462'] = "Zakázat";
+

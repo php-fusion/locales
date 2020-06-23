@@ -17,7 +17,7 @@ $locale['430'] = "Odeslat hlas";
 // Polls Form
 $locale['431'] = "Název ankety:";
 $locale['432'] = "Odpověď ";
-$locale['433'] = "Ukončit tuto anketu";
+$locale['433'] = " Ukončit tuto anketu";
 $locale['434'] = "Začátek: ";
 $locale['435'] = "Konec: ";
 $locale['436'] = "Přidat odpověď";

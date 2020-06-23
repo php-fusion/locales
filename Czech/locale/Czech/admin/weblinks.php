@@ -32,7 +32,7 @@ $locale['462'] = "Prosím, zadejte název odkazu.";
 // Web Link titles
 $locale['500'] = "Přidat odkaz";
 $locale['501'] = "Upravit odkaz";
-$locale['502'] = "Existjící odkazy";
+$locale['502'] = "Existující odkazy";
 // Web Link messages
 $locale['510'] = "Odkaz byl přidán";
 $locale['511'] = "Odkaz byl aktualizován";

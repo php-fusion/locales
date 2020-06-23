@@ -2,7 +2,7 @@
 // Greetings
 $locale['hello'] = "Ahoj!";
 $locale['goodbye'] = "Sbohem!";
-$locale['welcome'] = "Vítej zpět";
+$locale['welcome'] = "Vítejte";
 
 // Status
 $locale['error'] = "Chyba!";
@@ -27,32 +27,33 @@ $locale['update'] = "Aktualizovat";
 $locale['remove'] = "Odstranit";
 $locale['search'] = "Hledat";
 $locale['help'] = "Pomoc";
-$locale['register'] = "Registrovat";
+$locale['register'] = "Registrace";
 $locale['ban'] = "Ban";
 $locale['reactivate'] = "Reaktivovat";
 $locale['user'] = "Uživatel";
 $locale['promote'] = "Podporovat";
 
 //Tables
+$locale['status'] = "Stav";
 $locale['order'] = "Pořadí";
 $locale['id'] = "ID";
-$locale['title'] = "Nadpis";
+$locale['title'] = "Název";
 $locale['rights'] = "Práva";
+$locale['image'] = "Obrázek/Ikony";
 $locale['info'] = "Info";
-$locale['image'] = "Obrázek/Ikona";
 
 // Forms
 $locale['choose'] = "Vyberte prosím jedno...";
-$locale['parent'] = "Vytvořit jako nový nadřazený..";
-$locale['order'] = "Pořadí";
-$locale['status'] = "Status";
+$locale['parent'] = "Vytvořit jako nový nadřazený ..";
+$locale['order'] = "Pořadí položek";
+$locale['status'] = "Stav";
 $locale['note'] = "Poznamenejte si tuto položku";
-$locale['publish'] = "Publikovat";
-$locale['unpublish'] = "Nepublikovat";
+$locale['publish'] = "Publikováno";
+$locale['unpublish'] = "Nepublikováno";
 $locale['draft'] = "Koncept";
 $locale['settings'] = "Nastavení";
-$locale['posted'] = "publikované";
-$locale['in'] = "v";
+$locale['posted'] = "publikováno";
+$locale['in'] = "ve";
 $locale['profile'] = "Profil";
 $locale['edit'] = "Upravit";
 $locale['view'] = "Zobrazit";
@@ -62,3 +63,4 @@ $locale['pm'] = "Soukromé zprávy";
 $locale['logged'] = "Přihlášen jako ";
 $locale['version'] = "Verze ";
 $locale['browse'] = "Procházet...";
+$locale['or'] = "nebo";

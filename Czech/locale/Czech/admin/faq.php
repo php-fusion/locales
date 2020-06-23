@@ -36,5 +36,5 @@ $locale['546'] = "Vymazat tuto FAQ kategorii?";
 $locale['547'] = "Vymazat FAQ?";
 // Error Messages
 $locale['460'] = "Prosím vlžte název kategorie.";
-$locale['461'] = "tato kategorie již existuje.";
+$locale['461'] = "Tato kategorie již existuje.";
 $locale['462'] = "Prosím zadejte otázku a odpověď.";

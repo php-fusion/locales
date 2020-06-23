@@ -35,17 +35,17 @@ $locale['446'] = "Příspěvek byl aktualizován";
 $locale['447'] = "Návrat do diskuze";
 $locale['448'] = "Návrat do fóra";
 $locale['449'] = "Návrat na index fóra";
-$locale['450'] = "Chyba: Příliš dlouhá doba nečinnosti, prosím přihlašte se znovu";
+$locale['450'] = "Chyba: Vaše relace cookie vypršela, přihlaste se a znovu přidejte";
 $locale['451'] = "Sledovat diskuzi";
 $locale['452'] = "Momentálně tuto diskuzi sledujete";
 $locale['453'] = "Momentálně tuto diskuzi nesledujete";
 $locale['454'] = "Tento příspěvek je uzamčený. Pro více informací kontaktujte moderátora.";
 $locale['455'] = "Příspěvek můžete upravit pouze %d minut po zcela prvním přidání.";
 // Post Form
-$locale['460'] = "Předmět: ";
-$locale['461'] = "Zpráva: ";
+$locale['460'] = "Předmět";
+$locale['461'] = "Zpráva";
 $locale['462'] = "Barva písma: ";
-$locale['463'] = "Nastavení: ";
+$locale['463'] = "Možnosti";
 $locale['464'] = "Příloha";
 $locale['465'] = " (Volitelné)";
 $locale['466'] = "Max. velikost souboru: %s / povolené typy souborů: %s / Maximální počet příloh: %s";
@@ -77,17 +77,17 @@ $locale['520'] = "Sloučené";
 
 // Search Forum Form
 $locale['530'] = "Hledat ve fóru";
-$locale['531'] = "Klíčové slovo";
+$locale['531'] = "Klíčová slova";
 $locale['532'] = "Hledat";
 // Forum Notification Email
-$locale['550'] = "Upozornění na nový příspěvek  - {THREAD_SUBJECT}";
+$locale['550'] = "Upozornění na nový příspěvek - {THREAD_SUBJECT}";
 $locale['551'] = "Dobrý den {USERNAME},
 
-K diskuzi '{THREAD_SUBJECT}' kterou sledujete na ".$settings['sitename']." byl vložen nový příspěvek. Kliknutím na následující odkaz si můžete diskuzi přečíst:
+K diskuzi '{THREAD_SUBJECT}' kterou sledujete na [SITENAME] byl vložen nový příspěvek. Kliknutím na následující odkaz si můžete diskuzi přečíst:
 
 {THREAD_URL}
 
 Pokud nechcete nadále diskuzi sledovat, klikněte na odkaz ve fóru Vypnout sledování diskuze.
 
-S pozdravem,
-".$settings['siteusername'].".";
+S pozdravem,<br/>
+[SITEUSERNAME]";

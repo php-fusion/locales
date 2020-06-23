@@ -9,9 +9,9 @@ $locale['412'] = "Kategorie fóra nemůže být vymazána";
 $locale['413'] = "S touto kategorií jsou spojená fóra";
 $locale['414'] = "Kategorie fóra byly vymazány";
 // Forum Category form
-$locale['420'] = "Název kategorie:";
+$locale['420'] = "Název kategorie";
 $locale['420b'] = "Popis kategorie";
-$locale['421'] = "Pořadí:";
+$locale['421'] = "Pořadí";
 $locale['422'] = "Uložit kategorii";
 // Delete Forum Category
 $locale['440'] = "Vymazat kategorii fóra?";
@@ -32,16 +32,16 @@ $locale['520'] = "Název fóra:";
 $locale['521'] = "Popis fóra:";
 $locale['522'] = "Kategorie fóra:";
 $locale['523'] = "Pořadí:";
-$locale['524'] = "Přístupnost fóra:";
+$locale['524'] = "Přístupnost fóra";
 $locale['525'] = "Přístup pro:";
 $locale['526'] = "Založení diskuze:";
-$locale['527'] = "Odpoveď v diskuzi:";
+$locale['527'] = "Odpovědi příspěvku:";
 $locale['528'] = "Přidat přílohy:";
 $locale['529'] = "Vytvořit anketu:";
 $locale['530'] = "Hlasovat v anketě:";
 $locale['531'] = "Vypnout";
 $locale['532'] = "Uložit fórum";
-$locale['533'] = "Moderátoři fóra:";
+$locale['533'] = "Moderátoři fóra";
 $locale['534'] = "Uložit moderátory fóra";
 $locale['535'] = "Stáhnout přílohy:";
 // Forum Settings
