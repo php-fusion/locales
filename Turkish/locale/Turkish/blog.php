@@ -1,0 +1,30 @@
+<?php
+$locale['blog_100'] = "Blog Archives";
+
+$locale['blog_070'] = "Yazar ";
+$locale['blog_070b'] = "%s adlı kişinin bütün mesajlarını görüntüle";
+$locale['blog_071'] = "açık ";
+$locale['blog_071b'] = "Yazar";
+$locale['blog_072'] = "Devamını Oku";
+$locale['blog_073'] = " Yorumlar";
+$locale['blog_073b'] = " Yorum";
+$locale['blog_074'] = " Okunma";
+$locale['blog_074b'] = " Okunma";
+$locale['blog_075'] = "Yazdır";
+$locale['blog_076'] = "Düzenle";
+$locale['blog_077'] = "Blog";
+$locale['blog_078'] = "No Blog has been posted yet";
+$locale['blog_079'] = "İçinde ";
+$locale['blog_080'] = "Kategorilenmemiş";
+$locale['blog_081'] = "Blog Ana Sayfa";
+$locale['blog_082'] = "Blog";
+$locale['blog_083'] = "Son Güncelleme";
+$locale['blog_084'] = "Blog Kategorisi";
+$locale['blog_085'] = "Tüm Diğer Kategoriler";
+$locale['blog_086'] = "Most Recent Blog";
+$locale['blog_087'] = "En Çok Yorumlanan Blog";
+$locale['blog_088'] = "En Yüksek Derecelendirilen Blog";
+$locale['blog_089'] = "Üzerinde ilk yorum yapan siz olun %s";
+$locale['blog_089a'] = "Bunu ilk puanlayan siz olun %s";
+$locale['blog_089b'] = "Küçük resim görüntüsü";
+$locale['blog_089c'] = "Liste görünümü";

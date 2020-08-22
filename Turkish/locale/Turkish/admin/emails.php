@@ -1,0 +1,52 @@
+<?php
+// Titles
+$locale['400'] = "E-posta Şablonları";
+$locale['401'] = "Kullanılabilir Şablonlar";
+$locale['410'] = "Şablon başarıyla güncellendi.";
+$locale['411'] = "Test E-postası %s adresine gönderildi.";
+$locale['412'] = "Test-Konusu";
+$locale['413'] = "Test-Mesajı";
+$locale['414'] = "Bazı kullanıcılar";
+$locale['415'] = "Mesajın alıcısı";
+$locale['416'] = "Bir dizinin URL'si";
+$locale['417'] = "Düzenle";
+$locale['418'] = "HTML Biçimi";
+$locale['419'] = "Düz Metin Biçimi";
+$locale['420'] = "Şablon: ";
+$locale['421'] = "Şablon Kullan";
+$locale['422'] = "Postalar, bu şablonu kullanarak %s biçiminde gönderilir.";
+$locale['423'] = "Postalar, varsayılan dil dosyalarını kullanarak düz metin biçiminde gönderilir.";
+$locale['424'] = "Evet";
+$locale['425'] = "Hayır";
+$locale['426'] = "Taslak Formatı";
+$locale['427'] = "<strong>Not:</strong> Görüntüleri ve metin stilini kullanmak düz metin postalarda çalışmaz!";
+$locale['428'] = "Alıcı adı";
+$locale['429'] = "Gönderen adı";
+$locale['430'] = "Şablon testi için Gönderen adı olarak kullanılacak";
+$locale['431'] = "Alıcı e-postası";
+$locale['432'] = "Gönderen e-postası";
+$locale['433'] = "Şablon testi için Gönderen e-postası olarak kullanılacak";
+$locale['434'] = "Konu";
+$locale['435'] = "Mesaj";
+$locale['436'] = "Arkaplan"; // Button
+$locale['437'] = "Bu şablonu test et";
+$locale['438'] = "Şablon kaydedilecek ve adresinize bir test postası gönderilecek: %s. Devam et?";
+$locale['439'] = "Kaydet";
+$locale['440'] = "Sıfırla";
+// Help
+$locale['450'] = "Yardım";
+$locale['451'] = "Düğmeler hakkında kısa genel bakış";
+$locale['452'] = "Düğme";
+$locale['453'] = "İşlev / Yerine Geçen";
+$locale['454'] = "Mesajın veya mesaj dizisinin konusu";
+$locale['455'] = "Mesaj metni veya gönderinin pasajı";
+$locale['456'] = "İletiyi gönderen, ileti dizisi veya gönderi yazarı";
+$locale['457'] = "Postayı gönderen";
+$locale['458'] = "Posta alıcısı";
+$locale['459'] = "Forum dizisine URL, yalnızca yeni forum gönderileri için bildirimde kullanılır.";
+// Messages
+$locale['469'] = "Resim Ekle";
+$locale['470'] = "Konu boş bırakılamaz!";
+$locale['471'] = "Mesaj boş bırakılamaz!";
+$locale['472'] = "Gönderen adı boş olamaz!";
+$locale['473'] = "Gönderen e-postası boş olamaz!";

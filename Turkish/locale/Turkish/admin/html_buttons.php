@@ -1,0 +1,20 @@
+<?php
+$locale['html400'] = "- Select Color -";
+$locale['html401'] = "- Select Image -";
+$locale['html402'] = "Kestane";
+$locale['html403'] = "Kırmızı";
+$locale['html404'] = "Portakal";
+$locale['html405'] = "Kahverengi";
+$locale['html406'] = "Sarı";
+$locale['html407'] = "Yeşil";
+$locale['html408'] = "Kireç";
+$locale['html409'] = "Zeytin";
+$locale['html410'] = "Cam göbeği";
+$locale['html411'] = "Mavi";
+$locale['html412'] = "Navy Blue";
+$locale['html413'] = "Mor";
+$locale['html414'] = "Menekşe";
+$locale['html415'] = "Siyah";
+$locale['html416'] = "Gri";
+$locale['html417'] = "Gümüş";
+$locale['html418'] = "Beyaz";
