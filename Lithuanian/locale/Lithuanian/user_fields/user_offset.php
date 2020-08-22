@@ -18,7 +18,7 @@ $locale['offset_n0200'] = "(GMT -2:00) Mid-Atlantic";
 $locale['offset_n0100'] = "(GMT -1:00 hour) Azores, Cape Verde Islands";
 $locale['offset_p0000'] = "(GMT) Western Europe Time, London, Lisbon, Casablanca";
 $locale['offset_p0100'] = "(GMT +1:00) Brussels, Copenhagen, Madrid, Paris";
-$locale['offset_p0200'] = "(GMT +2:00) Kaliningrad, Vilnius, South Africa";
+$locale['offset_p0200'] = "(GMT +2:00) Kaliningrad, South Africa";
 $locale['offset_p0300'] = "(GMT +3:00) Baghdad, Riyadh, Moscow, St. Petersburg";
 $locale['offset_p0350'] = "(GMT +3:30) Tehran";
 $locale['offset_p0400'] = "(GMT +4:00) Abu Dhabi, Muscat, Baku, Tbilisi";
@@ -34,4 +34,3 @@ $locale['offset_p0950'] = "(GMT +9:30) Adelaide, Darwin";
 $locale['offset_p1000'] = "(GMT +10:00) Eastern Australia, Guam, Vladivostok";
 $locale['offset_p1100'] = "(GMT +11:00) Magadan, Solomon Islands, New Caledonia";
 $locale['offset_p1200'] = "(GMT +12:00) Auckland, Wellington, Fiji, Kamchatka";
-?>

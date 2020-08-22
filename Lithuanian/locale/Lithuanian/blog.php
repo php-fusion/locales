@@ -1,0 +1,30 @@
+<?php
+$locale['blog_100'] = "Blog Archives";
+
+$locale['blog_070'] = "Parašė ";
+$locale['blog_070b'] = "Rodyti visus %s pranešimus";
+$locale['blog_071'] = "&middot; ";
+$locale['blog_071b'] = "Autorius";
+$locale['blog_072'] = "Skaityti toliau";
+$locale['blog_073'] = " komentarai";
+$locale['blog_073b'] = " komentaras";
+$locale['blog_074'] = " perskaitymai";
+$locale['blog_074b'] = " perskaitymas";
+$locale['blog_075'] = "Spausdinti";
+$locale['blog_076'] = "Redaguoti";
+$locale['blog_077'] = "Tinklaraščiai";
+$locale['blog_078'] = "No Blog has been posted yet";
+$locale['blog_079'] = " ";
+$locale['blog_080'] = "Nekategorizuota";
+$locale['blog_081'] = "Tinklaraščio pradžia";
+$locale['blog_082'] = "Tinklaraščiai";
+$locale['blog_083'] = "Paskutinis atnujinimas";
+$locale['blog_084'] = "Tinklaraščio kategorija";
+$locale['blog_085'] = "Visos kitos kategorijos";
+$locale['blog_086'] = "Most Recent Blog";
+$locale['blog_087'] = "Daugiausiai komentuojami tinklaraščiai";
+$locale['blog_088'] = "Didžiausių reitingų tinklaraštis";
+$locale['blog_089'] = "Būkite pirmi, pakomentavę %s";
+$locale['blog_089a'] = "Būkite pirmi, įvertinę %s";
+$locale['blog_089b'] = "Miniatiūrų rodymas";
+$locale['blog_089c'] = "Sąrašo rodymas";

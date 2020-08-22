@@ -1,4 +1,3 @@
 <?php
-$locale['bb_autolink_description'] = "Turns links or email addresses into clickable hyperlinks.";
-$locale['bb_autolink_usage'] = "This bbcode has no button. MUST be above URL and Mail bbcode.";
-?>
+$locale['bb_autolink_description'] = "Nuorodas arba el. pašto adresus padaro paspaudžiamais.";
+$locale['bb_autolink_usage'] = "Šis BBkodas neturi mygtuko. PRIVALO būti virš nuorodos ir el. pašto BBkodų.";

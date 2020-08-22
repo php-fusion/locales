@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Paieška";
+$locale['400'] = "Paieška [SITENAME]";
 $locale['401'] = "Ieškoti:";
 $locale['402'] = "Ieškoti";
 $locale['403'] = "Ieškoti bet kurio iš žodžių";
@@ -45,4 +45,3 @@ $locale['521'] = "sutapimai";
 $locale['522'] = "rastas sutapimas";
 //more than 100 results
 $locale['530'] = "Būkite detalesni paieškoje. Jūsų paieška rado %s sutapimus. Daugiausiai galima rodyti 100 sutapimų.";
-?>

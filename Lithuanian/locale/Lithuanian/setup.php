@@ -3,20 +3,22 @@ $locale['title'] = "PHP-Fusion 8 versijos diegimas";
 $locale['sub-title'] = "PHP-Fusion 8 versijos diegimas";
 $locale['os_version'] = '8.0';
 $locale['xml_lang'] = "lt";
-$locale['charset'] = "utf-8";
+$locale['charset'] = "UTF-8";
 $locale['001'] = "1 žingsnis: Kalbos";
 $locale['002'] = "2 žingsnis: Failų ir aplankų  leidimų testas";
 $locale['003'] = "3 žingsnis: Duom. bazės nustatymai";
 $locale['004'] = "4 žingsnis: Konfiguracijos / duom. bazės nustatymai";
 $locale['005'] = "5 žingsnis: Pagrindinės administratoriaus detalės";
 $locale['006'] = "6 žingsis: Galutiniai nustatymai";
-$locale['007'] = "Toliau";
-$locale['008'] = "Grįžti";
+$locale['007'] = "Kitas";
+$locale['008'] = "Bandyti dar kartą";
 $locale['009'] = "Baigti";
 
 // Step 1
 $locale['010'] = "Prašome pasirinkti reikiamą kalbą:";
 $locale['011'] = "Parsisiųskite daugiau kalbų iš <a href='http://www.phpfusion-lt.com'>phpfusion-lt.com</a>";
+$locale['012'] = "Norėdami naudotis PHP-Fusion, turite perskaityti ir sutikti su sąlygomis</a>.";
+$locale['013'] = " Perskaičiau ir sutinku su PHP-Fusion <a href='https://php-fusion.co.uk/license/' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>.";
 
 // Step 2
 $locale['020'] = "Kad galėtumėme tęsti instaliaciją, įsitikinkite, kad sekantiems failams/katalogams suteiktos įrašymo teisės:";
@@ -26,14 +28,19 @@ $locale['023'] = "Sėkmingas";
 $locale['024'] = "Nesėkmingas";
 $locale['025'] = "Atnaujinti";
 
-// Step 3 - Access criteria
-$locale['030'] = "Prašome įvesti jūsų duomenų bazės prisijungimo duomenis.<br />==================================<br />Jeigu iškilo problemų instaliacijos metų, kurių negalite išspręsti, praneškite savo problemą oficialiame Lietuvos Php-Fusion palaikymo tinklapyje, adresu <a href='http://www.phpfusion-lt.com'>PHPFusion-Lt.com</a>";
+// Step 3 - Access
+$locale['030'] = "Prašome įvesti Jūsų MySQL duomenų bazės prieigos nustatymus.";
 $locale['031'] = "Duom. bazės adresas:";
 $locale['032'] = "Duom. bazės vartotojo vardas:";
 $locale['033'] = "Duom. bazės slaptažodis:";
 $locale['034'] = "Duom. bazės pavadinimas:";
 $locale['035'] = "Lentelių priesaga:";
 $locale['036'] = "Sausainėlių priesaga:";
+$locale['037'] = "Enable PDO or MySQLi";
+$locale['038'] = "PDO seems to not be available";
+$locale['039'] = "PDO";
+$locale['039b'] = "MySQLi";
+$locale['039c'] = "Select languages to use:";
 
 // Step 4 - Database Setup
 $locale['040'] = "Prisijungti prie duomenų bazės pavyko.";
@@ -47,11 +54,11 @@ $locale['047'] = "Prašome įsitikinti, kad failas config.php yra įrašomas.";
 $locale['048'] = "Nepavyko sukurti DB lentelių.";
 $locale['049'] = "Prašome patikrinti DB pavadinimą.";
 $locale['050'] = "Neįmanoma susijungti su MySQL duom. baze.";
-$locale['051'] = "Nurodyta MySQL duom. bazė neegzistuoja.";
+$locale['051'] = "Nurodyta MySQL duomenų bazė neegzistuoja.";
 $locale['052'] = "Tokia lentelės priesaga jau naudojama.";
 $locale['053'] = "Nurodyta lentelės priesaga jau naudojama.";
 $locale['054'] = "Neįmanoma kurti/trinti MySQL lentelių.";
-$locale['055'] = "Patikrinkite ar jūsų MySQL vartotojas turi rašymo, skaitymo ir trynimo teisę nurodytoje duomenų bazeje.";
+$locale['055'] = "Patikrinkite ar jūsų MySQL vartotojas turi rašymo, skaitymo ir trinimo teisę nurodytoje duomenų bazeje.";
 $locale['056'] = "Tušti laukeliai.";
 $locale['057'] = "Prašome užtikrinti, kad įvedėte visus MySQL prisijungimo laukelius.";
 
@@ -74,11 +81,11 @@ $locale['073'] = "Slaptažodžiai nesutampa.";
 $locale['074'] = "Jūsų vartotojo slaptažodis ir Administratoriaus slaptažodis turi būti skirtingi.";
 $locale['075'] = "Neteisingas Administratoriaus slaptažodis. Naudokite tik raides ir skaičius.<br />Slaptažodis turi būti mažiausiai 6 simbolių ilgumo.";
 $locale['075b'] = "Administratoriaus slaptažodžio laukelis negali būti tuščias.";
-$locale['076'] = "Nurodytas neteisingas El. pašto adresas.";
+$locale['076'] = "Klaidingas el. pašto adresas.";
 $locale['076b'] = "El. pašto laukelis negali būti tuščias.";
 $locale['077'] = "Jūsų vartotojo nustatymuose yra klaida:";
 
-// Step 6 - Admin Panels
+// Step 6 - Admin Items
 $locale['080'] = "Administratoriai";
 $locale['081'] = "Straipsnių kategorijos";
 $locale['082'] = "Straipsniai";
@@ -99,31 +106,31 @@ $locale['096'] = "Nariai";
 $locale['097'] = "Naujienų kategorijos";
 $locale['098'] = "Naujienos";
 $locale['099'] = "Panelės";
-$locale['100'] = "Foto albumai";
+$locale['100'] = "Nuotraukų albumai";
 $locale['101'] = "PHP info";
 $locale['102'] = "Apklausa";
-$locale['103'] = "Šaukykla";
+$locale['103'] = "";
 $locale['104'] = "Tinklapio nuorodos";
-$locale['105'] = "Šypseneles";
-$locale['106'] = "Leidimai";
+$locale['105'] = "Šypsenėlės";
+$locale['106'] = "Pateikimai";
 $locale['107'] = "Atnaujinti";
 $locale['108'] = "Narių grupės";
 $locale['109'] = "Nuorodų kategorijos";
 $locale['110'] = "Nuorodos";
 $locale['111'] = "Pagrindiniai nustatymai";
-$locale['112'] = "Laiko ir datos nustatymai";
+$locale['112'] = "Laikas ir data";
 $locale['113'] = "Forumo nustatymai";
-$locale['114'] = "Registracijos nustatymai";
-$locale['115'] = "Foto galerijos nustatymai";
+$locale['114'] = "Registracija";
+$locale['115'] = "Photo Gallery";
 $locale['116'] = "Įvairūs nustatymai";
-$locale['117'] = "Asmeninių žinučių nustatymai";
+$locale['117'] = "Asmeninės žinutės";
 $locale['118'] = "Vartotojo laukeliai";
 $locale['119'] = "Forumo rangai";
 $locale['120'] = "Vartotojo laukelių kategorijos";
-$locale['121'] = "Naujienos";
-$locale['122'] = "Vartotojų valdymas";
+$locale['121'] = "Naujienų nustatymai";
+$locale['122'] = "Narių valdymas";
 $locale['123'] = "Siuntiniai";
-$locale['124'] = "Įrašų puslapyje";
+$locale['124'] = "Elementų puslapyje";
 $locale['125'] = "Saugumas";
 $locale['126'] = "Naujienų nustatymai";
 $locale['127'] = "Siuntinių nustatymai";
@@ -134,23 +141,23 @@ $locale['129b'] = "robots.txt";
 $locale['129c'] = "Kalbos nustatymai";
 $locale['129d'] = "Pastovios nuorodos";
 $locale['129e'] = "Migravimo įrankis";
-$locale['129f'] = "Temos nustatymai";
+$locale['129f'] = "Dizaino nustatymai";
 $locale['130a'] = "Tinklaraščių kategorijos";
-$locale['130b'] = "Tinklaraštis";
+$locale['130b'] = "Tinklaraščiai";
 $locale['130c'] = "Tinklaraščio nustatymai";
-$locale['130d'] = "Fusion failų valdymas";
+$locale['130d'] = "Fusion File Manager";
 
 // Step 6 - Navigation Links
-$locale['130'] = "Namai";
+$locale['130'] = "Pradinis";
 $locale['131'] = "Straipsniai";
 $locale['132'] = "Siuntiniai";
 $locale['133'] = "DUK";
 $locale['134'] = "Forumas";
-$locale['135'] = "Kontaktai";
-$locale['136'] = "Naujienos";
+$locale['135'] = "Contact";
+$locale['136'] = "Naujienų kategorijos";
 $locale['137'] = "Nuorodos";
-$locale['138'] = "Foto galerija";
-$locale['139'] = "Paieška";
+$locale['138'] = "Photo Gallery";
+$locale['139'] = "Ieškoti";
 $locale['140'] = "Pateikti nuorodą";
 $locale['141'] = "Pateikti naujieną";
 $locale['142'] = "Pateikti straipsnį";
@@ -168,25 +175,25 @@ $locale['165'] = "Forumo temu sąrašas";
 $locale['166'] = "Vartotojo info";
 $locale['167'] = "Apklausa";
 $locale['168'] = "RSS srautas";
-$locale['169'] = "Tinklaraščių archyvai";
+$locale['169'] = "Blog Archives";
 
 //Multilanguage table rights
 $locale['MLT001'] = "Straipsniai";
 $locale['MLT002'] = "Pridėtiniai puslapiai";
-$locale['MLT003'] = "Siuntimai";
-$locale['MLT004'] = "DUK";
+$locale['MLT003'] = "Siuntiniai";
+$locale['MLT004'] = "D.U.K.";
 $locale['MLT005'] = "Forumai";
 $locale['MLT006'] = "Naujienos";
-$locale['MLT007'] = "Nuotraukų galerija";
-$locale['MLT008'] = "Apklausos";
-$locale['MLT009'] = "El. laiškų šablonai";
+$locale['MLT007'] = "Photogallery";
+$locale['MLT008'] = "Apklausa";
+$locale['MLT009'] = "El. laiškų ruošiniai";
 $locale['MLT010'] = "Nuorodos";
-$locale['MLT011'] = "Tinklapio nuorodos";
+$locale['MLT011'] = "Sitelinks";
 $locale['MLT012'] = "Panelės";
-$locale['MLT013'] = "Forumo reitingai";
+$locale['MLT013'] = "Forumo rangai";
 $locale['MLT014'] = "Tinklaraščiai";
 
-// Stage 6 - News Categories
+// Stage 6 - News & Blog default Categories
 $locale['180'] = "Klaidos";
 $locale['181'] = "Siuntiniai";
 $locale['182'] = "Žaidimai";
@@ -204,7 +211,7 @@ $locale['193'] = "Programinė įranga";
 $locale['194'] = "Dizainai";
 $locale['195'] = "Windows";
 
-// Stage 6 - Sample Forum Ranks
+// Stage 6 - Default Forum Ranks
 $locale['200'] = "Vyr. administratorius";
 $locale['201'] = "Administratorius";
 $locale['202'] = "Moderatorius";
@@ -215,7 +222,7 @@ $locale['206'] = "Patyręs narys";
 $locale['207'] = "Veteranas";
 $locale['208'] = "Ekspertas";
 
-// Stage 6 - Sample Smileys
+// Stage 6 - Default Smileys
 $locale['210'] = "Šypsosi";
 $locale['211'] = "Mirkt";
 $locale['212'] = "Liūdnas";
@@ -233,8 +240,9 @@ $locale['222'] = "Pasirinkimai";
 $locale['223'] = "Statistika";
 $locale['224'] = "Privatumas";
 
-// Welcome message
+// Welcome panel message
 $locale['230'] = "Sveiki atvykę į savo tinklapį!";
+
 // Final message
 $locale['240'] = "Diegimas baigtas, sistema paruošta naudojimui.<br />
 Paspauskite [Baigti], norėdami pereiti į savo tinklapį.<br />
@@ -256,13 +264,20 @@ $locale['newsdate'] = "%Y %B %d";
 $locale['subheaderdate'] = "%Y %B %d %H:%M:%S";
 
 // Email Template Setup, don´t translate the words between brackets [].
-$locale['T001'] = "El. pašto šablonai";
-$locale['T101'] = "Pranešimas apie naują AŽ";
+$locale['T001'] = "El. laiškų ruošiniai";
+$locale['T101'] = "Naujos AŽ pranešimai";
 $locale['T102'] = "Jūs turite naują asmeninę žinutę nuo [USER] tinklapyje [SITENAME]";
-$locale['T103'] = "Sveiki [RECEIVER],\r\nJūs gavote naują asmeninę žinutę, pavadinimu [SUBJECT] nuo [USER] tinklapyje [SITENAME]. Šią žinutę galite perskaityti adresu [SITEURL]messages.php\r\n\r\nŽinutė: [MESSAGE]\r\n\r\Jeigu daugiau nepageidaujate gauti pranešimų el. paštu apie gautas asmenines žinutes, nustatymus rasite Asmeniniu žinučių puslapyje.\r\n\r\nLinkėjimai,\r\n[SENDER].";
+$locale['T103'] = "Sveiki [RECEIVER],\r
+Jūs gavote naują asmeninę žinutę, pavadinimu [SUBJECT] nuo [USER] tinklapyje [SITENAME]. Šią žinutę galite perskaityti adresu [SITEURL]messages.php\r
+\r
+Žinutė: [MESSAGE]\r
+\r\\Jeigu daugiau nepageidaujate gauti pranešimų el. paštu apie gautas asmenines žinutes, nustatymus rasite Asmeniniu žinučių puslapyje.\r
+\r
+Linkėjimai,\r
+[SENDER].";
 $locale['T201'] = "Pranešimas apie naujus forumo pranešimus";
 $locale['T202'] = "Temos atsakymo pranešimas - [SUBJECT]";
-$locale['T203'] = "Sveiki [RECEIVER],\r\n\r\nForumo temoje \'[SUBJECT]\', kurią Jūs sekate tinklapyje [SITENAME], buvo parašytas atsakymas. Galite paspausti žemiau esančią nuorodą ir perskaityti atsakymą:\r\n\r\n[THREAD_URL]\r\n\r\nJeigu daugiau nepageidaujate sekti šios temos, galite paspausti \'Nebesekti šios temos\' nuorodą temos viršuje.\r\n\r\nLinkėjimai,\r\n[SENDER].";
+$locale['T203'] = "Sveiki [RECEIVER],\r\n\r\nForumo temoje \\'[SUBJECT]\\', kurią Jūs sekate tinklapyje [SITENAME], buvo parašytas atsakymas. Galite paspausti žemiau esančią nuorodą ir perskaityti atsakymą:\r\n\r\n[THREAD_URL]\r\n\r\nJeigu daugiau nepageidaujate sekti šios temos, galite paspausti \\'Nebesekti šios temos\\' nuorodą temos viršuje.\r\n\r\nLinkėjimai,\r\n[SENDER].";
 $locale['T301'] = "Kontaktų forma";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";

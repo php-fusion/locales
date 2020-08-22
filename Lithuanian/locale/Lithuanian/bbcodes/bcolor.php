@@ -1,5 +1,4 @@
 <?php
-$locale['bb_bcolor_description'] = "Color background of selected text";
-$locale['bb_bcolor_usage'] = "Color background of selected text";
-$locale['bb_bcolor_hex'] = "HEX background color value";
-?>
+$locale['bb_bcolor_description'] = "Pažymėto teksto fono spalva";
+$locale['bb_bcolor_usage'] = "Pažymėto teksto fono spalva";
+$locale['bb_bcolor_hex'] = "HEX spalvos kodas";

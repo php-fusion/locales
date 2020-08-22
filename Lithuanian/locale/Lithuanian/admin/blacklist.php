@@ -3,10 +3,12 @@
 $locale['400'] = "Trinti vartotoją iš juodojo sąrašo";
 $locale['401'] = "Vartotojas ištrintas iš juodojo sąrašo";
 $locale['402'] = "Grįžti į juodojo sąrašo administravimą";
-$locale['403'] = "Grįžti į administraciją";
+$locale['403'] = "Grįžti į administracijos panelę";
+$locale['404'] = "Please enter Blacklist IP or Blacklist Email";
+$locale['405'] = "El. paštas blogai įvestas";
 // Add/Edit Blacklist Titles
-$locale['420'] = "Itraukti vartotoją į juodajį sąrašą";
-$locale['421'] = "Redaguoti narį, esantį Juodajame sąraše";
+$locale['420'] = "Įtraukti vartotoją į juodąjį sąrašą";
+$locale['421'] = "Redaguoti narį, esantį Juodąjame sąraše";
 // Add/Edit blacklist form
 $locale['440'] = "Įrašius IP adresą, to adreso sąvininkui bus apribotas lankymasis svetainėje. Galite įrašyti pilną IP, pvz.: <em>123.123.123.123</em>, arba IP dalį, pvz.:
 <em>123.123.123 ar 123.123</em>.<br />
@@ -24,16 +26,15 @@ $locale['460'] = "Vartotojai j.sąraše";
 $locale['461'] = "Juodojo sąrašo info";
 $locale['462'] = "Pasirinkimai";
 $locale['463'] = "Redaguoti";
-$locale['464'] = "Trinti";
+$locale['464'] = "Ištrinti";
 $locale['465'] = "Šiuo metu juodasis sąrašas tuščias.";
-$locale['466'] = "N/A";
+$locale['466'] = "Nėra";
 $locale['467'] = "Administratorius";
 $locale['468'] = "Data";
 /*
-// IPv6 secific
-$locale['480'] = "IPv6 nustatymai";
-$locale['481'] = "Nurodytas IPv6 adrese yra trumpinys (::), todėl ji negali būti vienareikšmiškai nustatytas.";
-$locale['482'] = "Kurią versija jūs naudosite?";
-$locale['483'] = "Saugoti";
+// IPv6 specific
+$locale['480'] = "IPv6 options";
+$locale['481'] = "The specified IPv6 address contains a shortcut (::) therefore cannot be determined unequivocally.";
+$locale['482'] = "Which version would you use?";
+$locale['483'] = "Save";
 */
-?>

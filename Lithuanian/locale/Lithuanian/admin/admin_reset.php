@@ -3,7 +3,6 @@
 $locale['apw_title'] = "Administratoriaus slaptažodžio atstatymas";
 $locale['apw_desc'] = "Pakeičia administratoriaus prisijungimą/administratoriaus slaptažodį";
 $locale['apw_admin1'] = "Administratoriaus atstatymas";
-
 $locale['400'] = "Administratorius(iai) atstatymui:";
 $locale['401'] = "Visi administratoriai";
 $locale['402'] = "Tik vyr. administratoriai";
@@ -12,9 +11,8 @@ $locale['404'] = "Atstatymo priežastis:";
 $locale['405'] = "Atstatyti tiek prisijungimo tiek administratoriaus slaptažodžius";
 $locale['406'] = "Atstatyti slaptažodžius";
 $locale['407'] = "Slaptažodžiai atstatyti ";
-$locale['408'] = "Sveiki [USER_NAME],
+$locale['408'] = "Sveiki [USER_NAME], jūsų administratoriaus slaptažodis puslapyje [SITEURL] buvo atstatytas:
 
-jūsų administratoriaus slaptažodis puslapyje ".$settings['siteurl']." buvo atstatytas:
 
 Administratoriaus slaptažodis: [NEW_ADMIN_PASS]
 
@@ -23,11 +21,13 @@ Administratoriaus slaptažodis: [NEW_ADMIN_PASS]
 Pagarbiai,
 [ADMIN]";
 $locale['409'] = "Sveiki [USER_NAME],
+Jūsų prisijungimo ir administratoriaus slaptažodžiai puslapyje [SITEURL] buvo atstatyti:
 
-Jūsų prisijungimo ir administratoriaus slaptažodžiai puslapyje ".$settings['siteurl']." buvo atstatyti:
 
 Prisijungimo slaptažodis: [NEW_PASS]
+
 Administratoriaus slaptažodis: [NEW_ADMIN_PASS]
+
 
 Šio atstatymo priežastis yra: [RESET_MESSAGE]
 
@@ -43,6 +43,5 @@ $locale['418'] = "Atsakingas";
 $locale['419'] = "Atstatyti";
 $locale['420'] = "Sėkmingai";
 $locale['421'] = "Priežastis";
-$locale['422'] = "";
+$locale['422'] = "iš";
 $locale['423'] = "Priežastis nenurodyta.";
-?>

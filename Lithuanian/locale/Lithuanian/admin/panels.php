@@ -3,22 +3,28 @@
 $locale['400'] = "Panelės";
 $locale['401'] = "Panelės pavadinimas";
 $locale['402'] = "Pusė";
-$locale['403'] = "Vieta";
+$locale['403'] = "Rodymo tvarka";
 $locale['404'] = "Tipas";
 $locale['405'] = "Gali matyti";
-$locale['406'] = "Parinktys";
+$locale['406'] = "Pasirinkimai";
+$locale['407'] = "Esamos panelės";
+$locale['408'] = "Pridėti panelę";
+$locale['409'] = "Redaguoti panelę";
+$locale['410'] = "Galite paimti ir traukti paneles, kad sukeistumėte jas vietomis.";
 // Panel Settings
 $locale['420'] = "Kairė";
-$locale['421'] = "U-Ctr";
+$locale['421'] = "Aukštesnis centras";
 $locale['422'] = "Dešinė";
 $locale['423'] = "Failas";
 $locale['424'] = "PHP";
-$locale['425'] = "L-Ctr";
+$locale['425'] = "Žemesnis centras";
+$locale['426'] = "Below header";
+$locale['427'] = "Above footer";
 // Panel Options
 $locale['430'] = "Perkelti į kairę";
 $locale['431'] = "Perkelti į dešinę";
-$locale['432'] = "Perkelti aukštyn per vieną pakopą";
-$locale['433'] = "Perkelti žemyn per vieną pakopą";
+$locale['432'] = "Perkelti aukštyn";
+$locale['433'] = "Perkelti žemyn";
 $locale['434'] = "Redaguoti";
 $locale['435'] = "Įjungti";
 $locale['436'] = "Išjungti";
@@ -26,10 +32,10 @@ $locale['437'] = "Ištrinti";
 $locale['438'] = "Pridėti naują panelę";
 $locale['439'] = "Atnaujinti panelių eiliškumą";
 $locale['440'] = "Ištrinti panelę?";
-$locale['441'] = "Kairėn";
-$locale['442'] = "Dešinėn";
-$locale['443'] = "Aukštyn";
-$locale['444'] = "Žemyn";
+$locale['441'] = "Kairė";
+$locale['442'] = "Dešinė";
+$locale['443'] = "Up";
+$locale['444'] = "Down";
 $locale['445'] = "Perkelti į pirmą vietą";
 $locale['446'] = "Nuleisti į pačią apačią";
 // Add/Edit Panel Form
@@ -49,6 +55,9 @@ $locale['462'] = "Panelės apribojimai:";
 $locale['463'] = "Pavyzdžiai:";
 $locale['464'] = "Nerodyti šiuose puslapiuose";
 $locale['465'] = "Rodyti šiuose puslapiuose";
+$locale['466'] = "Panelės kalba";
+$locale['467'] = "Display on home page only";
+$locale['468'] = "Panelės tipas";
 // Update/Add new Panel Errors
 $locale['470'] = "Neįrašėte pavadinimo";
 $locale['471'] = "Panelės pavadinimas jau naudojamas";
@@ -64,6 +73,13 @@ $locale['483'] = "Pridėti naują panelę";
 $locale['484'] = "Negalima pridėti naujos panelės";
 $locale['485'] = "Nauja panelė pridėta";
 $locale['486'] = "Grįžti į panelių administravimą";
-$locale['487'] = "Grįžti į pagrindinį administravimo puslapį";
+$locale['487'] = "Grįžti į administracijos panelę";
 $locale['488'] = "Panelių tvarka atnaujinta.";
-?>
+$locale['489'] = "Panelės ištrintos.";
+//Visual Panel
+$locale['600'] = "Panelių valdymo interfeisas";
+$locale['602'] = "Nenaudojamos panelės";
+$locale['603'] = "Naudojamos panelės";
+$locale['604'] = "Panelės";
+$locale['605'] = "Panelė";
+$locale['606'] = "Tinklapio turinys";

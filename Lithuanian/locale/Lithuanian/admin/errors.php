@@ -5,7 +5,7 @@ $locale['401'] = "Peržiūrėti failą";
 // Errors table
 $locale['410'] = "Klaida";
 $locale['411'] = "Puslapyje";
-$locale['412'] = "Vartotojas";
+$locale['412'] = "Narys";
 $locale['413'] = "Data";
 $locale['414'] = "Statusas";
 $locale['415'] = "Eilutė:";
@@ -23,4 +23,3 @@ $locale['450'] = "Naujas";
 $locale['451'] = "Išspręsta";
 $locale['452'] = "Ignoruota";
 $locale['453'] = "Taikyti";
-?>

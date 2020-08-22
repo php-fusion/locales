@@ -1,44 +1,62 @@
 <?php
 $locale['email_create_subject'] = "Vartotojas sukurtas puslapyje ";
-$locale['email_create_message'] = "Sveiki [USER_NAME],\n
-Jūsų vartotojas puslapyje ".$settings['sitename']." buvo sukurtas.\n
-Norėdami prisijungti naudokite šiuo duomenis:\n
-prisijungimo vardas: [USER_NAME]\n
-slaptažodis: [PASSWORD]\n\n
-Pagarbiai,\n
-".$settings['siteusername'];
+$locale['email_create_message'] = "Sveiki [USER_NAME],
+							 
+Jūsų vartotojas puslapyje [SITENAME] buvo sukurtas.
+Norėdami prisijungti naudokite šiuo duomenis:
+prisijungimo vardas: [USER_NAME]
+
+slaptažodis: [PASSWORD]
+
+Pagarbiai,
+[SITEUSERNAME]";
 $locale['email_activate_subject'] = "Vartotojas aktyvuoas ";
-$locale['email_activate_message'] = "Sveiki [USER_NAME],\n
-Jūsų vartotojas puslapyje ".$settings['sitename']." buvo aktyvuotas.\n
-Dabar jūs galite prisijungti naudodami pasirinktą vartotojo vardą ir slaptažodį.\n\n
-Pagarbiai,\n
-".$settings['siteusername'];
+$locale['email_activate_message'] = "Sveiki [USER_NAME],
 
-$locale['email_deactivate_subject'] = "Jūsų vartotojui puslapyje ".$settings['sitename']." reikalingas naujas aktyvavimas.";
-$locale['email_deactivate_message'] = "Sveiki, [USER_NAME],\n
-Jau praėjo ".$settings['deactivation_period']." diena(-ų, -os) nuo paskutinio jūsų prisijungimo puslapyje ".$settings['sitename'].". Jūsų vartotojas buvo pažymėtas kaip neaktyvus, tačiau visa vartotojo informacija išlieka nepaliesta.\n
-Norėdami iš naujo aktyvuoti vartotoją paspauskite ant žemiau esančios nuorodos:\n
-".$settings['siteurl']."reactivate.php?user_id=[USER_ID]&code=[CODE]\n\n
-Pagarbiai,\n
-".$settings['siteusername'];
+Jūsų vartotojas puslapyje [SITENAME] buvo aktyvuotas.
 
-$locale['email_ban_subject'] = "Jūsų vartotojas puslapyje ".$settings['sitename']." buvo užblokuotas";
-$locale['email_ban_message'] = "Sveiki [USER_NAME],\n
-Jūsų vartotojas puslapyje ".$settings['sitename']." dėl žemiau nurodytų priežasčių buvo užblokuotas administratoriaus ".$userdata['user_name'].":\n
-[REASON].\n
-Jeigu norite gauti daugiau informacijos susisiekite su puslapio administratorium adresu ".$settings['siteemail'].".\n
-".$settings['siteusername'];
+Dabar jūs galite prisijungti naudodami pasirinktą vartotojo vardą ir slaptažodį.
 
-$locale['email_secban_subject'] = "Jūsų vartotojas puslapyje ".$settings['sitename']." buvo užblokuotas.";
-$locale['email_secban_message'] = "Sveiki [USER_NAME],\n
-Jūsų vartotojas puslapyje ".$settings['sitename']." buvo užblokuotas administratoriaus ".$userdata['user_name'].", nes jūsų vartotojo veiksmai, ar jo buvimas puslapyje traktuojami kaip tiesioginė grėsmė puslapio saugumui.\n
-Jeigu norite gauti daugiau informacijos susisiekite su puslapio administratorium adresu ".$settings['siteemail'].".\n
-".$settings['siteusername'];
 
-$locale['email_suspend_subject'] = "Jūsų vartotojo galiojimas puslapyje ".$settings['sitename']." buvo laikinai sustabdytas";
-$locale['email_suspend_message'] = "Sveiki [USER_NAME],\n
-Jūsų vartotojo galiojimas puslapyje ".$settings['sitename']." dėl žemiau nurodytų priežasčių buvo laikinai sustabdytas administratoriaus ".$userdata['user_name']." iki [DATE] (puslapio laiku):\n
-[REASON].\n
-Jeigu norite gauti daugiau informacijos susisiekite su puslapio administratorium adresu ".$settings['siteemail'].".\n
-".$settings['siteusername'];
-?>
+Pagarbiai,
+[SITEUSERNAME]";
+$locale['email_deactivate_subject'] = "Jūsų vartotojui puslapyje reikalingas naujas aktyvavimas.";
+$locale['email_deactivate_message'] = "Sveiki, [USER_NAME],
+
+Jau praėjo [DEACTIVATION_PERIOD] diena(-ų, -os) nuo paskutinio jūsų prisijungimo puslapyje [SITENAME]. Jūsų vartotojas buvo pažymėtas kaip neaktyvus, tačiau visa vartotojo informacija išlieka nepaliesta.
+
+
+Norėdami iš naujo aktyvuoti vartotoją paspauskite ant žemiau esančios nuorodos:
+[REACTIVATION_LINK]
+
+Pagarbiai,
+[SITEUSERNAME]";
+$locale['email_ban_subject'] = "Jūsų vartotojas [SITENAME] buvo blokuotas";
+$locale['email_ban_message'] = "Sveiki [USER_NAME],
+
+Jūsų vartotojas puslapyje [SITENAME] dėl žemiau nurodytų priežasčių buvo užblokuotas administratoriaus [ADMIN_USERNAME]:
+[REASON].
+
+Jeigu norite gauti daugiau informacijos susisiekite su puslapio administratorium tinklapyje [SITENAME].
+
+Pagarbiai,
+[SITEUSERNAME]";
+$locale['email_secban_subject'] = "Jūsų vartotojas [SITENAME] buvo blokuotas";
+$locale['email_secban_message'] = "Sveiki [USER_NAME],
+
+Jūsų vartotojas puslapyje [SITENAME] buvo užblokuotas administratoriaus [ADMIN_USERNAME], nes jūsų vartotojo veiksmai, ar jo buvimas puslapyje traktuojami kaip tiesioginė grėsmė puslapio saugumui.
+
+Jeigu norite gauti daugiau informacijos susisiekite su puslapio administratorium tinklapyje [SITENAME].
+
+Pagarbiai,
+[SITEUSERNAME]";
+$locale['email_suspend_subject'] = "Jūsų vartotojo galiojimas puslapyje [SITENAME] buvo laikinai sustabdytas";
+$locale['email_suspend_message'] = "Sveiki [USER_NAME],
+
+Jūsų vartotojo galiojimas puslapyje [SITENAME] dėl žemiau nurodytų priežasčių buvo laikinai sustabdytas administratoriaus [ADMIN_USERNAME] iki [DATE] (puslapio laiku):
+
+[REASON].
+Jeigu norite gauti daugiau informacijos susisiekite su puslapio administratorium tinklapyje [SITENAME].
+
+Pagarbiai,
+[SITEUSERNAME]";

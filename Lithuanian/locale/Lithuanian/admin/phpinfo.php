@@ -1,7 +1,7 @@
 <?php
-$locale['400'] = "PHP Informacija";
+$locale['400'] = "PHP info";
 //General
-$locale['401'] = "Pagrindinė";
+$locale['401'] = "Bendri";
 $locale['402'] = "Serverio programinė įranga";
 $locale['403'] = "Web serverio programinė įranga";
 $locale['404'] = "PHP versija";
@@ -11,7 +11,7 @@ $locale['407'] = "PHP-Fusion versija";
 $locale['408'] = "Duomenų bazės prefiksas";
 $locale['409'] = "Sausainėlio prefiksas";
 $locale['410'] = "Naršyklė ir OS";
-
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "PHP nustatymai";
 $locale['421'] = "Taip";
@@ -24,13 +24,10 @@ $locale['428'] = "Klaidų rodymas";
 $locale['429'] = "Išjungtos funkcijos";
 $locale['430'] = "n/a";
 $locale['431'] = "versija";
-
 //Write permission
 $locale['440'] = "Aplankalų leidimai";
 $locale['441'] = "Rašomas";
 $locale['442'] = "Nerašomas";
-
 //PHPinfo
 $locale['450'] = "Detalės";
 $locale['451'] = "Neįmanoma gauti duomenų. Patikrinti ar phpinfo() funkcija yra išjungta?";
-?>

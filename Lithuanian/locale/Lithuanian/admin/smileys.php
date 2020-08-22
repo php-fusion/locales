@@ -19,10 +19,13 @@ $locale['423'] = "Išsaugoti šypsenėlę";
 $locale['424'] = "Šypsenėlės peržiūra:";
 // Current Smileys
 $locale['430'] = "Kodas";
-$locale['431'] = "paveiksliukas";
+$locale['431'] = "Paveiksliukas";
 $locale['432'] = "Tekstas";
-$locale['433'] = "nustatymai";
+$locale['433'] = "Pasirinkimai";
 $locale['434'] = "Redaguoti";
 $locale['435'] = "Ištrinti";
 $locale['436'] = "Nėra pridėtų šypsenėlių.";
-?>
+// Error Message
+$locale['437'] = "Prašom įvesti šypsenėlės kodą";
+$locale['438'] = "Prašom pasirinkti šypsenėlę";
+$locale['439'] = "Prašom įvesti šypsenėlės tekstą";

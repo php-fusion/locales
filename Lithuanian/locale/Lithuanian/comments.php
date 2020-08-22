@@ -8,5 +8,5 @@ $locale['c105'] = "Turite prisijungti, norėdami parašyti komentarą.";
 $locale['c106'] = "Redaguoti komentarus";
 $locale['c107'] = " Išjungti šypsenėles šiame komentare";
 $locale['c108'] = "Redaguoti";
-$locale['c109'] = "Trinti";
-?>
+$locale['c109'] = "Ištrinti";
+$locale['c110'] = "Ištrinti šį komentarą?";

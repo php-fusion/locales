@@ -10,26 +10,25 @@ $locale['412'] = "Straipsnių kategorija negali buti ištrinta";
 $locale['413'] = "Šioje kategorijoje yra straipsniu";
 $locale['414'] = "Straipsnių kategorija ištrinta";
 // Category form
-$locale['420'] = "Kategorijos vardas:";
+$locale['420'] = "Kategorijos pavadinimas:";
 $locale['421'] = "Kategorijos aprašymas:";
 $locale['422'] = "Kategorijos rušiavimas:";
 $locale['423'] = "Straipsnio ID";
-$locale['424'] = "Straipsnio pavadinimas";
+$locale['424'] = "Straipsnio antraštė";
 $locale['425'] = "Straipsnio data";
 $locale['426'] = "Didėjančia tvarka";
 $locale['427'] = "Mažėjančia tvarka";
 $locale['428'] = "Kategorijos matomumas:";
 $locale['429'] = "Išsaugoti kategoriją";
 // Current category options
-$locale['440'] = "Kategorija";
-$locale['441'] = "Matomumas";
-$locale['442'] = "Nustatymai";
+$locale['440'] = "Leisti komentarus";
+$locale['441'] = "Gali matyti";
+$locale['442'] = "Pasirinkimai";
 $locale['443'] = "Redaguoti";
-$locale['444'] = "Trinti";
+$locale['444'] = "Ištrinti";
 $locale['445'] = "Nerasta straipsnių kategorijų";
 // Delete Article category
 $locale['450'] = "Trinti šią kategoriją?";
 // Error Messages
 $locale['460'] = "Prašome įvesti kategorijos pavadinimą.";
 $locale['461'] = "Tokia kategorija jau egzistuoja.";
-?>

@@ -10,21 +10,21 @@ $locale['411'] = "Straipsnis atnaujintas";
 $locale['412'] = "Straipsnis ištrintas";
 // Category form
 $locale['420'] = "Redaguoti";
-$locale['421'] = "Trinti";
+$locale['421'] = "Ištrinti";
 $locale['422'] = "Kategorija:";
-$locale['423'] = "Pavadinimas:";
-$locale['424'] = "Ištrauka:";
+$locale['423'] = "Subject:";
+$locale['424'] = "Ištraukta:";
 $locale['425'] = "Straipsnis:";
-$locale['426'] = "Saugoti į juodraščius";
+$locale['426'] = "Išsaugoti kaip juodraštį";
 $locale['427'] = "Automatinis eilučių laužymas";
 $locale['428'] = "Leisti komentarus";
-$locale['429'] = "Leisti reitingus";
+$locale['429'] = "Leisti įvertinti";
 $locale['430'] = "Peržiūrėti";
 $locale['431'] = "Išsaugoti";
 $locale['432'] = "Puslapio laužymas";
 $locale['433'] = "[Juodraštis]";
 // Popup Error/Warning Messages
-$locale['450'] = "Prašome įvesti pavadinimą";
+$locale['450'] = "Prašome nurodyti pavadinimą";
 $locale['451'] = "Trinti šį straipsnį?";
 $locale['452'] = "Nėra sukurtų straipsnių kategorijų";
 $locale['453'] = "Jūs privalote sukurti mažiausiai vieną straipsnių kategoriją, norėdami rašyti straipsnius";
@@ -34,4 +34,3 @@ $locale['456'] = "%s yra išjungti visiems dalykams.<br />Šis nustatymas veiks,
 $locale['457'] = "Komentarai";
 $locale['458'] = "Reitingai";
 $locale['459'] = $locale['457']." ir ".$locale['458'];
-?>

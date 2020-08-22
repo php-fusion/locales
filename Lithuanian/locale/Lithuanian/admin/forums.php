@@ -10,22 +10,23 @@ $locale['413'] = "Yra forumų priskirtų šiai kategorijai";
 $locale['414'] = "Forumo kategorija ištrinta";
 // Forum Category form
 $locale['420'] = "Kategorijos pavadinimas";
-$locale['421'] = "Eiliškumas";
+$locale['420b'] = "Kategorijos aprašymas:";
+$locale['421'] = "Rodymo tvarka";
 $locale['422'] = "Išsaugoti kategoriją";
 // Delete Forum Category
 $locale['440'] = "Ištrinti forumo kategoriją?";
 // Forum titles
 $locale['500'] = "Pridėti forumą";
-$locale['501'] = "Ištrinti forumą";
+$locale['501'] = "Redaguoti forumą";
 // Forum Category messages
 $locale['510'] = "Forumas pridėtas";
 $locale['511'] = "Forumas atnaujintas";
 $locale['512'] = "Forumas negali būti ištrintas";
 $locale['513'] = "Yra temų priskirtų šiai kategorijai";
-$locale['514'] = "Forumas ištrintas";
+$locale['514'] = "Forumas sėkmingai pašalintas.";
 $locale['515'] = "Forumo moderatoriai atnaujinti";
 $locale['516'] = "Prašome įvesti kategorijos pavadinimą.";
-$locale['517'] = "Prašome įvesti forumo pavadinimą.";
+$locale['517'] = "Prašom įvesti unikalų forumo pavadinimą.";
 // Add/Edit Forum Form
 $locale['520'] = "Forumo pavadinimas:";
 $locale['521'] = "Forumo aprašymas:";
@@ -38,7 +39,7 @@ $locale['527'] = "Galintys rašyti forume:";
 $locale['528'] = "Galintys prisegti forume:";
 $locale['529'] = "Galintys kurti apklausas:";
 $locale['530'] = "Galintys balsuoti:";
-$locale['531'] = "Niekas";
+$locale['531'] = "Išjungta";
 $locale['532'] = "Išsaugoti forumą";
 $locale['533'] = "Forumo moderatoriai";
 $locale['534'] = "Išsaugoti forumo moderatorius";
@@ -47,21 +48,21 @@ $locale['535'] = "Atsisiųsti prisegimus:";
 $locale['540'] = "Forumo nustatymai:";
 $locale['541'] = "Pranešimų sujungimas:";
 $locale['542'] = "Įjungta";
-$locale['543'] = "Išjungta";
+$locale['543'] = "Disabled";
 // Current Forums
 $locale['550'] = "Esami forumai";
 $locale['551'] = "Forumas / Kategorija";
-$locale['552'] = "Eiliškumas";
+$locale['552'] = "Rodymo tvarka";
 $locale['553'] = "Pasirinkimai";
 $locale['554'] = "Redaguoti";
 $locale['555'] = "Ištrinti";
-$locale['556'] = "Aukštyn";
-$locale['557'] = "Žemyn";
-$locale['558'] = "Pakelti";
-$locale['559'] = "Nuleisti";
+$locale['556'] = "Up";
+$locale['557'] = "Down";
+$locale['558'] = "Perkelti aukštyn";
+$locale['559'] = "Perkelti žemyn";
 $locale['560'] = "Nėra sukurtų forumo kategorijų";
-$locale['561'] = "Nėra sukurtų forumų";
-$locale['562'] = "Atnaujinti forumo eiliškumą";
+$locale['561'] = "Nėra priskirtų forumų";
+$locale['562'] = "Atnaujinti forumų tvarką";
 $locale['563'] = "Sumažinti";
 // Delete Forum
 $locale['570'] = "Ištrinti forumą?";
@@ -79,4 +80,3 @@ $locale['609'] = "Pranešimai ištrinti: ";
 $locale['610'] = "Prisegimai ištrinti: ";
 $locale['611'] = "Temos ištrintos: ";
 $locale['612'] = "Sumažintos temos, pranešimai ir prisegimai bus ištrinti, Jūs tikrai tai norite padaryti?";
-?>

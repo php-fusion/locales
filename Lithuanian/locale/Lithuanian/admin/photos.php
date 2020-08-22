@@ -1,6 +1,6 @@
 <?php
 // Album titles
-$locale['400'] = "Pridėti nuotrauką";
+$locale['400'] = "Pridėti nutorauką";
 $locale['401'] = "Redaguoti nuotrauką";
 $locale['402'] = "Esamos nuotraukos";
 $locale['403'] = "Svarbi nuotraukų albumo klaida";
@@ -9,11 +9,11 @@ $locale['410'] = "Nuotrauka pridėta";
 $locale['411'] = "Nuotrauka atnaujinta";
 $locale['412'] = "Nuotraukos thumbnail ištrintas";
 $locale['413'] = "Nuotrauka ištrinta";
-$locale['414'] = "Įvyko klaida:";
-$locale['415'] = "Blogas nuotraukos pavadinimas.";
-$locale['416'] = "Nuotraukos dydis turi būti mažesnis nei %s.";
-$locale['417'] = "Nuotraukos formatas privalo būti GIF, JPEG arba PNG.";
-$locale['418'] = "Nuotrauka turi būti ne didesnė nei %uw x %uh pikselių.";
+$locale['414'] = "Buvo rastos šios klaidos:";
+$locale['415'] = "Blogas paveiksliuko pavadinimas.";
+$locale['416'] = "Nuotrauka turi sverti mažiau negu %s.";
+$locale['417'] = "Image must be a GIF, JPEG or PNG file.";
+$locale['418'] = "Paveiksliukas turi būti ne didesnis negu %uw x %uh pikselių.";
 $locale['419'] = "Nuotrauka(os) perkelta.";
 $locale['420'] = "Nerasta serveryje įdiegta <b>GD biblioteka</b>. Nuotraukų albumas be GD bibliotekos neveiks. Prašome susisiekti su savo hostingo <br> administratoriais ir pranešti apie šią klaidą";
 $locale['421'] = "Nuotrauka negali būti tuščia.";
@@ -23,18 +23,18 @@ $locale['430'] = "Perkelti nuotraukas į albumą";
 $locale['431'] = "Perkelti";
 $locale['432'] = "Pavadinimas: ";
 $locale['433'] = "Aprašymas: ";
-$locale['434'] = "Eiliškumas: ";
+$locale['434'] = "Eilės tvarka: ";
 $locale['435'] = "Atvaizdas: ";
 $locale['436'] = "Nuotrauka: ";
-$locale['437'] = "Leisti komentuoti";
-$locale['438'] = "Leisti reitinguoti";
+$locale['437'] = "Leisti komentarus";
+$locale['438'] = "Leisti įvertinti";
 $locale['439'] = "Išsaugoti nuotrauką";
-$locale['440'] = "Atmesti";
+$locale['440'] = "Atšaukti";
 // Current Photos
 $locale['450'] = "Nėra nuotraukos";
-$locale['451'] = "Paspauskite peržiūrai";
-$locale['452'] = "Perkelti į viršų";
-$locale['453'] = "Nuleisti žemyn";
+$locale['451'] = "Click to view";
+$locale['452'] = "Perkelti aukštyn";
+$locale['453'] = "Perkelti žemyn";
 $locale['454'] = "Redaguoti";
 $locale['455'] = "Ištrinti";
 $locale['456'] = "Data: ";
@@ -76,8 +76,7 @@ $locale['508'] = "Pasirinkti nuotrauką(s):";
 $locale['509'] = "Pridėti pasirinktą(s) nuotrauką(s) į albumą";
 $locale['510'] = "Nuotraukos nerastos";
 // Messages
-$locale['520'] = "%s yra išjungti visiems dalykams.<br />Šis nustatymas pradės veikti, jeigu tai bus įjungta.";
+$locale['520'] = "%s yra išjungti visiems dalykams.<br />Šis nustatymas veiks, jeigu tai bus įjungta.";
 $locale['521'] = "Komentarai";
 $locale['522'] = "Reitingai";
 $locale['523'] = $locale['521']." ir ".$locale['522'];
-?>
