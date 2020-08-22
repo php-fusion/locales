@@ -3,7 +3,7 @@
 $locale['400'] = "Eigen Pagina toevoegen";
 $locale['401'] = "Eigen Pagina wijzigen";
 $locale['402'] = "Bestaande Eigen Pagina&rsquo;s";
-// Custom pages messages
+// Custom Pages messages
 $locale['410'] = "Eigen Pagina toegevoegd";
 $locale['411'] = "Eigen Pagina gewijzigd";
 $locale['412'] = "De url van deze pagina is: ";

@@ -3,7 +3,7 @@ $locale['400'] = "Link inzenden";
 // Submit Link Success
 $locale['410'] = "Dank u voor het inzenden van uw link";
 $locale['411'] = "Nog een link inzenden";
-$locale['412'] = "Terug naar ".$settings['sitename'];
+$locale['412'] = "Terug naar [SITENAME]";
 // Submit Link Form
 $locale['420'] = "Gebruik het volgende formulier om een link in te zenden. Uw inzending zal worden beoordeeld door een beheerder. Links die niet geschikt lijken worden niet geaccepteerd.";
 $locale['421'] = "Linkcategorie:";
@@ -17,7 +17,7 @@ $locale['450'] = "Nieuws inzenden";
 $locale['460'] = "Dank u voor het inzenden van uw nieuwsbericht";
 $locale['461'] = "Nog een nieuwsbericht inzenden";
 // Submit News Form
-$locale['470'] = "Gebruik het volgende formulier om een nieuwsbericht in te zenden. Uw inzending zal worden beoordeeld door een beheerder. ".$settings['sitename']." behoudt zich het recht voor inzendingen aan te passen. Nieuwsberichten dienen te passen binnen de inhoud van de site. Nieuwsberichten die niet geschikt lijken worden niet geaccepteerd.";
+$locale['470'] = "Gebruik het volgende formulier om een nieuwsbericht in te zenden. Uw inzending zal worden beoordeeld door een beheerder. [SITENAME] behoudt zich het recht voor inzendingen aan te passen. Nieuwsberichten dienen te passen binnen de inhoud van de site. Nieuwsberichten die niet geschikt lijken worden niet geaccepteerd.";
 $locale['471'] = "Onderwerp:";
 $locale['472'] = "Nieuws:";
 $locale['473'] = " Automatische regelonderbreking inschakelen";
@@ -32,7 +32,7 @@ $locale['450b'] = "Blog inzenden";
 $locale['460b'] = "Bedankt voor het inzenden van uw Blog";
 $locale['461b'] = "Stuur nog een Blog in";
 // Submit Blog Form
-$locale['470b'] = "Gebruik het volgende formulier om een Blog bericht in te zenden. Uw inzending zal worden beoordeeld door een beheerder. ".$settings['sitename']." behoudt zich het recht voor inzendingen aan te passen. Blog berichten dienen te passen binnen de inhoud van de site. Blog berichten die niet geschikt lijken worden niet geaccepteerd.";
+$locale['470b'] = "Gebruik het volgende formulier om een Blog bericht in te zenden. Uw inzending zal worden beoordeeld door een beheerder. [SITENAME] behoudt zich het recht voor inzendingen aan te passen. Blog berichten dienen te passen binnen de inhoud van de site. Blog berichten die niet geschikt lijken worden niet geaccepteerd.";
 $locale['471b'] = "Onderwerp:";
 $locale['472b'] = "Blog:";
 $locale['473b'] = " Automatische regelonderbreking inschakelen";
@@ -47,7 +47,7 @@ $locale['500'] = "Artikel inzenden";
 $locale['510'] = "Dank u voor het inzenden van uw artikel";
 $locale['511'] = "Nog een artikel inzenden";
 // Submit Article Form
-$locale['520'] = "Gebruik het volgende formulier om een artikel in te zenden. Uw inzending zal worden beoordeeld door een beheerder. ".$settings['sitename']." behoudt zicht het recht voor artikelen aan te passen. Artikelen dienen te passen binnen de inhoud van de site. Artikelen die niet geschikt lijken worden niet geaccepteerd.";
+$locale['520'] = "Gebruik het volgende formulier om een artikel in te zenden. Uw inzending zal worden beoordeeld door een beheerder. [SITENAME] behoudt zicht het recht voor artikelen aan te passen. Artikelen dienen te passen binnen de inhoud van de site. Artikelen die niet geschikt lijken worden niet geaccepteerd.";
 $locale['521'] = "Categorie:";
 $locale['522'] = "Onderwerp:";
 $locale['523'] = "Fragment:";
@@ -71,7 +71,7 @@ $locale['602'] = "Afbeelding moet kleiner zijn dan  %u bytes.";
 $locale['603'] = "Afbeelding moet een GIF-, JPEG- of PNG-bestand zijn.";
 $locale['604'] = "Afbeelding mag niet groter zijn dan %uw x %uh pixels.";
 // Submit Photo Form
-$locale['620'] = "Gebruik het volgende formulier om een foto in te zenden. Uw inzending zal worden beoordeeld door een beheerder. ".$settings['sitename']." behoudt zich het recht voor uw inzending aan te passen. Foto&rsquo;s dienen te passen binnen de inhoud van de site. Foto&rsquo;s die niet geschikt lijken worden niet geaccepteerd.";
+$locale['620'] = "Gebruik het volgende formulier om een foto in te zenden. Uw inzending zal worden beoordeeld door een beheerder. [SITENAME] behoudt zich het recht voor uw inzending aan te passen. Foto&rsquo;s dienen te passen binnen de inhoud van de site. Foto&rsquo;s die niet geschikt lijken worden niet geaccepteerd.";
 $locale['621'] = "Titel:";
 $locale['622'] = "Beschrijving:";
 $locale['623'] = "Afbeelding: ";
@@ -98,7 +98,7 @@ $locale['676'] = "Download omschrijving mag niet leeg zijn.";
 $locale['676a'] = "Onbekende fout";
 // Submit Download Form
 $locale['680'] = "Gebruik het onderstaand formulier om een download in te zenden. Uw inzending wordt beoordeeld door een
-Beheerder. ".$settings['sitename']." behoudt zich het recht voor om wijzigingen aan te brengen. Downloads
+Beheerder. [SITENAME] behoudt zich het recht voor om wijzigingen aan te brengen. Downloads
 moeten in overeenstemming met de inhoud van deze site. Ongeschikte inzendingen zullen worden afgewezen.";
 $locale['681'] = "Titel:";
 $locale['682'] = "Omschrijving:";
@@ -111,7 +111,7 @@ $locale['687'] = "Categorie:";
 $locale['688'] = "Licentie:";
 $locale['689'] = "O/S:";
 $locale['690'] = "Versie:";
-$locale['691'] = "Homepage:";
+$locale['691'] = "Start pagina:";
 $locale['692'] = "Copyright:";
 $locale['693'] = "Bestandsgrootte:";
 $locale['694'] = "Max. bestandsgrootte: %s / Toegestane bestandstypes: %s";

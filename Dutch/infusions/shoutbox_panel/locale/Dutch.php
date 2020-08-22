@@ -1,7 +1,7 @@
 <?php
 $locale['SB_title'] = "Shoutbox";
 
-$locale['SB_desc'] = "Shoutbox (Official AddOn)";
+$locale['SB_desc'] = "Shoutbox (officiële AddOn)";
 $locale['SB_admin1'] = "Shoutbox Beheer";
 
 // Shoutbox

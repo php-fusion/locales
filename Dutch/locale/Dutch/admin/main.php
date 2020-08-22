@@ -1,6 +1,6 @@
 <?php
 // Admin Links
-$locale['200'] =  "[SITENAME] Beheerder paneel";
+$locale['200'] = "[SITENAME] Beheerder paneel";
 $locale['ac00'] = "Beheerder Index";
 $locale['ac01'] = "Inhoud Beheer";
 $locale['ac02'] = "Gebruikers Beheer";
@@ -19,7 +19,7 @@ $locale['CP'] = "Eigen Paginas";
 $locale['DC'] = "Download Categorie&euml;n";
 $locale['D'] = "Downloads";
 $locale['FQ'] = "FAQ&rsquo;s";
-$locale['F'] = "Forums";
+$locale['F'] = "Forum Beheer";
 $locale['IM'] = "Afbeeldingen";
 $locale['FM'] = "Bestands Beheerder";
 $locale['I'] = "Infusies";
@@ -57,11 +57,11 @@ $locale['S8'] = "Nieuws Instellingen";
 $locale['S9'] = "Gebruikers Beheer";
 $locale['S11'] = "Download Instellingen";
 $locale['S10'] = "Items per Pagina Instellingen";
-$locale['SB'] = "Banners";
+$locale['SB'] = "Site-Banners";
 $locale['S12'] = "Beveiligings Instellingen";
 $locale['S14'] = "Thema Instellingen";
-$locale['APWR'] = "Admin Password Reset";
-$locale['ERRO'] = "Error Log";
+$locale['APWR'] = "Admin Wachtwoord Reset";
+$locale['ERRO'] = "Fouten Log";
 $locale['AD'] = "Beheerderds";
 $locale['UL'] = "User log";
 $locale['MAIL'] = "Email sjablonen";

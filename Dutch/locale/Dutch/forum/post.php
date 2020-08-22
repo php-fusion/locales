@@ -83,12 +83,12 @@ $locale['532'] = "Zoeken";
 $locale['550'] = "Notificatie van antwoord in forum - {THREAD_SUBJECT}";
 $locale['551'] = "Hallo {USERNAME},
 
-Er is een antwoord geplaatst in het forumonderwerp; '{THREAD_SUBJECT}', welke u volgt op ".$settings['sitename'].".
+Er is een antwoord geplaatst in het forumonderwerp; '{THREAD_SUBJECT}', welke u volgt op [SITENAME].
 
 U kunt de onderstaande link gebruiken om het antwoord te bekijken:
 
 {THREAD_URL}
 
-Indien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \'Volg dit onderwerp niet langer\' klikken. U vindt de link bovenaan in het betreffende onderwerp.
+Indien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \\'Volg dit onderwerp niet langer\\' klikken. U vindt de link bovenaan in het betreffende onderwerp.
 
-Met vriendelijke groetMet vriendelijke groet, ".$settings['siteusername'].".";
+Met vriendelijke groetMet vriendelijke groet, [SITEUSERNAME].";

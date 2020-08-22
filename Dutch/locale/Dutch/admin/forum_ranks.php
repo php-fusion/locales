@@ -22,7 +22,7 @@ $locale['427'] = "Superbeheerders";
 $locale['428'] = "Rang opslaan";
 $locale['429'] = "Rang type:";
 $locale['429a'] = "Speciaal";
-$locale['429b'] = "Admin";
+$locale['429b'] = "Beheerder";
 $locale['429c'] = "Post teller";
 // Current Forum Ranks
 $locale['430'] = "Titel";

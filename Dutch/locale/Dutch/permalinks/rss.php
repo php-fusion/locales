@@ -1,3 +1,3 @@
 <?php
-$locale['pl_rss_title'] = "RSS Feeds";
-$locale['pl_rss_desc'] = "Permalinks inschakelen voor links naar RSS feeds.";
+$locale['pl_rss_title'] = "RSS-feeds";
+$locale['pl_rss_desc'] = "Permalinks voor de links naar RSS feeds inschakelen.";

@@ -19,6 +19,7 @@ $locale['010'] = "Kies a.u.b. de gewenste taal (locale):";
 $locale['011'] = "U kunt meer talen downloaden van de <a href='https://www.php-fusion.co.uk/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
 $locale['012'] = "Om PHP-Fusion te kunnen gebruiken dient u akkoord te gaan met de algemene voorwaarden van PHP-Fusion,";
 $locale['013'] = " I heb heb de algemene voorwaarden gelezen van PHP-Fusion en ga hiermee akkoord <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>Terms and Conditions of Use</a>";
+
 // Step 2
 $locale['020'] = "Om de setup te kunnen vervolgen dienen de volgende bestanden/mappen schrijfbaar te zijn:";
 $locale['021'] = "Test voor schrijfpermissies geslaagd, klik op Volgende om verder te gaan.";
@@ -27,7 +28,7 @@ $locale['023'] = "Geslaagd";
 $locale['024'] = "Niet geslaagd";
 $locale['025'] = "Herladen";
 
-// Step 3 - Access criteria
+// Step 3 - Access
 $locale['030'] = "Geef a.u.b. de gegevens voor toegang tot uw MySQL database.";
 $locale['031'] = "Database hostnaam:";
 $locale['032'] = "Naam van databasegebruiker:";
@@ -84,11 +85,11 @@ $locale['076'] = "Uw e-mailadres lijkt ongeldig te zijn.";
 $locale['076b'] = "E-mailadres velden mogen niet leeg blijven.";
 $locale['077'] = "Er is een fout in uw gebruikersinstellingen:";
 
-// Step 6 - Admin Panels
+// Step 6 - Admin Items
 $locale['080'] = "Beheerders";
 $locale['081'] = "Artikel Categorie&euml;n";
 $locale['082'] = "Artikelen";
-$locale['083'] = "Banners";
+$locale['083'] = "Site-Banners";
 $locale['084'] = "BB-codes";
 $locale['085'] = "Zwarte lijst";
 $locale['086'] = "Reacties";
@@ -99,7 +100,7 @@ $locale['090'] = "Downloads";
 $locale['091'] = "FAQ&rsquo;s";
 $locale['092'] = "Forum Beheer";
 $locale['093'] = "Afbeeldingen";
-$locale['094'] = "Infusions";
+$locale['094'] = "Infusies";
 $locale['095'] = "Infusion Panelen";
 $locale['096'] = "Leden";
 $locale['097'] = "Nieuws Categorie&euml;n";
@@ -152,7 +153,7 @@ $locale['131'] = "Artikelen";
 $locale['132'] = "Downloads";
 $locale['133'] = "FAQ";
 $locale['134'] = "Discussie Forum";
-$locale['135'] = "Contact";
+$locale['135'] = "Contact opnemen";
 $locale['136'] = "Nieuws Categorieen";
 $locale['137'] = "Web Links";
 $locale['138'] = "Foto Gallerij";
@@ -173,15 +174,15 @@ $locale['164'] = "Welkom bericht";
 $locale['165'] = "Forum Onderwerpen lijst";
 $locale['166'] = "Gebruikerd insformatie";
 $locale['167'] = "Leden enquetes";
-$locale['168'] = "RSS Feeds";
+$locale['168'] = "RSS-feeds";
 $locale['169'] = "Blog Archieven";
 
 //Multilanguage table rights
 $locale['MLT001'] = "Artikelen";
 $locale['MLT002'] = "Eigen Pagina&rsquo;s";
 $locale['MLT003'] = "Downloads";
-$locale['MLT004'] = "FAQs";
-$locale['MLT005'] = "Forums";
+$locale['MLT004'] = "FAQ&rsquo;s";
+$locale['MLT005'] = "Forum Beheer";
 $locale['MLT006'] = "Nieuws";
 $locale['MLT007'] = "Fotoalbums";
 $locale['MLT008'] = "Enquetes";
@@ -192,8 +193,8 @@ $locale['MLT012'] = "Panelen";
 $locale['MLT013'] = "Forum Rangen";
 $locale['MLT014'] = "Blog";
 
-// Stage 6 - News Categories
-$locale['180'] = "Bugs";
+// Stage 6 - News & Blog default Categories
+$locale['180'] = "Fouten";
 $locale['181'] = "Downloads";
 $locale['182'] = "Games";
 $locale['183'] = "Grafisch";
@@ -210,7 +211,7 @@ $locale['193'] = "Software";
 $locale['194'] = "Thema&rsquo;s";
 $locale['195'] = "Windows";
 
-// Stage 6 - Sample Forum Ranks
+// Stage 6 - Default Forum Ranks
 $locale['200'] = "Superbeheerder";
 $locale['201'] = "Beheerder";
 $locale['202'] = "Moderator";
@@ -221,7 +222,7 @@ $locale['206'] = "Senior Lid";
 $locale['207'] = "Veteraan";
 $locale['208'] = "Guru";
 
-// Stage 6 - Sample Smileys
+// Stage 6 - Default Smileys
 $locale['210'] = "Lachen";
 $locale['211'] = "Knipogen";
 $locale['212'] = "Triest";
@@ -239,7 +240,7 @@ $locale['222'] = "Opties";
 $locale['223'] = "Statistieken";
 $locale['224'] = "Privacy";
 
-// Welcome message
+// Welcome panel message
 $locale['230'] = "Welkom op uw site!";
 
 // Final message
@@ -249,21 +250,35 @@ Klik op <strong>Afronden</strong> om naar uw PHP-Fusion site te gaan.<br />
 Dank u wel voor het kiezen van PHP-Fusion.";
 
 // Default time settings
-// http://php.net/manual/en/function.strftime.php
 $locale['shortdate'] = "%d.%m.%y";
 $locale['longdate'] = "%B %d %Y %H:%M:%S";
 $locale['forumdate'] = "%d-%m-%Y %H:%M";
 $locale['newsdate'] = "%B %d %Y";
 $locale['subheaderdate'] = "%B %d %Y %H:%M:%S";
-// Email Template Setup
-// Please do NOT translate the words between brackets [] !
+
+// Email Template Setup, don´t translate the words between brackets [].
 $locale['T001'] = "Email Sjablonen";
 $locale['T101'] = "Notificatie bij niew PB";
 $locale['T102'] = "U heeft een nieuw priv&eacute; bericht ontvangen van [USER] op [SITENAME]";
-$locale['T103'] = "Hallo [RECEIVER],\r\nU heeft een nieuw priv&eacute; bericht ontvangen met het onderwerp [SUBJECT] van [USER] op [SITENAME]. U kunt uw priv&eacute; bericht lezen op [SITEURL]messages.php\r\n\r\nBericht: [MESSAGE]\r\n\r\nIndien u niet langer notificaties voor nieuwe priv&eacute; berichten per e-mail wilt ontvangen kunt u dit uitschakelen via het <strong>Opties Paneel</strong> in uw priv&eacute; berichten pagina..\r\n\r\Met vriendelijke groet,\r\n[SENDER].";
+$locale['T103'] = "Hallo [RECEIVER],\r
+U heeft een nieuw priv&eacute; bericht ontvangen met het onderwerp [SUBJECT] van [USER] op [SITENAME]. U kunt uw priv&eacute; bericht lezen op [SITEURL]messages.php\r
+\r
+Bericht: [MESSAGE]\r
+\r
+Indien u niet langer notificaties voor nieuwe priv&eacute; berichten per e-mail wilt ontvangen kunt u dit uitschakelen via het <strong>Opties Paneel</strong> in uw priv&eacute; berichten pagina..\r
+\r\\Met vriendelijke groet,\r
+[SENDER].";
 $locale['T201'] = "Notificatie bij nieuw forum posts";
 $locale['T202'] = "Notificatie van antwoord in forum - [SUBJECT]";
-$locale['T203'] = "Hallo [RECEIVER],\r\n\r\nEr is een antwoord geplaatst in het forumonderwerp \'[SUBJECT]\' welke u volgt op [SITENAME]. U kunt de onderstaande link gebruiken om het antwoord te bekijken:\r\n\r\n[THREAD_URL]\r\n\r\nIndien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \'Volg dit onderwerp niet langer\' klikken. U vindt de link bovenaan in het betreffende onderwerp..\r\n\r\Met vriendelijke groet,\r\n[SENDER].";
+$locale['T203'] = "Hallo [RECEIVER],\r
+\r
+Er is een antwoord geplaatst in het forumonderwerp \\'[SUBJECT]\\' welke u volgt op [SITENAME]. U kunt de onderstaande link gebruiken om het antwoord te bekijken:\r
+\r
+[THREAD_URL]\r
+\r
+Indien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \\'Volg dit onderwerp niet langer\\' klikken. U vindt de link bovenaan in het betreffende onderwerp..\r
+\r\\Met vriendelijke groet,\r
+[SENDER].";
 $locale['T301'] = "Contact formulier";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";

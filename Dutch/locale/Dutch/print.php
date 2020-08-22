@@ -1,5 +1,5 @@
 <?php
-//news, articles
+//news, articles, blog
 $locale['400'] = "Gepost door ";
 $locale['401'] = " op ";
 $locale['402'] = "Uitgebreid nieuws";
@@ -13,4 +13,4 @@ $locale['503'] = "Gewijzigd door ";
 $locale['600'] = "Gebruiksvoorwaarden";
 $locale['601'] = "Voor het laatst gewijzigd op:";
 //Privacy Policy
-$locale['700'] = "Privacy Policy";
+$locale['700'] = "Privacybeleid";

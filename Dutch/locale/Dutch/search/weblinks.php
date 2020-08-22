@@ -1,7 +1,7 @@
 <?php
-$locale['w400'] = "Weblinks";
-$locale['w401'] = "Weblink";
-$locale['w402'] = "Weblinks";
+$locale['w400'] = "Web Links";
+$locale['w401'] = "Web Link";
+$locale['w402'] = "Web Links";
 $locale['w403'] = "[NIEUW]";
 $locale['w404'] = "Datum toegevoegd:";
 $locale['w405'] = "Bezoeken:";

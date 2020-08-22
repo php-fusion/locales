@@ -13,11 +13,13 @@ $locale['no'] = "Nee";
 $locale['yes'] = "Ja";
 $locale['off'] = "Uit";
 $locale['on'] = "Aan";
+
 // Navigation
 $locale['next'] = "Volgende";
 $locale['previous'] = "Vorige";
 $locale['back'] = "Terug";
 $locale['forward'] = "Vooruit";
+
 // Action
 $locale['add'] = "Toevoegen";
 $locale['save'] = "Opslaan";
@@ -30,9 +32,10 @@ $locale['ban'] = "Ban";
 $locale['reactivate'] = "Reactiveren";
 $locale['user'] = "Gebruiker";
 $locale['promote'] = "Promoveren";
+
 //Tables
 $locale['status'] = "Status";
-$locale['order'] = "Opdracht";
+$locale['order'] = "Volgorde";
 $locale['id'] = "ID";
 $locale['title'] = "Titel";
 $locale['rights'] = "Righten";
@@ -42,7 +45,7 @@ $locale['info'] = "Info";
 // Forms
 $locale['choose'] = "Kies a.u.b. een...";
 $locale['parent'] = "Maak als nieuw hoofd..";
-$locale['order'] = "Volgorde";
+$locale['order'] = "Item Sortering";
 $locale['status'] = "Status";
 $locale['note'] = "Maak een notitie hiervan";
 $locale['publish'] = "Gepubliceerd";
@@ -60,3 +63,4 @@ $locale['pm'] = "Priv&eacute; Berichten";
 $locale['logged'] = "Ingelogd als ";
 $locale['version'] = "Versie ";
 $locale['browse'] = "Bladeren ...";
+$locale['or'] = "of";

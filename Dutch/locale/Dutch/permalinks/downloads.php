@@ -1,3 +1,3 @@
 <?php
 $locale['pl_downloads_title'] = "Downloads";
-$locale['pl_downloads_desc'] = "Permalinks inschakelen voor Downloads op de website.";
+$locale['pl_downloads_desc'] = "Activeer Permalinks voor de downloads op de site.";

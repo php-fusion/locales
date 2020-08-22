@@ -46,7 +46,7 @@ $locale['490b'] = "Ingezonden Blogbericht publiceren";
 $locale['491b'] = "Het Blogbericht is gepubliceerd";
 $locale['492b'] = "Verwijder het ingezonen Blogbericht";
 $locale['493b'] = "Het Blogbericht is verwijderd";
-// News $ Blog Submission Form
+// News & Blog Submission Form
 $locale['500'] = "Ingezonden nieuwsbericht bekijken";
 $locale['501'] = "Het bovenstaande nieuwsbericht werd ingezonden door ";
 $locale['502'] = "Wilt u dit nieuwsbericht publiceren of verwijderen??";
@@ -122,7 +122,7 @@ $locale['650'] = "O/S:";
 $locale['651'] = "Versie:";
 $locale['652'] = "Bestandsgrootte:";
 $locale['653'] = "Schermafdruk:";
-$locale['654'] = "Homepage:";
+$locale['654'] = "Start pagina:";
 $locale['655'] = "Copyright:";
 $locale['656'] = "Commentaren:";
 $locale['657'] = "Beoordelingen:";

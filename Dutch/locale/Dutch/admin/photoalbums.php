@@ -19,7 +19,7 @@ $locale['419'] = "Album kan niet worden verwijderd. Uw wachtwoord is onjuist.";
 $locale['420'] = "Geen GD-library gedetecteerd. Fotoalbums werken niet zonder GD-library. Neem contact op met uw hosting provider voor meer informatie.";
 // Album confirmation
 $locale['430'] = "Bevestig verwijderen album";
-$locale['431'] = "Het album dat u probeert te verwijderen bevat &eacute;&eacute;n of meer foto&rsquo;s.<br />\n"								."Om dit album te verwijderen dient u uw beheerderwachtwoord op te geven:";
+$locale['431'] = "Het album dat u probeert te verwijderen bevat &eacute;&eacute;n of meer foto&rsquo;s.<br />\n"."Om dit album te verwijderen dient u uw beheerderwachtwoord op te geven:";
 $locale['432'] = "Bevestigen";
 $locale['433'] = "Afbreken";
 // Album form

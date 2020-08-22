@@ -27,7 +27,7 @@ $locale['442'] = "Opties";
 $locale['443'] = "Wijzigen";
 $locale['444'] = "Verwijderen";
 $locale['445'] = "Er zijn nog geen downloadcategorie&euml;n aangemaakt";
-// Delete Download Category
+// Delete Download category
 $locale['450'] = "Deze downloadcategorie verwijderen?";
 // Error Messages
 $locale['460'] = "Geef een categorie naam.";

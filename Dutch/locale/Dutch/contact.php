@@ -1,7 +1,7 @@
 <?php
 // Contact Form
 $locale['400'] = "Contact opnemen";
-$locale['401'] = "U kunt mij een email sturen op ".hide_email($settings['siteemail'])." Als u lid bent kunt u mij een <a href='messages.php?msg_send=1'>Priv&eacute; bericht</a> sturen.<br />U kunt ook dit contactformulier invullen, om een bericht naar mij per email te sturen.";
+$locale['401'] = "U kunt mij een email sturen op [SITE_EMAIL]. Als u lid bent kunt u mij een [PM_LINK] sturen. U kunt ook dit contactformulier invullen, om een bericht naar mij per email te sturen.";
 $locale['402'] = "Naam:";
 $locale['403'] = "E-mailadres:";
 $locale['404'] = "Onderwerp:";

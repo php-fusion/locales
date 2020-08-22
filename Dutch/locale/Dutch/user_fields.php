@@ -1,5 +1,5 @@
 <?php
-// Items shown in profiles
+// Items shown in profile
 $locale['u040'] = "Datum van aanmelding";
 $locale['u041'] = "Laatste bezoek";
 $locale['u042'] = "Nooit bezocht";
@@ -24,7 +24,7 @@ $locale['u060'] = "Voeg deze gebruiker toe aan geselecteerde groep?";
 $locale['u061'] = "Voeg toe aan groep";
 $locale['u062'] = "Gebruiker Avatar";
 $locale['u063'] = "Gebruiker User Level";
-$locale['u064'] = "Email";
+$locale['u064'] = "E-mail";
 $locale['u066'] = "Geregistreerd op";
 $locale['u067'] = "Laatste Bezoek";
 $locale['u068'] = "Gebruikers Naam";
@@ -88,7 +88,7 @@ $locale['u143a'] = " kan niet leeg worden gelaten.";
 $locale['u144'] = "Admin wachtwoord <b>nieuw</b>";
 $locale['u145'] = "Bevestig admin wachtw.";
 $locale['u146'] = " kan niet hetzelfde zijn als uw huidige ";
-$locale['u147'] = "Wachtwoord moet tussen de 8 en 20 tekens lang zijn.<br />Toegestane tekens zijn: <b>a-z</b>, <b>0-9</b> en <b>@!#$%&\/()=-_?+*.,:;</b>";
+$locale['u147'] = "Wachtwoord moet tussen de 8 en 20 tekens lang zijn.<br />Toegestane tekens zijn: <b>a-z</b>, <b>0-9</b> en <b>@!#$%&\\/()=-_?+*.,:;</b>";
 $locale['u148'] = "Nieuwe wachtwoorden zijn niet identiek. Probeer het opnieuw.";
 $locale['u148a'] = "Nieuwe Admin wachtwoorden zijn niet identiek.";
 $locale['u149'] = "Uw huidige login wachtwoord is niet ingegeven of is ongeldig.";
@@ -96,17 +96,16 @@ $locale['u149a'] = "Uw huidige Admin wachtwoord is niet ingegeven of is ongeldig
 $locale['u149b'] = "Uw huidige inlog wachtwoord is niet opgegeven of is onjuist.<br />U kunt niet uw Admin wachtwoord veranderen zonder het juiste inlog wachtwoord opgegeven te hebben.";
 // Email actiation
 $locale['u150'] = "Uw aanmelding is bijna voltooid, u ontvangt binnen 5 minuten een e-mail met uw login-gegevens, samen met een link om uw account te activeren.<br /><br /><font style='font-size:30px; text-decoration:blink; text-align:center;'>Geen activatie mail ontvangen?</font><br /><font style='font-size:20px; text-align:center;'>Kijk in uw spammap of registreer opnieuw met een ander E-mail adres.</font><br /><br />";
-$locale['u151'] = "Welkom op ".$settings['sitename'];
-$locale['u152'] = "Hallo USER_NAME,\n
-Welkom op de ".$settings['sitename'].". Hier zijn uw login gegevens:\n
-Gebruikersnaam: USER_NAME
-Wachtwoord: USER_PASSWORD\n
-Gelieve uw account te activeren via de volgende link:
-ACTIVATION_LINK\n\n
-Met vriendelijke groeten,\n
-".$settings['siteusername']."";
+$locale['u151'] = "Welkom bij ";
+$locale['u152'] = "Hallo USER_NAME,<br/>
+Welkom op SITENAME. Hier zijn uw login gegevens:<br/>
+Gebruikersnaam: USER_NAME<br/>
+Wachtwoord: USER_PASSWORD<br/>
+Gelieve uw account te activeren via de volgende link: ACTIVATION_LINK<br/>
+Met vriendelijke groeten,<br/>
+SITEUSERNAME";
 $locale['u153'] = "Activatie e-mail kon niet worden verzonden.";
-$locale['u154'] = "Neem a.u.b. contact op met de <a href='".BASEDIR."contact.php' title='contact opnemen'>Site Beheerder</a>.";
+$locale['u154'] = "Neem a.u.b. [LINK]contact op met[/LINK]de Site Beheerder.";
 $locale['u155'] = "Account Activeren";
 $locale['u156'] = "Vul hier uw wachtwoord in om uw e-mail wijzigen.";
 // Success / Fail
@@ -125,30 +124,30 @@ $locale['u172'] = "Lid succesvol toegevoegd.";
 $locale['u173'] = "Terug naar gebruikers Management.";
 $locale['u174'] = "Nog een Lid toevoegen.";
 // Avatar upload
-$locale['u180'] = "Je avatar overschrijdt de toegestane bestandsgrootte, de limiet is ".parsebytesize($settings['avatar_filesize']).".";
+$locale['u180'] = "Je avatar overschrijdt de toegestane bestandsgrootte, de limiet is [LIMIT].";
 $locale['u181'] = "Je avatar lijkt van een niet ondersteund afbeeldingstype te zijn, ondersteunde bestand types zijn jpg, png en gif.";
-$locale['u182'] = "Je avatar overschrijdt ".$settings['avatar_width']."x".$settings['avatar_height']." pixels.";
+$locale['u182'] = "Je avatar overschrijdt [WIDTH]x[HEIGHT] pixels.";
 $locale['u183'] = "Je avatar is niet correct geupload.";
 $locale['u184'] = "Max. bestandsgrootte: %s / Max. afmeting: %ux%u pixels";
-$locale['u185'] = "Avatar";
+$locale['u185'] = "Profielafbeelding";
 $locale['u186'] = "Klik op Bladeren om een afbeelding te uploaden";
 $locale['u187'] = "Verwijder";
 // Captcha and terms
 $locale['u190'] = "Validatie code";
 $locale['u191'] = "Validatie code invoeren";
 $locale['u192'] = "Algemene Voorwaarden";
-$locale['u193'] = "Ik heb de <a href='".BASEDIR."print.php?type=T' target='_blank' title='Algemene Voorwaarden'>Algemene Voorwaarden</a> gelezen en ik stem er mee in.";
+$locale['u193'] = "Ik heb de [LINK]Algemene Voorwaarden[/LINK] gelezen en ik stem er mee in.";
 $locale['u194'] = "Onjuiste validatie code.";
 $locale['u195'] = "Captcha code kan niet leeg worden gelaten.";
 // E-mail Change Confirmation
 $locale['u200'] = "Een controle e-mail is verzonden naar uw nieuwe e-mailadres (%s).";
 $locale['u201'] = "Uw E-mail adres zal worden gewijzigd wanneer u op de link in de mail klikt.";
-$locale['u202'] = "E-mail adres verifi&euml;ren - ".$settings['sitename'];
-$locale['u203'] = "Hallo [USER_NAME],\n
-Iemand heeft dit dit E-mail adres op zijn account ingesteld op onze site.\n
-Als U echt wilt dat uw E-mail adres word gewijzigd in deze, klikt u dan op de volgende link:\n
-[EMAIL_VERIFY_LINK]\n
-Opmerking: Je moet ingelogd zijn om door te gaan.\n
+$locale['u202'] = "E-mail adres verifi&euml;ren - [SITENAME]";
+$locale['u203'] = "Hallo [USER_NAME],<br/>
+Iemand heeft dit dit E-mail adres op zijn account ingesteld op onze site.<br/>
+Als U echt wilt dat uw E-mail adres word gewijzigd in deze, klikt u dan op de volgende link:<br/>
+[EMAIL_VERIFY_LINK]<br/>
+Opmerking: Je moet ingelogd zijn om door te gaan.<br/>
 Groeten,
-".$settings['siteusername']."
-".$settings['sitename'];
+[SITEUSERNAME]<br/>
+[SITENAME]";

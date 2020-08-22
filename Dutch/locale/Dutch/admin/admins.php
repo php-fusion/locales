@@ -1,9 +1,9 @@
 <?php
-// Beheerders messages
+// Administrators messages
 $locale['400'] = "Beheerder toegevoegd";
 $locale['401'] = "Beheerder gewijzigd";
 $locale['402'] = "Beheerder verwijderd";
-// Search/Add Beheerder
+// Search/Add Administrator
 $locale['410'] = "Beheerder toevoegen";
 $locale['411'] = "Gebruik het onderstaande formulier om leden voor toevoeging te zoeken.";
 $locale['412'] = "Lid ID";
@@ -14,7 +14,7 @@ $locale['416'] = "Superbeheerder maken";
 $locale['417'] = "Beheerder toevoegen";
 $locale['418'] = "Geen leden gevonden.";
 $locale['419'] = "Nogmaals zoeken";
-// Current Beheerders
+// Current Administrators
 $locale['420'] = "Beheerders";
 $locale['421'] = "Gebruikersnaam";
 $locale['422'] = "Beheerderniveau";

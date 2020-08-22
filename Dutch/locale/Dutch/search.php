@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Doorzoek ".$settings['siteusername'];
+$locale['400'] = "Doorzoek [SITENAME]";
 $locale['401'] = "Zoek naar:";
 $locale['402'] = "Zoek";
 $locale['403'] = "zoek naar &eacute;&eacute;n van deze woorden";

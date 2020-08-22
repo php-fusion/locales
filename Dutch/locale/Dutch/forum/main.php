@@ -1,8 +1,7 @@
 <?php
 // Forum Index
-$forumgg = ($settings['siteusername']); $forumgg = str_replace (" Gebruikers Groep", "", $forumgg);
-$locale['400'] = $forumgg." Forum"; // add to title
-$locale['401'] = $forumgg." Gebruikers Forum. Kies hieronder een passende categorie."; // opentable
+$locale['400'] = "Forum";
+$locale['401'] = "Gebruikers Forum";
 $locale['402'] = "Onderwerpen";
 $locale['403'] = "Berichten";
 $locale['404'] = "Laatste bericht";
@@ -26,7 +25,7 @@ $locale['460'] = "Alles aanvinken";
 $locale['461'] = "Alle vinkjes verwijderen";
 $locale['462'] = "Onderwerpen verwijderen";
 $locale['463'] = "Geselecteerde onderwerpen verwijderen?";
-// Forum Guide/Privelages
+// Forum Guide/Privileges
 $locale['470'] = "Onderwerp met nieuwe berichten sinds laatste bezoek";
 $locale['471'] = "20 berichten of meer";
 $locale['472'] = "Onderwerp zonder nieuwe berichten sinds laatste bezoek.";
@@ -101,9 +100,9 @@ $locale['533d'] = "Titel";
 $locale['534'] = "Volgorde";
 $locale['534a'] = "Oplopend";
 $locale['534b'] = "Aflopend";
-// Jump to Forum
+// Jump to Forum, back to top
 $locale['540'] = "Spring naar forum:";
-$locale['541'] = "Top";
+$locale['541'] = "Bovenkant";
 $locale['542'] = "Naar top";
 // Search Forum
 $locale['550'] = "Zoeken";

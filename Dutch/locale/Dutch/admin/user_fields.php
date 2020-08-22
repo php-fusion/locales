@@ -32,7 +32,7 @@ $locale['431'] = "Inschakelen";
 $locale['440'] = "Alle Gebruikersvelden zijn ingeschakeld.";
 $locale['441'] = "Er zijn geen Gebruikersvelden ingeschakeld.";
 // User Field Groups
-$locale['450'] = "Contact";
+$locale['450'] = "Contact opnemen";
 $locale['451'] = "Informatie";
 $locale['452'] = "Opties";
 $locale['453'] = "Statistieken";

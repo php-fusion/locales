@@ -55,9 +55,9 @@ $locale['440'] = "Wijzigingen opslaan";
 $locale['450'] = "Een primaire beheerder kan niet worden gewijzigd.";
 $locale['451'] = "U dient een gebruikersnaam en een e-mailadres op te geven.";
 $locale['452'] = "Gebruikersnaam bevat ongeldige tekens.";
-$locale['453'] = "De gebruikersnaam ".(isset($_POST['user_name']) ? $_POST['user_name'] : "")." is reeds in gebruik.";
+$locale['453'] = "De gebruikersnaam [user_name] is reeds in gebruik.";
 $locale['454'] = "Ongeldig e-mailadres.";
-$locale['455'] = "Het e-mailadres ".(isset($_POST['user_email']) ? $_POST['user_email'] : "")." is reeds in gebruik.";
+$locale['455'] = "Het e-mailadres [user_email] is reeds in gebruik.";
 $locale['456'] = "De nieuwe wachtwoorden komen niet overeen.";
 $locale['457'] = "Ongeldig wachtwoord, gebruik alleen alfanumerieke tekens.<br />
 Een wachtwoord dient tenminste zes tekens lang te zijn.";

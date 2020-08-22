@@ -12,7 +12,7 @@ $locale['404c'] = "Wijzig";
 $locale['404d'] = "Herinstalleer";
 // Editing Permalinks
 $locale['405'] = "Wijzigen Permalinks voor %s";
-$locale['406'] = "Tags";
+$locale['406'] = "Labels";
 $locale['407'] = "Omschrijving";
 $locale['408'] = "Types";
 $locale['409'] = "Wijzig patroon";

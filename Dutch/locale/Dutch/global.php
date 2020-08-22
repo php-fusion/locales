@@ -1,23 +1,13 @@
 <?php
-/*
-Nederlandse Locale Bestanden
-Engels door Nick Jones (Digitanium)
-E-mail: digitanium@php-fusion.co.uk
-Web: http://www.php-fusion.co.uk
-Vertaald door Paul Beuk (muscapaul) en Wim de Lange (Wanabo)
-Nederlandstalige support site: http://www.phpfusion-nederlands.info
-*/
-// Locale Settings
-// setlocale(LC_TIME, "nl","NL"); // Voor Windows Server
-setlocale(LC_TIME, "nl_NL"); // Voor Linux Server
-ini_set('default_charset', 'utf-8');
-$locale['charset'] = "utf-8";
-$locale['region'] = "NL";
+$locale['setlocale'] = "nl_NL"; // https://www.php.net/manual/en/function.setlocale.php
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "NL"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "nl";
 $locale['short_lang_name'] = "nl";
-$locale['tinymce'] = "nl";
-$locale['select2'] = "nl";
-$locale['phpmailer'] = "nl";
+$locale['tinymce'] = "nl"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "nl"; // refer to path includes/jscripts/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "nl"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "nl"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "nl-nl";
 $locale['datepicker_js'] = "DD-m-YYYY H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y H:i:s";
@@ -61,7 +51,7 @@ $locale['user3'] = "Superbeheerder";
 $locale['user_na'] = "N/A";
 $locale['user_guest'] = "Gast";
 $locale['user_anonymous'] = "Anonieme Gebruiker";
-$locale['genitive'] = "%s's %s";
+$locale['genitive'] = "\"%s's %s";
 // Standard User Status
 $locale['status0'] = "Actief";
 $locale['status1'] = "Geband";
@@ -76,7 +66,8 @@ $locale['status8'] = "Inactief";
 $locale['userf1'] = "Moderator";
 // Navigation
 $locale['global_001'] = "Navigatie";
-$locale['global_002'] = "Geen links aangemaakt\n";
+$locale['global_002'] = "Geen links aangemaakt
+";
 $locale['global_003'] = "Geen voorvertoning mogelijk";
 // Users Online
 $locale['global_010'] = "Gebruikers Online";
@@ -107,7 +98,7 @@ $locale['global_033'] = "Geen Downloads beschikbaar";
 // Welcome panel
 $locale['global_035'] = "Welkom";
 // Latest Active Forum Threads panel
-$locale['global_040'] = "Hieronder de recente Forum onderwerpen. Het <u><i>complete</i></u> Forum overzicht staat &raquo;<a href='".BASEDIR."forum/index.php' class='capmain' title='".$settings['siteusername']." forum overzicht' style='text-decoration: blink'>hier</a>&laquo;.</td><td class='capmain' style='text-align:right;'><a class='capmain' href='http://telfort.gebruikers.eu' target='_blank' title=''>&copy;</a>";
+$locale['global_040'] = "Recente Forum onderwerpen";
 $locale['global_041'] = "Mijn recente onderwerpen";
 $locale['global_042'] = "Mijn recente berichten";
 $locale['global_043'] = "Nieuwe berichten";
@@ -139,7 +130,7 @@ $locale['global_073b'] = " reactie";
 $locale['global_074'] = " keer gelezen";
 $locale['global_074b'] = " gelezen";
 $locale['global_075'] = "Afdrukken";
-$locale['print'] = "Print";
+$locale['print'] = "Afdrukken";
 $locale['global_076'] = "Wijzigen";
 $locale['global_077'] = "Nieuws";
 $locale['global_078'] = "Er is nog geen nieuws geplaatst";
@@ -172,8 +163,8 @@ $locale['global_101c'] = "Geef Email of Gebruikersnaam";
 $locale['global_102'] = "Wachtwoord";
 $locale['global_103'] = "Onthouden";
 $locale['global_104'] = "Inloggen";
-$locale['global_105'] = "<font style='font-size:16px; font-weight:bold;'><b>Nog geen lid?</b></font><br /><br /><a href='".BASEDIR."register.php' class='side' title='Registreren'><font style='font-size:14px; font-weight:bold;'><b>&raquo; Registreer &laquo;</b></font></a><br />Als geregistreerd lid kunt u reageren en alle extra functies gebruiken.";
-$locale['global_106'] = "Wachtwoord vergeten?<br />Verzoek <a href='".BASEDIR."lostpassword.php' class='side' title='Verzoek nieuw wachtoord'>nieuw</a> wachtwoord.";
+$locale['global_105'] = "Nog geen lid? [LINK]Klik hier[/LINK] om te registreren.";
+$locale['global_106'] = "[LINK]Wachtwoord vergeten?[/LINK]";
 $locale['global_107'] = "Aanmelden";
 $locale['global_108'] = "Wachtwoord kwijt";
 $locale['global_109'] = "Aanmelden";
@@ -206,13 +197,13 @@ $locale['global_143'] = "Waaerderingen";
 // User Menu
 $locale['UM060'] = "Inloggen";
 $locale['UM061'] = "Gebruikersnaam";
-$locale['UM061a'] = "Email";
+$locale['UM061a'] = "E-mail";
 $locale['UM061b'] = "Gebruikersnaam of Email";
 $locale['UM062'] = "Wachtwoord";
 $locale['UM063'] = "Onthouden";
 $locale['UM064'] = "Inloggen";
-$locale['UM065'] = "<font style='font-size:16px; font-weight:bold;'><b>Nog geen lid?</b></font><br /><br /><a href='".BASEDIR."register.php' class='side' title='Registreren'><font style='font-size:14px; font-weight:bold;'><b>&raquo; Registreer &laquo;</b></font></a><br />Als geregistreerd lid kunt u reageren en alle extra functies gebruiken.";
-$locale['UM066'] = "Wachtwoord vergeten?<br />Verzoek <a href='".BASEDIR."lostpassword.php' class='side' title='Verzoek nieuw wachtoord'>nieuw</a> wachtwoord.";
+$locale['UM065'] = "Nog geen lid? [LINK]Klik hier[/LINK] om te registreren.";
+$locale['UM066'] = "Wachtwoord vergeten?<br/>[LINK]verzoek een nieuwe wachtwoord hier[/LINK].";
 $locale['UM067'] = "(niet aanbevolen op gedeelde of publiek computer)";
 $locale['UM080'] = "Profiel aanpassen";
 $locale['UM081'] = "Priv&eacute; Berichten";
@@ -241,7 +232,7 @@ $locale['UM098'] = "Berichten inbox:";
 $locale['UM099'] = "Berichten outbox:";
 $locale['UM100'] = "Berichten archief:";
 // Keywords and Meta
-$locale['tags'] = "Tags";
+$locale['tags'] = "Labels";
 $locale['notfound'] = "Geen resultaten gevonden..";
 $locale['sel_user'] = "Selecteer Gebruiker";
 // Captcha
@@ -254,7 +245,7 @@ $locale['global_172'] = "Verwerkingstijd: %s seconden";
 $locale['global_173'] = "Zoekopdrachten";
 $locale['global_174'] = "Geheugen gebruik";
 $locale['global_175'] = "Gemiddelde: %s seconden";
-$locale['global_176'] = "Privacy Policy";
+$locale['global_176'] = "Privacybeleid";
 // Admin Navigation
 $locale['global_180'] = "Beheerder Index";
 $locale['global_181'] = "Terug naar site";
@@ -267,21 +258,19 @@ $locale['global_193'] = "Kan geen cookie instellen! Sta a.u.b. cookies toe, cont
 $locale['global_194'] = "Dit account is momenteel geschorst.";
 $locale['global_195'] = "Dit account is nog niet geactiveerd.";
 $locale['global_196'] = "Ongeldige gebruikersnaam of wachtwoord.";
-$locale['global_197'] = "Wacht u a.u.b. terwijl we u doorsturen...<br /><br />
-[ <a href='".BASEDIR."index.php'>Of klik hier indien u niet wenst te wachten.</a> ]";
+$locale['global_197'] = "Wacht u a.u.b. terwijl we u doorsturen...<br />[ [LINK]Of klik hier indien u niet wenst te wachten.[/LINK] ]";
 $locale['global_198'] = "<strong>Waarschuwing:</strong> setup.php aangetroffen, a.u.b. onmiddellijk verwijderen.";
-$locale['global_199'] = "<strong>Waarschuwing:</strong> beheerderwachtwoord niet ingesteld, klik <a href='".BASEDIR."edit_profile.php' title='Profiel wijzigen'>Profiel wijzigen</a> om dit in te stellen.";
+$locale['global_199'] = "<strong>Waarschuwing:</strong> beheerderwachtwoord niet ingesteld, klik [LINK] Profiel wijzigen [/LINK] om dit in te stellen.\";";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = $locale['global_200']."Zoeken";
-$locale['global_203'] = $locale['global_200']."FAQ";
-$locale['global_204'] = $locale['global_200']."Forum";
+$locale['global_202'] = " - Zoeken";
+$locale['global_203'] = " - FAQ";
+$locale['global_204'] = " - Forum";
 //Themes
 $locale['global_210'] = "Ga naar inhoud";
-// No themes found
 $locale['global_300'] = "geen thema gevonden";
-$locale['global_301'] = "Het spijt ons zeer, maar deze pagina kan niet worden getoond. Door bepaalde omstandigheden kan geen site-thema worden gevonden. Indien u een beheerder van de site bent, gebruik dan a.u.b. uw FTP-programma om een voor <em>PHP-Fusion v7</em> ontworpen thema naar de <em>themes</em> map te uploaden. Controleer na de upload in <em>Algemene Instellingen</em> of het geselecteerde thema correct is ge-upload. Houdt er rekening mee dat de ge-uploade thema map exact dezelfde naam moet hebben (inclusief eventuele hoofdletters, van belang bij Unix-servers) als gekozen in <em>Algemene Instellingen</em>.<br /><br />Indien u een gewoon lid van de site bent, neemt u dan a.u.b. contact op met de beheerder van de site via ".hide_email($settings['siteemail'])." e-mail en meldt dit probleem.";
+$locale['global_301'] = "Het spijt ons zeer, maar deze pagina kan niet worden getoond. Door bepaalde omstandigheden kan geen site-thema worden gevonden. Indien u een beheerder van de site bent, gebruik dan a. u. b. uw FTP-programma om een voor <em>PHP-Fusion v8</em> ontworpen thema naar de <em>themes</em> map te uploaden. Controleer na de upload in <em>Algemene Instellingen</em> of het geselecteerde thema correct is ge-upload. Houdt er rekening mee dat de ge-uploade thema map exact dezelfde naam moet hebben (inclusief eventuele hoofdletters, van belang bij Unix-servers) als gekozen in <em>Algemene Instellingen</em>.<br /><br />Indien u een gewoon lid van de site bent, neemt u dan a. u. b. contact op met de beheerder van de site via [SITE_EMAIL] e-mail en meldt dit probleem.";
 $locale['global_302'] = "Het thema gekozen in Algemene Instellingen bestaat niet of is incompleet.!";
 // JavaScript Not Enabled
 $locale['global_303'] = "<center>Oeps! <strong>JavaScript</strong> ontbreekt!<br />Uw Web browser heeft JavaScript uitstaan of ondersteund geen JavaScript.<br />Om deze website optimaal te kunnen zien dient u <strong>JavaScript aan te zetten</strong> in uw Web browser en/of Firewall.<br />Of <strong>verander</strong> van Web browser die wel JavaScript ondersteund; <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a> of <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> nieuwer dan versie 6.</center>";
@@ -299,52 +288,52 @@ $locale['global_409'] = "Dit account is verbannen om veiligheidsredenen.";
 $locale['global_410'] = "De reden hiervoor is: ";
 $locale['global_411'] = "Dit account is geannuleerd.";
 $locale['global_412'] = "Dit account is geanonimiseerd, waarschijnlijk door inactiviteit.";
-// Banning due to flooding
+// Flood control
 $locale['global_440'] = "Automatische verbanning door Flood Control";
-$locale['global_441'] = "Uw account op ".$settings['sitename']." is verbannen";
-$locale['global_442'] = "Beste [USER_NAME],\n
-Uw account op ".$settings['sitename']." heeft in korte tijd te veel berichten in het systeem geplaatst met IP ".USER_IP.", en is daarom verbannen. Dit is gedaan om snelle verspreiding van spam door robots te voorkomen.\n
-Neem contact op met de site beheerder via ".$settings['siteemail']." om uw account vrij te geven of om te melden dat u het niet was die dit veroorzaakt heeft.\n
-".$settings['siteusername'];
-// Lifting of suspension
+$locale['global_441'] = "Uw account op [SITENAME] is verbannen";
+$locale['global_442'] = "Beste [USER_NAME],<br/>
+Uw account op [SITENAME] heeft in korte tijd te veel berichten in het systeem geplaatst met IP [USER_IP] en is daarom verbannen. Dit is gedaan om snelle verspreiding van spam door robots te voorkomen.<br/>
+Neem contact op met de site beheerder via [SITE_EMAIL] om uw account vrij te geven of om te melden dat u het niet was die dit veroorzaakt heeft.<br/>
+Met vriendelijke groet,<br/>
+[SITEUSERNAME]";
+// Authenticate Class
 $locale['global_450'] = "Uw schorsing is automatisch opgeheven door het systeem";
-$locale['global_451'] = "Schorsing opgeheven op ".$settings['sitename'];
-$locale['global_452'] = "Beste USER_NAME,\n
-De schorsing van uw account op ".$settings['siteurl']." is opgeheven. Hier zijn uw login gegevens:\n
-Gebruikersnaam: USER_NAME\n
-Wachtwoord: verborgen wegens veiligheid redenen\n\n
-Als u uw wachtwoord bent vergeten, kunt u hier het wachtwoord opvragen:LOST_PASSWORD\n\n
-Met vriendelijke groet,\n
-".$settings['siteusername'];
-$locale['global_453'] = "Beste USER_NAME,\n
-De schorsing van uw account op ".$settings['siteurl']." is opgeheven.\n\n
-Met vriendelijke groet,\n
-".$settings['siteusername'];
-$locale['global_454'] = "Account gereactiveerd op ".$settings['sitename'];
-$locale['global_455'] = "Beste USER_NAME,\n
-De laatste keer dat u bent ingelogd is uw account gereactiveerd op ".$settings['siteurl']." en is uw account niet langer meer als inactief gemarkeerd.\n\n
-Met vriendelijke groet,\n
-".$settings['siteusername'];
+$locale['global_451'] = "Opschorting opgeheven op [SITENAME]";
+$locale['global_452'] = "Beste USER_NAME, <br/>
+De schorsing van uw account opt [SITEURL] is opgeheven. Hier zijn uw login gegevens:<br/>
+Gebruikersnaam: USER_NAME<br/>
+Wachtwoord: verborgen wegens veiligheid redenen<br/>
+Als u uw wachtwoord bent vergeten, kunt u hier het wachtwoord opvragen: LOST_PASSWORD<br/>
+Met vriendelijke groet,<br/>
+[SITEUSERNAME]";
+$locale['global_453'] = "Hallo USER_NAME,<br/>
+De opschorting van uw account op [SITEURL] is opgeheven.<br/>
+Met vriendelijke groet,<br/>
+[SITEUSERNAME]";
+$locale['global_454'] = "Account geactiveerd op [SITENAME]";
+$locale['global_455'] = "Hallo USER_NAME,<br/>
+Laatste keer dat u ingelogd bent is uw account gereactiveerd op [SITEURL] en uw account is niet langer gemarkeerd als inactief.<br/>
+Met vriendelijke groet,<br/>
+[SITEUSERNAME]";
 $locale['global_456'] = "Nieuw wachtwoord notificatie voor [SITENAME]";
 $locale['global_457'] = "Hallo USER_NAME,
 <br/>Er is een nieuw wachtwoord ingesteld voor uw account op [SITENAME]. Hieronder vindt u uw nieuwe login gegevens:<br/>
 Gebruikersnaam: USER_NAME<br/>Wachtwoord: [PASSWORD]<br/>Met vriendelijke groet,<br/>[SITEUSERNAME]";
 $locale['global_458'] = "Nieuw wachtwoord ingesteld voor USER_NAME";
 $locale['global_459'] = "Nieuw wachtwoord ingesteld voor USER_NAME, maar email kon niet worden verzonden. Informeer de gebruiker op andere wijze.";
-
 // Function parsebytesize()
 $locale['global_460'] = "Leeg";
 $locale['global_461'] = "Bytes";
 $locale['global_462'] = "KB";
 $locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
+$locale['global_464'] = "NL";
 $locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "U wordt doorgestuurd naar %s, wacht een moment. Als u niet wordt doorgestuurd, klikt u hier.";
 // Captcha Locales
 $locale['global_600'] = "Validatie Code";
 $locale['global_601'] = "U dient een correcte Validatie code in te vullen";
-$locale['recaptcha'] = "en";
+$locale['recaptcha'] = "nl";
 // Site links
 $locale['global_700'] = "Toon meer";
 //Miscellaneous
@@ -456,7 +445,7 @@ $locale['profile'] = "Profiel";
 $locale['edit'] = "Wijzig";
 $locale['qedit'] = "Snel wijzigen";
 $locale['view'] = "Toon";
-$locale['login'] = "Login";
+$locale['login'] = "Inloggen";
 $locale['logout'] = "Loguit";
 $locale['admin-logout'] = "Admin Loguit";
 $locale['message'] = "Priv&eacute; Berichten";
@@ -502,7 +491,7 @@ $locale['fmt_minute'] = "minuut|minuten";
 $locale['fmt_month'] = "maand|maanden";
 $locale['fmt_news'] = "nieuws|nieuws";
 $locale['fmt_photo'] = "foto|fotos";
-$locale['fmt_post'] = "post|posts";
+$locale['fmt_post'] = "bericht|berichten";
 $locale['fmt_question'] = "vraag|vragen";
 $locale['fmt_read'] = "gelezen|gelezen";
 $locale['fmt_second'] = "seconde|seconden";

@@ -1,5 +1,5 @@
 <?php
-$locale['pl_forums_title'] = "Discussie Forums";
-$locale['pl_forums_desc'] = "Permalinks inschakelen voor Forum Links.";
-$locale['pl_tags_001'] = "Forum ID voor een specifiek Forum.";
-$locale['pl_tags_002'] = "Titel voor een specifiek Forum.";
+$locale['pl_forums_title'] = "Forum Beheer";
+$locale['pl_forums_desc'] = "Permalinks inschakelen voor de Forum Misc links.";
+$locale['pl_tags_001'] = "Forum ID voor een specifiek forum.";
+$locale['pl_tags_002'] = "Titel van een specifiek forum.";
