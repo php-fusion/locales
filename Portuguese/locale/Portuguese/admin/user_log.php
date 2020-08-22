@@ -1,0 +1,21 @@
+<?php
+$locale['100'] = "Relatório de Utilizadores";
+$locale['101'] = "Id";
+$locale['102'] = "Data";
+$locale['103'] = "Nome de Utilizador";
+$locale['104'] = "Campo de Utilizador";
+$locale['105'] = "Value Old";
+$locale['106'] = "Value New";
+$locale['107'] = "Ordenar por:";
+$locale['108'] = "Nome de Utilizador / ID de Utilizador:";
+$locale['109'] = "Submeter";
+$locale['110'] = "Delete entries older than";
+$locale['111'] = "Dias";
+$locale['112'] = "Não há logs disponíveis no momento.";
+$locale['113'] = "Selected User Name:";
+$locale['114'] = "Cancelar";
+$locale['115'] = "Campo de Utilizador:";
+$locale['116'] = "Apagar";
+$locale['117'] = "Opções";
+$locale['118'] = "Todas as entradas com mais de %d dias foram apagadas.";
+$locale['119'] = "Entrada de log de utilizador apagada";

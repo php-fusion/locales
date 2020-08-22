@@ -1,0 +1,20 @@
+<?php
+$locale['html400'] = "- Select Color -";
+$locale['html401'] = "- Select Image -";
+$locale['html402'] = "Marrom";
+$locale['html403'] = "Vermelho";
+$locale['html404'] = "Laranja";
+$locale['html405'] = "Castanho";
+$locale['html406'] = "Amarelo";
+$locale['html407'] = "Verde";
+$locale['html408'] = "Lima";
+$locale['html409'] = "Azeitona";
+$locale['html410'] = "Ciano";
+$locale['html411'] = "Azul";
+$locale['html412'] = "Navy Blue";
+$locale['html413'] = "Roxo";
+$locale['html414'] = "Violeta";
+$locale['html415'] = "Preto";
+$locale['html416'] = "Cinzento";
+$locale['html417'] = "Prateado";
+$locale['html418'] = "Branco";

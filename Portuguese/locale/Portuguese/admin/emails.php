@@ -1,0 +1,52 @@
+<?php
+// Titles
+$locale['400'] = "Modelos de E-Mail";
+$locale['401'] = "Available Templates";
+$locale['410'] = "Modelo actualizado com sucesso.";
+$locale['411'] = "Email de Teste enviado para %s.";
+$locale['412'] = "Assunto de Teste";
+$locale['413'] = "Mensagem de Teste";
+$locale['414'] = "Um utilizador qualquer";
+$locale['415'] = "Receptor da mensagem";
+$locale['416'] = "URL de algum tópico";
+$locale['417'] = "Editar";
+$locale['418'] = "Formato HTML";
+$locale['419'] = "Formato de Texto Simples";
+$locale['420'] = "Template: ";
+$locale['421'] = "Usar Modelo";
+$locale['422'] = "Os e-mails irão ser enviados no formato %s usando este modelo.";
+$locale['423'] = "Os emails irão ser enviados no formato de texto simples utilizaando os ficheiros de idioma por defeito.";
+$locale['424'] = "Sim";
+$locale['425'] = "Não";
+$locale['426'] = "Formato do Modelo";
+$locale['427'] = "<strong>Note:</strong> Using images and text styling will not work in plain text mails!";
+$locale['428'] = "Nome do Destinatário";
+$locale['429'] = "Nome do Remetente";
+$locale['430'] = "Will be used as Sender name for template testing";
+$locale['431'] = "E-mail do destinatário";
+$locale['432'] = "E-mail do Remetente";
+$locale['433'] = "Será usado como e-mail do remetente para testes de modelo";
+$locale['434'] = "Assunto";
+$locale['435'] = "Mensagem";
+$locale['436'] = "Fundo"; // Button
+$locale['437'] = "Testar este modelo";
+$locale['438'] = "Template will be saved and a test mail will be sent to your address: %s. Continue?";
+$locale['439'] = "Guardar";
+$locale['440'] = "Reset";
+// Help
+$locale['450'] = "Ajuda";
+$locale['451'] = "Breve visão geral sobre os botões";
+$locale['452'] = "Botão";
+$locale['453'] = "Função / Substituição";
+$locale['454'] = "Assunto da mensagem ou do tópico";
+$locale['455'] = "Fragmento de mensagem de texto ou post";
+$locale['456'] = "Remetente de uma mensagem, autor do tópico ou post";
+$locale['457'] = "Remetente do e-mail";
+$locale['458'] = "Destinatário do e-mail";
+$locale['459'] = "URL para o tópico do fórum, usado somente na notificação para novas mensagens no fórum.";
+// Messages
+$locale['469'] = "Inserir Imagem";
+$locale['470'] = "O assunto não pode estar vazio!";
+$locale['471'] = "A mensagem não pode estar vazia";
+$locale['472'] = "O nome do remetente não pode estar vazio!";
+$locale['473'] = "E-mail do remetente não pode estar vazio!";

@@ -1,0 +1,30 @@
+<?php
+$locale['blog_100'] = "Blog Archives";
+
+$locale['blog_070'] = "Publicado por ";
+$locale['blog_070b'] = "Ver todos os posts de %s";
+$locale['blog_071'] = "em ";
+$locale['blog_071b'] = "Autor";
+$locale['blog_072'] = "Continuar a ler";
+$locale['blog_073'] = " Comentários";
+$locale['blog_073b'] = " Comentário";
+$locale['blog_074'] = " Leituras";
+$locale['blog_074b'] = " Lido";
+$locale['blog_075'] = "Imprimir";
+$locale['blog_076'] = "Editar";
+$locale['blog_077'] = "Blog";
+$locale['blog_078'] = "No Blog has been posted yet";
+$locale['blog_079'] = "Em ";
+$locale['blog_080'] = "Sem Categoria";
+$locale['blog_081'] = "Página Inicial do Blog";
+$locale['blog_082'] = "Blog";
+$locale['blog_083'] = "Última Atualização";
+$locale['blog_084'] = "Categoria do Blog";
+$locale['blog_085'] = "Todas as outras Categorias";
+$locale['blog_086'] = "Most Recent Blog";
+$locale['blog_087'] = "Blogs Mais Comentados";
+$locale['blog_088'] = "Blog de Maior Avaliação";
+$locale['blog_089'] = "Seja o primeiro a comentar sobre %s";
+$locale['blog_089a'] = "Seja o primeiro a avaliar este %s";
+$locale['blog_089b'] = "Vista de Miniatura";
+$locale['blog_089c'] = "Vista de Lista";
