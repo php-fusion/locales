@@ -1,4 +1,3 @@
 <?php
-$locale['bb_justify_description'] = "Zeigt den Text als Blocksatz an";
-$locale['bb_justify_usage'] = "Text, der als Blocksatz angezeigt werden soll";
-?>
+$locale['bb_justify_description'] = "Richtet den ausgew&auml;hlten Text als Blocksatz aus.";
+$locale['bb_justify_usage'] = "Text";

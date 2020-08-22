@@ -1,44 +1,44 @@
 <?php
 // Blog titles
 $locale['400'] = "Current Blog";
-$locale['401'] = "Add Blog";
-$locale['402'] = "Edit Blog";
+$locale['401'] = "Blog hinzufügen";
+$locale['402'] = "Blog bearbeiten";
 // Blog messages
-$locale['410'] = "Blog Item added";
-$locale['411'] = "Blog Item updated";
-$locale['412'] = "Blog Item deleted";
-$locale['413'] = "Invalid image filename.";
-$locale['414'] = "Image must be less than %s.";
+$locale['410'] = "Blog-Eintrag hinzugefügt";
+$locale['411'] = "Blog-Eintrag aktualisiert";
+$locale['412'] = "Blogeintrag gelöscht";
+$locale['413'] = "Ungültiger Dateiname.";
+$locale['414'] = "Bild muss kleiner als %s sein.";
 $locale['415'] = "Image must be a GIF, JPEG or PNG file.";
-$locale['416'] = "Image must be no bigger than %uw x %uh pixels.";
+$locale['416'] = "Das Bild darf eine maximale Gr&ouml;&szlig;e von %uw x %uh Pixel haben.";
 // Blog form
-$locale['420'] = "Edit";
-$locale['421'] = "Delete";
-$locale['422'] = "Subject:";
-$locale['423'] = "Category:";
-$locale['424'] = "- None -";
+$locale['420'] = "Bearbeiten";
+$locale['421'] = "Entfernen";
+$locale['422'] = "Betreff";
+$locale['423'] = "Kategorie:";
+$locale['424'] = "- Keine -";
 $locale['425'] = "Blog:";
 $locale['426'] = "Extended Blog:";
-$locale['427'] = "Start Date:";
-$locale['428'] = "End Date:";
+$locale['427'] = "Startdatum:";
+$locale['428'] = "Enddatum:";
 $locale['429'] = "(Optional)";
-$locale['430'] = "Visibility:";
-$locale['431'] = "Save as draft";
-$locale['432'] = "Make this Blog item sticky";
-$locale['433'] = "Automatic Line-Breaks";
-$locale['434'] = "Enable Comments";
-$locale['435'] = "Enable Ratings";
-$locale['436'] = "Preview Blog";
-$locale['437'] = "Save Blog";
-$locale['438'] = "[DRAFT]";
+$locale['430'] = "Sichtbarkeit:";
+$locale['431'] = "Als Entwurf speichern";
+$locale['432'] = "Diesen Blog anpinnen.";
+$locale['433'] = "Automatische Zeilenumbr&uuml;che aktivieren";
+$locale['434'] = "Kommentare aktivieren";
+$locale['435'] = "Bewertungen aktivieren";
+$locale['436'] = "Vorschau";
+$locale['437'] = "Blog speichern";
+$locale['438'] = "[ENTWURF]";
 $locale['439'] = "Blog Image";
 $locale['440'] = "Max. filesize: %s / Allowed filetypes: GIF, JPEG or PNG.";
 $locale['441'] = "Pagebreak";
 // Popup Error/Warning Messages
-$locale['450'] = "Please specify a subject";
-$locale['451'] = "Delete this Blog?";
-$locale['452'] = "%s are disabled for all items.<br />This setting will only take effect when they are enabled again.";
-$locale['453'] = "Comments";
-$locale['454'] = "Ratings";
-$locale['455'] = $locale['453']." and ".$locale['454'];
-?>
+$locale['450'] = "Du musst einen Betreff angeben.";
+$locale['451'] = "Bist du dir sicher, dass du den Blog entfernen m&ouml;chtest?";
+$locale['452'] = "%s sind f&uuml;r alle Elemente deaktiviert.<br />
+";
+$locale['453'] = "Kommentare";
+$locale['454'] = "Bewertungen";
+$locale['455'] = $locale['453']." und ".$locale['454'];

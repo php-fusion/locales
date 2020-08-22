@@ -1,24 +1,24 @@
 <?php
-$locale['100'] = "Blog Settings";
+$locale['100'] = "Blogeinstellungen";
 
-$locale['601'] = "Thumb size:";
-$locale['602'] = "Photo size:";
-$locale['603'] = "Maximum photo size:";
-$locale['604'] = "Width x Height";
-$locale['605'] = "Maximum file size (bytes):";
+$locale['601'] = "Thumbnailgr&ouml;&szlig;e";
+$locale['602'] = "Fotogr&ouml;&szlig;e";
+$locale['603'] = "Maximale Fotogr&ouml;&szlig;e";
+$locale['604'] = "Breite x H&ouml;he";
+$locale['605'] = "Maximale Dateigr&ouml;&szlig;e (Bytes)";
 
-$locale['900'] = "Settings Updated";
-$locale['901'] = "Database update error occurs: Settings were not Updated!";
+$locale['900'] = "Die Einstellungen wurden erfolgreich aktualisiert.";
+$locale['901'] = "Es ist ein Datenbankfehler aufgetreten. Die Einstellungen wurden nicht aktualisiert.";
 
-$locale['950'] = "Image Upload";
-$locale['951'] = "Image link:";
-$locale['952'] = "Category";
-$locale['953'] = "Blog Item";
-$locale['954'] = "Thumb ratio:";
+$locale['950'] = "Bildupload";
+$locale['951'] = "Bild Link:";
+$locale['952'] = "Kommentare erlaubt";
+$locale['953'] = "Blog Artikel";
+$locale['954'] = "Verh&auml;ltnis  des Verschaubildes";
 $locale['955'] = "Original";
-$locale['956'] = "Square";
+$locale['956'] = "Quadratisch";
 $locale['957'] = "Image on Front-page";
 $locale['958'] = "Image on Read-more";
-$locale['959'] = "Uploaded Photo";
-$locale['960'] = "Category Image";
-$locale['961'] = "Save Settings";
+$locale['959'] = "Foto hochladen";
+$locale['960'] = "Kategoriebild";
+$locale['961'] = "Einstellungen speichern";

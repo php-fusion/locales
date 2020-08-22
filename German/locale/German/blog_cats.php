@@ -1,10 +1,9 @@
 <?php
-$locale['blog_400'] = "Blog Categories";
-$locale['blog_401'] = "Category:";
-$locale['blog_402'] = "Number of Items:";
+$locale['blog_400'] = "Blogkategorien";
+$locale['blog_401'] = "Kategorie:";
+$locale['blog_402'] = "Anzahl der Einträge:";
 $locale['blog_403'] = "None-Categorised Blog";
-$locale['blog_404'] = "There are no Blog items in this category.";
-$locale['blog_405'] = "More";
-$locale['blog_406'] = "Show All Categories";
-$locale['blog_407'] = "No Blog Categories defined";
-?>
+$locale['blog_404'] = "Es gibt keine Blogeinträge in dieser Kategorie.";
+$locale['blog_405'] = "Mehr";
+$locale['blog_406'] = "Alle Kategorien anzeigen";
+$locale['blog_407'] = "Es wurden noch keine Blogkategorien angelegt.";

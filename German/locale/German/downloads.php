@@ -2,30 +2,30 @@
 $locale['400'] = "Downloads";
 // Download File Information
 $locale['410'] = "[NEU]";
-$locale['411'] = "Lizenz:";
-$locale['412'] = "O/S:";
+$locale['411'] = "Lizenz";
+$locale['412'] = "Betriebssystem:";
 $locale['413'] = "Version:";
 $locale['414'] = "Hinzugef&uuml;gt:";
 $locale['415'] = "Downloads:";
 $locale['416'] = "Download";
-$locale['417'] = "&Uuml;bersicht";
+$locale['417'] = "Download Link";
 $locale['418'] = "Homepage:";
-$locale['418b'] = "Besuchen";
-$locale['419'] = "Screenshot";
+$locale['418a'] = "Visit";
+$locale['419'] = "Bildschirmkopie";
 $locale['420'] = "Downloadtitel";
 $locale['421'] = "Datum";
-$locale['422'] = "Eingesendet von:";
+$locale['422'] = "Autor";
 $locale['423'] = "Version";
 $locale['424'] = "Downloads";
 $locale['425'] = "Kommentare";
 $locale['426'] = "Bewertung";
 $locale['427'] = "Kalender";
-$locale['428'] = "Info";
+$locale['428'] = "Information";
 $locale['429'] = "Download Statistik";
 $locale['429a'] = "Nicht verf&uuml;gbar";
 // Downloads Notices
 $locale['430'] = "Keine Download Kategorien definiert";
-$locale['431'] = "Es binden sich keine Downloads in dieser Kategorie";
+$locale['431'] = "Es wurden bis jetzt noch keine Downloads in dieser Kategorie abgelegt.";
 // Statistics
 $locale['440'] = "Gedownloadet:";
 $locale['441'] = "Meist gedownloadet:";
@@ -45,4 +45,3 @@ $locale['460'] = "Downloads suchen:";
 $locale['461'] = "Suche";
 $locale['462'] = "Kategorie:";
 $locale['463'] = "Sortiert nach:";
-?>

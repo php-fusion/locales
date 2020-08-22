@@ -1,48 +1,47 @@
 <?php
-$locale['400'] = "Suche auf ".$settings['sitename'];
+$locale['400'] = "Suche auf [SITENAME]";
 $locale['401'] = "Suchbegriff";
 $locale['402'] = "Suche";
-$locale['403'] = "Suche eines dieser W&ouml;rter";
-$locale['404'] = "Ergebnis soll alle W&ouml;rter beinhalten";
-$locale['405'] = "Wo";
+$locale['403'] = "Ergebnis muss mindestens ein Wort enthalten";
+$locale['404'] = "Ergebnis muss alle W&ouml;rter enthalten";
+$locale['405'] = "Suchbereich";
 $locale['406'] = "Optionen";
-$locale['407'] = "komplette Webseite";
-$locale['408'] = "Suchergebnisse";
-// Zeit-Filter
-$locale['420'] = "Suche:";
-$locale['421'] = "Alle";
-$locale['422'] = "Gestern";
+$locale['407'] = "Komplette Seite";
+$locale['408'] = "Suchergebnise";
+//addition date
+$locale['420'] = "Zeitraum";
+$locale['421'] = "Alles";
+$locale['422'] = "letzter Tag";
 $locale['423'] = "letzte Woche";
 $locale['424'] = "letzten zwei Wochen";
 $locale['425'] = "letztes Monat";
 $locale['426'] = "letzten drei Monate";
 $locale['427'] = "letzten sechs Monate";
-// Wo-Filter
-$locale['430'] = "Titel und Nachricht";
-$locale['431'] = "nur Nachricht";
+//where
+$locale['430'] = "Titel und Inhalt";
+$locale['431'] = "nur Inhalt";
 $locale['432'] = "nur Titel";
-// Sortieren nach
-$locale['440'] = "Geordnet nach:";
+//sort by
+$locale['440'] = "Sortieren nach";
 $locale['441'] = "Datum";
 $locale['442'] = "Titel";
 $locale['443'] = "Autor";
 //
-$locale['450'] = "Absteigend";
-$locale['451'] = "Aufsteigend";
-// Zeichen in Ergebnisse
-$locale['460'] = "";
-$locale['461'] = "Zeichen im Ergebnis";
-$locale['462'] = "Text";
-// Keine Ergebnisse
-$locale['500'] = "Keine Ergebnisse gefunden";
-$locale['501'] = "Das Suchwort muss mindestens drei Zeichen lang sein.";
-$locale['502'] = "Suchw&ouml;rter mit weniger als 3 Zeichen (%s) werden in der Suche ignoriert.";
-// Gesamte Suche
-$locale['510'] = "Ergebnisse der Suche auf der gesamten Seite";
+$locale['450'] = "Absteigend (Z-A)";
+$locale['451'] = "Aufsteigend (A-Z)";
+//characters in results
+$locale['460'] = "Anzeigen";
+$locale['461'] = "Zeichenanzahl im Ergebnis";
+$locale['462'] = "kompletten Inhalt";
+//No results
+$locale['500'] = "Es wurden keine Ergebnise deinen Suchkriterien entsprechend gefunden.";
+$locale['501'] = "Der Suchbegriff muss mindestens 3 Zeichen lang sein.";
+$locale['502'] = "Suchbegriffe mit weniger als 3 Zeichen (%s) werden in der Suche ignoriert.";
+//Global search
+$locale['510'] = "&Uuml;bereinstimmungen in der globalen Suche";
 //
-$locale['520'] = "Treffer";
-$locale['521'] = "Treffer";
-$locale['522'] = "wurde(n) mit diesen Suchmuster gefunden.";
-//Mehr als 100 Ergebnisse
-$locale['530'] = "Bitte mache genauere Angaben. Deine Anfrage erbrachte %s Ergebnisse. Es werden nur die ersten 100 Ergebnisse angezeigt.";
-?>
+$locale['520'] = "&Uuml;bereinstimmung";
+$locale['521'] = "&Uuml;bereinstimmungen";
+$locale['522'] = "passend f&uuml;r die Suchkriterien.";
+//more than 100 results
+$locale['530'] = "Entschuldigung! Es wurden insgesamt %s Ergebnise gefunden! Bitte &uuml;berarbeite deine Suchkriterien. Wir zeigen dir nur die Top 100 Ergebnise an.";

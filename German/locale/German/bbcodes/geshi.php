@@ -5,5 +5,4 @@ $locale['bb_geshi_lang'] = "K&uuml;rzel der Sprache";
 $locale['bb_geshi_parser1'] = "Parser Hinweis";
 $locale['bb_geshi_parser2'] = "Code ist zu gro&szlig; f&uuml;r GeSHi! Benutze daf&uuml;r die Code Tags.";
 $locale['bb_geshi_info'] = "gewandelt in <TIME> Sekunden, benutzt wurde GeSHi <VERSION>";
-$locale['bb_geshi_save'] = "Download Code";
-?>
+$locale['bb_geshi_save'] = "Code herunterladen";

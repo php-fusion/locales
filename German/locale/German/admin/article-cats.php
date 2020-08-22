@@ -1,38 +1,34 @@
 <?php
-// Kategorie Titel
+// Category titles
 $locale['400'] = "Artikel Kategorie hinzuf&uuml;gen";
 $locale['401'] = "Artikel Kategorie bearbeiten";
 $locale['402'] = "Aktuell vorhandene Artikel Kategorien";
-
-// Kategorie Nachrichten
+// Category messages
 $locale['410'] = "Die Artikel Kategorie wurde hinzugef&uuml;gt.";
 $locale['411'] = "Die Artikel Kategorie wurde aktualisiert.";
 $locale['412'] = "Die Artikel Kategorie konnte nicht gel&ouml;scht werden.";
 $locale['413'] = "Es befinden sich noch Artikel in dieser Kategorie.";
 $locale['414'] = "Die Artikel Kategorie wurde gel&ouml;scht.";
-
-// Kategorie Formular
-$locale['420'] = "Name:";
+// Category form
+$locale['420'] = "Kategoriename";
 $locale['421'] = "Beschreibung:";
 $locale['422'] = "Sortieren nach:";
 $locale['423'] = "Artikel ID";
-$locale['424'] = "Artikel Betreff";
+$locale['424'] = "Artikel-Betreff";
 $locale['425'] = "Artikel Datum";
 $locale['426'] = "Aufsteigend";
 $locale['427'] = "Absteigend";
 $locale['428'] = "Zugriff:";
 $locale['429'] = "Kategorie speichern";
-
-// Aktuelle Kategorien Informationen
-$locale['440'] = "Name";
+// Current category options
+$locale['440'] = "Kommentare erlaubt";
 $locale['441'] = "Zugriff";
 $locale['442'] = "Optionen";
 $locale['443'] = "Bearbeiten";
-$locale['444'] = "L&ouml;schen";
+$locale['444'] = "Entfernen";
 $locale['445'] = "Keine Artikel Kategorien definiert.";
-
-// Javascript Alerts / Fehlermeldungen
+// Delete Article category
 $locale['450'] = "Willst du diese Kategorie wirklich löschen?";
-$locale['460'] = "Du musst einen Namen f&uuml;r die Kategorie angeben.";
-$locale['461'] = "Es existiert bereits eine Kategorie mit diesen Namen.";
-?>
+// Error Messages
+$locale['460'] = "Du musst einen Namen f&uuml;r die Blogkategorie angeben.";
+$locale['461'] = "Es existiert bereits eine Blogkategorie mit dem selben Namen.";

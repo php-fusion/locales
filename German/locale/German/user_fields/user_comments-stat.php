@@ -1,7 +1,3 @@
 <?php
-
-// Userfeld: Kommentare
-$locale['uf_comments-stat']      = "Kommentare";
-$locale['uf_comments-stat_desc'] = "Zeigt die Anzahl geschriebener Kommentare an.";
-
-?>
+$locale['uf_comments-stat'] = "Comments Posted";
+$locale['uf_comments-stat_desc'] = "Displays number of comments posted.";

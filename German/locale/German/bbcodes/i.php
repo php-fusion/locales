@@ -1,4 +1,3 @@
 <?php
-$locale['bb_i_description'] = "Stellt gew&auml;hlten Text kursiv dar";
-$locale['bb_i_usage'] = "Text der kursiv dargestellt werden soll";
-?>
+$locale['bb_i_description'] = "Zeigt den ausgew&auml;hlten Text kursiv an.";
+$locale['bb_i_usage'] = "Text";

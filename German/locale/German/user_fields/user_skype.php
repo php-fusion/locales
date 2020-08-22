@@ -1,12 +1,4 @@
 <?php
-
-
-// Userfeld: Skype
-$locale['uf_skype']       = "Skype";
-
-$locale['uf_skype_desc']  = "Skype Messenger";
-
-$locale['uf_skype_error'] = "Du musst deinen Skype Namen angeben.";
-
-
-?>
+$locale['uf_skype'] = "Skype";
+$locale['uf_skype_desc'] = "Skype text, voice and video chat.";
+$locale['uf_skype_error'] = "Skype name can not be left empty.";

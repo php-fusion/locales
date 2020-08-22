@@ -1,7 +1,3 @@
 <?php
-
-// Userfeld: Forum
-$locale['uf_forum-stat']      = "Forum Beitr&auml;ge";
-$locale['uf_forum-stat_desc'] = "Zeigt die Anzahl geschriebener Foren Beitr&auml;ge an.";
-
-?>
+$locale['uf_forum-stat'] = "Forenbeitr&auml;ge";
+$locale['uf_forum-stat_desc'] = "Displays number of forum posts.";
