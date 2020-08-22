@@ -1,3 +1,3 @@
 <?php
-$locale['bb_img_description'] = "Отображает изображение с заданного URL-адреса";
-$locale['bb_img_usage'] = "Image URL";
+$locale['bb_img_description'] = "Отображение изображения по ссылке";
+$locale['bb_img_usage'] = "Ссылка на изображение";

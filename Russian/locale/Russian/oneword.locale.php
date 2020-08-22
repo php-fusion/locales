@@ -1,65 +1,66 @@
 <?php
 // Greetings
-$locale['hello'] = "Hello!";
-$locale['goodbye'] = "Goodbye!";
-$locale['welcome'] = "Welcome";
+$locale['hello'] = "Приветствую!";
+$locale['goodbye'] = "До свидания!";
+$locale['welcome'] = "Добро пожаловать";
 
 // Status
-$locale['error'] = "Error!";
-$locale['success'] = "Success!";
-$locale['enable'] = "Enable";
-$locale['disable'] = "Disable";
-$locale['no'] = "No";
-$locale['yes'] = "Yes";
-$locale['off'] = "Off";
-$locale['on'] = "On";
+$locale['error'] = "Ошибка!";
+$locale['success'] = "Успешно!";
+$locale['enable'] = "Разрешить";
+$locale['disable'] = "Запретить";
+$locale['no'] = "Нет";
+$locale['yes'] = "Да";
+$locale['off'] = "Откл.";
+$locale['on'] = "Вкл.";
 
 // Navigation
-$locale['next'] = "Next";
-$locale['previous'] = "Previous";
-$locale['back'] = "Back";
-$locale['forward'] = "Forward";
+$locale['next'] = "След.";
+$locale['previous'] = "Пред.";
+$locale['back'] = "Назад";
+$locale['forward'] = "Вперёд";
 
 // Action
-$locale['add'] = "Add";
-$locale['save'] = "Save";
-$locale['update'] = "Update";
-$locale['remove'] = "Remove";
-$locale['search'] = "Search";
-$locale['help'] = "Help";
-$locale['register'] = "Register";
-$locale['ban'] = "Ban";
-$locale['reactivate'] = "Reactivate";
-$locale['user'] = "User";
-$locale['promote'] = "Promote";
+$locale['add'] = "Добавить";
+$locale['save'] = "Сохранить";
+$locale['update'] = "Обновить";
+$locale['remove'] = "Убрать";
+$locale['search'] = "Поиск";
+$locale['help'] = "Справка";
+$locale['register'] = "Регистрация";
+$locale['ban'] = "Бан";
+$locale['reactivate'] = "Реактивация";
+$locale['user'] = "Пользователь";
+$locale['promote'] = "Повысить";
 
 //Tables
-$locale['status'] = "Status";
-$locale['order'] = "Order";
+$locale['status'] = "Статус";
+$locale['order'] = "Порядок";
 $locale['id'] = "ID";
-$locale['title'] = "Title";
-$locale['rights'] = "Rights";
+$locale['title'] = "Заголовок";
+$locale['rights'] = "Права";
 $locale['image'] = "Image/Icons";
-$locale['info'] = "Info";
+$locale['info'] = "Данные";
 
 // Forms
-$locale['choose'] = "Please Choose One...";
-$locale['parent'] = "Create as New Parent..";
-$locale['order'] = "Item Ordering";
-$locale['status'] = "Status";
-$locale['note'] = "Make a note of this item";
-$locale['publish'] = "Published";
-$locale['unpublish'] = "Unpublished";
-$locale['draft'] = "Draft";
-$locale['settings'] = "Settings";
-$locale['posted'] = "posted";
-$locale['in'] = "in";
-$locale['profile'] = "Profile";
-$locale['edit'] = "Edit";
-$locale['view'] = "View";
+$locale['choose'] = "Выберите вариант...";
+$locale['parent'] = "Создать как нового предка...";
+$locale['order'] = "Порядок элементов";
+$locale['status'] = "Статус";
+$locale['note'] = "Отметить этот элемент";
+$locale['publish'] = "Опубликована";
+$locale['unpublish'] = "Не опубликована";
+$locale['draft'] = "Черновик";
+$locale['settings'] = "Параметры";
+$locale['posted'] = "размещено";
+$locale['in'] = "в";
+$locale['profile'] = "Профиль";
+$locale['edit'] = "Правка";
+$locale['view'] = "Смотреть<br/>";
 $locale['login'] = "Log in";
-$locale['logout'] = "Logout";
-$locale['pm'] = "Private Messages";
-$locale['logged'] = "Logged in as ";
-$locale['version'] = "Version ";
-$locale['browse'] = "Browse ...";
+$locale['logout'] = "Выход";
+$locale['pm'] = "Личные сообщения";
+$locale['logged'] = "Вошли как ";
+$locale['version'] = "Версия ";
+$locale['browse'] = "Обзор ...";
+$locale['or'] = "или";

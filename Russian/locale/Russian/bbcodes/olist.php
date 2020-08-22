@@ -1,3 +1,3 @@
 <?php
-$locale['bb_olist_description'] = "Создает нумерованный список для определенного типа";
-$locale['bb_olist_usage'] = "Text 1 :enter: Text 2 :enter: etc";
+$locale['bb_olist_description'] = "Создание списка с нумерацией элементов";
+$locale['bb_olist_usage'] = "Элемент 1 :enter: Элемент 2 :enter: и т.д.";

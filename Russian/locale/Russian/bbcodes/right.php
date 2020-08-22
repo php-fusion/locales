@@ -1,3 +1,3 @@
 <?php
-$locale['bb_right_description'] = "Выравнивает выбранный текст в право";
-$locale['bb_right_usage'] = "Выровнять вправо";
+$locale['bb_right_description'] = "Выравнивание выделенного текста по правому краю";
+$locale['bb_right_usage'] = "Текст для выравнивания справа";

@@ -1,3 +1,3 @@
 <?php
-$locale['bb_small2_description'] = "Показывает выбранный текст как alt. small";
-$locale['bb_small2_usage'] = "Альтернативный мелкий";
+$locale['bb_small2_description'] = "Отображение выделенного текста альтернативным мелким шрифтом";
+$locale['bb_small2_usage'] = "Текст для отображения мелким шрифтом";

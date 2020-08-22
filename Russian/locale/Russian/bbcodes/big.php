@@ -1,3 +1,3 @@
 <?php
-$locale['bb_big_description'] = "Показать как BIG";
-$locale['bb_big_usage'] = "Крупный текст";
+$locale['bb_big_description'] = "Отображает текст крупным шрифтом";
+$locale['bb_big_usage'] = "Текст для отображения крупным";

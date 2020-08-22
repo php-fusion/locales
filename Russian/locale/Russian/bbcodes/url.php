@@ -1,4 +1,4 @@
 <?php
-$locale['bb_url_displayas'] = "Показать ссылку как";
-$locale['bb_url_description'] = "Сделать URL кликабельным";
-$locale['bb_url_usage'] = "URL";
+$locale['bb_url_displayas'] = "Отображение активной ссылки";
+$locale['bb_url_description'] = "Преобразование ссылки в активную";
+$locale['bb_url_usage'] = "адрес";

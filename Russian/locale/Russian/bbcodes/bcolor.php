@@ -1,4 +1,4 @@
 <?php
-$locale['bb_bcolor_description'] = "Цвет фона выделенного текста";
-$locale['bb_bcolor_usage'] = "Цвет фона выделенного текста";
-$locale['bb_bcolor_hex'] = "16-ричное значение цвета фона";
+$locale['bb_bcolor_description'] = "Цвет фона для выделенного текста";
+$locale['bb_bcolor_usage'] = "Цвет фона для выделенного текста";
+$locale['bb_bcolor_hex'] = "HEX-значение для цвета фона";

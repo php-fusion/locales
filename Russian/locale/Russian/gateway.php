@@ -64,14 +64,14 @@ $locale['gateway_058'] = "пользователь";
 $locale['gateway_059'] = "пароль";
 
 // General
-$locale['gateway_060'] = "Сколько будет?";
-$locale['gateway_061'] = "";
-$locale['gateway_062'] = "Ответ прописью";
-$locale['gateway_063'] = "Ответ числом";
+$locale['gateway_060'] = "<strong>Сколько будет => (</strong>";
+$locale['gateway_061'] = "в";
+$locale['gateway_062'] = "<strong>) = ???</strong><br/> Дайте ответ прописью ниже";
+$locale['gateway_063'] = "<strong>) = ???</strong><br/> Дайте ответ цифрами ниже";
 $locale['gateway_064'] = "Вы должны ответить на вопрос";
 $locale['gateway_065'] = "Продолжить";
 
 $locale['gateway_066'] = "Ваш ответ не правильный!<br/>Пишите слово слитно. Пример: двадцатьшесть или девятнадцать";
 $locale['gateway_067'] = "Попытайтесь заново!";
 $locale['gateway_068'] = "Пожайлуста повторите попытку позже!";
-$locale['gateway_069'] = "Ответьте на вопрос: ";
+$locale['gateway_069'] = "Проверочный вопрос";

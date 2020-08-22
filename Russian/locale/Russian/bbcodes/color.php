@@ -1,4 +1,4 @@
 <?php
-$locale['bb_color_description'] = "Цвет выбранного текста";
-$locale['bb_color_usage'] = "Цвет выбранного текста";
-$locale['bb_color_hex'] = "16-ричное значение цвета (без решетки)";
+$locale['bb_color_description'] = "Цвет выделенного текста";
+$locale['bb_color_usage'] = "Цвет выделенного текста";
+$locale['bb_color_hex'] = "HEX-значение цвета для текста";
