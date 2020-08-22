@@ -3,11 +3,12 @@ $locale['r100'] = "Értékelés";
 $locale['r101'] = "Még nem értékelték";
 $locale['r102'] = "Értékelés törlése";
 $locale['r103'] = "Értékelés elküldése";
-$locale['r104'] = "Csak regisztrált tagok értékelhetnek.<br /><br />Kérjük <a href='".BASEDIR."login.php'>jelentkezz be</a>".($settings['enable_registration'] ? " vagy <a href='".BASEDIR."register.php'>regisztrálj</a>" : "").".";
-$locale['r105'] = "Értékelésed: <strong>%s</strong> Dátum: %s";
+$locale['r104'] = "Csak regisztrált tagok értékelhetnek.<br /><br />[RATING_ACTION] az értékeléshez.";
+$locale['r105'] = "Értékelésed: <strong>%s</strong><br />
+Dátum: %s";
 $locale['r106'] = "Osztályzat";
 $locale['r107'] = "---Válassz---";
-$locale['r108'] = "0 szavazat";
+$locale['r108'] = "Nincs szavazat";
 $locale['r109'] = "szavazat";
 $locale['r110'] = "szavazat";
 // Rating Options

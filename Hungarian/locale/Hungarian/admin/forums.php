@@ -9,9 +9,9 @@ $locale['412'] = "A fórumkategóriát nem lehet törölni";
 $locale['413'] = "A kategória fórumokat tartalmaz";
 $locale['414'] = "Fórumkategória törölve";
 // Forum Category form
-$locale['420'] = "Kategória neve";
-$locale['420b'] = "Kategória leírása";
-$locale['421'] = "Sorrend";
+$locale['420'] = "Kategória név";
+$locale['420b'] = "Kategória leírása:";
+$locale['421'] = "Rendez";
 $locale['422'] = "Kategória mentése";
 // Delete Forum Category
 $locale['440'] = "Biztosan törölni szeretnéd ezt a fórumkategóriát?";
@@ -23,10 +23,10 @@ $locale['510'] = "Fórum létrehozva";
 $locale['511'] = "Fórum módosítva";
 $locale['512'] = "A fórumot nem lehet törölni";
 $locale['513'] = "A fórum témákat tartalmaz";
-$locale['514'] = "Fórum törölve";
+$locale['514'] = "Fórum sikeresen törölve.";
 $locale['515'] = "Fórum moderátorok frissítve";
-$locale['516'] = "Add meg a kategória nevét.";
-$locale['517'] = "Adj meg egy egyedi fórum nevet.";
+$locale['516'] = "Írd be a kategória nevét.";
+$locale['517'] = "Kérjük irj be egy egyedi fórum nevet.";
 // Add/Edit Forum Form
 $locale['520'] = "Fórum neve:";
 $locale['521'] = "Fórum leírása:";
@@ -47,22 +47,22 @@ $locale['535'] = "Csatolmányok letöltése:";
 // Forum Settings
 $locale['540'] = "Fórum beállítások:";
 $locale['541'] = "Hozzászólás egyesítő:";
-$locale['542'] = "Bekapcsolva";
-$locale['543'] = "Kikapcsolva";
+$locale['542'] = "Engedélyezve";
+$locale['543'] = "Tiltva";
 // Current Forums
 $locale['550'] = "Jelenlegi fórumok";
 $locale['551'] = "Kategória/Fórum";
-$locale['552'] = "Sorrend";
+$locale['552'] = "Rendez";
 $locale['553'] = "Lehetőségek";
 $locale['554'] = "Szerkesztés";
 $locale['555'] = "Törlés";
 $locale['556'] = "Fel";
 $locale['557'] = "Le";
-$locale['558'] = "Előrébb";
-$locale['559'] = "Hátrébb";
-$locale['560'] = "Nincs létrehozva fórumkategória";
-$locale['561'] = "Nincs létrehozva fórum";
-$locale['562'] = "Sorrend frissítése";
+$locale['558'] = "Fel";
+$locale['559'] = "Le";
+$locale['560'] = "Nincs fórum kategória létrehozva.";
+$locale['561'] = "Nincs fórum létrehozva";
+$locale['562'] = "Fórum rendszerezés frissítése";
 $locale['563'] = "Rövidítés";
 // Delete Forum
 $locale['570'] = "Biztosan törölni szeretnéd?";

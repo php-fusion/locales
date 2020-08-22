@@ -1,7 +1,7 @@
 <?php
 $locale['a400'] = "Cikkek";
-$locale['a401'] = "cikk";
-$locale['a402'] = "cikk";
-$locale['a403'] = "találat a";
-$locale['a404'] = "cikk címében";
-$locale['a405'] = "cikk tartalmában";
+$locale['a401'] = "Teljes Cikk";
+$locale['a402'] = "Cikkek";
+$locale['a403'] = "találat az";
+$locale['a404'] = "Cikk címében";
+$locale['a405'] = "Cikk tartalmában";

@@ -1,8 +1,7 @@
 <?php
 $locale['400'] = "Frissítés";
-// No upgrade
 $locale['401'] = "Nincs elérhető adatbázis frissítés.";
-// Stage 6 - User Field Categories
+
 // Upgrade locales
 $locale['500'] = "Egy %s adatbázis-frissítés érhető el a telepített rendszerhez.";
 $locale['501'] = "A frissítéséhez kattints a Frissítés gombra.";

@@ -1,7 +1,7 @@
 <?php
-$locale['c400'] = "Egyéb oldalak";
-$locale['c401'] = "oldal";
-$locale['c402'] = "oldal";
+$locale['c400'] = "Egyedi oldalak";
+$locale['c401'] = "Egyéb oldal";
+$locale['c402'] = "Egyedi oldalak";
 $locale['c403'] = "találat az";
-$locale['c404'] = "oldal címében";
-$locale['c405'] = "oldal tartalmában";
+$locale['c404'] = "Egyéb oldal címében";
+$locale['c405'] = "Egyéb oldal tartalmában";

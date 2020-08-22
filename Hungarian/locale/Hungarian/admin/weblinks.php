@@ -12,7 +12,7 @@ $locale['414'] = "Link kategória törölve";
 // Add/Edit Web Link Category Form
 $locale['420'] = "Kategória neve:";
 $locale['421'] = "Kategória leírása:";
-$locale['422'] = "Linkek rendezése:";
+$locale['422'] = "Cikkek rendezése:";
 $locale['423'] = "Azonosító (ID)";
 $locale['424'] = "Link neve";
 $locale['425'] = "Dátum";
@@ -22,16 +22,16 @@ $locale['428'] = "Hozzáférés:";
 $locale['429'] = "Kategória mentése";
 // Current Web Link categories
 $locale['430'] = "Kategória";
-$locale['431'] = "Hozzáférés";
+$locale['431'] = "Elérés";
 // Delete Web Link category
 $locale['440'] = "Biztosan törölni szeretnéd ezt a link kategóriát?";
 // Error Messages
-$locale['460'] = "Add meg a kategória nevét.";
-$locale['461'] = "Ilyen nevű kategória már létezik.";
+$locale['460'] = "Írd be a kategória nevét.";
+$locale['461'] = "Ez a kategória már létezik.";
 $locale['462'] = "Kérjük, adjon meg egy weblink nevet.";
 // Web Link titles
-$locale['500'] = "Link hozzáadása";
-$locale['501'] = "Link szerkesztése";
+$locale['500'] = "Link Hozzáadása";
+$locale['501'] = "Link Szerkesztése";
 $locale['502'] = "Jelenlegi linkek";
 // Web Link messages
 $locale['510'] = "Link hozzáadva";
@@ -40,9 +40,9 @@ $locale['512'] = "Link törölve";
 // Web Link form
 $locale['520'] = "Oldal neve:";
 $locale['521'] = "Leírás:";
-$locale['522'] = "URL:";
+$locale['522'] = "Oldal URL:";
 $locale['523'] = "Kategória:";
-$locale['524'] = "Közzététel dátumának frissítése";
+$locale['524'] = "Dátum frissítése";
 $locale['525'] = "Link mentése";
 // Current Web Links
 $locale['531'] = "Linkek [Kattints a teszteléshez]";

@@ -21,22 +21,22 @@ $locale['433'] = "Csoport leírása:";
 $locale['434'] = "Csoport mentése";
 // Search/Add Group Users
 $locale['440'] = "Felhasználó hozzáadása a csoporthoz";
-$locale['441'] = "Hozzáadáshoz keresd meg a felhasználót az alábbi keresővel:";
+$locale['441'] = "Hozzáadáshoz keresd meg a felhasználót az alábbi keresővel,";
 $locale['442'] = "Egyszerre több felhasználót is megkereshetsz, csak válaszd el őket egy vesszővel.";
 $locale['443'] = "Azonosító (ID)";
 $locale['444'] = "Felhasználónév";
-$locale['445'] = "Keresés";
+$locale['445'] = "Keres";
 $locale['446'] = "Felhasználónév";
 $locale['447'] = "Rang";
 $locale['448'] = "Összes";
 $locale['449'] = "Egyik sem";
 $locale['450'] = "Kiválasztott felhasználók hozzáadása";
-$locale['451'] = "Nem található ilyen felhasználó.";
+$locale['451'] = "Nem található ilyen tag.";
 $locale['452'] = "Új keresés";
 // Current Group Users
 $locale['460'] = "A csoport tagjai";
 $locale['461'] = "Kiválasztott tagok eltávolítása";
 $locale['462'] = "Összes tag eltávolítása";
-$locale['463'] = "Nincs egyetlen tagja sem a csoportnak.";
+$locale['463'] = "Nincsenek felhasználók ebben a csoportban.";
 // Error Messages
-$locale['464'] = "Kérjük, adja meg a csoport nevét";
+$locale['464'] = "Add meg a csoport nevét";

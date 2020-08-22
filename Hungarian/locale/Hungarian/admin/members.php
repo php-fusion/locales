@@ -1,25 +1,25 @@
 <?php
 // Member Management Options
 $locale['400'] = "Felhasználók";
-$locale['401'] = "Felhasználónév";
+$locale['401'] = "Felhasználó";
 $locale['402'] = "Új tag létrehozása";
 $locale['403'] = "Rang";
 $locale['404'] = "Lehetőségek";
-$locale['405'] = "Szűrés: ";
+$locale['405'] = "Megnéz";
 $locale['406'] = "Szerkesztés";
-$locale['407'] = "Aktiválás";
-$locale['408'] = "Feloldás";
-$locale['409'] = "Kitiltás";
+$locale['407'] = "Kikapcsolás";
+$locale['408'] = "Kitiltás visszavonva";
+$locale['409'] = "Tilt";
 $locale['410'] = "Törlés";
 $locale['411'] = "Nincs ilyen tag";
 $locale['412'] = " tag a következő kezdőbetűvel: ";
 $locale['413'] = ": ";
 $locale['414'] = "Összes";
 $locale['415'] = "Tag keresése:";
-$locale['416'] = "Keresés";
+$locale['416'] = "Keres";
 $locale['417'] = "Válassz";
 $locale['418'] = "Mégsem";
-$locale['419'] = "Visszahelyezés";
+$locale['419'] = "Aktiválás";
 // Ban/Unban/Delete Member
 $locale['420'] = "Felhasználó kitiltva";
 $locale['421'] = "Felhasználó kitiltása feloldva";
@@ -47,14 +47,14 @@ $locale['427'] = "Nem";
 $locale['430'] = "Felhasználó szerkesztése";
 $locale['431'] = "Felhasználó adatai módosítva";
 $locale['432'] = "Vissza a felhasználók adminisztrációjához";
-$locale['433'] = "Vissza az admin főoldalra";
+$locale['433'] = "Vissza az adminisztrátori panelre";
 $locale['434'] = "Nem lehet módosítani a felhasználó adatait:";
 // Extra Edit Member Details form options
 $locale['440'] = "Változások mentése";
 // Update Profile Errors
 $locale['450'] = "Az oldal telepítőjét nem lehet szerkeszteni";
 $locale['451'] = "Meg kell adni a felhasználónevet és az e-mail címet";
-$locale['452'] = "A felhasználónév nem engedélyezett karaktereket tartalmaz";
+$locale['452'] = "A felhasználónév nem engedélyezett karaktereket tartalmaz.";
 $locale['453'] = "Ez a felhasználónév már foglalt.";
 $locale['454'] = "Érvénytelen e-mail cím.";
 $locale['455'] = "Ez az e-mail cím már használatban van.";
@@ -64,7 +64,6 @@ A jelszónak legalább 6 karakter hosszúnak kell lennie!";
 $locale['458'] = "<strong>Figyelem:</strong> nem várt utasítás végrehajtása";
 // View Member Profile
 $locale['470'] = "Profil";
-$locale['471'] = "Általános információk";
 $locale['472'] = "Statisztika";
 $locale['473'] = "Felhasználói csoportok";
 // Add Member Errors
@@ -75,7 +74,7 @@ $locale['482'] = "Nem lehet létrehozni a felhasználót";
 $locale['510s'] = "Kitiltási napló - ";
 $locale['511s'] = "Ennek a felhasználónak nincs naplózott esete.";
 $locale['512s'] = "Korábbi kitiltások - ";
-$locale['513'] = "No."; // as in number
+$locale['513'] = "Nem."; // as in number
 $locale['514'] = "Dátum";
 $locale['515'] = "Indoklás";
 $locale['516'] = "Adminisztrátor";
@@ -92,7 +91,7 @@ $locale['542'] = "Hiba: meg kell adnod a kitiltás okát!";
 $locale['550'] = "Felfüggesztés";
 $locale['551'] = "nap";
 $locale['552'] = "Indoklás:";
-$locale['553'] = "Felfüggesztés";
+$locale['553'] = "Felfüggeszt";
 $locale['554'] = "Ennek a felhasználónak nincs naplózott esete.";
 $locale['555'] = "Ha végleg ki szeretnéd tiltani ezt a felhasználót, kattints a 'kiltilt' gombra.";
 $locale['556'] = "Felmentés - ";
@@ -115,24 +114,22 @@ $locale['576'] = "Hozzáférés eltávolítva";
 $locale['577'] = "Hozzáférés eltávolítása visszavonva";
 $locale['578'] = "Hozzáférés anonimizálva és eltávolítva";
 $locale['579'] = "Hozzáférés anonimizálása visszavonva";
-$locale['580'] = "Inaktív tagok deaktiválása";
+$locale['580'] = "Deactiválva az Inaktív Tagok";
 $locale['581'] = "Több mint 50 inaktív felhasználód van, a deaktiválási procedúrát <strong>%d alkalommal</strong> kell elvégezned.";
-$locale['582'] = "Reaktiválás";
+$locale['582'] = "Újra aktivál";
 $locale['583'] = "Visszahelyezés";
 $locale['584'] = "Válassz új státuszt";
 $locale['585'] = "Ez a felhasználó eredetileg biztonsági okokból volt kitiltva! Biztosan fel szeretnéd menteni?";
-
-$locale['590'] = "Felfüggeszt: ";
+$locale['590'] = "Felfüggeszt";
 $locale['591'] = "Felment: ";
 $locale['592'] = "felfüggeszted";
 $locale['593'] = "felmented";
 $locale['594'] = "Kérjük add meg az okát, amiért ";
 $locale['595'] = " az alábbi felhasználót: ";
 $locale['596'] = "Időtartam:";
-
 $locale['600'] = "BBiztonsági kitilás: ";
 $locale['601'] = "biztonságilag kitiltod";
-$locale['602'] = "Feloldás: ";
+$locale['602'] = "Kitiltás visszavonva";
 $locale['603'] = "felmented";
 $locale['604'] = "Indoklás:";
 // Deactivation System
@@ -140,13 +137,13 @@ $locale['610'] = "<strong>%d felhasználó</strong> nem jelentkezett be<strong>%
 A felhasználók deaktiválása után <strong>%d napjuk</strong> lesz, hogy visszatérjenek az oldalra.";
 $locale['611'] = "Kérjük ne feledd, előfordulhat, hogy valaki ezek közül a felhasználók közül valamivel hozzájárult az oldalhoz (hozzászólások, hírek, cikkek, képek stb.).
 Ezek a tartalmak a felhasználó törlésével elvesznek!.";
-$locale['612'] = "tag";
+$locale['612'] = "felhasználó";
 $locale['613'] = "tag";
 $locale['614'] = "Deaktiválás";
-$locale['615'] = "véglegesen törölve";
+$locale['615'] = "végleges törölése";
 $locale['616'] = "anonimizálás";
 $locale['617'] = "Figyelmeztetés:";
-$locale['618'] = "Erősen ajánljuk, hogy végleges törlés helyett csak anonimizáld a felhasználóidat az esetleges adatvesztés elkerülése miatt!";
+$locale['618'] = "Ajánlott a Törlés helyett Anonimizálni a Tagot, mert adatvesztéssel járhat!";
 $locale['619'] = "Ha meg szeretnéd változtatni a beállítást, itt megteheted.";
 $locale['620'] = "anonimizálás";
-$locale['621'] = "Inaktív felhasználók automatikus deaktiválása.";
+$locale['621'] = "Autómatikusan deactiválva az inaktív Tagok.";

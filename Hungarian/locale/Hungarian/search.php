@@ -1,7 +1,7 @@
 <?php
-$locale['400'] = "Kereső";
+$locale['400'] = "Kereső [SITENAME]";
 $locale['401'] = "Keresendő:";
-$locale['402'] = "Keresés";
+$locale['402'] = "Keres";
 $locale['403'] = "keresés bármelyik kifejezésre";
 $locale['404'] = "összes kifejezést tartalmazza";
 $locale['405'] = "Keresés helye";
@@ -40,8 +40,8 @@ $locale['502'] = "A három karakternél rövidebb szavak (%s) figyelmen kívül 
 //Global search
 $locale['510'] = "találat a teljes oldalon";
 //
-$locale['520'] = "";
-$locale['521'] = "";
-$locale['522'] = "";
+$locale['520'] = "azonos";
+$locale['521'] = "egyezik";
+$locale['522'] = " találtam a keresési feltétel szerint";
 //more than 100 results
 $locale['530'] = "Kérjük pontosítsd a keresést. Összesen %s találat van ezekkel a beállításokkal. A kereső csak a 100 találatot jelenít meg.";

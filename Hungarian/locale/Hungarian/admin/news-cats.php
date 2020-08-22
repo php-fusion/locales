@@ -1,7 +1,7 @@
 <?php
 // News Categories titles
-$locale['400'] = "Hírkategória szerkesztése";
-$locale['401'] = "Hírkategória létrehozása";
+$locale['400'] = "Hírkategória Szerkesztése";
+$locale['401'] = "Hírkategória Létrehozása";
 $locale['402'] = "Jelenlegi hírkategóriák";
 // News Categories messages
 $locale['420'] = "Hírkategória létrehozva";
@@ -18,7 +18,7 @@ $locale['434'] = "Törlés";
 $locale['435'] = "Nincs létrehozva hírkategória";
 $locale['436'] = "Hírkategória kép feltöltéséhez kattints ide";
 // Popup Error/Warning Messages
-$locale['450'] = "Biztosan törölni szeretnéd ezt a hírkategóriát?";
+$locale['450'] = "Biztosan törölni szeretnéd ezt a Hírkategóriát?";
 // Error Messages
-$locale['460'] = "Add meg a kategória nevét.";
-$locale['461'] = "Ilyen nevű kategória már létezik.";
+$locale['460'] = "Írd be a kategória nevét.";
+$locale['461'] = "Ez a kategória már létezik.";

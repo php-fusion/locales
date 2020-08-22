@@ -22,5 +22,5 @@ $locale['winter_des'] = "Ez hozzáad néhány téli stílust a Felülethez";
 
 $locale['save_sets'] = "Beállítások mentése";
 
-$locale['enabled'] = "Bekapcsolt";
+$locale['enabled'] = "Engedélyezve";
 $locale['disabled'] = "Tiltva";

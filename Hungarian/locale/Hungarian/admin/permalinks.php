@@ -5,21 +5,21 @@ $locale['401'] = "Permalink kikapcsolása";
 // Common
 $locale['402'] = "Permalink Neve";
 $locale['403'] = "Leírás";
-$locale['404'] = "Beállítások";
-$locale['404a'] = "Bekapcsol";
-$locale['404b'] = "Kikapcsol";
-$locale['404c'] = "Javít";
+$locale['404'] = "Lehetőségek";
+$locale['404a'] = "Engedélyezve";
+$locale['404b'] = "Kikapcsolva";
+$locale['404c'] = "Szerkesztés";
 $locale['404d'] = "Telepítsd újra";
 // Editing Permalinks
 $locale['405'] = "%s permalinkjének javítása";
-$locale['406'] = "Tag-ek";
+$locale['406'] = "Jelölések";
 $locale['407'] = "Leírás";
 $locale['408'] = "Típusok";
 $locale['409'] = "Minta szerkesztése";
 $locale['410'] = "Permalink típus %u:";
 $locale['411'] = "Hiba";
 $locale['412'] = "Ellenőrizd a beállításokat a Permalink %s-nél!";
-$locale['413'] = "Mentés";
+$locale['413'] = "Ment";
 $locale['414'] = "FIGYELEM: Permalink &amp; Átmeneti változók törölve lesznek!\\Biztosan kikapcsolod a permalinket?";
 // Admin Messages
 $locale['420'] = "Hiba történt.";

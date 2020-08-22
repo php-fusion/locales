@@ -1,24 +1,24 @@
 <?php
 // Post Titles
 $locale['400'] = "Fórumtéma előnézet";
-$locale['401'] = "Új téma létrehozása";
+$locale['401'] = "Új Téma létrehozása";
 $locale['402'] = "Válasz előnézete";
-$locale['403'] = "Válasz küldése";
-$locale['404'] = "Válasz elküldése";
+$locale['403'] = " Válasz hozzáadása";
+$locale['404'] = "Elküld";
 $locale['405'] = "Változások előnézete";
 $locale['407'] = "Hozzászólás törlése";
-$locale['408'] = "Hozzászólás szerkesztése";
+$locale['408'] = "Szerkesztés";
 $locale['409'] = "Változások mentése";
 // Post Preview
 $locale['420'] = "Nincs tárgy";
 $locale['421'] = "Nincs üzenet, a hozzászólás nem fog megjelenni, ha nincs üzenet!";
 $locale['422'] = "Szerző:";
 $locale['423'] = "Hozzászólások:";
-$locale['424'] = "Lakóhely:";
-$locale['425'] = "Regisztrált:";
-$locale['426'] = "";
+$locale['424'] = "Hely:";
+$locale['425'] = "Csatlakozott:";
+$locale['426'] = "Közzétett ";
 $locale['427'] = "Szerkesztette: ";
-$locale['428'] = " - ";
+$locale['428'] = " - Dátum: ";
 $locale['429'] = " írta:";
 $locale['430'] = "Avatar";
 $locale['431'] = "Legújabb hozzászólás";
@@ -45,7 +45,7 @@ $locale['455'] = "A hozzászólás elküldése után legfeljebb %d percig módos
 $locale['460'] = "Tárgy";
 $locale['461'] = "Üzenet";
 $locale['462'] = "Betűszín: ";
-$locale['463'] = "Beállítások";
+$locale['463'] = "Lehetőségek";
 $locale['464'] = "Csatolmány";
 $locale['465'] = " (Opcionálisan)";
 $locale['466'] = "Max. fájlméret: %s / Engedélyezett fájltípusok: %s /  Max. csatolmányok száma: %s";
@@ -55,17 +55,17 @@ $locale['469'] = "Kérdés";
 $locale['470'] = "Válasz";
 $locale['470a'] = $locale['470']." 1";
 $locale['470b'] = $locale['470']." 2";
-$locale['471'] = "Új válasz hozzáadása";
-$locale['472'] = "Frissítés";
+$locale['471'] = "Válasz hozzáadása";
+$locale['472'] = "Frissít";
 $locale['473'] = "Törlés";
 $locale['474'] = "Indoklás";
 // Post Form Options
 $locale['480'] = "Téma kiemelése";
 $locale['481'] = "Téma lezárása";
 $locale['482'] = "Hangulatjelek kikapcsolása";
-$locale['483'] = "Aláírás megjelenítése a hozzászólásnál";
+$locale['483'] = "Aláírás mutatása ennél a hozzászólásnál";
 $locale['484'] = "Hozzászólás törlése";
-$locale['485'] = "Csatolmány törlése - ";
+$locale['485'] = "Csatolmány törlése -";
 $locale['486'] = "Figyelmeztessen válasz érkezésekor";
 $locale['487'] = "Szerkesztés elrejtése";
 $locale['488'] = "Hozzászólás zárolása";
@@ -78,7 +78,13 @@ $locale['520'] = "Egyesítve";
 // Search Forum Form
 $locale['530'] = "Keresés a fórumban";
 $locale['531'] = "Kulcsszó";
-$locale['532'] = "Keresés";
+$locale['532'] = "Keres";
 // Forum Notification Email
 $locale['550'] = "Új hozzászólás - {THREAD_SUBJECT}";
-$locale['551'] = "Szia {USERNAME},\n\nÚj hozzászólás érkezett '{THREAD_SUBJECT}' témában amit megjelöltél oldalunkon.\n\nA következő linken érhető el a hozzászólás:\n{THREAD_URL}\n\nHa legközelebb nem szeretnél ilyen levelet kapni, a fórumtéma felett található 'Téma nyomon követésének kikapcsolása' linkre kattintva kapcsolhatod ki.\n\nÜdvözlettel,\n".$settings['siteusername']." \n".$settings['sitename'];
+$locale['551'] = "Szia {USERNAME},
+Új hozzászólás érkezett '{THREAD_SUBJECT}' témában amit megjelöltél oldalunkon. A következő linken érhető el a hozzászólás: {THREAD_URL}
+
+Ha legközelebb nem szeretnél ilyen levelet kapni, a fórumtéma felett található 'Téma nyomon követésének kikapcsolása' linkre kattintva kapcsolhatod ki.
+
+Üdvözlettel,<br/>
+[SITEUSERNAME]";

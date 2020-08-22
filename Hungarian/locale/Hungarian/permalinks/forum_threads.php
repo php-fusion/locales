@@ -1,5 +1,5 @@
 <?php
-$locale['pl_threads_title'] = "Fórum bejegyzés";
+$locale['pl_threads_title'] = "Fórumtémák";
 $locale['pl_threads_desc'] = "Permalink engedélyezése az oldalon lévő Fórum bejegyzésekhez.";
 $locale['pl_tags_001'] = "Fórum topic ID-je.";
 $locale['pl_tags_002'] = "Fórum topic cimkéje.";

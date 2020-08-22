@@ -1,20 +1,20 @@
 <?php
 // FAQ Category titles
-$locale['400'] = "GyIK kategória létrehozása";
-$locale['401'] = "GyIK kategória szerkesztése";
+$locale['400'] = "Kategória Hozzáadása";
+$locale['401'] = "Kategória Szerkesztése";
 // FAQ Category messages
 $locale['410'] = "GyIK kategória létrehozva";
-$locale['411'] = "GyIK kategória módosítva";
+$locale['411'] = "Kategória Módosítva";
 $locale['412'] = "A GyIK kategóriát nem lehet törölni";
 $locale['413'] = "A kategória GyIK-et tartalmaz";
-$locale['414'] = "GyIK kategória törölve";
+$locale['414'] = "Kategória Törölve";
 // FAQ Category form
-$locale['420'] = "Kategória neve";
-$locale['421'] = "Kategória leírása";
+$locale['420'] = "Kategória név";
+$locale['421'] = "Kategória leírása:";
 $locale['422'] = "Kategória mentése";
 // FAQ titles
-$locale['500'] = "GyIK létrehozása";
-$locale['501'] = "GyIK szerkesztése";
+$locale['500'] = "GyIK Hozzáadása";
+$locale['501'] = "GyIK Szerkesztése";
 $locale['502'] = "Jelenlegi GyIK-ek";
 // FAQ messages
 $locale['510'] = "GyIK hozzáadva";
@@ -33,8 +33,8 @@ $locale['543'] = "Törlés";
 $locale['544'] = "Nincs GyIK létrehozva";
 $locale['545'] = "Nincs GyIK kategória létrehozva";
 $locale['546'] = "Biztosan törölni szeretnéd ezt a GyIK kategóriát?";
-$locale['547'] = "Biztosan törölni szeretnéd ezt a GyIK-t?";
+$locale['547'] = "Biztosan törölni szeretnéd ezt a cikket?";
 // Error Messages
-$locale['460'] = "Add meg a kategória nevét.";
-$locale['461'] = "Ilyen nevű kategória már létezik.";
+$locale['460'] = "Írd be a kategória nevét.";
+$locale['461'] = "Ez a kategória már létezik.";
 $locale['462'] = "Add meg a kérdést és a választ.";

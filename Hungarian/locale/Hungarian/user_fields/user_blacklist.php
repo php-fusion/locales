@@ -11,4 +11,4 @@ $locale['uf_blacklist_003'] = "Nincs letiltott felhasználó.";
 $locale['uf_blacklist_004'] = " %s törölve a feketelistáról.";
 $locale['uf_blacklist_005'] = "A felhasználó nem tiltott.";
 $locale['uf_blacklist_006'] = "Nincs felhasználó.";
-$locale['uf_blacklist_007'] = "Nincs.";
+

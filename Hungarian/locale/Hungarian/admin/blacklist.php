@@ -3,11 +3,11 @@
 $locale['400'] = "Felhasználó törlése a feketelistáról";
 $locale['401'] = "Felhasználó törölve a feketelistáról";
 $locale['402'] = "Vissza a feketelista kezeléséhez";
-$locale['403'] = "Vissza az admin főoldalra";
+$locale['403'] = "Vissza az adminisztrátori panelre";
 $locale['404'] = "Kérlek add meg az IP címet vagy az Email- címet";
 $locale['405'] = "A feketelistás email nem valós vagy hibás.";
 // Add/Edit Blacklist Titles
-$locale['420'] = "Feketelista";
+$locale['420'] = "Feketelistás felhasználó";
 $locale['421'] = "Feketelistás felhasználó szerkesztése";
 // Add/Edit blacklist form
 $locale['440'] = "<div style='text-align:justify'>Egy IP cím megadásával letilthatod az onnan érkező oldallekéréseket.
@@ -20,7 +20,7 @@ Egy e-mail cím megadásával megtilthatod az adott címmel való regisztráció
 Megadhatsz teljes címet (<em>pl. valaki@valami.hu</em>), vagy az e-mail cím domain részét (<em>pl. valami.hu</em>).</div>";
 $locale['441'] = "IP cím: <br /><strong>vagy</strong>";
 $locale['442'] = "E-mail:";
-$locale['443'] = "Kitiltás oka:";
+$locale['443'] = "Kitiltás oka";
 $locale['444'] = "Kitilt";
 // Current blacklisted users
 $locale['460'] = "Feketelistás felhasználók";
@@ -30,12 +30,12 @@ $locale['463'] = "Szerkesztés";
 $locale['464'] = "Törlés";
 $locale['465'] = "A feketelista jelenleg üres.";
 $locale['466'] = "N/A";
-$locale['467'] = "Admin";
+$locale['467'] = "Adminisztrátor";
 $locale['468'] = "Dátum";
 /*
-// IPv6 secific
-$locale['480'] = "IPv6 lehetőségek";
-$locale['481'] = "A megadott IPv7 cím rövidítést (::) tartalmaz, ezért nem bontható fel egyértelműen.";
-$locale['482'] = "Melyik változatot szeretnéd használni?";
-$locale['483'] = "Mentés";
+// IPv6 specific
+$locale['480'] = "IPv6 options";
+$locale['481'] = "The specified IPv6 address contains a shortcut (::) therefore cannot be determined unequivocally.";
+$locale['482'] = "Which version would you use?";
+$locale['483'] = "Save";
 */

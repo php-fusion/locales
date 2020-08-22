@@ -1,7 +1,7 @@
 <?php
 // Titles
-$locale['400'] = "Email Sablonok";
-$locale['401'] = "Available Templates";
+$locale['400'] = "Email sablonok";
+$locale['401'] = "Rendelkezésre álló sablonok";
 $locale['410'] = "A sablon sikeresen frissítve.";
 $locale['411'] = "Teszt-Email elküldve neki: %s.";
 $locale['412'] = "Teszt-Tárgy";
@@ -9,7 +9,7 @@ $locale['413'] = "Teszt-Üzenet";
 $locale['414'] = "Néhány felhasználó";
 $locale['415'] = "Üzenet fogadója";
 $locale['416'] = "URL néhány bejegyzéshez";
-$locale['417'] = "Szerkeszt";
+$locale['417'] = "Szerkesztés";
 $locale['418'] = "HTML Formátum";
 $locale['419'] = "Egyszerű szöveges formátum";
 $locale['420'] = "Sablon: ";
@@ -29,24 +29,24 @@ $locale['433'] = "Ezt használja feladónak a sablon tesztelésekor";
 $locale['434'] = "Tárgy";
 $locale['435'] = "Üzenet";
 $locale['436'] = "Háttér"; // Button
-$locale['437'] = "Sablon Tesztelése";
+$locale['437'] = "Sablon tesztelése";
 $locale['438'] = "A sablon elmentésre kerül és egy tesztüzenet kerül elküldésre az Ön címére:% s. Folytatás?";
-$locale['439'] = "Mentés";
-$locale['440'] = "Visszaállítás";
+$locale['439'] = "Ment";
+$locale['440'] = "Módosítva";
 // Help
 $locale['450'] = "Segítség";
-$locale['451'] = "Rövid áttekintés a billentyűparancsokhoz";
+$locale['451'] = "Rövid áttekintő a billentyűparancsokhoz";
 $locale['452'] = "Billentyűparancs";
 $locale['453'] = "Funkció / Adatcsere";
-$locale['454'] = "Az üzenet vagy Téma tárgya";
-$locale['455'] = "Az üzenetszöveg vagy az üzenet töredéke";
-$locale['456'] = "Üzenet küldése, Téma vagy hozzászólás szerzője";
-$locale['457'] = "A levél küldése";
-$locale['458'] = "A levél fogadója";
+$locale['454'] = "Tárgy mező";
+$locale['455'] = "Üzenet mező";
+$locale['456'] = "Az üzenet küldőjének neve";
+$locale['457'] = "Üzenet küldő email címe";
+$locale['458'] = "Fogadó fél email címe";
 $locale['459'] = "Fórum téma URL-je, csak fórum bejegyzés esetén működik.";
 // Messages
-$locale['469'] = "Kép beszúrása";
-$locale['470'] = "A Tárgy nem lehet üres!";
-$locale['471'] = "Az üzenet nem lehet üres!";
-$locale['472'] = "A feladó neve nem lehet üres!";
-$locale['473'] = "A küldő e-mailje nem lehet üres!";
+$locale['469'] = "Kép feltöltése";
+$locale['470'] = "A tárgy mező nem lehet üres!";
+$locale['471'] = "Az üzenet mező nem lehet üres!";
+$locale['472'] = "A küldő neve nem lehet üres!";
+$locale['473'] = "A küldő e-mail címe nem lehet üres!";

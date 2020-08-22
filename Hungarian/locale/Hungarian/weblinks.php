@@ -1,8 +1,8 @@
 <?php
-$locale['400'] = "Linkek";
+$locale['400'] = "Web Linkek";
 // Download File Information
-$locale['410'] = "[ÚJ]";
-$locale['411'] = "Hozzáadva:";
+$locale['410'] = "Új";
+$locale['411'] = "Hozzáadás dátuma:";
 $locale['412'] = "Megnyitva:";
 // Downloads Notices
 $locale['430'] = "Nincs elérhető link kategória";

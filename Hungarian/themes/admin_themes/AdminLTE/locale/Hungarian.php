@@ -1,30 +1,14 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: AdminLTE/locale/Hungarian.php
-| Author: karrak
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['ALT_001'] = 'Neked van';
-$locale['ALT_002'] = 'Nincsenek üzenetek';
-$locale['ALT_003'] = 'Új üzenet';
+$locale['ALT_002'] = 'Nincs Ã¼zenet.';
+$locale['ALT_003'] = 'Ãšj Ã¼zenet Ã­rÃ¡sa';
 $locale['ALT_004'] = 'Tag ';
-$locale['ALT_005'] = 'Keresés...';
-$locale['ALT_006'] = 'Készítette';
-$locale['ALT_007'] = 'Admin Jelszó';
-$locale['ALT_008'] = 'Elrendezési beállítások';
-$locale['ALT_009'] = 'Fix elrendezés';
-$locale['ALT_010'] = 'Kis oldalsáv';
-$locale['ALT_011'] = 'Felület';
-$locale['ALT_012'] = 'Sötét';
-$locale['ALT_013'] = 'Világos';
+$locale['ALT_005'] = 'KeresÃ©s...';
+$locale['ALT_006'] = 'KÃ©szÃ­tette';
+$locale['ALT_007'] = 'Admin JelszÃ³';
+$locale['ALT_008'] = 'ElrendezÃ©si beÃ¡llÃ­tÃ¡sok';
+$locale['ALT_009'] = 'Fix elrendezÃ©s';
+$locale['ALT_010'] = 'Kis oldalsÃ¡v';
+$locale['ALT_011'] = 'FelÃ¼let';
+$locale['ALT_012'] = 'SÃ¶tÃ©t';
+$locale['ALT_013'] = 'VilÃ¡gos';
