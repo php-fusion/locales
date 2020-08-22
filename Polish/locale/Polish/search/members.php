@@ -1,5 +1,5 @@
 <?php
-$locale['m400'] = "Members";
-$locale['m401'] = "Member";
-$locale['m402'] = "Members";
-$locale['m403'] = "Profiles are visible to members only!";
+$locale['m400'] = "Użytkownicy";
+$locale['m401'] = "Użytkownik";
+$locale['m402'] = "Użytkownicy";
+$locale['m403'] = "Profile są widoczne tylko dla zarejestrowanych użytkowników!";

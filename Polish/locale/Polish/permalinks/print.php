@@ -1,3 +1,3 @@
 <?php
-$locale['pl_print_title'] = "Print Pages";
-$locale['pl_print_desc'] = "Enable Permalinks for the page of Print.";
+$locale['pl_print_title'] = "Drukuj stronę";
+$locale['pl_print_desc'] = "Włącza bezpośrednie odnośniki dla dodatkowych stron.";

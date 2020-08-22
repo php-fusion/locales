@@ -1,3 +1,3 @@
 <?php
-$locale['pl_rss_title'] = "RSS Feeds";
-$locale['pl_rss_desc'] = "Enable Permalinks for the links to RSS feeds.";
+$locale['pl_rss_title'] = "Kanały RSS";
+$locale['pl_rss_desc'] = "Aktywuje bezpośrednie odnośniki dla kanałów RSS na stronie.";

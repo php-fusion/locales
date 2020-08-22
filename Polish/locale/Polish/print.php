@@ -1,16 +1,16 @@
 <?php
 //news, articles, blog
-$locale['400'] = "Napisane przez ";
-$locale['401'] = " on ";
-$locale['402'] = "Treść rozszerzona";
-$locale['403'] = "Rozszerzony blog";
+$locale['400'] = "Opublikowane przez ";
+$locale['401'] = " dnia ";
+$locale['402'] = "Rozszerzenie aktualności";
+$locale['403'] = "Rozszerzenie wpisu";
 //forums
 $locale['500'] = "Temat wątku:";
-$locale['501'] = "Napisane przez ";
-$locale['502'] = " on ";
-$locale['503'] = "Edytowane przez ";
+$locale['501'] = "Opublikowane przez ";
+$locale['502'] = " dnia ";
+$locale['503'] = "Edytowany przez ";
 //License Agreement
 $locale['600'] = "Regulamin";
 $locale['601'] = "Ostatnia aktualizacja:";
 //Privacy Policy
-$locale['700'] = "Polityka Prywatności";
+$locale['700'] = "Polityka prywatności";

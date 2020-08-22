@@ -2,23 +2,23 @@
 // Greetings
 $locale['hello'] = "Witaj!";
 $locale['goodbye'] = "Do zobaczenia!";
-$locale['welcome'] = "Witamy";
+$locale['welcome'] = "Witaj";
 
 // Status
 $locale['error'] = "Błąd!";
-$locale['success'] = "Powodzenie!";
-$locale['enable'] = "Włącz";
-$locale['disable'] = "Wyłącz";
+$locale['success'] = "Sukces!";
+$locale['enable'] = "Włączone";
+$locale['disable'] = "Wyłączone";
 $locale['no'] = "Nie";
 $locale['yes'] = "Tak";
-$locale['off'] = "Wył.";
-$locale['on'] = "Wł.";
+$locale['off'] = "Wyłączone";
+$locale['on'] = "Włączone";
 
 // Navigation
-$locale['next'] = "Następny";
+$locale['next'] = "Następna";
 $locale['previous'] = "Poprzedni";
-$locale['back'] = "Wróć";
-$locale['forward'] = "Forward";
+$locale['back'] = "Wstecz";
+$locale['forward'] = "Dalej";
 
 // Action
 $locale['add'] = "Dodaj";
@@ -27,39 +27,40 @@ $locale['update'] = "Aktualizuj";
 $locale['remove'] = "Usuń";
 $locale['search'] = "Szukaj";
 $locale['help'] = "Pomoc";
-$locale['register'] = "Rejestracja";
-$locale['ban'] = "Ban";
-$locale['reactivate'] = "Reaktywować";
+$locale['register'] = "Zarejestruj się";
+$locale['ban'] = "Zbanuj";
+$locale['reactivate'] = "Reaktywuj";
 $locale['user'] = "Użytkownik";
 $locale['promote'] = "Promuj";
 
 //Tables
 $locale['status'] = "Status";
-$locale['order'] = "Zamawianie przedmiotu";
+$locale['order'] = "Kolejność";
 $locale['id'] = "ID";
 $locale['title'] = "Tytuł";
 $locale['rights'] = "Prawa";
 $locale['image'] = "Obraz / ikony";
-$locale['info'] = "Informacje";
+$locale['info'] = "Informacja";
 
 // Forms
-$locale['choose'] = "Proszę wybrać jeden...";
-$locale['parent'] = "Utwórz jako nowe źródło ..";
-$locale['order'] = "Item Ordering";
+$locale['choose'] = "Wybierz jeden...";
+$locale['parent'] = "Utwórz jako Nowy rodzic..";
+$locale['order'] = "Kolejność elementów";
 $locale['status'] = "Status";
-$locale['note'] = "Make a note of this item";
-$locale['publish'] = "Opublikowany";
-$locale['unpublish'] = "Niepublikowane";
-$locale['draft'] = "Wersja robocza";
+$locale['note'] = "Zrób notatkę o tym elemencie";
+$locale['publish'] = "Opublikowano";
+$locale['unpublish'] = "Nieopublikowano";
+$locale['draft'] = "Szkic";
 $locale['settings'] = "Ustawienia";
-$locale['posted'] = "napisał";
+$locale['posted'] = "opublikował(a)";
 $locale['in'] = "w";
 $locale['profile'] = "Profil";
-$locale['edit'] = "Eydycja";
+$locale['edit'] = "Edytuj";
 $locale['view'] = "Zobacz";
 $locale['login'] = "Zaloguj";
 $locale['logout'] = "Wyloguj";
 $locale['pm'] = "Prywatne wiadomości";
 $locale['logged'] = "Zalogowano jako ";
 $locale['version'] = "Wersja ";
-$locale['browse'] = "Wybierz ...";
+$locale['browse'] = "Przeglądaj ...";
+$locale['or'] = "lub";

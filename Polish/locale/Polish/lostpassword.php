@@ -1,31 +1,26 @@
 <?php
-$locale['400'] = "Zapomniane hasło";
-$locale['401'] = "Na Twój adres e-mail wysłano wiadomość potwierdzającą. Kliknij na znajdujący się w&nbsp;niej odnośnik, aby wybrać nowe hasło.";
-$locale['402'] = "Na Twój adres e-mail wysłano nowe hasło.";
-$locale['403'] = "Powróć do strony głównej";
-$locale['404'] = "Nie znaleziono podanego adresu e-mail.";
-$locale['405'] = "Podano nieprawidłowy adres e-mail.";
-$locale['406'] = "Spróbuj jeszcze raz.";
+$locale['400'] = "Nie pamiętam hasła";
+$locale['401'] = "E-mail z potwierdzeniem został wysłany na Twój adres e-mail.";
+$locale['402'] = "Twoje nowe hasło zostało wysłane na Twój adres e-mail.";
+$locale['403'] = "Powrót do strony głównej";
+$locale['404'] = "Nie znaleziono podanego przez Ciebie adresu e-mail.";
+$locale['405'] = "Podany przez Ciebie adres e-mail jest nieprawidłowy.";
+$locale['406'] = "Proszę spróbować ponownie.";
 $locale['407'] = "Podaj adres e-mail, na który konto zostało zarejestrowane<br />
 Nowe hasło zostanie automatycznie utworzone i&nbsp;na niego wysłane.";
 $locale['408'] = "Wyślij hasło";
 $locale['409'] = "Nowe hasło dla ";
-$locale['410'] = "Witaj [USER_NAME],
+$locale['410'] = "Witaj [USER_NAME],<br/>
+Poproszono o zmianę hasła do Twojego konta na stronie [SITENAME].<br/>
 
-Poproszono o zmianę hasła do Twojego konta na stronie ".$settings['sitename']." .
+Aby zmienić swoje hasło, kliknij poniższy link:<br/>
+[NEW_PASS_LINK]<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
+$locale['411'] = "Witaj [USER_NAME],<br/>
+Nowe hasło dostępu do konta na stronie [SITENAME] to:<br/>
 
-Jeśli dalej chcesz zmienić hasło, kliknij na poniższy link:
-
-[NEW_PASS_LINK]
-
-Z pozdrowieniami,
-".$settings['siteusername'];
-$locale['411'] = "Witaj [USER_NAME],
-
-Twoje nowe hasło na stronie ".$settings['sitename']." to:
-
-[NEW_PASS]
-
-Z pozdrowieniami,
-".$settings['siteusername'];
-$locale['412'] = "Wystąpił błąd, spróbuj ponownie.";
+[NEW_PASS]<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
+$locale['412'] = "Wystąpił błąd, proszę spróbować ponownie.";

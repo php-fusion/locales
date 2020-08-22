@@ -1,3 +1,3 @@
 <?php
-$locale['pl_poll_title'] = "Members Poll";
-$locale['pl_poll_desc'] = "Enable Permalinks for the Members Poll links in the site.";
+$locale['pl_poll_title'] = "Ankiety użytkowników";
+$locale['pl_poll_desc'] = "Aktywuje bezpośrednie odnośniki dla ankiet na stronie.";

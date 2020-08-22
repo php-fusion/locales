@@ -10,19 +10,19 @@ $locale['412'] = "Nie można było usunąć kategorii downloadu.";
 $locale['413'] = "Do kategorii są przypisane pliki do pobrania.<br />Przenieś je do innej kategorii.";
 $locale['414'] = "Usunięto kategorię downloadu.";
 // Download Category form
-$locale['420'] = "Nazwa:";
-$locale['421'] = "Opis:";
-$locale['422'] = "Sortuj pliki wg:";
+$locale['420'] = "Nazwa kategorii:";
+$locale['421'] = "Opis kategorii:";
+$locale['422'] = "Sortuj wg:";
 $locale['423'] = "ID pliku";
 $locale['424'] = "Tytułu";
 $locale['425'] = "Data dodania";
 $locale['426'] = "Rosnąco";
 $locale['427'] = "Malejąco";
 $locale['428'] = "Dostęp dla:";
-$locale['429'] = "Zapisz";
+$locale['429'] = "Zapisz kategorię";
 // Current Download Categories
 $locale['440'] = "Kategoria";
-$locale['441'] = "Dostęp dla";
+$locale['441'] = "Dostęp";
 $locale['442'] = "Opcje";
 $locale['443'] = "Edytuj";
 $locale['444'] = "Usuń";
@@ -30,5 +30,5 @@ $locale['445'] = "Brak zdefiniowanych kategorii downloadu.";
 // Delete Download category
 $locale['450'] = "Usunąć kategorię downloadu?";
 // Error Messages
-$locale['460'] = "Musisz podać nazwę kategorii.";
-$locale['461'] = "Kategoria o takiej nazwie już istnieje.";
+$locale['460'] = "Proszę wprowadzić nazwę kategorii.";
+$locale['461'] = "Ta kategoria już istnieje.";

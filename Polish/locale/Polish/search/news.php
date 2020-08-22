@@ -1,8 +1,8 @@
 <?php
-$locale['n400'] = "News";
-$locale['n401'] = "News item";
-$locale['n402'] = "News items";
-$locale['n403'] = "found in";
-$locale['n404'] = "news subject";
-$locale['n405'] = "news text";
-$locale['n406'] = "extended news text";
+$locale['n400'] = "Aktualności";
+$locale['n401'] = "aktualność";
+$locale['n402'] = "aktualności";
+$locale['n403'] = "znaleziono w";
+$locale['n404'] = "temacie aktualności";
+$locale['n405'] = "treści aktualności";
+$locale['n406'] = "rozszerzonej treści aktualności";

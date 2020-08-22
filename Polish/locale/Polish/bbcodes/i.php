@@ -1,3 +1,3 @@
 <?php
-$locale['bb_i_description'] = "Pochyla zaznaczony tekst";
-$locale['bb_i_usage'] = "pochylony tekst";
+$locale['bb_i_description'] = "Zmienia zaznaczony tekst na pisany kursywą";
+$locale['bb_i_usage'] = "Kursywa";

@@ -1,36 +1,36 @@
 <?php
 // Section Titles
-$locale['400'] = "Enabled Permalinks";
-$locale['401'] = "Disabled Permalinks";
+$locale['400'] = "Włączone bezpośrednie odnośniki";
+$locale['401'] = "Wyłączone bezpośrednie odnośniki";
 // Common
-$locale['402'] = "Rewrite Name";
-$locale['403'] = "Description";
-$locale['404'] = "Options";
-$locale['404a'] = "Enable";
-$locale['404b'] = "Disable";
-$locale['404c'] = "Edit";
-$locale['404d'] = "Reinstall";
+$locale['402'] = "Przepisz nazwę";
+$locale['403'] = "Opis";
+$locale['404'] = "Opcje";
+$locale['404a'] = "Włączone";
+$locale['404b'] = "Wyłączone";
+$locale['404c'] = "Edytuj";
+$locale['404d'] = "Ponowna instalacja";
 // Editing Permalinks
-$locale['405'] = "Editing Permalinks for %s";
-$locale['406'] = "Tags";
-$locale['407'] = "Description";
-$locale['408'] = "Types";
-$locale['409'] = "Edit Pattern";
-$locale['410'] = "Permalink type %u:";
-$locale['411'] = "Error";
-$locale['412'] = "Check the files of the Permalink %s!";
-$locale['413'] = "Save";
+$locale['405'] = "Edytowanie bezpośrednich odnośników dla %s";
+$locale['406'] = "Tagi";
+$locale['407'] = "Opis";
+$locale['408'] = "Typy";
+$locale['409'] = "Edycja wzoru";
+$locale['410'] = "Typ odnośnika %u:";
+$locale['411'] = "Błąd";
+$locale['412'] = "Sprawdź pliki bezpośredniego odnośnika %s!";
+$locale['413'] = "Zapisz";
 $locale['414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!\\nAre you sure you want to Disable this Permalink?";
 // Admin Messages
-$locale['420'] = "An Error occurred.";
-$locale['421'] = "Permalinks Updated successfully.";
-$locale['422'] = "No Permalink patterns found for %s.";
-$locale['423'] = "Permalink not found.";
-$locale['424'] = "Enabled Permalinks for %s successfully.";
-$locale['425'] = "Permalinks for %s are already enabled.";
-$locale['426'] = "Disabled Permalinks for %s successfully.";
+$locale['420'] = "Wystąpił błąd.";
+$locale['421'] = "Pomyślnie zaktualizowano linki bezpośrednie.";
+$locale['422'] = "Nie znaleziono wzorów bezpośrednich odnośników dla %s.";
+$locale['423'] = "Nie znaleziono bezpośredniego odnośnika.";
+$locale['424'] = "Pomyślnie włączono bezpośrednie odnośniki dla %s.";
+$locale['425'] = "Bezpośrednie odnośniki dla %s są już włączone.";
+$locale['426'] = "Pomyślnie wyłączono bezpośrednie odnośniki dla %s.";
 // Other
-$locale['427'] = "No Permalinks are enabled.";
+$locale['427'] = "Nie włączono bezpośrednich odnośników.";
 // Settings
 $locale['430'] = "SEO Settings";
 $locale['431'] = "Setting";

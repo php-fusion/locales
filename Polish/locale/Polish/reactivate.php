@@ -1,23 +1,17 @@
 <?php
 // Error messages
-$locale['500'] = "Wystąpił błąd!";
-$locale['501'] = "Link reaktywujący utracił swoją ważność.<br /><br />
-Skontaktuj się z&nbsp;administracją strony wysyłając e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu ręcznej reaktywacji konta.";
-$locale['502'] = "Link reaktywujący jest nieprawidłowy!<br /><br />
-Skontaktuj się z&nbsp;administracją strony wysyłając e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu ręcznej reaktywacji konta.";
-$locale['503'] = "Nie można było reaktywować konta!<br />
-Być może Twoje konto już zostało reaktywowane. Aby to sprawdzić, <a href='".$settings['siteurl']."login.php'>zaloguj się</a>.<br /><br />
-Jeśli logowanie nie udało się, skontaktuj się z&nbsp;administracją strony wysyłając e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu ręcznej reaktywacji konta.";
+$locale['500'] = "Wystąpił błąd";
+$locale['501'] = "Link ponownej aktywacji, w który kliknąłeś/aś nie jest już aktywny.<br /><br />Skontaktuj się z administratorem witryny przez [SITEEMAIL], jeśli chciał(a)byś poprosić o ręczną aktywację.";
+$locale['502'] = "Link ponownej aktywacji, w który kliknąłeś/aś nie jest już aktywny.<br /><br />Skontaktuj się z administratorem witryny przez [SITEEMAIL], jeśli chciał(a)byś poprosić o ręczną aktywację.";
+$locale['503'] = "Link ponownej aktywacji, którym podążyłeś/aś, nie mógł ponownie aktywować Twojego konta.<br />
+Być może Twoje konto zostało już ponownie aktywowane i w takim przypadku powinieneś/powinnaś być w stanie [LINK]zalogować się tutaj[/LINK].<br /><br />
+Jeśli nie możesz się teraz zalogować, skontaktuj się z administratorem witryny [SITEEMAIL], jeśli chcesz poprosić o ręczną aktywację.";
 // Send confirmation mail
-$locale['504'] = "Reaktywowano konto na ".$settings['sitename'];
-$locale['505'] = "Witaj [USER_NAME]!
+$locale['504'] = "Ponownie aktywowano konto na [SITENAME]";
+$locale['505'] = "Witaj [USER_NAME],
+<br>
+Twoje konto na [SITENAME] zostało ponownie aktywowane. Mamy nadzieję, że będziemy Cię częściej widywać na stronie.<br/><br/>
 
-Twoje konto na ".$settings['sitename']." zostało reaktywowane. Liczymy, że będziesz nas częściej odwiedzać.
-
-
-Z pozdrowieniami
-
-
-
-".$settings['siteusername'];
+Pozdrawiamy,<br/><br/>
+[SITEUSERNAME]";
 $locale['506'] = "Reaktywowano przez użytkownika.";

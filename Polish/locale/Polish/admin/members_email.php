@@ -1,74 +1,49 @@
 <?php
 $locale['email_create_subject'] = "Utworzono konto na ";
-$locale['email_create_message'] = "Witaj [USER_NAME]!
+$locale['email_create_message'] = "Witaj [USER_NAME],<br/>
 
-Twoje konto na ".$settings['sitename']." zostało utworzone.
+Twoje konto na [SITENAME] zostało utworzone.<br/>
+Możesz teraz zalogować się używając następujących danych:<br/>
 
-Teraz możesz zalogować się, korzystając z poniższych informacji:
-
-nazwa użytkownika: [USER_NAME]
-
-hasło: [PASSWORD]
-
-
-Z pozdrowieniami
-
-
-".$settings['siteusername'];
+Nazwa użytkownika: [USER_NAME]<br/>
+Hasło: [PASSWORD]<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
 $locale['email_activate_subject'] = "Aktywowano konto na ";
-$locale['email_activate_message'] = "Witaj [USER_NAME]!
+$locale['email_activate_message'] = "Witaj [USER_NAME],<br/>
+Twoje konto na [SITENAME] zostało aktywowane.<br/>
 
-Twoje konto na  ".$settings['sitename']." zostało aktywowane.
+Teraz możesz zalogować się używając wybranej nazwy użytkownika i hasła.<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
+$locale['email_deactivate_subject'] = "Reaktywacja konta na ";
+$locale['email_deactivate_message'] = "Witaj [USER_NAME],<br/>
+Minęło [DEACTIVATION_PERIOD] dni od ostatniego logowania na [SITENAME]. Twoje konto zostało oznaczone jako nieaktywne, ale wszystkie dane konta i zawartość pozostają nienaruszone.<br/>
 
-Teraz możesz zalogować się przy użyciu swojej nazwy użytkownika i hasła.
+Aby reaktywować swoje konto, po prostu kliknij poniższy link: [REACTIVATION_LINK]<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
+$locale['email_ban_subject'] = "Twoje konto [SITENAME] zostało zablokowane";
+$locale['email_ban_message'] = "Witaj [USER_NAME],<br/>
+Twoje konto na [SITENAME] zostało zablokowane przez [ADMIN_USERNAME] z następującego powodu:<br/>
 
-Wszystkiego dobrego
+[REASON]<br/>
+Jeśli chcesz otrzymać więcej informacji o tej blokadzie, skontaktuj się z administratorem witryny pod adresem [SITENAME].<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
+$locale['email_secban_subject'] = "Twoje konto [SITENAME] zostało zablokowane";
+$locale['email_secban_message'] = "Witaj [USER_NAME],<br/>
+Twoje konto na [SITENAME] zostało zablokowane przez [ADMIN_USERNAME] z powodu niektórych działań przypisanych do Ciebie lub powiązanych z Twoim kontem uznanych za zagrożenie dla bezpieczeństwa witryny.<br/>
 
-".$settings['siteusername'];
-$locale['email_deactivate_subject'] = "Reaktywacja konta na ".$settings['sitename'];
-$locale['email_deactivate_message'] = "Witaj [USER_NAME]!
+Jeśli chcesz otrzymać więcej informacji na temat tej blokady zp. bezpieczeństwa, skontaktuj się z administratorem strony pod adresem [SITENAME].<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
+$locale['email_suspend_subject'] = "Twoje konto na [SITENAME] zostało zawieszone";
+$locale['email_suspend_message'] = "Witaj [USER_NAME],<br/>
 
-Minęło ".$settings['deactivation_period']." dni od Twojego ostatniego zalogowania się na ".$settings['sitename'].". Twoje konto zostało uznane za bezczynne. Dane z nim związane pozostały niezmienione.
+Twoje konto na [SITENAME] zostało zawieszone przez [ADMIN_USERNAME] do [DATE] (czas witryny) z następującego powodu:<br/>
 
-Aby reaktywować konto, naciśnij na poniższy link:
-
-".$settings['siteurl']."reactivate.php?user_id=[USER_ID]&code=[CODE]
-
-Z pozdrowieniami
-
-
-".$settings['siteusername'];
-$locale['email_ban_subject'] = "Twoje konto na ".$settings['sitename']." zostało zablokowane";
-$locale['email_ban_message'] = "Witaj [USER_NAME]!
-
-Twoje konto na ".$settings['sitename']." zostało zablokowane przez ".$userdata['user_name']." z następujących powodów:
-
-[REASON].
-
-Jeśli potrzebujesz szczegółowych informacji dotyczących blokady konta, skontaktuj się z administracją strony wysyłając e-mail na adres ".$settings['siteemail'].".
-
-Z pozdrowieniami
-
-
-".$settings['siteusername'];
-$locale['email_secban_subject'] = "Twoje konto na ".$settings['sitename']." zostało zablokowane";
-$locale['email_secban_message'] = "Witaj [USER_NAME]!
-
-Twoje konto na ".$settings['sitename']." zostało zablokowane przez ".$userdata['user_name'].", ponieważ podjęte przez Ciebie działania stanowiły zagrożenie dla strony i jej użytkowników.
-
-Jeśli potrzebujesz szczegółowych informacji dotyczących blokady konta, skontaktuj się z administracją strony wysyłając e-mail na adres ".$settings['siteemail'].".
-
-Z pozdrowieniami
-
-
-".$settings['siteusername'];
-$locale['email_suspend_subject'] = "Twoje konto na ".$settings['sitename']."zostało zawieszone";
-$locale['email_suspend_message'] = "Hello [USER_NAME],
-
-Your account on ".$settings['sitename']." has been suspended by ".$userdata['user_name']." until [DATE] (site time) because of the following reason:
-
-[REASON].
-
-If you want more information about this suspension, please, contact the site administrator at ".$settings['siteemail'].".
-
-".$settings['siteusername'];
+[REASON]<br/>
+Jeśli chcesz otrzymać więcej informacji o tym zawieszeniu, skontaktuj się z administratorem witryny pod adresem [SITENAME].<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";

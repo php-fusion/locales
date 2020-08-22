@@ -1,3 +1,3 @@
 <?php
-$locale['pl_shoutbox_title'] = "Shoutbox";
-$locale['pl_shoutbox_desc'] = "Enable Permalinks for the Shoutbox Panel Archives";
+$locale['pl_shoutbox_title'] = "Czat";
+$locale['pl_shoutbox_desc'] = "Włącz bezpośrednie odnośniki dla archiwów Shoutbox";

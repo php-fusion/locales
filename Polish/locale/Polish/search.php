@@ -1,47 +1,47 @@
 <?php
-$locale['400'] = "Search ".$settings['sitename'];
+$locale['400'] = "Wyszukiwarka [SITENAME]";
 $locale['401'] = "Search for:";
-$locale['402'] = "Search";
-$locale['403'] = "search any of those words";
-$locale['404'] = "result has to contain all those words";
-$locale['405'] = "Where:";
-$locale['406'] = "Options:";
-$locale['407'] = "Entire site";
-$locale['408'] = "Search Results";
+$locale['402'] = "Szukaj";
+$locale['403'] = "wyszukaj jakiegokolwiek z tych słów";
+$locale['404'] = "wynik musi zawierać wszystkie te słowa";
+$locale['405'] = "Gdzie:";
+$locale['406'] = "Opcje:";
+$locale['407'] = "Cała witryna";
+$locale['408'] = "Wyniki wyszukiwania";
 //addition date
-$locale['420'] = "Search:";
-$locale['421'] = "all";
-$locale['422'] = "last day";
-$locale['423'] = "last week";
-$locale['424'] = "last two weeks";
-$locale['425'] = "last month";
-$locale['426'] = "last three months";
-$locale['427'] = "last six months";
+$locale['420'] = "Szukaj:";
+$locale['421'] = "wszystko";
+$locale['422'] = "ostatni dzień";
+$locale['423'] = "ostatni tydzień";
+$locale['424'] = "ostatnie dwa tygodnie";
+$locale['425'] = "ostatni miesiąc";
+$locale['426'] = "ostatnie trzy miesiące";
+$locale['427'] = "ostatnie sześć miesięcy";
 //where
-$locale['430'] = "title and message";
-$locale['431'] = "only message";
-$locale['432'] = "only title";
+$locale['430'] = "tytuł i wiadomość";
+$locale['431'] = "tylko wiadomość";
+$locale['432'] = "tylko tytuł";
 //sort by
-$locale['440'] = "Sort by:";
-$locale['441'] = "addition date";
-$locale['442'] = "title";
-$locale['443'] = "author";
+$locale['440'] = "Sortuj według:";
+$locale['441'] = "data dodania";
+$locale['442'] = "tytuł";
+$locale['443'] = "autor";
 //
-$locale['450'] = "descending";
-$locale['451'] = "ascending";
+$locale['450'] = "malejąco";
+$locale['451'] = "rosnąco";
 //characters in results
-$locale['460'] = "Show:";
-$locale['461'] = "characters in result";
-$locale['462'] = "entire text";
+$locale['460'] = "Pokaż:";
+$locale['461'] = "znaki w wyniku";
+$locale['462'] = "cały tekst";
 //No results
-$locale['500'] = "No matches found.";
-$locale['501'] = "Search text must be at least 3 characters long.";
-$locale['502'] = "Search strings with less than three characters (%s) are ignored in the search.";
+$locale['500'] = "Nie znaleziono dopasowań.";
+$locale['501'] = "Szukane hasło musi mieć co najmniej 3 znaki.";
+$locale['502'] = "Szukane wyrażenie (%s) zawiera mniej niż trzy znaki i zostało zignorowane w wynikach wyszukiwania.";
 //Global search
-$locale['510'] = "matches in global site search";
+$locale['510'] = "dopasowań w globalnym wyszukiwaniu na stronie";
 //
-$locale['520'] = "match";
-$locale['521'] = "matches";
-$locale['522'] = "found matching search criteria";
+$locale['520'] = "dopasowanie";
+$locale['521'] = "dopasowania";
+$locale['522'] = "znaleziono dopasowując kryteria wyszukiwania";
 //more than 100 results
-$locale['530'] = "Please be more precise in your query. Your query returns %s results. We are displaying just 100 top results";
+$locale['530'] = "Proszę być bardziej precyzyjnym/ą w zapytaniu. Twoje zapytanie zwraca %s wyników. Wyświetlamy tylko 100 najlepszych wyników";

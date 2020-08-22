@@ -1,35 +1,35 @@
 <?php
-$locale['100'] = "Menedżer plików";
+$locale['100'] = "Menedżer plików Fusion";
 
 // Delete Image
-$locale['400'] = "Usuwanie obrazów";
-$locale['401'] = "Obraz został usunięty.";
-$locale['402'] = "Powróć do zarządzania obrazami";
-$locale['403'] = "Powróć do początku panelu administracyjnego";
+$locale['400'] = "Usuń Obraz";
+$locale['401'] = "Obraz usunięty";
+$locale['402'] = "Powrót do obrazów administratora";
+$locale['403'] = "Powrót do strony głównej administratora";
 
 // Upload Image
-$locale['420'] = "Dodaj obraz";
+$locale['420'] = "Prześlij obraz";
 $locale['421'] = "Nazwa pliku:";
-$locale['422'] = "Obrazy";
+$locale['422'] = "Obrazy główne";
 $locale['423'] = "Obrazy artykułów";
-$locale['424'] = "Obrazy newsów";
+$locale['424'] = "Obrazy aktualności";
 $locale['425'] = "Możesz wgrać pliki w&nbsp;rozszerzeniach *.gif, *.jpg lub *.png";
-$locale['426'] = "Obraz został wgrany";
-$locale['427'] = "Obrazy kategorii newsów";
-$locale['428'] = "Obrazy Bloga";
-$locale['429'] = "Kategorie obrazów Bloga";
+$locale['426'] = "Obraz przesłano";
+$locale['427'] = "Obrazy kategorii aktualności";
+$locale['428'] = "Obrazy wpisów";
+$locale['429'] = "Obrazy kategorii wpisów";
 
 // View Image
-$locale['440'] = "Zobacz obraz";
-$locale['441'] = "Nie można było wyświetlić obrazu. Nieznany format pliku.";
+$locale['440'] = "Wyświetl obraz";
+$locale['441'] = "Nieznany format pliku, nie można wyświetlić obrazu.";
 $locale['442'] = "Usuń ten obraz";
 
 // Image Management
-$locale['460'] = "Lista obrazów";
+$locale['460'] = "Obrazy";
 $locale['461'] = "Zobacz";
 $locale['462'] = "Usuń";
-$locale['463'] = "Brak obrazów w&nbsp;folderze";
-$locale['464'] = "Aktualizuj listę obrazów dla edytora TinyMCE";
+$locale['463'] = "Ten katalog jest pusty";
+$locale['464'] = "Zaktualizuj listę obrazów dla edytora TinyMCE";
 
 // Popup Error/Warning Messages
 $locale['470'] = "Usunąć ten obraz?";

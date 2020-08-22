@@ -14,21 +14,21 @@ $locale['420'] = "Nazwa kategorii:";
 $locale['421'] = "Opis kategorii:";
 $locale['422'] = "Sortuj wg:";
 $locale['423'] = "ID Artykułu";
-$locale['424'] = "Tematu artykułu";
+$locale['424'] = "Tytuł artykułu";
 $locale['425'] = "Daty dodania";
 $locale['426'] = "Rosnąco";
 $locale['427'] = "Malejąco";
 $locale['428'] = "Dostęp dla:";
-$locale['429'] = "Zapisz";
+$locale['429'] = "Zapisz kategorię";
 // Current category options
 $locale['440'] = "Kategoria";
-$locale['441'] = "Dostęp dla";
+$locale['441'] = "Dostęp";
 $locale['442'] = "Opcje";
-$locale['443'] = "Edycja";
+$locale['443'] = "Edytuj";
 $locale['444'] = "Usuń";
 $locale['445'] = "Nie zdefiniowano kategorii artykułów";
 // Delete Article category
 $locale['450'] = "Usunąć kategorię artykułów?";
 // Error Messages
-$locale['460'] = "Musisz podać nazwę kategorii.";
-$locale['461'] = "Kategoria o takiej nazwie już istnieje.";
+$locale['460'] = "Proszę wprowadzić nazwę kategorii.";
+$locale['461'] = "Ta kategoria już istnieje.";

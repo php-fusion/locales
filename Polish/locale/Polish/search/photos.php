@@ -1,8 +1,8 @@
 <?php
-$locale['p400'] = "Photos";
-$locale['p401'] = "Photo";
-$locale['p402'] = "Photos";
-$locale['p403'] = "[NEW]";
+$locale['p400'] = "Zdjęcia";
+$locale['p401'] = "zdjęcie";
+$locale['p402'] = "Zdjęcia";
+$locale['p403'] = "[NOWY]";
 $locale['p404'] = "Album:";
-$locale['p405'] = "Addition date:";
-$locale['p406'] = "Views:";
+$locale['p405'] = "Data dodania:";
+$locale['p406'] = "Wyświetleń:";

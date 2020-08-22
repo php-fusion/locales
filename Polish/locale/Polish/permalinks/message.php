@@ -1,3 +1,3 @@
 <?php
-$locale['pl_message_title'] = "Messages";
-$locale['pl_message_desc'] = "Enable Permalinks for the Private Messaging system.";
+$locale['pl_message_title'] = "Prywatne wiadomości";
+$locale['pl_message_desc'] = "Włącza bezpośrednie odnośniki dla prywatnych wiadomości na stronie.";

@@ -1,24 +1,24 @@
 <?php
-$locale['100'] = "Blog Settings";
+$locale['100'] = "Ustawienia bloga";
 
-$locale['601'] = "Thumb size:";
-$locale['602'] = "Photo size:";
-$locale['603'] = "Maximum photo size:";
-$locale['604'] = "Width x Height";
-$locale['605'] = "Maximum file size (bytes):";
+$locale['601'] = "Wymiar miniatury:";
+$locale['602'] = "Wymiar zdjęcia:";
+$locale['603'] = "Maksymalny wymiar zdjęcia:";
+$locale['604'] = "Szerokość x Wysokość";
+$locale['605'] = "Maksymalny rozmiar pliku (w bajtach):";
 
-$locale['900'] = "Settings Updated";
-$locale['901'] = "Database update error occurs: Settings were not Updated!";
+$locale['900'] = "Zaktualizowano ustawienia";
+$locale['901'] = "Wystąpił błąd aktualizacji bazy danych: Ustawienia nie zostały zaktualizowane!";
 
-$locale['950'] = "Image Upload";
-$locale['951'] = "Image link:";
-$locale['952'] = "Category";
-$locale['953'] = "Blog Item";
-$locale['954'] = "Thumb ratio:";
-$locale['955'] = "Original";
-$locale['956'] = "Square";
-$locale['957'] = "Image on Front-page";
-$locale['958'] = "Image on Read-more";
-$locale['959'] = "Uploaded Photo";
-$locale['960'] = "Category Image";
-$locale['961'] = "Save Settings";
+$locale['950'] = "Prześlij obraz";
+$locale['951'] = "Adres obrazu:";
+$locale['952'] = "Kategoria";
+$locale['953'] = "Wpis na blogu";
+$locale['954'] = "Współczynnik miniatury:";
+$locale['955'] = "Oryginalny";
+$locale['956'] = "Kwadrat";
+$locale['957'] = "Obraz na stronie głównej";
+$locale['958'] = "Obraz na Czytaj więcej";
+$locale['959'] = "Przesłano zdjęcie";
+$locale['960'] = "Obraz kategorii";
+$locale['961'] = "Zapisz ustawienia";

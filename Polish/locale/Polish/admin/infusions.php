@@ -1,21 +1,21 @@
 <?php
 // Infusion Management
-$locale['400'] = "Wtyczki (Infusions)";
-$locale['401'] = "Instaluj";
-$locale['402'] = "Zaznaczony element będzie zainstalowany";
-$locale['403'] = "Zaznaczony element nie mógł być zainstalowany";
-$locale['404'] = "Zainstalowane wtyczki";
+$locale['400'] = "Wtyczki";
+$locale['401'] = "Aktywuj";
+$locale['402'] = "Ten element jest już zainstalowany";
+$locale['403'] = "Nie można zainstalować tego elementu";
+$locale['404'] = "Aktywowane wtyczki";
 $locale['405'] = "Tytuł";
 $locale['406'] = "Wersja";
-$locale['407'] = "Autor";
+$locale['407'] = "Deweloper";
 $locale['408'] = "Kontakt";
-$locale['409'] = "E-mail";
-$locale['410'] = "WWW";
-$locale['411'] = "Odinstaluj";
-$locale['412'] = "Odinstalować wtyczkę?";
-$locale['413'] = "Legenda:";
-$locale['414'] = "Nie zainstalowano";
-$locale['415'] = "Zainstalowano";
+$locale['409'] = "Adres e-mail";
+$locale['410'] = "Strona internetowa";
+$locale['411'] = "Dezaktywuj";
+$locale['412'] = "Dezaktywować tę wtyczkę?";
+$locale['413'] = "Klucz:";
+$locale['414'] = "Nieaktywna";
+$locale['415'] = "Aktywna";
 $locale['416'] = "Dostępna aktualizacja";
 $locale['417'] = "Brak dostępnych wtyczek.";
 $locale['418'] = "Status";
