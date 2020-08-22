@@ -1,0 +1,20 @@
+<?php
+$locale['html400'] = "- Select Color -";
+$locale['html401'] = "- Select Image -";
+$locale['html402'] = "Брунатно-малиновий";
+$locale['html403'] = "Червоний";
+$locale['html404'] = "Помаранчевий";
+$locale['html405'] = "Брунатний";
+$locale['html406'] = "Жовтий";
+$locale['html407'] = "Зелений";
+$locale['html408'] = "Світлий салатовий";
+$locale['html409'] = "Оливковий";
+$locale['html410'] = "Зелено-блакитний";
+$locale['html411'] = "Синій";
+$locale['html412'] = "Navy Blue";
+$locale['html413'] = "Бузковий";
+$locale['html414'] = "Світлий бузковий";
+$locale['html415'] = "Чорний";
+$locale['html416'] = "Сірий";
+$locale['html417'] = "Сріблястий";
+$locale['html418'] = "Білий";
