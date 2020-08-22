@@ -9,11 +9,7 @@ Nyní můžete přihlásit pomocí zvoleného uživatelského jména a hesla.<br
 $locale['email_deactivate_subject'] = "Obnovení účtu je vyžadováno v ";
 $locale['email_deactivate_message'] = "Ahoj [USER_NAME],<br/>\r\nBylo to [DEACTIVATION_PERIOD] dnů(y) od vašeho přihlášení naposledy [SITENAME]. Uživatel byl označen jako neaktivní, ale veškeré údaje o účtu a obsah zůstávají nedotčeny.<br/>\r\n
 Chcete-li účet znovu aktivovat, stačí kliknout na následující odkaz: [REACTIVATION_LINK]<br/>\r\nS pozdravem,<br/>\r\n[SITEUSERNAME]";
-$locale['email_deactivate_message'] = "Ahoj [USER_NAME],<br/>\r\nBylo to [DEACTIVATION_PERIOD] dnů(y) od vašeho přihlášení naposledy [SITENAME]. Uživatel byl označen jako neaktivní, ale veškeré údaje o účtu a obsah zůstávají nedotčeny.<br/>\r\n
-Chcete-li účet znovu aktivovat, stačí kliknout na následující odkaz: [REACTIVATION_LINK]<br/>\r\nS pozdravem,<br/>\r\n[SITEUSERNAME]";
 $locale['email_ban_subject'] = "Váš účet na [SITENAME] byl zakázán";
-$locale['email_ban_message'] = "Ahoj [USER_NAME],<br/>\r\nVáš účet je zapnutý [SITENAME] byl zakázán [ADMIN_USERNAME] z následujícího důvodu:<br/>\r\n
-[REASON]<br/>\r\nChcete-li získat další informace o tomto zákazu, obraťte se na správce webu na adrese [SITENAME].<br/>\r\nS pozdravem,<br/>\r\n[SITEUSERNAME]";
 $locale['email_ban_message'] = "Ahoj [USER_NAME],<br/>\r\nVáš účet je zapnutý [SITENAME] byl zakázán [ADMIN_USERNAME] z následujícího důvodu:<br/>\r\n
 [REASON]<br/>\r\nChcete-li získat další informace o tomto zákazu, obraťte se na správce webu na adrese [SITENAME].<br/>\r\nS pozdravem,<br/>\r\n[SITEUSERNAME]";
 $locale['email_secban_subject'] = "Váš účet na [SITENAME] byl zakázán";

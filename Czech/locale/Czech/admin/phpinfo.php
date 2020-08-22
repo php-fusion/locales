@@ -11,6 +11,7 @@ $locale['407'] = "PHP-Fusion verze";
 $locale['408'] = "Prefix databáze";
 $locale['409'] = "Prefix Cookie";
 $locale['410'] = "Webový prohlížeč a OS";
+$locale['411'] = "Přeložil: RobiNN (robinn@php-fusion.eu)"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "PHP nastavení";
 $locale['421'] = "Ano";
