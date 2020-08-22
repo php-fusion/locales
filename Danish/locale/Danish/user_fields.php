@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/user_fields.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Items shown in profile
 $locale['u040'] = "Dato for oprettelse";
 $locale['u041'] = "Seneste besøg";
@@ -68,7 +52,6 @@ $locale['uf_106'] = "Grundlæggende information";
 $locale['uf_107'] = "%s har ingen brugerinformation tilgængelig.";
 $locale['uf_108'] = "Brugerfelter ikke fundet.";
 
-
 // View User Groups
 $locale['u110'] = "Se brugergruppe";
 $locale['u111'] = "%u bruger";
@@ -105,7 +88,7 @@ $locale['u143a'] = " må ikke være tom.";
 $locale['u144'] = "Nyt admin. kodeord";
 $locale['u145'] = "Bekræft kodeord";
 $locale['u146'] = " kan ikke være identisk med det aktuelle ";
-$locale['u147'] = "Kodeordet skal have en længde på mellem 8 og 64 karakterer.<br/>Tilladte symboler og karakterer er a-z, 0-9 og @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Kodeordet skal have en længde på mellem 8 og 64 karakterer.<br/>Tilladte symboler og karakterer er a-z, 0-9 og @!#$%&\\/()=-_?+*.,:;";
 $locale['u148'] = "De to nye kodeord er ikke identiske.";
 $locale['u148a'] = "De to administrative kodeord er ikke identiske.";
 $locale['u149'] = "Der blev ikke angivet et nyt kodeord eller også var kodeord forkert.";
@@ -113,14 +96,14 @@ $locale['u149a'] = "Dit administrative kodeord blev ikke angivet eller var forke
 $locale['u149b'] = "Dit aktuelle kodeord blev ikke opgivet eller er forkert.<br/>Du kan ikke ændre dit administrative kodeord uden at angive det gældende kodeord korrekt.";
 // Email actiation
 $locale['u150'] = "Din tilmelding er næsten færdig. Du vil modtage en mail med dine pålogningsoplysninger sammen med et link, du skal bruge til at verificere din brugerkonto.";
-$locale['u151'] = "Velkommen til ".$settings['sitename'];
-$locale['u152'] = "Hej USER_NAME\n
-Velkommen som bruger på ".$settings['sitename'].". Her er dine pålogningsoplysninger:\n
-Brugernavn: USER_NAME
-Kodeord: USER_PASSWORD\n
-Aktiver din konto ved at klikke på dette link: ACTIVATION_LINK\n\n
-Venlig hilsen
-".$settings['sitename'];
+$locale['u151'] = "Velkommen til ";
+$locale['u152'] = "Hej USER_NAME<br/>
+Velkommen til SITENAME. Herunder følger dine brugeroplysninger:<br/>
+Brugernavn: USER_NAME<br/>
+Kodeord: USER_PASSWORD<br/>
+Vær så venlig at aktivere din konto ved at klikke på følgende link: ACTIVATION_LINK<br/>
+Venlig hilsen<br/>
+SITEUSERNAME";
 $locale['u153'] = "Aktiveringsmail kunne ikke afsendes.";
 $locale['u154'] = "Kontakt venligst sidens administrator.";
 $locale['u155'] = "Aktiver din konto";
@@ -141,9 +124,9 @@ $locale['u172'] = "Brugeren er tilføjet.";
 $locale['u173'] = "Tilbage til brugeradministration.";
 $locale['u174'] = "Tilføj endnu en bruger.";
 // Avatar upload
-$locale['u180'] = "Din avatar var for stor. Grænsen er ".parsebytesize($settings['avatar_filesize']).".";
+$locale['u180'] = "Din avatar var for stor. Grænsen er [LIMIT].";
 $locale['u181'] = "Din avatar ser ud til at være af en forbudt filtype. Der må kun bruges filer af typen jpg, png og gif.";
-$locale['u182'] = "Din avatar var større end ".$settings['avatar_width']."x".$settings['avatar_height']." pixels.";
+$locale['u182'] = "Din avatar var større end [WIDTH]x[HEIGHT] pixels.";
 $locale['u183'] = "Din avatar blev ikke uploadet korrekt.";
 $locale['u184'] = "Maksimal filstørrelse: %s / Maksimal størrelse: %ux%u pixels";
 $locale['u185'] = "Avatar";
@@ -153,18 +136,18 @@ $locale['u187'] = "Slet";
 $locale['u190'] = "Sikkerhedskode";
 $locale['u191'] = "Indskriv sikkerhedskode";
 $locale['u192'] = "Tilmeldingsbetingelser";
-$locale['u193'] = "Jeg har læst <a href='".BASEDIR."print.php?type=T' target='_blank'>tilmeldingsbetingelserne</a> og er indforstået med dem.";
+$locale['u193'] = "Jeg har læst [LINK]tilmeldingsbetingelserne[/LINK] og er indforstået med dem.";
 $locale['u194'] = "Forkert sikkerhedskode.";
 $locale['u195'] = "Der skal indskrives en sikkerhedskode.";
 // E-mail Change Confirmation
 $locale['u200'] = "En bekræftelsesmail er sendt til din mailadresse (%s).";
 $locale['u201'] = "Din mailadresse ændres, når du klikker på linket i mailen.";
-$locale['u202'] = "Bekræftelse af mailadresse på - ".$settings['sitename'];
-$locale['u203'] = "Hej [USER_NAME]\n
-Du eller en anden har angivet denne mailadresse i relation til kontoen på vores side.\n
-Hvis du virkelig vil ændre din mailadresse til det angivne, så klik på følgende link:\n
-[EMAIL_VERIFY_LINK]\n
-Bemærk: Du skal være logget på for at fortsætte.\n
+$locale['u202'] = "Bekræftelse af mailadresse på - [SITENAME]";
+$locale['u203'] = "Hej [USER_NAME]<br/>
+Du eller en anden har angivet denne mailadresse i relation til kontoen på vores side.<br/>
+Hvis du virkelig vil ændre din mailadresse til det angivne, så klik på følgende link:<br/>
+[EMAIL_VERIFY_LINK]<br/>
+Bemærk: Du skal være logget på for at kunne fortsætte.<br/>
 Venlig hilsen
-".$settings['siteusername']."
-".$settings['sitename'];
+[SITEUSERNAME]<br/>
+[SITENAME]";

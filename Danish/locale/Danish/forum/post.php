@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/forum/post.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Post Titles
 $locale['400'] = "Se indlæg";
 $locale['401'] = "Gem indlæg";
@@ -99,11 +83,11 @@ $locale['532'] = "Søg";
 $locale['550'] = "Der er svar i debatten - {THREAD_SUBJECT}";
 $locale['551'] = "Hej {USERNAME},
 
-Der er kommet et svar i debatten '{THREAD_SUBJECT}' som du følger med i på ".$settings['sitename'].". Du kan bruge linket herunder til at se svaret:
+Der er kommet et svar i debatten '{THREAD_SUBJECT}' som du følger med i på [SITENAME]. Du kan bruge linket herunder til at se svaret:
 
 {THREAD_URL}
 
 Hvis du ikke længere ønsker at følge med i denne debat, kan du klikke på linket 'Hold op med at følge debatten' i bunden af denne debat.
 
-Venlig hilsen
-".$settings['siteusername'].".";
+Venlig hilsen,<br/>
+[SITEUSERNAME]";

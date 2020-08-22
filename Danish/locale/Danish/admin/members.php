@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/members.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Member Management Options
 $locale['400'] = "Brugere";
 $locale['401'] = "Brugernavn";
@@ -24,10 +8,10 @@ $locale['404'] = "Valgmuligheder";
 $locale['405'] = "Se";
 $locale['406'] = "Rediger";
 $locale['407'] = "Aktiver";
-$locale['408'] = "Oph�v udelukkelse";
+$locale['408'] = "Ophæv";
 $locale['409'] = "Udeluk";
 $locale['410'] = "Slet";
-$locale['411'] = "Der er ikke fundet: <i>%s brugere</i>";
+$locale['411'] = "Der er ikke fundet: %s brugere";
 $locale['412'] = ", hvis brugernavn begynder med ";
 $locale['413'] = ", der passer på søgekriteriet ";
 $locale['414'] = "Vis alle";
@@ -71,9 +55,9 @@ $locale['440'] = "Gem ændringer";
 $locale['450'] = "Den primære administrator kan ikke redigeres.";
 $locale['451'] = "Du skal angive et brugernavn og en mailadresse.";
 $locale['452'] = "Brugernavnet indeholder forbudte tegn.";
-$locale['453'] = "Brugernavnet ".(isset($_POST['user_name']) ? $_POST['user_name'] : "")." anvendes allerede.";
+$locale['453'] = "Brugernavnet [user_name] anvendes allerede.";
 $locale['454'] = "Fejl i mailadresse.";
-$locale['455'] = "Mailadressen ".(isset($_POST['user_email']) ? $_POST['user_email'] : "")." anvendes allerede.";
+$locale['455'] = "Mailadressen [user_email] anvendes allerede.";
 $locale['456'] = "De to kodeord er ikke identiske.";
 $locale['457'] = "Der er fejl i kodeordet, brug kun alfanumeriske karakterer.<br/>
 Kodeordet skal være på mindst 8 tegn.";
@@ -86,7 +70,7 @@ $locale['473'] = "Brugergrupper";
 $locale['480'] = "Tilføj bruger";
 $locale['481'] = "Brugerkontoen er oprettet.";
 $locale['482'] = "Brugerkontoen kunne ikke oprettes.";
-// Suspension Log 
+// Suspension Log
 $locale['510s'] = "Udelukkelseslog for ";
 $locale['511s'] = "Der er ikke registreret udelukkelse for denne bruger.";
 $locale['512s'] = "Tidligere udelukkelse for ";
@@ -113,12 +97,12 @@ $locale['555'] = "Hvis du beslutter, at denne bruger skal udelukkes, så klik UD
 $locale['556'] = "Ophæv udelukkelse af brugeren: ";
 $locale['557'] = "Ophæv suspension";
 $locale['558'] = "Fjern udelukkelse af brugeren: ";
-$locale['559'] = "Ophæv udelukkelse for: ";
+$locale['559'] = "Ophæv udelukkelse for ";
 $locale['560'] = "Ophæv sikkerhedsudelukkelse for brugeren: ";
 $locale['561'] = "Ophæv sikkerhedsudelukkelse";
 $locale['562'] = "Udeluk brugeren: ";
 $locale['563'] = "Sikkerhedsudeluk brugeren: ";
-$locale['585a'] = "Angiv en årsag til udelukkelse eller ophævelse af udelukkelse for brugeren: ";
+$locale['585a'] = "Angiv en årsag til udelukkelse eller ophævelse af udelukkelse for brugeren ";
 $locale['566'] = "Udelukkelsen er ophævet";
 $locale['568'] = "Sikkerhedsudelukkelse gennemført";
 $locale['569'] = "Sikkerhedsudelukkelse ophævet";
@@ -158,6 +142,6 @@ $locale['615'] = "slettet helt";
 $locale['616'] = "anonymiser";
 $locale['617'] = "Advarsel:";
 $locale['618'] = "Det anbefales stærkt at ændre den handling, som udløses af en deaktivering til anonymisering i stedet for sletning for ikke at miste data!";
-$locale['619'] = "Det kan du gøre det samme <a href='".ADMIN."settings_users.php".$aidlink."'>HER</a>.";
+$locale['619'] = "Det kan du gøre det samme her.";
 $locale['620'] = "anonymiser";
 $locale['621'] = "Automatisk deaktivering af inaktive brugere.";

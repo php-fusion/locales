@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/permalinks.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Section Titles
 $locale['400'] = "Aktiverede permalinks";
 $locale['401'] = "Deaktiverede permalinks";
@@ -32,7 +16,7 @@ $locale['406'] = "Tags";
 $locale['407'] = "Beskrivelse";
 $locale['408'] = "Typer";
 $locale['409'] = "Rediger møsnter";
-$locale['410'] = "Permalink type %u:";
+$locale['410'] = "Type af permalink %u:";
 $locale['411'] = "Fejl";
 $locale['412'] = "Tjek filerne til permalink %s!";
 $locale['413'] = "Gem";
@@ -47,7 +31,7 @@ $locale['425'] = "Permalinks til %s er allerede aktiveret.";
 $locale['426'] = "Deaktiverede permalinks til %s gennemført.";
 // Other
 $locale['427'] = "Ingen permalinks er aktiverede.";
-// Settings 
+// Settings
 $locale['430'] = "SEO indstillinger";
 $locale['431'] = "Indstilling";
 $locale['432'] = "SEO Engine";

@@ -1,23 +1,7 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/settings.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['400'] = "Indstillinger";
 // Site Settings
-$locale['401'] = "Hovedindstillinger"; 
+$locale['401'] = "Hovedindstillinger";
 $locale['402'] = "Sidens navn:";
 $locale['403'] = "Sidens adresse:";
 $locale['404'] = "Sidens banner:";
@@ -57,7 +41,7 @@ $locale['436'] = "Ekskluder under nederste elementer:";
 $locale['437'] = "Bootstrap Framework:";
 $locale['438'] = "Søgemaskinevenlig URL (SEF):";
 // Time & Date Settings
-$locale['450'] = "Dato og klokkeslæt"; 
+$locale['450'] = "Dato og klokkeslæt";
 $locale['451'] = "Kort datoformat:";
 $locale['452'] = "Langt datoformat:";
 $locale['453'] = "Datoformat i debat:";
@@ -111,7 +95,7 @@ $locale['537'] = "(I minutter - skriv 0 for ingen grænse)";
 $locale['538'] = "Opdateringstidspunkt for redigerede indlæg.";
 $locale['539'] = "Vis avatar med seneste indlæg i debatforum?";
 // Registration Settings
-$locale['550'] = "Tilmelding"; 
+$locale['550'] = "Tilmelding";
 $locale['551'] = "Skal tilmelding være slået til?";
 $locale['552'] = "Skal der bruges mail til at færdiggøre tilmelding?";
 $locale['553'] = "Skal sikkerhedskoden vises?";
@@ -181,9 +165,9 @@ $locale['685ML'] = "Vælg tilladte sprog. <br/><b>Venligst bemærk</b>: Ved at f
 $locale['669'] = "Nyheder pr. side";
 $locale['670'] = "Bør være et ulige tal";
 $locale['671'] = "Slå kommentarsystem til?";
-$locale['672'] = "Slå vurderingssystem til";
+$locale['672'] = "Slå vurderingssystem til?";
 $locale['673'] = "Skjul brugerprofiler fra fremvisning:";
-$locale['674'] = "SMTP Port";
+$locale['674'] = "SMTP-port";
 $locale['675'] = "Vedligeholdelsesniveau:";
 $locale['676'] = "Administratorer";
 $locale['677'] = "Super administratorer";
@@ -218,6 +202,16 @@ $locale['699e'] = "Mailadresse";
 $locale['699f'] = "Generel";
 $locale['699g'] = "Undersøg uploadede filer for MIME type?";
 $locale['699h'] = "Aktiver Registrerings Gateway?";
+$locale['699ha'] = "GateWay metode";
+$locale['699hb'] = "Ord";
+$locale['699hc'] = "Tal";
+$locale['699hd'] = "Begge";
+$locale['699i'] = "Number Delimiter";
+$locale['699j'] = "Thousands separator";
+
+$locale['settings_100'] = "Tillad PHP Execution";
+$locale['settings_101'] = "Opdaterings checker";
+
 // Private Message Settings
 $locale['700'] = "Beskeder";
 $locale['701'] = "Grænse for beskedantal i indbakke:";
@@ -276,7 +270,7 @@ $locale['957'] = "Billede på forside";
 $locale['958'] = "Billede på udvidet tekst";
 $locale['959'] = "Uploadet billede";
 $locale['960'] = "Kategori-ikon";
-// User Management
+// User Settings
 $locale['1001'] = "Avatarvisningsfaktor:";
 $locale['1002'] = "Deaktiveringssystem slået til";
 $locale['1003'] = "Tilladt periode af inaktivitet:";
@@ -292,29 +286,6 @@ $locale['1012'] = "Anonymiser bruger(e)";
 $locale['1013'] = "Slet bruger(e)";
 $locale['1014'] = "Tillad brugere at logge på forskellige enheder på samme tid?";
 $locale['1014a'] = "Slå fra for højere sikkerhed";
-// Date format options (you can add/delete lines)
-// More info at: http://php.net/manual/en/function.strftime.php
-$locale['dateformats'][] = "%m/%d/%Y";
-$locale['dateformats'][] = "%d/%m/%Y";
-$locale['dateformats'][] = "%d-%m-%Y";
-$locale['dateformats'][] = "%d.%m.%Y";
-$locale['dateformats'][] = "%m/%d/%Y %H:%M";
-$locale['dateformats'][] = "%d/%m/%Y %H:%M";
-$locale['dateformats'][] = "%d-%m-%Y %H:%M";
-$locale['dateformats'][] = "%d.%m.%Y %H:%M";
-$locale['dateformats'][] = "%m/%d/%Y %H:%M:%S";
-$locale['dateformats'][] = "%d/%m/%Y %H:%M:%S";
-$locale['dateformats'][] = "%d-%m-%Y %H:%M:%S";
-$locale['dateformats'][] = "%d.%m.%Y %H:%M:%S";
-$locale['dateformats'][] = "%B %d %Y";
-$locale['dateformats'][] = "%d. %B %Y";
-$locale['dateformats'][] = "%d %B %Y";
-$locale['dateformats'][] = "%B %d %Y %H:%M";
-$locale['dateformats'][] = "%d. %B %Y %H:%M";
-$locale['dateformats'][] = "%d %B %Y %H:%M";
-$locale['dateformats'][] = "%B %d %Y %H:%M:%S";
-$locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
-$locale['dateformats'][] = "%d %B %Y %H:%M:%S";
 $locale['error_rate'] = 'Venligst indtast en fejlrate.';
 $locale['error_type'] = 'Venligst indtast filendelsestype.';
 $locale['error_width'] = 'Venligst indtast bredde.';
@@ -322,3 +293,4 @@ $locale['error_height'] = 'Venligst indtast højde.';
 $locale['error_value'] = 'Venligst indtast en værdi.';
 $locale['theme_settings'] = 'Temaindstillinger';
 $locale['theme_description'] = "Opsætningsindstillinger for temaer";
+include_once __DIR__.'/../../../includes/dateformats.php';

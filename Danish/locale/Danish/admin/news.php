@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/news.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // News titles
 $locale['400'] = "Eksisterende nyheder";
 $locale['401'] = "Tilføj nyhed";
@@ -56,4 +40,4 @@ $locale['451'] = "Skal denne nyhed slettes?";
 $locale['452'] = "%s er nu slået fra for alle nyheder.<br />Denne valgmulighed bliver først aktiv igen, når funktionen slås til.";
 $locale['453'] = "Kommentarer";
 $locale['454'] = "Vurdering";
-$locale['455'] = $locale['453']." and ".$locale['454'];
+$locale['455'] = $locale['453']." og ".$locale['454'];

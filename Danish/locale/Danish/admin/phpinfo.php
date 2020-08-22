@@ -1,32 +1,17 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/phpinfo.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-$locale['400'] = "PHP Info";
+$locale['400'] = "PHP-info";
 //General
 $locale['401'] = "Generelt";
-$locale['402'] = "Server software";
+$locale['402'] = "Server-software";
 $locale['403'] = "Webserver software";
-$locale['404'] = "PHP version";
-$locale['405'] = "PHP interface";
-$locale['406'] = "MySQL Server version";
+$locale['404'] = "PHP-version";
+$locale['405'] = "PHP-interface";
+$locale['406'] = "MySQL server-version";
 $locale['407'] = "PHP-Fusion version";
 $locale['408'] = "Database fornavn";
 $locale['409'] = "Cookie fornavn";
 $locale['410'] = "Browser og Operativsystem";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "PHP indstillinger";
 $locale['421'] = "Ja";

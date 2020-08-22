@@ -1,25 +1,9 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/panels.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Panel Management
 $locale['400'] = "Elementer";
 $locale['401'] = "Elementets navn";
 $locale['402'] = "Side";
-$locale['403'] = "R�kkefølge";
+$locale['403'] = "Rækkefølge";
 $locale['404'] = "Type";
 $locale['405'] = "Adgang for";
 $locale['406'] = "Valgmuligheder";

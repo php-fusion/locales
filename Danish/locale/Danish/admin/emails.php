@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/emails.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Titles
 $locale['400'] = "Mail skabelon";
 $locale['401'] = "Tilgængelige skabeloner";
@@ -44,7 +28,7 @@ $locale['432'] = "Afsender mailadresse";
 $locale['433'] = "Vil blive anvendt som afsendermailadresse under skabelontest";
 $locale['434'] = "Emne";
 $locale['435'] = "Besked";
-$locale['436'] = "Baggrund"; // Knap
+$locale['436'] = "Baggrund"; // Button
 $locale['437'] = "Test denne skabelon";
 $locale['438'] = "Skabelonen vil blive gemt og en testmail vil blive sendt til din adresse: %s. Fortsæt?";
 $locale['439'] = "Gem";

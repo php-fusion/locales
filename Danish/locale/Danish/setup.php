@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/setup.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['title'] = "PHP-Fusion version 8 installation";
 $locale['sub-title'] = "PHP-Fusion version 8 installation";
 $locale['os_version'] = '8.0';
@@ -33,6 +17,8 @@ $locale['009'] = "Afslut";
 // Step 1
 $locale['010'] = "Vælg et sprog";
 $locale['011'] = "Hent flere sprogfiler på <a href='https://www.php-fusion.co.uk'>php-fusion.co.uk</a>.";
+$locale['012'] = "For at kunne bruge PHP-Fusion, skal du acceptere betingelserne.";
+$locale['013'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>betingelser</a>";
 
 // Step 2
 $locale['020'] = "For at installationen kan fortsætte, skal følgende filer være skrivbare:";
@@ -42,7 +28,7 @@ $locale['023'] = "I orden";
 $locale['024'] = "Står forkert";
 $locale['025'] = "Genopfrisk";
 
-// Step 3 - Access criteria
+// Step 3 - Access
 $locale['030'] = "Database adgangsopsætning";
 $locale['031'] = "Databaseværtsnavn:";
 $locale['032'] = "Databasebrugernavn:";
@@ -87,19 +73,19 @@ $locale['066'] = "Mailadresse:";
 
 // Step 6 - User details validation
 $locale['070'] = "Brugernavnet indeholder forkerte karakterer.";
-$locale['070b'] ="Brugernavnet skal opgives.";
+$locale['070b'] = "Brugernavnet skal opgives.";
 $locale['071'] = "Dine to kodeord er ikke identiske.";
 $locale['072'] = "Forkert kodeord. Du må kun bruge alfanumeriske karakterer.<br/>Kodeordet skal mindst være på 8 karakterer.";
-$locale['072b'] ="Kodeord skal opgives";
+$locale['072b'] = "Kodeord skal opgives";
 $locale['073'] = "De to administratorkodeord er ikke identiske.";
 $locale['074'] = "Brugerkodeord og administratorkodeord skal være forskellige.";
 $locale['075'] = "Dit administratorkodeord er ikke gyldigt. Du må kun bruge alfanumeriske karakterer.<br/>Kodeordet skal være på mindst 8 karakterer.";
-$locale['075b'] ="Administratorkodeord skal opgives.";
+$locale['075b'] = "Administratorkodeord skal opgives.";
 $locale['076'] = "Det ser ikke ud, som om du har opgivet en korrekt mailadresse.";
-$locale['076b'] ="Mailadresse skal opgives.";
+$locale['076b'] = "Mailadresse skal opgives.";
 $locale['077'] = "Der er fejl eller mangler i dine oplysninger:";
 
-// Step 6 - Admin Panels
+// Step 6 - Admin Items
 $locale['080'] = "Administratorer";
 $locale['081'] = "Artikelkategorier";
 $locale['082'] = "Artikler";
@@ -121,7 +107,7 @@ $locale['097'] = "Nyhedskategorier";
 $locale['098'] = "Nyheder";
 $locale['099'] = "Elementer";
 $locale['100'] = "Fotoalbums";
-$locale['101'] = "PHP Info";
+$locale['101'] = "PHP-info";
 $locale['102'] = "Afstemninger";
 $locale['103'] = "Replikboks";
 $locale['104'] = "Interne links";
@@ -188,7 +174,7 @@ $locale['164'] = "Velkomstbesked";
 $locale['165'] = "Liste over debatter";
 $locale['166'] = "Brugerinformation";
 $locale['167'] = "Brugerafstemning";
-$locale['168'] = "";
+$locale['168'] = "RSS-feeds";
 $locale['169'] = "Blogarkiv";
 
 //Multilanguage table rights
@@ -215,7 +201,7 @@ $locale['183'] = "Grafik";
 $locale['184'] = "Udstyr";
 $locale['185'] = "Journal";
 $locale['186'] = "Brugere";
-$locale['187'] = "Mods";
+$locale['187'] = "Systemmodifikationer";
 $locale['188'] = "Film";
 $locale['189'] = "Netværk";
 $locale['190'] = "Nyheder";
@@ -254,7 +240,7 @@ $locale['222'] = "Valgmuligheder";
 $locale['223'] = "Statistik";
 $locale['224'] = "Privaliv";
 
-// Welcome message
+// Welcome panel message
 $locale['230'] = "Velkommen til din side";
 
 // Final message
@@ -270,14 +256,14 @@ $locale['forumdate'] = "%d-%m-%Y %H:%M";
 $locale['newsdate'] = "%d %B %Y";
 $locale['subheaderdate'] = " %d %B %Y %H:%M:%S";
 
-// Email Template Setup, don't translate the words between brackets [].
+// Email Template Setup, don´t translate the words between brackets [].
 $locale['T001'] = "Mailskabeloner";
 $locale['T101'] = "Underretning ved ny PB";
 $locale['T102'] = "Du har en ny privat besked fra [USER] ventende på [SITENAME]";
 $locale['T103'] = "Hej [RECEIVER],\r\nDu har modtaget en ny privat besked med emnet [SUBJECT] fra [USER] på [SITENAME]. Du kan læse din private besked på [SITEURL]messages.php\r\n\r\nBesked: [MESSAGE]\r\n\r\nDu kan deaktivere underretningen fra Private beskeder-administrationen hvis du ikke længere ønsker at modtage dem.\r\n\r\nMed venlig hilsen,\r\n[SENDER].";
 $locale['T201'] = "Underretning om nye debatforumindlæg";
 $locale['T202'] = "Trådsvar underretning - [SUBJECT]";
-$locale['T203'] = "Hej [RECEIVER],\r\n\r\nEt svar er oprettet i den debattråd \'[SUBJECT]\' du følger på [SITENAME]. Se svaret på følgende link:\r\n\r\n[THREAD_URL]\r\n\r\nØnsker du ikke længere at følge denne tråd kan du klikke på \'Hold op med at følge denne tråd\'-linket i toppen af tråden.\r\n\r\nMed venlig hilsen,\r\n[SENDER].";
+$locale['T203'] = "Hej [RECEIVER],\r\n\r\nEt svar er oprettet i den debattråd \\'[SUBJECT]\\' du følger på [SITENAME]. Se svaret på følgende link:\r\n\r\n[THREAD_URL]\r\n\r\nØnsker du ikke længere at følge denne tråd kan du klikke på \\'Hold op med at følge denne tråd\\'-linket i toppen af tråden.\r\n\r\nMed venlig hilsen,\r\n[SENDER].";
 $locale['T301'] = "Kontaktformular";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";

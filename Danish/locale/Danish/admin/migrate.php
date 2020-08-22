@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/migrate.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['100'] = "Bruger migrations værktøj";
 $locale['101'] = "Du skal vælge to forskellige brugere til migration";
 $locale['102'] = "Debatforum fulgte tråde";
@@ -42,8 +26,8 @@ $locale['123'] = "Primær bruger findes ikke.";
 $locale['124'] = "Ingen brugere at migrere";
 $locale['125'] = "Brugernavn til den nye konto";
 $locale['126'] = "Brugernavn fra kildekonto";
-$locale['127'] = "Migrer til bruger :";
-$locale['128'] = "Miger fra bruger :";
+$locale['127'] = "Migrer til bruger: ";
+$locale['128'] = "Miger fra bruger: ";
 $locale['129'] = "Sammenlæg valgte konti";
 $locale['130'] = "Vælg sektioner at migrere";
 $locale['131'] = "Flyt debatforum data";

@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/blog.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Blog titles
 $locale['400'] = "Nuværende blog";
 $locale['401'] = "Tilføj blog";
@@ -56,4 +40,4 @@ $locale['451'] = "Slet denne blog?";
 $locale['452'] = "%s er deaktiveret for alle emner.<br />Denne indstilling vil kun slå igennem når den aktiveres igen.";
 $locale['453'] = "Kommentarer";
 $locale['454'] = "Bedømmelser";
-$locale['455'] = $locale['453']." and ".$locale['454'];
+$locale['455'] = $locale['453']." og ".$locale['454'];

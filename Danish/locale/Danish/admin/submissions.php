@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/submissions.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Delete Submission
 $locale['400'] = "Slet forslag";
 $locale['401'] = "Forslaget er slettet";
@@ -53,7 +37,7 @@ $locale['446'] = "Linkbeskrivelse:";
 $locale['447'] = "Ønsker du at offentliggøre eller slette dette link?";
 $locale['448'] = "Offentliggør";
 $locale['449'] = "Slet";
-// Add/Delete News Submissions
+// Add/Delete News & Blog Submissions
 $locale['490'] = "Godkend nyhedsforslag";
 $locale['491'] = "Nyheden er offentliggjort";
 $locale['492'] = "Slet forslaget";
@@ -146,4 +130,4 @@ $locale['658'] = "Slet skærmdump";
 $locale['660'] = "%s er deaktiveret for alle elementer.<br/>Denne valgmulighed vil først blive aktiv igen, når muligheden atter aktiveres.";
 $locale['661'] = "Bemærkninger";
 $locale['662'] = "Vurderinger";
-$locale['663'] = $locale['661']." and ".$locale['662'];
+$locale['663'] = $locale['661']." og ".$locale['662'];

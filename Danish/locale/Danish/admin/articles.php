@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/articles.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Article titles
 $locale['400'] = "Tilføj artikel";
 $locale['401'] = "Rediger artikel";
@@ -49,4 +33,4 @@ $locale['455'] = " for at springe til artikelkategorier";
 $locale['456'] = "%s er slået fra for alle tekster.<br />Denne funktion vil først blive aktiv, når de er slået til igen.";
 $locale['457'] = "Kommentarer";
 $locale['458'] = "Vurdering";
-$locale['459'] = $locale['457']." and ".$locale['458'];
+$locale['459'] = $locale['457']." og ".$locale['458'];

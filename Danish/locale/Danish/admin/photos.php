@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/photos.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Album titles
 $locale['400'] = "Tilføj billede";
 $locale['401'] = "Rediger billede";
@@ -77,8 +61,8 @@ $locale['493'] = "Upload enkeltbilleder";
 $locale['494'] = "Upload folder med billeder";
 $locale['495'] = "Upload flere billeder";
 $locale['496'] = "Advarsel:<br/>Overskrift og beskrivelse til de enkelte billeder vil stå tomme.<br/>Du kan rette dette senere ved at redigere de enkelte billeder!";
-$locale['497'] = "1. Upload din folder med billeder til folderen %s.";
-$locale['498'] = "2. Vælg den folder, du vil tilføje til dit album %s.";
+$locale['497'] = "1. Upload din folder med billeder til folderen <em>%s</em>.";
+$locale['498'] = "2. Vælg den folder, du vil tilføje til dit album <strong>%s</strong>.";
 $locale['499'] = "Vælg folder:";
 $locale['500'] = "Tilføj de valgte foldere til dit album";
 $locale['501'] = "Ingen foldere fundet";
@@ -95,4 +79,4 @@ $locale['510'] = "Der er ikke fundet billeder";
 $locale['520'] = "%s er slået fra for alle billeder.<br/>Denne valgmulighed vil først blive tilgængelig igen, når funktionerne er slået til.";
 $locale['521'] = "Kommentar";
 $locale['522'] = "Vurdering";
-$locale['523'] = $locale['521']." and ".$locale['522'];
+$locale['523'] = $locale['521']." og ".$locale['522'];

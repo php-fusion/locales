@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/forum/main.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Forum Index
 $locale['400'] = "Debatforum";
 $locale['401'] = "Debattema";
@@ -34,14 +18,14 @@ $locale['451'] = "Emne";
 $locale['452'] = "Forfatter";
 $locale['453'] = "Visninger";
 $locale['454'] = "Svar";
-$locale['455'] = "Der er ikke startet debatter";
+$locale['455'] = "Side: ";
 $locale['456'] = "Endnu ingen indlæg";
 // View Forum Moderator options
 $locale['460'] = "Vælg alle";
 $locale['461'] = "Fravælg alle";
 $locale['462'] = "Slet emner";
 $locale['463'] = "Skal de valgte emner slettes?";
-// Forum Guide/Privelages
+// Forum Guide/Privileges
 $locale['470'] = "Åben debat med nye indlæg siden dit sidste besøg";
 $locale['471'] = "20 indlæg eller mere";
 $locale['472'] = "Åben debat uden nye indlæg siden dit sidste besøg.";
@@ -97,7 +81,7 @@ $locale['525'] = "Frigiv emne";
 $locale['526'] = "Flyt emne";
 $locale['527'] = "Opfrisk emne";
 $locale['528'] = "Udfør";
-$locale['530'] = "Filter";
+$locale['530'] = "Filtrer";
 $locale['531'] = "Tid";
 $locale['531a'] = "Al tid";
 $locale['531b'] = "I dag";

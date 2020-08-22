@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/blacklist.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Delete blacklisted user
 $locale['400'] = "Ophæv udelukkelse af bruger";
 $locale['401'] = "Brugerens udelukkelse er ophævet";
@@ -46,7 +30,7 @@ $locale['466'] = "N/A";
 $locale['467'] = "Administrator";
 $locale['468'] = "Dato";
 /*
-// IPv6 secific
+// IPv6 specific
 $locale['480'] = "IPv6 options";
 $locale['481'] = "The specified IPv6 address contains a shortcut (::) therefore cannot be determined unequivocally.";
 $locale['482'] = "Which version would you use?";

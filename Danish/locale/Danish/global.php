@@ -1,36 +1,18 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/global.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
-setlocale( LC_ALL, "da", "dan", "da_DK", "da_DK.DK.UTF-8", "danish" );
-setlocale(LC_TIME, "da","DA"); // Linux Server (Windows may differ)
-$locale['charset'] = "utf-8";
-$locale['region'] = "DA";
+$locale['setlocale'] = "da_DK"; // https://www.php.net/manual/en/function.setlocale.php
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "DA"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "da";
 $locale['short_lang_name'] = "da";
-$locale['tinymce'] = "da";
-$locale['select2'] = "da";
-$locale['phpmailer'] = "da";
-$locale['filemanager'] = "da";
+$locale['tinymce'] = "da"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "da"; // refer to path includes/jscripts/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "da"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "da"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "da";
 $locale['datepicker_js'] = "DD-M-YYYY H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y H:i:s";
 $locale['password_strength'] = "da";
-$locale['date_day'] = "%d %b";
+$locale['date_day'] = "%b %d";
 $locale['text-direction'] = "ltr";
 
 // Full & Short Months
@@ -65,7 +47,7 @@ $locale['last_name'] = "Efternavn";
 $locale['user0'] = "Gæst";
 $locale['user1'] = "Bruger";
 $locale['user2'] = "Administrator";
-$locale['user3'] = "Super Administrator";
+$locale['user3'] = "Superadministrator";
 $locale['user_na'] = "N/A";
 $locale['user_guest'] = "Gæst";
 $locale['user_anonymous'] = "Anonym Bruger";
@@ -84,7 +66,8 @@ $locale['status8'] = "Inaktiv";
 $locale['userf1'] = "Ordstyrer";
 // Navigation
 $locale['global_001'] = "Navigation";
-$locale['global_002'] = "Der er ikke oprettet links\n";
+$locale['global_002'] = "Der er ikke oprettet links
+";
 $locale['global_003'] = "Intet at vise";
 // Users Online
 $locale['global_010'] = "Besøgende";
@@ -123,7 +106,7 @@ $locale['global_044'] = "Debat";
 $locale['global_045'] = "Visninger";
 $locale['global_046'] = "Svar";
 $locale['global_047'] = "Nyeste indlæg";
-$locale['global_048'] = "Forum";
+$locale['global_048'] = "Debatforum";
 $locale['global_049'] = "Skrevet";
 $locale['global_050'] = "Forfatter";
 $locale['global_051'] = "Afstemning";
@@ -147,7 +130,7 @@ $locale['global_073b'] = " Kommentar";
 $locale['global_074'] = " Visninger";
 $locale['global_074b'] = " visning";
 $locale['global_075'] = "Udskriv";
-$locale['print'] = "Print";
+$locale['print'] = "Udskriv";
 $locale['global_076'] = "Rediger";
 $locale['global_077'] = "Nyheder";
 $locale['global_078'] = "Der er ikke oprettet nyheder endnu";
@@ -180,8 +163,8 @@ $locale['global_101c'] = "Indtast mailadresse eller brugernavn";
 $locale['global_102'] = "Kodeord";
 $locale['global_103'] = "Husk mig";
 $locale['global_104'] = "Log ind";
-$locale['global_105'] = "Er du endnu ikke registreret bruger?<br/><a href='".BASEDIR."register.php' class='side'>Klik her</a> for at oprette dig.";
-$locale['global_106'] = "Har du glemt dit kodeord?<br/>Bed om et nyt <a href='".BASEDIR."lostpassword.php' class='side'>ved at klikke her</a>.";
+$locale['global_105'] = "Er du endnu ikke registreret bruger? [LINK]Klik her[/LINK] for at oprette dig.";
+$locale['global_106'] = "[LINK]Glemt kodeord?[/LINK]";
 $locale['global_107'] = "Tilmelding";
 $locale['global_108'] = "Glemt kodeord";
 $locale['global_109'] = "Tilmeld";
@@ -219,8 +202,8 @@ $locale['UM061b'] = "Brugernavn eller mailadresse";
 $locale['UM062'] = "Kodeord";
 $locale['UM063'] = "Husk mig på denne computer";
 $locale['UM064'] = "Log ind";
-$locale['UM065'] = "Ikke registreret endnu?<br/><a href='".BASEDIR."register.php' class='side'>Klik her</a> for at oprette dig.";
-$locale['UM066'] = "Glemt kodeord?<br/>Få et nyt <a href='".BASEDIR."lostpassword.php' class='side'>her</a>.";
+$locale['UM065'] = "Er du endnu ikke registreret bruger? [LINK]Klik her[/LINK] for at oprette dig.";
+$locale['UM066'] = "Har du glemt dit kodeord?<br/>[LINK]Bed om at få et nyt ved at klikke her[/LINK].";
 $locale['UM067'] = "(ikke anbefalet på offentlige eller delte computere)";
 $locale['UM080'] = "Rediger profil";
 $locale['UM081'] = "Private beskeder";
@@ -278,23 +261,23 @@ $locale['global_196'] = "Forkert brugernavn eller kodeord.";
 $locale['global_197'] = "Vent et øjeblik, mens vi overfører dig ...<br/><br/>
 [ <a href='index.php'>Eller klik her, hvis du ikke ønsker at vente</a> ]";
 $locale['global_198'] = "<strong>Advarsel:</strong> Du har glemt at slette setup.php. Slet den med det samme!";
-$locale['global_199'] = "<strong>Advarsel:</strong> administratorkodeord er ikke oprettet. Klik på <a href='".BASEDIR."edit_profile.php'>Rediger profil</a> for at oprette det.";
+$locale['global_199'] = "Advarsel: administratorkodeord er ikke oprettet. Klik på [LINK]Rediger profil[/LINK] for at oprette det.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = $locale['global_200']."Søg";
-$locale['global_203'] = $locale['global_200']."FAQ";
-$locale['global_204'] = $locale['global_200']."Debat";
+$locale['global_202'] = " - Søg";
+$locale['global_203'] = " - FAQ";
+$locale['global_204'] = " - Debatforum";
 //Themes
 $locale['global_210'] = "Spring til indhold";
 $locale['global_300'] = "intet tema fundet";
 $locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte årsager kan sidens tema ikke findes.
 Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema designet til brug i forbindelse med
-<strong>PHP-Fusion version 7</strong> til folderen <strong>themes/</strong>. Efter at du har gjort det, skal du se
-under <strong>Hovedopsætning</strong> for at sikre dig, at det uploadede tema er kommet korrekt op på siden.
+PHP-Fusion version 8 til folderen themes. Efter at du har gjort det, skal du se
+under Hovedopsætning for at sikre dig, at det uploadede tema er kommet korrekt op på siden.
 Bemærk at den uploadede temafolder skal have nøjagtigt samme navn inklusive store og små bogstaver som navnet
-på det tema, du vælger under <strong>Hovedopsætning</strong>.<br/><br/> Hvis du er medlem på siden, så skal
-du kontakte sidens administrator via ".hide_email($settings['siteemail'])." mail og rapportere om problemet.";
+på det tema, du vælger under Hovedopsætning.<br/><br/> Hvis du er medlem på siden, så skal
+du kontakte sidens administrator via [SITE_EMAIL] mail og rapportere om problemet.";
 $locale['global_302'] = "Det tema, som du har valgt under hovedopsætning eksisterer ikke eller er inkompatibelt!";
 // JavaScript Not Enabled
 $locale['global_303'] = "Jamen dog! Hvor finder vi det stærke <strong>JavaScript</strong>?<br/>Din browser understøtter ikke
@@ -314,14 +297,14 @@ $locale['global_409'] = "Denne konto er blevet udelukket af sikkerhedsårsager."
 $locale['global_410'] = "Begrundelsen er: ";
 $locale['global_411'] = "Denne konto er blevet sat i passiv tilstand.";
 $locale['global_412'] = "Denne konto er blevet anonymiseret sandsynligvis på grund af manglende aktivitet.";
-// Banning due to flooding
+// Flood control
 $locale['global_440'] = "Automatisk udelukkelse via Flood Control";
 $locale['global_441'] = "Din brugerkonto på [SITENAME] er blevet udelukket";
 $locale['global_442'] = "Hej [USER_NAME]<br/>
 Din konto på [SITENAME] blev registreret fordi den offentliggjorde for mange indlæg på for kort tid fra IP-adressen [USER_IP]. Derfor er kontoen blevet udelukket. Dette sker for at forhindre, at scripts kan lægge spam ind meget hurtigt.<br/>
 Kontakt administratoren på [SITE_EMAIL] for at få genåbnet din konto eller dokumenter, at det ikke var dig der udlæste denne udelukkelse.<br/>
 [SITEUSERNAME]";
-// Lifting of suspension
+// Authenticate Class
 $locale['global_450'] = "Udelukkelsen er automatisk ophævet af systemet";
 $locale['global_451'] = "Udelukkelse er ophævet på [SITENAME]";
 $locale['global_452'] = "Hej USER_NAME<br/>
@@ -351,7 +334,7 @@ $locale['global_460'] = "Tom";
 $locale['global_461'] = "Bytes";
 $locale['global_462'] = "kB";
 $locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
+$locale['global_464'] = "DK";
 $locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "Vi sender dig videre til %s, vent venligst. Hvis du ikke bliver sendt videre, så klik her.";
@@ -447,7 +430,7 @@ $locale['sort'] = "Sorter";
 $locale['id'] = "ID";
 $locale['title'] = "Titel";
 $locale['rights'] = "Rettigheder";
-$locale['info'] = "Info";
+$locale['info'] = "Information";
 $locale['image'] = "Billede";
 // Forms
 $locale['choose'] = "Vælg venligst en ...";
@@ -462,7 +445,7 @@ $locale['note'] = "Lav en note om dette emne";
 $locale['publish'] = "Offentliggør";
 $locale['unpublish'] = "Fjern offentliggørelse";
 $locale['sticky'] = "Sticky";
-$locale['unsticky'] = "Unsticky";
+$locale['unsticky'] = "Ikke-sticky";
 $locale['draft'] = "Kladde";
 $locale['settings'] = "Indstillinger";
 $locale['posted'] = "oprettet";
@@ -476,7 +459,7 @@ $locale['admin-logout'] = "Admin log ud";
 $locale['message'] = "Private beskeder";
 $locale['logged'] = "Logget ind som ";
 $locale['version'] = "Version ";
-$locale['browse'] = "Browse ...";
+$locale['browse'] = "Gennemse ...";
 $locale['close'] = "Luk";
 $locale['nopreview'] = "Intet at vise";
 $locale['mark_as'] = "Marker som";
@@ -485,7 +468,7 @@ $locale['custom'] = "Brugerdefineret";
 $locale['submit'] = "Send";
 // Alignment
 $locale['left'] = "Venstre";
-$locale['center'] = "Center";
+$locale['center'] = "Midt i";
 $locale['right'] = "Højre";
 // Comments and ratings
 $locale['comments'] = "Kommentarer";
@@ -506,7 +489,7 @@ $locale['fmt_rating'] = "bedømmelse|bedømmelser";
 $locale['fmt_day'] = "dage|dage";
 $locale['fmt_download'] = "download|downloads";
 $locale['fmt_follower'] = "følger|følgere";
-$locale['fmt_forum'] = "forum|forums";
+$locale['fmt_forum'] = "debat|debatter";
 $locale['fmt_guest'] = "gæst|gæster";
 $locale['fmt_hour'] = "time|timer";
 $locale['fmt_item'] = "emne|emner";

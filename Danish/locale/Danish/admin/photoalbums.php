@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/photoalbums.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Album titles
 $locale['400'] = "Tilføj album";
 $locale['401'] = "Rediger album";
@@ -35,7 +19,7 @@ $locale['419'] = "Album kan ikke slettes. Dit kodeord er forkert.";
 $locale['420'] = "GD er ikke installeret på serveren. Fotoalbumfunktionen vil kun virke, når der er adgang til GD. Kontakt din leverandør.";
 // Album confirmation
 $locale['430'] = "Bekræftelse af sletning";
-$locale['431'] = "Det album, du prøver at slette, indeholder et eller flere billeder<br/>\nFor at slette dette album, skal du angive dit administratorkodeord:";
+$locale['431'] = "Det album, du prøver at slette, indeholder et eller flere billeder.<br />\n"."For at slette dette album, skal du angive dit administratorkodeord:";
 $locale['432'] = "Bekræft";
 $locale['433'] = "Fortryd";
 // Album form

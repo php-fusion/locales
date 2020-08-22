@@ -1,25 +1,9 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/submit.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['400'] = "Foreslå link";
 // Submit Link Success
 $locale['410'] = "Tak fordi du foreslog et link";
 $locale['411'] = "Vil du foreslå endnu et link?";
-$locale['412'] = "Vend tilbage til ".$settings['sitename'];
+$locale['412'] = "Vend tilbage til [SITENAME]";
 // Submit Link Form
 $locale['420'] = "Du skal bruge denne formular til at foreslå et link. Dit forslag vil blive gennemset af en administrator. Hvis dit linkforslag ikke betragtes som brugbart, vil det ikke blive accepteret.";
 $locale['421'] = "Linkkategori:";
@@ -33,7 +17,7 @@ $locale['450'] = "Foreslå nyhed";
 $locale['460'] = "Tak fordi du foreslog en nyhed";
 $locale['461'] = "Vil du foreslå endnu en nyhed?";
 // Submit News Form
-$locale['470'] = "Du skal bruge denne formular til at foreslå en nyhed. Dit forslag vil blive gennemset af en administrator. ".$settings['sitename']." reserverer sig retten til at afvise eller redigere alle forslag. Nyheder skal være relevante i forhold til indholdet på denne side. Forslag, som ikke er det, vil blive slettet.";
+$locale['470'] = "Du skal bruge denne formular til at foreslå en nyhed. Dit forslag vil blive gennemset af en administrator. [SITENAME] reserverer sig retten til at afvise eller redigere alle forslag. Nyheder skal være relevante i forhold til indholdet på denne side. Forslag, som ikke er det, vil blive slettet.";
 $locale['471'] = "Overskrift:";
 $locale['472'] = "Nyhedstekst:";
 $locale['473'] = " Slå automatiske linjeskift til";
@@ -48,7 +32,7 @@ $locale['450b'] = "Foreslå blog";
 $locale['460b'] = "Tak for at du har foreslået din blog";
 $locale['461b'] = "Foreslå et andet blogemne";
 // Submit Blog Form
-$locale['470b'] = "Benyt følgende formular til at foreslå bloggen. Dit forslag vil blive gennemset af en administrator. ".$settings['sitename']." påberåber sig retten til at tilføje eller rette i ethvert forslag. Dit blogforslag skal stemme overens med indholdet af denne hjemmeside.  Upassende forslag vil blive slettet uden videre.";
+$locale['470b'] = "Benyt følgende formular til at foreslå bloggen. Dit forslag vil blive gennemset af en administrator. [SITENAME] påberåber sig retten til at tilføje eller rette i ethvert forslag. Dit blogforslag skal stemme overens med indholdet af denne hjemmeside.  Upassende forslag vil blive slettet uden videre.";
 $locale['471b'] = "Emne:";
 $locale['472b'] = "Blog:";
 $locale['473b'] = " Aktiver automatisk linjebrud";
@@ -63,7 +47,7 @@ $locale['500'] = "Foreslå en artikel";
 $locale['510'] = "Tak for dit artikelforslag";
 $locale['511'] = "Ønsker du at foreslå endnu en artikel?";
 // Submit Article Form
-$locale['520'] = "Du skal bruge denne formular til at foreslå en artikel. Dit forslag vil blive gennemset af en administrator. ".$settings['sitename']." reserverer sig retten til at afvise eller redigere alle forslag. Artikler skal være relevante i forhold til indholdet på denne side. Forslag, som ikke er det, vil blive slettet.";
+$locale['520'] = "Du skal bruge denne formular til at foreslå en artikel. Dit forslag vil blive gennemset af en administrator. [SITENAME] reserverer sig retten til at afvise eller redigere alle forslag. Artikler skal være relevante i forhold til indholdet på denne side. Forslag, som ikke er det, vil blive slettet.";
 $locale['521'] = "Kategori:";
 $locale['522'] = "Overskrift:";
 $locale['523'] = "Introduktion:";
@@ -87,7 +71,7 @@ $locale['602'] = "Billedet skal være mindre end %u bytes.";
 $locale['603'] = "Accepterede formater er kun GIF, JPEG eller PNG.";
 $locale['604'] = "Billedet må ikke være større end %uw x %uh pixels.";
 // Submit Photo Form
-$locale['620'] = "Brug denne side til at foreslå et billede. Dit forslag vil blive gennemset af en administrator. ".$settings['sitename']." forbeholder sig retten til at afvise eller at rette alle forslag. Billederne skal ligge i tråd med indholdet på siden. Forslag, der ikke gør det, vil blive afvist";
+$locale['620'] = "Brug denne side til at foreslå et billede. Dit forslag vil blive gennemset af en administrator. [SITENAME] forbeholder sig retten til at afvise eller at rette alle forslag. Billederne skal ligge i tråd med indholdet på siden. Forslag, der ikke gør det, vil blive afvist";
 $locale['621'] = "Overskrift:";
 $locale['622'] = "Beskrivelse:";
 $locale['623'] = "Billede: ";
@@ -113,7 +97,7 @@ $locale['675'] = "Filnavn og adresse skal angives.";
 $locale['676'] = "Du skal lave en kort beskrivelse.";
 $locale['676a'] = "Ukendt fejl";
 // Submit Download Form
-$locale['680'] = "Brug nedenst�ende formular til at forslå et download. Dit forslag vil blive gennemset af en administrator. ".$settings['sitename']." forbeholder sig retten til at afvise eller redigere i alle forslag. Downloads skal være forenelige med det øvrige indhold på denne side. Hvis et forslag vurderes som upassende, vil det blive afvist uden videre.";
+$locale['680'] = "Brug nedenst�ende formular til at forslå et download. Dit forslag vil blive gennemset af en administrator. [SITENAME] forbeholder sig retten til at afvise eller redigere i alle forslag. Downloads skal være forenelige med det øvrige indhold på denne side. Hvis et forslag vurderes som upassende, vil det blive afvist uden videre.";
 $locale['681'] = "Overskrift:";
 $locale['682'] = "Beskrivelse:";
 $locale['682b'] = "Kort beskrivelse:";

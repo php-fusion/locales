@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/oneword.locale.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Greetings
 $locale['hello'] = "Hej!";
 $locale['goodbye'] = "Farvel!";
@@ -32,7 +16,7 @@ $locale['on'] = "Aktiveret";
 
 // Navigation
 $locale['next'] = "Næste";
-$locale['pevious'] = "Forrige";
+$locale['previous'] = "Forrige";
 $locale['back'] = "Tilbage";
 $locale['forward'] = "Frem";
 
@@ -51,17 +35,17 @@ $locale['promote'] = "Promover";
 
 //Tables
 $locale['status'] = "Status";
-$locale['order'] = "Rækkefølge";
+$locale['order'] = "Emne sortering";
 $locale['id'] = "ID";
 $locale['title'] = "Titel";
 $locale['rights'] = "Rettigheder";
 $locale['image'] = "Billede/Ikon";
-$locale['info'] = "Info";
+$locale['info'] = "Information";
 
 // Forms
 $locale['choose'] = "Vælg venligst en ...";
 $locale['parent'] = "Opret ny forælder ..";
-$locale['order'] = "Emne sortering";
+$locale['order'] = "Emnesortering";
 $locale['status'] = "Status";
 $locale['note'] = "Lav en note om dette emne";
 $locale['publish'] = "Offentliggjort";
@@ -78,4 +62,5 @@ $locale['logout'] = "Log ud";
 $locale['pm'] = "Private beskeder";
 $locale['logged'] = "Logget ind som ";
 $locale['version'] = "Version ";
-$locale['browse'] = "Browse ...";
+$locale['browse'] = "Gennemse ...";
+$locale['or'] = "eller";

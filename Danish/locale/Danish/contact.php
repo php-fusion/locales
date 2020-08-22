@@ -1,24 +1,8 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/contact.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Contact Form
 $locale['400'] = "Kontakt siden";
-$locale['401'] = "Der er flere måder, du kan kontakte siden på. Du kan sende en mail på adressen ".hide_email($settings['siteemail']).". 
-Hvis du er medlem på siden, kan du sende administratoren en privat besked. Alternativt kan du udfylde formularen her på siden, så vil din besked blive sendt som en mail.";
+$locale['401'] = "Der er flere måder, du kan kontakte siden på. Du kan sende en mail direkte til adressen [SITE_EMAIL]. Hvis du er oprettet som bruger, kan du sende en privat besked via [PM_LINK].
+Alternativt kan du udfylde formularen på denne side for at sende os en mail.";
 $locale['402'] = "Navn:";
 $locale['403'] = "Mailadresse:";
 $locale['404'] = "Emne:";

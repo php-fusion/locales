@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/messages.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Standard
 $locale['400'] = "Private beskeder";
 $locale['401'] = "Skriv ny besked";
@@ -115,8 +99,8 @@ $locale['621'] = "Underret mig pr. mail, når jeg modtager en ny privat besked:"
 $locale['622'] = "Gem modtagne beskeder automatisk:";
 $locale['623'] = "Gem opsætning";
 $locale['624'] = "Gemte valg";
-$locale['625'] = "Du har modtaget en ny privat besked på ".$settings['sitename'];
-$locale['626'] = ",\r\nDu har modtaget en ny privat besked på ".$settings['sitename'].". Du kan læse dine private beskeder på ".$settings['siteurl']."messages.php\r\n\r\nDu kan slå mailunderretning fra under valgmuligheder, hvis du ikke længere ønsker at blive underrettet om nye beskeder.";
+$locale['625'] = "Du har modtaget en ny privat besked på [SITENAME]";
+$locale['626'] = ",<br/>\nDu har modtaget en ny privat besked [SUBJECT] fra [USER] på [SITENAME]. Du kan [LINK]her læse[/LINK] dine private beskeder.<br/>\nDu kan slå mailunderretning fra under valgmuligheder, hvis du ikke længere ønsker at blive underrettet om nye beskeder.";
 $locale['627'] = "Fejl";
 $locale['628'] = "Var ikke i stand til at aflevere den private besked. Brugerens indbakke er fuld.";
 $locale['629'] = "Du kan ikke flytte de valgte beskeder over i den valgte folder, fordi der så vil være for mange beskeder i den folder.";

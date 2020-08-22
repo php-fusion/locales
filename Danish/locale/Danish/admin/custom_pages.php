@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/custom_pages.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Custom Pages titles
 $locale['400'] = "Tilføj brugeroprettet side";
 $locale['401'] = "Rediger brugeroprettet side";
@@ -45,8 +29,9 @@ $locale['453'] = "Administratorkodeordet er ikke korrekt";
 $locale['454'] = "%s er slået fra for alle tekster / sider.<br/>Dette valg bliver først aktivt, når funktionen slås til igen.";
 $locale['455'] = "Kommentarer";
 $locale['456'] = "Vurdering";
-$locale['457'] = $locale['455']." and ".$locale['456'];
+$locale['457'] = $locale['455']." og ".$locale['456'];
 // TinyMCE editor
 $locale['460'] = "TinyMCE:";
 $locale['461'] = "Slå til";
 $locale['462'] = "Slå fra";
+

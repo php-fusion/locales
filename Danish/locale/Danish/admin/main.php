@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/main.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Admin Links
 $locale['200'] = "[SITENAME] Administrationsside";
 $locale['ac00'] = "Administration";
@@ -23,7 +7,7 @@ $locale['ac02'] = "Brugere";
 $locale['ac03'] = "System";
 $locale['ac04'] = "Opsætning";
 $locale['ac05'] = "Infusioner";
-$locale['ac10'] = "Admin Dashboard";
+$locale['ac10'] = "Admin oversigt";
 $locale['202'] = "Brugerprofilopsætning";
 
 // Pre-defined sections
@@ -48,7 +32,7 @@ $locale['PH'] = "Fotoalbums";
 $locale['B'] = "Udeluk";
 $locale['C'] = "Kommentarer";
 $locale['DB'] = "Database backup";
-$locale['PI'] = "PHP Info";
+$locale['PI'] = "PHP-info";
 $locale['PO'] = "Afstemninger";
 $locale['SL'] = "Interne links";
 $locale['SU'] = "Brugerforslag";
@@ -89,10 +73,10 @@ $locale['LANG'] = "Sprogindstillinger";
 
 // Site Information
 $locale['250'] = "Dashboard - Oversigt";
-$locale['251'] = "Tilmeldte brugere:";
-$locale['252'] = "Ikke aktiverede brugere:";
-$locale['253'] = "Udelukkede brugere:";
-$locale['254'] = "Forslag:";
+$locale['251'] = "Tilmeldte brugere";
+$locale['252'] = "Ikke aktiverede brugere";
+$locale['253'] = "Udelukkede brugere";
+$locale['254'] = "Forslag";
 $locale['254a'] = "Ingen forslag i øjeblikket.";
 $locale['254b'] = "Ingen bedømmelser i øjeblikket.";
 $locale['254c'] = "Ingen kommentarer i øjeblikket.";
@@ -137,3 +121,11 @@ $locale['290'] = "Der er en autosave af dette indlæg som er nyere end versionen
 $locale['291'] = "Se autosave";
 $locale['292'] = "Gemte versioner";
 $locale['293'] = "Fyld til Autosave";
+
+$locale['search_msg_100'] = 'Fejl i forbindelse med systemvalidering';
+$locale['search_msg_101'] = 'Sikkerhedsfejl';
+$locale['search_msg_102'] = 'Siderne kunne ikke indlæses';
+$locale['search_msg_103'] = 'Søgeudtryk er for kort';
+$locale['search_msg_104'] = 'Der er ikke fundet nogen resultater';
+
+$locale['new_update_avalaible'] = "En ny [LINK]PHP-Fusion v[VERSION] updatering[/LINK] er tilgængelig. Venligst opdater!";

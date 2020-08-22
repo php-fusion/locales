@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/forums.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Forum Category titles
 $locale['400'] = "Tilføj debatforumkategori";
 $locale['401'] = "Rediger debatforumkategori";
@@ -48,8 +32,8 @@ $locale['520'] = "Debatforumnavn:";
 $locale['521'] = "Beskrivelse:";
 $locale['522'] = "Debatforumkategori:";
 $locale['523'] = "Sortering:";
-$locale['524'] = "Debatforum : Rettigheder";
-$locale['525'] = "Debatforum : Adgang:";
+$locale['524'] = "Debatforum Rettigheder";
+$locale['525'] = "Debatforum Adgang:";
 $locale['526'] = "Må oprette indlæg:";
 $locale['527'] = "Må skrive svar:";
 $locale['528'] = "Tilføje filer:";
