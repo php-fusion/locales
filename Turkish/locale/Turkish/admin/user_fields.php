@@ -23,7 +23,7 @@ $locale['425'] = "Etkinleştir";
 $locale['426'] = "API Version:";
 $locale['427'] = "Required";
 $locale['428'] = "This user field does not support being required";
-$locale['429'] = "Log";
+$locale['429'] = "Günlük";
 $locale['429a'] = "This user field does not support being logged";
 // Disabled user fields
 $locale['430'] = "Disabled User Fields";

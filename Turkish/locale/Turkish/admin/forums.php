@@ -1,39 +1,39 @@
 <?php
 // Forum Category titles
-$locale['400'] = "Add Forum Category";
-$locale['401'] = "Edit Forum Category";
+$locale['400'] = "Forum Kategorisi Ekle";
+$locale['401'] = "Forum Kategorisini Düzenle";
 // Forum Category messages
-$locale['410'] = "Forum Category added";
-$locale['411'] = "Forum Category updated";
-$locale['412'] = "The Forum Category cannot be deleted";
-$locale['413'] = "There are forums associated with this category";
-$locale['414'] = "Forum Category deleted";
+$locale['410'] = "Forum Kategorisi eklendi";
+$locale['411'] = "Forum Kategorisi güncellendi";
+$locale['412'] = "Forum Kategorisi silinemez";
+$locale['413'] = "Bu kategoriyle ilişkili forumlar var";
+$locale['414'] = "Forum Kategorisi silindi";
 // Forum Category form
 $locale['420'] = "Kategori Adı";
 $locale['420b'] = "Kategori Açıklaması";
 $locale['421'] = "Düzen";
 $locale['422'] = "Kategoriyi Kaydet";
 // Delete Forum Category
-$locale['440'] = "Delete Forum Category?";
+$locale['440'] = "Forum Kategorisi Silinsin mi?";
 // Forum titles
-$locale['500'] = "Add Forum";
+$locale['500'] = "Forum Ekle";
 $locale['501'] = "Forumu Düzenle";
 // Forum Category messages
-$locale['510'] = "Forum added";
-$locale['511'] = "Forum updated";
-$locale['512'] = "The Forum cannot be deleted";
-$locale['513'] = "There are threads associated with this category";
+$locale['510'] = "Forum eklendi";
+$locale['511'] = "Forum güncellendi";
+$locale['512'] = "Forum silinemez";
+$locale['513'] = "Bu kategoriyle ilişkili konular var";
 $locale['514'] = "Forum silindi";
-$locale['515'] = "Forum Moderators updated";
+$locale['515'] = "Forum Moderatörleri güncellendi";
 $locale['516'] = "Lütfen Bir Kategori Adı Girin.";
 $locale['517'] = "Lütfen farklı bir forum adı girin.";
 // Add/Edit Forum Form
-$locale['520'] = "Forum Name:";
-$locale['521'] = "Forum Description:";
-$locale['522'] = "Forum Category:";
-$locale['523'] = "Order:";
-$locale['524'] = "Forum Privileges";
-$locale['525'] = "Forum Access:";
+$locale['520'] = "Forum Adı:";
+$locale['521'] = "Forum Açıklaması:";
+$locale['522'] = "Forum Kategorisi:";
+$locale['523'] = "Düzen:";
+$locale['524'] = "Forum Ayrıcalıkları";
+$locale['525'] = "Forum Erişimi:";
 $locale['526'] = "Create Threads:";
 $locale['527'] = "Post Replies:";
 $locale['528'] = "Add Attachments:";
