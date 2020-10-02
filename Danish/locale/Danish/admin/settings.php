@@ -206,8 +206,8 @@ $locale['699ha'] = "GateWay metode";
 $locale['699hb'] = "Ord";
 $locale['699hc'] = "Tal";
 $locale['699hd'] = "Begge";
-$locale['699i'] = "Number Delimiter";
-$locale['699j'] = "Thousands separator";
+$locale['699i'] = "Nummerafgrænser";
+$locale['699j'] = "Tusindtalsskilletegn";
 
 $locale['settings_100'] = "Tillad PHP Execution";
 $locale['settings_101'] = "Opdaterings checker";
