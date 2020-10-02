@@ -1,6 +1,6 @@
 <?php
-$locale['html400'] = "- Select Color -";
-$locale['html401'] = "- Select Image -";
+$locale['html400'] = "- Renk Seç -";
+$locale['html401'] = "- Görüntü Seç -";
 $locale['html402'] = "Kestane";
 $locale['html403'] = "Kırmızı";
 $locale['html404'] = "Portakal";
@@ -11,7 +11,7 @@ $locale['html408'] = "Kireç";
 $locale['html409'] = "Zeytin";
 $locale['html410'] = "Cam göbeği";
 $locale['html411'] = "Mavi";
-$locale['html412'] = "Navy Blue";
+$locale['html412'] = "Lacivert";
 $locale['html413'] = "Mor";
 $locale['html414'] = "Menekşe";
 $locale['html415'] = "Siyah";

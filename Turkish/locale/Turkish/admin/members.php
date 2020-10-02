@@ -2,7 +2,7 @@
 // Member Management Options
 $locale['400'] = "Kullanıcı Yönetimi";
 $locale['401'] = "Kullanıcı";
-$locale['402'] = "Add New Member";
+$locale['402'] = "Yeni Üye Ekle";
 $locale['403'] = "Kullanıcı Türü";
 $locale['404'] = "Seçenekler";
 $locale['405'] = "Görüntüle";
