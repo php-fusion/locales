@@ -1,0 +1,20 @@
+<?php
+$locale['html400'] = "- اختيار لون -";
+$locale['html401'] = "- اختيار صورة -";
+$locale['html402'] = "كستنائي";
+$locale['html403'] = "أحمر";
+$locale['html404'] = "برتقالي";
+$locale['html405'] = "بنى";
+$locale['html406'] = "أصفر";
+$locale['html407'] = "أخضر";
+$locale['html408'] = "ليمون أخضر";
+$locale['html409'] = "زيتون";
+$locale['html410'] = "سماوي";
+$locale['html411'] = "أزرق";
+$locale['html412'] = "الأزرق الداكن";
+$locale['html413'] = "أرجواني";
+$locale['html414'] = "بنفسجي";
+$locale['html415'] = "أسود";
+$locale['html416'] = "رمادي";
+$locale['html417'] = "فضي";
+$locale['html418'] = "أبيض";
