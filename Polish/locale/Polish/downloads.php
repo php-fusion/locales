@@ -42,6 +42,6 @@ $locale['457'] = "Rosnąco";
 $locale['458'] = "Malejąco";
 $locale['459'] = "Zastosuj";
 $locale['460'] = "Wyszukaj pliki do pobrania:";
-$locale['461'] = "Szukaj";
+$locale['461'] = "Wyszukiwarka";
 $locale['462'] = "Kategoria:";
 $locale['463'] = "Sortuj według:";

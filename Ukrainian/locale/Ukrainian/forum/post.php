@@ -78,7 +78,7 @@ $locale['520'] = "Об&lsquo;єднано ";
 // Search Forum Form
 $locale['530'] = "Search Forum";
 $locale['531'] = "Search Keyword(s)";
-$locale['532'] = "Знайти";
+$locale['532'] = "Пошук";
 // Forum Notification Email
 $locale['550'] = "Сповіщення про нове повідомлення у темі - {THREAD_SUBJECT}";
 $locale['551'] = "Hello {USERNAME},\r\n

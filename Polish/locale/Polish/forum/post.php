@@ -78,7 +78,7 @@ $locale['520'] = "Scalony z";
 // Search Forum Form
 $locale['530'] = "Search Forum";
 $locale['531'] = "Search Keyword(s)";
-$locale['532'] = "Szukaj";
+$locale['532'] = "Wyszukiwarka";
 // Forum Notification Email
 $locale['550'] = "Powiadomienie o odpowiedzi w wątku - {THREAD_SUBJECT}";
 $locale['551'] = "Hello {USERNAME},

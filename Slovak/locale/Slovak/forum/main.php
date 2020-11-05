@@ -105,7 +105,7 @@ $locale['540'] = "Prejsť na fórum";
 $locale['541'] = "Hore";
 $locale['542'] = "Späť hore";
 // Search Forum
-$locale['550'] = "Hľadať";
+$locale['550'] = "Vyhľadávanie";
 // Image Alt attributes
 $locale['560'] = "Moje posledné príspevky";
 $locale['561'] = "Žiadne nové príspevky";

@@ -8,4 +8,4 @@ $locale['405'] = "Užívateľské skupiny";
 $locale['406'] = "Nie je registrovaný do žiadnej skupiny";
 $locale['407'] = "Prístup do všetkých skupín";
 $locale['408'] = "Hľadať užívateľa:";
-$locale['409'] = "Hľadať";
+$locale['409'] = "Vyhľadávanie";

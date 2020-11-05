@@ -105,7 +105,7 @@ $locale['540'] = "Ugrás a fórumra";
 $locale['541'] = "Top";
 $locale['542'] = "Fel";
 // Search Forum
-$locale['550'] = "Keres";
+$locale['550'] = "Kereső";
 // Image Alt attributes
 $locale['560'] = "Új hozzászólások";
 $locale['561'] = "Nincs új hozzászólás";

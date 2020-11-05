@@ -8,4 +8,4 @@ $locale['405'] = "Vartotojo grupės";
 $locale['406'] = "Nepriklauso jokiai grupei";
 $locale['407'] = "Priklauso visoms grupėms";
 $locale['408'] = "Ieškoti nario:";
-$locale['409'] = "Ieškoti";
+$locale['409'] = "Paieška";

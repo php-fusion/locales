@@ -78,7 +78,7 @@ $locale['520'] = "Zlúčené";
 // Search Forum Form
 $locale['530'] = "Hľadať vo fóre";
 $locale['531'] = "Kľúčové slová";
-$locale['532'] = "Hľadať";
+$locale['532'] = "Vyhľadávanie";
 // Forum Notification Email
 $locale['550'] = "Oznámenie odpovede na vlákno - {THREAD_SUBJECT}";
 $locale['551'] = "Ahoj {USERNAME},

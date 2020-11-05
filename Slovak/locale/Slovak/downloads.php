@@ -42,6 +42,6 @@ $locale['457'] = "Vzostupne";
 $locale['458'] = "Zostupne";
 $locale['459'] = "Použiť";
 $locale['460'] = "Vyhľadať súbory na stiahnutie:";
-$locale['461'] = "Hľadať";
+$locale['461'] = "Vyhľadávanie";
 $locale['462'] = "Kategória:";
 $locale['463'] = "Zoradiť podľa:";

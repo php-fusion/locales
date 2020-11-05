@@ -1,7 +1,7 @@
 <?php
 $locale['400'] = "Kereső [SITENAME]";
 $locale['401'] = "Keresendő:";
-$locale['402'] = "Keres";
+$locale['402'] = "Kereső";
 $locale['403'] = "keresés bármelyik kifejezésre";
 $locale['404'] = "összes kifejezést tartalmazza";
 $locale['405'] = "Keresés helye";

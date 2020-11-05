@@ -42,6 +42,6 @@ $locale['457'] = "Növekvő";
 $locale['458'] = "Csökkenő";
 $locale['459'] = "Alkalmaz";
 $locale['460'] = "Letöltések keresése:";
-$locale['461'] = "Keres";
+$locale['461'] = "Kereső";
 $locale['462'] = "Kategória:";
 $locale['463'] = "Rendezés:";

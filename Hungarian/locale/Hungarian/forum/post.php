@@ -78,7 +78,7 @@ $locale['520'] = "Egyesítve";
 // Search Forum Form
 $locale['530'] = "Keresés a fórumban";
 $locale['531'] = "Kulcsszó";
-$locale['532'] = "Keres";
+$locale['532'] = "Kereső";
 // Forum Notification Email
 $locale['550'] = "Új hozzászólás - {THREAD_SUBJECT}";
 $locale['551'] = "Szia {USERNAME},

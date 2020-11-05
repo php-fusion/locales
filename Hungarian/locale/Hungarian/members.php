@@ -8,4 +8,4 @@ $locale['405'] = "Felhasználói csoportok";
 $locale['406'] = "Egyik csoportba sem tartozik";
 $locale['407'] = "Összes";
 $locale['408'] = "Tag keresése:";
-$locale['409'] = "Keres";
+$locale['409'] = "Kereső";

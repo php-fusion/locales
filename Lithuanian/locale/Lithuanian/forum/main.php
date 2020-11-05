@@ -105,7 +105,7 @@ $locale['540'] = "Pereiti į forumą";
 $locale['541'] = "Viršus";
 $locale['542'] = "Į viršų";
 // Search Forum
-$locale['550'] = "Ieškoti";
+$locale['550'] = "Paieška";
 // Image Alt attributes
 $locale['560'] = "Nauji pranešimai";
 $locale['561'] = "Nėra naujų pranešimų";

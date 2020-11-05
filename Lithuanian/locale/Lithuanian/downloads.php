@@ -42,6 +42,6 @@ $locale['457'] = "Didėjančia tvarka";
 $locale['458'] = "Mažėjančia tvarka";
 $locale['459'] = "Taikyti";
 $locale['460'] = "Ieškoti siuntinių:";
-$locale['461'] = "Ieškoti";
+$locale['461'] = "Paieška";
 $locale['462'] = "Kategorija:";
 $locale['463'] = "Rikiuoti pagal:";

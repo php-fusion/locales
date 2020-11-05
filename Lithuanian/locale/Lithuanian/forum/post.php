@@ -78,7 +78,7 @@ $locale['520'] = "Sujungti į";
 // Search Forum Form
 $locale['530'] = "Ieškoti forumo";
 $locale['531'] = "Ieškoti raktažodžio (-ių)";
-$locale['532'] = "Ieškoti";
+$locale['532'] = "Paieška";
 // Forum Notification Email
 $locale['550'] = "Temos atsakymo pranešimas - {THREAD_SUBJECT}";
 $locale['551'] = "Sveiki {USERNAME},
