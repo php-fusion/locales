@@ -31,5 +31,5 @@ $locale['460'] = "Forum";
 $locale['461'] = "Temat";
 $locale['462'] = "Autor";
 $locale['463'] = "Opublikował(a)";
-$locale['464'] = "No matches found, please try again.";
-$locale['465'] = "Please specify at least one word to search for.";
+$locale['464'] = "Nie znaleziono wyników, spróbuj ponownie. ";
+$locale['465'] = "Proszę określić co najmniej jedno słowo do wyszukania.";

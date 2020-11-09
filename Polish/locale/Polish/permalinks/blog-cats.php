@@ -1,5 +1,5 @@
 <?php
 $locale['pl_blog_cats_title'] = "Kategoria bloga";
-$locale['pl_blog_cats_desc'] = "Enable Permalinks for the Blog Category on the site.";
-$locale['pl_tags_001'] = "ID of the Blog Category Item.";
-$locale['pl_tags_002'] = "Title or Subject of the Blog Category Item.";
+$locale['pl_blog_cats_desc'] = "W��cza linki bezpo�rednie do kategorii bloga na stronie.";
+$locale['pl_tags_001'] = "ID kategorii bloga.";
+$locale['pl_tags_002'] = "Tytu� lub temat kategorii bloga.";

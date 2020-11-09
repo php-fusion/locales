@@ -1,3 +1,3 @@
 <?php
-$locale['pl_cpnav_title'] = "Custom Pages Nav";
-$locale['pl_cpnav_desc'] = "Enable Permalinks for the Custom Pages Navigation Links on the site.";
+$locale['pl_cpnav_title'] = "Linki dodatkowych stron";
+$locale['pl_cpnav_desc'] = "W��cza linki bezpo�rednie do nawigacji stron dodatkowych.";

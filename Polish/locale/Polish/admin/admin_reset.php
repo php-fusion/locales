@@ -27,7 +27,7 @@ Powodem tego zresetowania jest: [RESET_MESSAGE]<br/>
 Pozdrawiamy,<br/>
 [ADMIN]";
 $locale['410'] = "Resetuj wyniki";
-$locale['411'] = "<strong>Uwaga:</strong> Hasło Administratora nie zostało wprowadzone lub jest nieprawidłowe.";
+$locale['411'] = "<strong>Uwaga:</strong> Hasło Admina nie wprowadzone lub nieprawidłowe.";
 $locale['412'] = "Hasło administratora:";
 $locale['415'] = "Dziennik resetu";
 $locale['416'] = "ID dziennika";

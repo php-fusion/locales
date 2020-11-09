@@ -20,7 +20,7 @@ $locale['410'] = "Typ odnośnika %u:";
 $locale['411'] = "Błąd";
 $locale['412'] = "Sprawdź pliki bezpośredniego odnośnika %s!";
 $locale['413'] = "Zapisz";
-$locale['414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!\\nAre you sure you want to Disable this Permalink?";
+$locale['414'] = "OSTRZEŻENIE: dane linków bezpośrednich i niestandardowych aliasów zostaną trwale usunięte!\\n Czy na pewno chcesz wyłączyć ten link bezpośredni? ";
 // Admin Messages
 $locale['420'] = "Wystąpił błąd.";
 $locale['421'] = "Pomyślnie zaktualizowano linki bezpośrednie.";
@@ -32,8 +32,8 @@ $locale['426'] = "Pomyślnie wyłączono bezpośrednie odnośniki dla %s.";
 // Other
 $locale['427'] = "Nie włączono bezpośrednich odnośników.";
 // Settings
-$locale['430'] = "SEO Settings";
-$locale['431'] = "Setting";
+$locale['430'] = "Ustawienia SEO";
+$locale['431'] = "Ustawienia";
 $locale['432'] = "SEO Engine";
 $locale['433'] = "Toggle to turn the SEO engine on or off";
 $locale['434'] = "Normalize";

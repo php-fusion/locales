@@ -1,6 +1,6 @@
 <?php
 // Enabled User Fields
-$locale['400'] = "Enabled User Fields";
+$locale['400'] = "Włączone pola uzytkownika";
 $locale['401'] = "Nazwa pola";
 $locale['402'] = "Opis";
 $locale['403'] = "Kolejność";
@@ -8,32 +8,32 @@ $locale['404'] = "Opcje";
 $locale['405'] = "W dół";
 $locale['406'] = "W górę";
 $locale['407'] = "Edytuj";
-$locale['408'] = "Wyłączone";
-$locale['409'] = "Refresh User Fields Ordering.";
-$locale['410'] = "WARNING: Userfield data will be permanently deleted!";
+$locale['408'] = "Wyłącz";
+$locale['409'] = "Odśwież kolejność pól.";
+$locale['410'] = "OSTRZEŻENIE: dane pola użytkownika zostaną trwale usunięte! ";
 $locale['411'] = "Błąd";
-$locale['412'] = "Check the files of the user field %s!";
+$locale['412'] = "Sprawdź dane w polu użytkownika %s!";
 // Enable / Edit User Field
-$locale['420'] = "Edit User Field";
-$locale['421'] = "Enable User Field";
-$locale['422'] = "Field Name:";
+$locale['420'] = "Edytuj pole";
+$locale['421'] = "Włącz pole";
+$locale['422'] = "Nazwa pola:";
 $locale['423'] = "Kategoria:";
 $locale['424'] = "Aktualizuj";
-$locale['425'] = "Włączone";
+$locale['425'] = "Włącz";
 $locale['426'] = "API Version:";
-$locale['427'] = "Required";
-$locale['428'] = "This user field does not support being required";
+$locale['427'] = "Wymagane";
+$locale['428'] = "To pole użytkownika nie może być wymagane ";
 $locale['429'] = "Log";
-$locale['429a'] = "This user field does not support being logged";
+$locale['429a'] = "To pole użytkownika nie obsługuje bycia zalogowanym";
 // Disabled user fields
-$locale['430'] = "Disabled User Fields";
-$locale['431'] = "Włączone";
+$locale['430'] = "Wyłączone pola użytkownika";
+$locale['431'] = "Włącz";
 // All user fields are enabled / No user fields are enabled
-$locale['440'] = "All user fields are enabled.";
-$locale['441'] = "No user fields are enabled.";
+$locale['440'] = "Wszystkie pola sa włączone.";
+$locale['441'] = "Nie ma włączonych pól.";
 // User Field Groups
 $locale['450'] = "Kontakt";
-$locale['451'] = "Information";
+$locale['451'] = "Informacja";
 $locale['452'] = "Opcje";
 $locale['453'] = "Statystyki";
 // Enable / Edit User Field Part #2

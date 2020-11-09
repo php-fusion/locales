@@ -1,5 +1,5 @@
 <?php
-$locale['ax8_00'] = 'Template file not found';
+$locale['ax8_00'] = 'Plik thema nie znaleziony';
 $locale['ax8_01'] = 'No menu items';
 $locale['ax8_02'] = 'No Location';
 $locale['ax8_03'] = 'Hidden Email';

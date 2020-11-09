@@ -1,7 +1,7 @@
 <?php
 // Titles
 $locale['400'] = "Szablony e-mail";
-$locale['401'] = "Available Templates";
+$locale['401'] = "Dostępne szablony";
 $locale['410'] = "Pomyślnie zaktualizowano szablon.";
 $locale['411'] = "Testowy e-mail wysłany do %s.";
 $locale['412'] = "Testowy temat";
@@ -12,17 +12,17 @@ $locale['416'] = "URL jakiegoś wątku";
 $locale['417'] = "Edytuj";
 $locale['418'] = "Format HTML";
 $locale['419'] = "Format zwykłego tekstu";
-$locale['420'] = "Template: ";
+$locale['420'] = "Szablon: ";
 $locale['421'] = "Użyj szablonu";
 $locale['422'] = "Wiadomości zostaną wysłane w formacie %s przy użyciu tego szablonu.";
 $locale['423'] = "Wiadomości będą wysyłane w formacie zwykłego tekstu przy użyciu domyślnych plików językowych.";
 $locale['424'] = "Tak";
 $locale['425'] = "Nie";
 $locale['426'] = "Format szablonu";
-$locale['427'] = "<strong>Note:</strong> Using images and text styling will not work in plain text mails!";
+$locale['427'] = "<strong>UWaga:</strong> używanie obrazów i stylizacji tekstu nie będzie działać w wiadomościach e-mail zawierających zwykły tekst!";
 $locale['428'] = "Nazwa odbiorcy";
 $locale['429'] = "Nazwa nadawcy";
-$locale['430'] = "Will be used as Sender name for template testing";
+$locale['430'] = "Będzie używana jako nazwa nadawcy do testowania szablonu ";
 $locale['431'] = "E-mail odbiorcy";
 $locale['432'] = "E-mail nadawcy";
 $locale['433'] = "Będzie używany jako e-mail nadawcy do testowania szablonów";
@@ -30,7 +30,7 @@ $locale['434'] = "Temat";
 $locale['435'] = "Wiadomość";
 $locale['436'] = "Tło"; // Button
 $locale['437'] = "Testuj ten szablon";
-$locale['438'] = "Template will be saved and a test mail will be sent to your address: %s. Continue?";
+$locale['438'] = "Szablon zostanie zapisany, a wiadomość testowa zostanie wysłana na Twój adres: %s. Kontynuować? "; 
 $locale['439'] = "Zapisz";
 $locale['440'] = "Resetuj";
 // Help

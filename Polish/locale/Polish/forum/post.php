@@ -35,7 +35,7 @@ $locale['446'] = "Twój post został zaktualizowany";
 $locale['447'] = "Powrót do wątku";
 $locale['448'] = "Powrót do forum";
 $locale['449'] = "Powrót do strony głównej forum";
-$locale['450'] = "Error: Your cookie session has expired, please login and repost";
+$locale['450'] = "Błąd: Twoja sesja plików cookie wygasła, zaloguj się i ponownie napisz ";
 $locale['451'] = "Obserwuj wątek";
 $locale['452'] = "Obserwujesz teraz ten wątek";
 $locale['453'] = "Nie obserwujesz już tego wątku";
@@ -48,8 +48,8 @@ $locale['462'] = "Font Color: ";
 $locale['463'] = "Opcje";
 $locale['464'] = "Załącznik";
 $locale['465'] = " (Optional)";
-$locale['466'] = "Max. filesize: %s / Allowed filetypes: %s / Max. number of  attachments: %s";
-$locale['467'] = "Add Poll (Optional)";
+$locale['466'] = "Max. wielkość pliku: %s / Dozwolone typy plików: %s / Max. liczba załączników: %s";
+$locale['467'] = "Dodaj ankietę (Opcjonalne)";
 $locale['468'] = "Edytuj ankietę";
 $locale['469'] = "Tytuł ankiety";
 $locale['470'] = "Opcja ankiety";
@@ -70,24 +70,24 @@ $locale['486'] = "Poinformuj mnie o odpowiedziach na ten post";
 $locale['487'] = "Ukryj edycję";
 $locale['488'] = "Zablokuj post";
 // Post Access Violation
-$locale['500'] = "You cannot edit this post.";
+$locale['500'] = "Nie możesz edytowac tego posta.";
 
 // Forum Post Merger
 $locale['520'] = "Scalony z";
 
 // Search Forum Form
-$locale['530'] = "Search Forum";
-$locale['531'] = "Search Keyword(s)";
-$locale['532'] = "Wyszukiwarka";
+$locale['530'] = "Przeszukaj Forum";
+$locale['531'] = "Szukaj słowa(słów)";
+$locale['532'] = "Szukaj";
 // Forum Notification Email
 $locale['550'] = "Powiadomienie o odpowiedzi w wątku - {THREAD_SUBJECT}";
-$locale['551'] = "Hello {USERNAME},
+$locale['551'] = "Witaj {USERNAME},
 
-A reply has been posted in the forum thread '{THREAD_SUBJECT}' which you are tracking at [SITENAME]. You can use the following link to view the reply:
+Odpowiedź została zamieszczona w wątku na forum "{THREAD_SUBJECT}", który śledzisz w [SITENAME]. Aby wyświetlić odpowiedź, możesz użyć następującego linku:
 
 {THREAD_URL}
 
-If you no longer wish to watch this thread you can click the 'Stop tracking this thread' link located at the top of the thread.
+Jeśli nie chcesz już śledzić tego wątku, możesz kliknąć link "Zatrzymaj śledzenie tego wątku" znajdujący się w górnej części wątku.
 
-Regards,
+Z poważaniem 
 [SITEUSERNAME].";

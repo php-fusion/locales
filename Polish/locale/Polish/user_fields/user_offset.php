@@ -1,7 +1,7 @@
 <?php
-$locale['uf_offset'] = "Offset";
-$locale['uf_offset_desc'] = "User defined offset.";
-$locale['uf_offset_error'] = "Offset was not set correctly.";
+$locale['uf_offset'] = "Strefa czasowa";
+$locale['uf_offset_desc'] = "Strefa użytkownika.";
+$locale['uf_offset_error'] = "Strefy nie ustawiono poprawnie.";
 
 $locale['offset_n1200'] = "(GMT -12:00) Eniwetok, Kwajalein";
 $locale['offset_n1100'] = "(GMT -11:00) Midway Island, Samoa";

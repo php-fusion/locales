@@ -32,7 +32,7 @@ $locale['436'] = "Podgląd aktualności";
 $locale['437'] = "Zapisz aktualność";
 $locale['438'] = "[SZKIC]";
 $locale['439'] = "Zdjęcie do newsa";
-$locale['440'] = "Max. filesize: %s / Allowed filetypes: GIF, JPEG or PNG.";
+$locale['440'] = "Max. rozmiar: %s / Dozwolone rozszerzenia: GIF, JPEG or PNG.";
 $locale['441'] = "Pagebreak";
 // Popup Error/Warning Messages
 $locale['450'] = "Proszę podać tytuł";

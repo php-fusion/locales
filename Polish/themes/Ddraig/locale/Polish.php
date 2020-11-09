@@ -1,14 +1,14 @@
 <?php
 //footer
 $locale['latest_news'] = "Najświeższe aktualności";
-$locale['no_news'] = "No news";
-$locale['latest_weblinks'] = "Latest Weblinks";
-$locale['no_links'] = "No links";
-$locale['scroll_top'] = "Scroll to top";
+$locale['no_news'] = "Brak newsów";
+$locale['latest_weblinks'] = "Najświeższe linki";
+$locale['no_links'] = "Brak linków";
+$locale['scroll_top'] = "Przewiń do góry";
 
-$locale['tcp_warning'] = "<strong>Warning:</strong> the Theme Control Panel has not been infused yet.<br/>To infuse it go to infusions by [link]clicking here[/link].";
+$locale['tcp_warning'] = "<strong>Ostrzeżenie:</strong> Theme Control Panel nie jest włączony.<br/>Aby włączyć przejdź do wtyczek [link]klikając tu[/link].";
 
 //forums
-$locale['sticky'] = "Pinned";
+$locale['sticky'] = "Przypięty";
 $locale['locked'] = "Zablokowany";
-$locale['deleted_user'] = "Deleted user";
+$locale['deleted_user'] = "Usunięty użytkownik";
