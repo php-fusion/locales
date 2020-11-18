@@ -268,6 +268,9 @@ $locale['T203'] = "Здравствуйте, [RECEIVER],<br/>В теме фор�
 $locale['T301'] = "Обратная связь";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
+$locale['T304'] = "Email activation";
+$locale['T305'] = "Добро пожаловать на сайт «[SITENAME]»";
+$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Мультиязычные настройки";
