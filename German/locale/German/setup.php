@@ -265,6 +265,9 @@ $locale['T203'] = "Hallo [RECEIVER],\r\n\r\nes gibt einen neuen Beitrag im Thema
 $locale['T301'] = "Kontaktformular";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
+$locale['T304'] = "Email activation";
+$locale['T305'] = "Herzlich Willkommen auf [SITENAME]";
+$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Mehrsprachig";

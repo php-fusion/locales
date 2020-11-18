@@ -312,9 +312,9 @@ $locale['global_455'] = "Hallo USER_NAME,
 
 ";
 $locale['global_456'] = "Neues Passwort bei [SITENAME]";
-$locale['global_457'] = "Hi USER_NAME,
-<br/>A new password has been set for your account at [SITENAME]. Please find the enclosed new login details:<br/>
-Username: USER_NAME<br/>Password: [PASSWORD]<br/>Regards,<br/>[SITEUSERNAME]";
+$locale['global_457'] = "Hallo USER_NAME,
+
+";
 $locale['global_458'] = "Das neue Passwort f&uuml;r USER_NAME wurde gesetzt.";
 $locale['global_459'] = "Das neue Passwort f&uuml;r USER_NAME wurde gesetzt, jedoch konnte die E-Mail nicht versendet werden. Bitte teile das neue Passwort dem Benutzer manuell mit.";
 // Function parsebytesize()

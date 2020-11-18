@@ -94,10 +94,10 @@ $locale['u148a'] = "Die neuen Adminpassw&ouml;rter stimmen nicht überein.";
 $locale['u149'] = "Dein aktuelles Loginpasswort wurde nicht angegeben oder ist fehlerhaft.";
 $locale['u149a'] = "Dein aktuelles Adminpasswort wurde nicht angegeben oder ist fehlerhaft";
 $locale['u149b'] = "Du hast dein aktuelles Admin Passwort nicht angegeben oder es ist falsch.<br />Du kannst dein Admin Passwort nicht &auml;ndern, ohne dein aktuelles Login Passwort anzugeben.";
-// Email actiation
+// Email activation
 $locale['u150'] = "Die Registrierung ist abgeschlossen.<br />
 ";
-$locale['u151'] = "Welcome to ";
+$locale['u151'] = "Herzlich Willkommen auf [SITENAME]";
 $locale['u152'] = "Hallo [USER_NAME],
 
 ";
