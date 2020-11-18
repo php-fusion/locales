@@ -94,9 +94,9 @@ $locale['u148a'] = "Az új admin jelszavak nem egyeznek meg.";
 $locale['u149'] = "A jelenlegi jelszavad nem lett megadva vagy érvénytelen.";
 $locale['u149a'] = "A jelenlegi admin jelszavad nem lett megadva vagy érvénytelen.";
 $locale['u149b'] = "A megadott belépési jelszó hibás vagy nincs megadva. A megfelelő belépési jelszó nélkül nem tudod módosítani az admin jelszavad.";
-// Email actiation
+// Email activation
 $locale['u150'] = "A regisztráció már majdnem kész.<br /> Hamarosan kapsz egy aktiváló e-mail-t a felhasználóneveddel, jelszavaddal és egy linkkel, amin aktiválhatod hozzáférésed.";
-$locale['u151'] = "Üdvözlet a ";
+$locale['u151'] = "Üdvözlet a [SITENAME]";
 $locale['u152'] = "Szia USER_NAME,<br />
 
 Üdvözlünk oldalunkon - SITENAME.<br />

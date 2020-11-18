@@ -286,6 +286,9 @@ Ha nem akarod tovább nyomon követni a témát kattints a \\'Téma nyomköveté
 $locale['T301'] = "Kapcsolatok űrlap";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
+$locale['T304'] = "Email activation";
+$locale['T305'] = "Üdvözlünk - [SITENAME]";
+$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Többnyelvű beállítások";
