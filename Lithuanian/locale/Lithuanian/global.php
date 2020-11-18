@@ -298,28 +298,52 @@ $locale['global_412'] = "Anketa buvo padaryta anonimine, greičiausiai dėl neak
 // Flood control
 $locale['global_440'] = "Automatinis flodo kontrolės sistemos blokavimas";
 $locale['global_441'] = "Jūsų vartotojas [SITENAME] buvo blokuotas";
-$locale['global_442'] = "Hello [USER_NAME],<br/>
-Your account on [SITENAME] was caught posting too many items to the system in very short time from the IP [USER_IP], and have therefor been banned. This is done to prevent bots from submitting spam messages in rapid succession.<br/>
-Please contact the site administrator at [SITE_EMAIL] to have your account restored or report if this was not you causing this security ban.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_442'] = "Sveiki [USER_NAME],
+
+Jūsų vartotojas tinklapyje [SITENAME] buvo pagautas pateikiantis per daug įrašų trumpame periode iš IP [USER_IP], ir todėl buvo blokuotas. Tai buvo padaryta siekiant apsisaugoti nuo botų, siunčiančių šlamšto pobūdžio informaciją.
+
+Prašome susisiekti su administratoriumi paštu [SITE_EMAIL] norėdami, kad Jūsų vartotojas būtų atkurtas arba pranešti kad tai ne Jūsų kaltė dėl šio saugumo blokavimo.
+
+
+Pagarbiai,
+[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Suspendavimą automatiškai pašalino sistema";
 $locale['global_451'] = "Suspendavimas pašalintas [SITENAME]";
-$locale['global_452'] = "Hello USER_NAME,<br/>
-The suspension of your account at [SITEURL] has been lifted. Here are your login details:<br/>
-Username: USER_NAME<br/>Password: Hidden for security reasons<br/>
-If you have forgot your password you can reset it via the following link: LOST_PASSWORD<br/>
-Regards,<br/>[SITEUSERNAME]";
-$locale['global_453'] = "Hello USER_NAME,<br/>The suspension of your account at [SITEURL] has been lifted.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_452'] = "Sveiki USER_NAME,
+
+Jūsų anketos blokavimas tinklapyje [SITEURL] buvo pašalintas. Jūsų prisijungimo detalės:
+
+Slapyvardis: USER_NAME
+Slaptažodis: Nerodomas dėl saugumo motyvų
+
+Jeigu pamiršote savo slaptažodį, jį galite nustatyti nauju čia: LOST_PASSWORD
+
+
+Pagarbiai,
+[SITEUSERNAME]";
+$locale['global_453'] = "Sveiki USER_NAME,
+Jūsų anketos blokavimas tinklapyje [SITEURL] buvo pašalintas.
+
+
+Pagarbiai,
+[SITEUSERNAME]";
 $locale['global_454'] = "Account reactivated at [SITENAME]";
 $locale['global_455'] = "Hello USER_NAME,<br/>
 Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>
 Regards,<br/>[SITEUSERNAME]";
 $locale['global_456'] = "Naujas slaptažodis [SITENAME]";
-$locale['global_457'] = "Hi USER_NAME,
-<br/>A new password has been set for your account at [SITENAME]. Please find the enclosed new login details:<br/>
-Username: USER_NAME<br/>Password: [PASSWORD]<br/>Regards,<br/>[SITEUSERNAME]";
+$locale['global_457'] = "Sveiki USER_NAME,
+
+
+Jūsų vartotojui tinklapyje [SITENAME] buvo nustatytas naujas slaptažodis. Nauji prisijungimo duomenys:
+
+
+Vartotojo vardas: USER_NAME
+Slaptažodis: [PASSWORD]
+
+Pagarbiai,
+[SITEUSERNAME]";
 $locale['global_458'] = "Nustatytas naujas slaptažodis vartotojui USER_NAME";
 $locale['global_459'] = "Nustatytas naujas slaptažodis vartotojui USER_NAME, tačiau el. laiškas nebuvo išsiųstas. Prašome vartotojui pranešti naujus jo duomenis.";
 // Function parsebytesize()

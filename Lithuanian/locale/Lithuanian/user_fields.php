@@ -94,9 +94,9 @@ $locale['u148a'] = "Nauji administratoriaus slaptažodžiai nesutampa.";
 $locale['u149'] = "Jūsų dabartinis slaptažodis nenurodytas arba klaidingai įvestas.";
 $locale['u149a'] = "Jūsų administratoriaus slaptažodis nenurodytas arba klaidingai įvestas.";
 $locale['u149b'] = "Jūsų dabartinis prisijungimo slaptažodis buvo nenurodytas arba yra klaidingas.<br />Norint nustatyti administratoriaus slaptažodį, jūs turite įvesti teisingą savo prisijungimo slaptažodį.";
-// Email actiation
+// Email activation
 $locale['u150'] = "Jūsų registracija beveik baigta, neužilgo gausite el. laišką su prisijungimo duomenimis bei vartotojo paskyros patvirtinimo nuoroda.";
-$locale['u151'] = "Welcome to ";
+$locale['u151'] = "Sveikiname užsiregistravus [SITENAME]";
 $locale['u152'] = "Sveiki USER_NAME,
 \r\nSveikiname sėkmingai užsiregistravus SITENAME svetainėje. Jūsų prisijungimo duomenys:
 \r\nVartotojo vardas: USER_NAME
