@@ -94,9 +94,9 @@ $locale['u148a'] = "Nieuwe Admin wachtwoorden zijn niet identiek.";
 $locale['u149'] = "Uw huidige login wachtwoord is niet ingegeven of is ongeldig.";
 $locale['u149a'] = "Uw huidige Admin wachtwoord is niet ingegeven of is ongeldig.";
 $locale['u149b'] = "Uw huidige inlog wachtwoord is niet opgegeven of is onjuist.<br />U kunt niet uw Admin wachtwoord veranderen zonder het juiste inlog wachtwoord opgegeven te hebben.";
-// Email actiation
+// Email activation
 $locale['u150'] = "Uw aanmelding is bijna voltooid, u ontvangt binnen 5 minuten een e-mail met uw login-gegevens, samen met een link om uw account te activeren.<br /><br /><font style='font-size:30px; text-decoration:blink; text-align:center;'>Geen activatie mail ontvangen?</font><br /><font style='font-size:20px; text-align:center;'>Kijk in uw spammap of registreer opnieuw met een ander E-mail adres.</font><br /><br />";
-$locale['u151'] = "Welkom bij ";
+$locale['u151'] = "Welkom bij [SITENAME]";
 $locale['u152'] = "Hallo USER_NAME,<br/>
 Welkom op SITENAME. Hier zijn uw login gegevens:<br/>
 Gebruikersnaam: USER_NAME<br/>

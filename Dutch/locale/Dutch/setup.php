@@ -1,6 +1,6 @@
 <?php
-$locale['title'] = "PHP-Fusion Core 8 Edition Setup";
-$locale['sub-title'] = "PHP-Fusion Core 8 Edition Setup";
+$locale['title'] = "PHP-Fusion 8 Basis Editie Setup";
+$locale['sub-title'] = "PHP-Fusion 8 Basis Editie Setup";
 $locale['os_version'] = '8.0';
 $locale['xml_lang'] = "nl";
 $locale['charset'] = "utf-8";
@@ -282,6 +282,9 @@ Indien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \\'Vol
 $locale['T301'] = "Contact formulier";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
+$locale['T304'] = "Email activation";
+$locale['T305'] = "Welkom op [SITENAME]";
+$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Meertalige instellingen";
