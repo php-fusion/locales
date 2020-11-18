@@ -39,7 +39,7 @@ $locale['u101'] = "Zarejestruj się";
 $locale['u102'] = "Edytuj profil";
 $locale['u103'] = "Profil";
 $locale['u104'] = "Profil użytkownika";
-$locale['u105'] = "Aktualizuj profil";
+$locale['u105'] = "Aktualizuj profilu";
 
 // New UF 1.20
 $locale['uf_100'] = "Ustawienia ogólne konta";
@@ -94,9 +94,9 @@ $locale['u148a'] = "Nowe hasła administratora nie są identyczne.";
 $locale['u149'] = "Twoje aktualne hasło logowania nie zostało podane lub jest nieprawidłowe.";
 $locale['u149a'] = "Twoje aktualne hasło administratora nie zostało podane lub jest nieprawidłowe.";
 $locale['u149b'] = "Twoje aktualne hasło logowania nie zostało podane lub jest nieprawidłowe.<br />Nie możesz podać hasła administratora bez prawidłowego hasła logowania";
-// Email actiation
+// Email activation
 $locale['u150'] = "Twoja rejestracja jest prawie zakończona, otrzymasz wiadomość e-mail zawierającą dane logowania wraz z linkiem do weryfikacji konta.<br />Pamiętaj, aby sprawdzić folder ze spamem, jeśli nie otrzymasz wiadomości e-mail z potwierdzeniem.";
-$locale['u151'] = "Witaj w ";
+$locale['u151'] = "Witaj w [SITENAME]";
 $locale['u152'] = "Witaj USER_NAME,
 
 Witamy na SITENAME. Tutaj są dane logowania:

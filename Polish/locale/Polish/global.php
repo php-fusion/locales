@@ -123,7 +123,7 @@ $locale['global_070'] = "Opublikowane przez ";
 $locale['global_070b'] = "Wyświetl wszystkie posty %s";
 $locale['global_071'] = "w ";
 $locale['global_071b'] = "Autor";
-$locale['global_072'] = "Czytaj więcej ";
+$locale['global_072'] = "Kontynuuj czytanie";
 $locale['global_073'] = " Komentarzy";
 $locale['global_073b'] = " Komentarz";
 $locale['global_074'] = " Czytań";
@@ -295,28 +295,46 @@ $locale['global_412'] = "To konto zostało zanonimizowane, prawdopodobnie z powo
 // Flood control
 $locale['global_440'] = "Automatyczna blokada przez kontrolę aktywności";
 $locale['global_441'] = "Twoje konto [SITENAME] zostało zablokowane";
-$locale['global_442'] = "Hello [USER_NAME],<br/>
-Your account on [SITENAME] was caught posting too many items to the system in very short time from the IP [USER_IP], and have therefor been banned. This is done to prevent bots from submitting spam messages in rapid succession.<br/>
-Please contact the site administrator at [SITE_EMAIL] to have your account restored or report if this was not you causing this security ban.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_442'] = "Witaj [USER_NAME],<br/>
+
+Twoje konto na [SITENAME] zostało przyłapane na wysyłaniu zbyt wielu informacji do systemu w bardzo krótkim czasie z IP [USER_IP], i zostały zablokowane. Dokonuje się tego w celu uniemożliwienia botom szybkiego przesyłania wiadomości spamowych.<br/>
+
+Skontaktuj się z administratorem witryny pod adresem [SITE_EMAIL] w celu przywrócenia konta lub zgłoszenia, jeśli to nie Ty spowodujesz tę blokadę.<br/>
+
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Zawieszenie automatycznie zniesione przez system";
 $locale['global_451'] = "Zawieszenie uruchamiane na [SITENAME]";
-$locale['global_452'] = "Hello USER_NAME,<br/>
-The suspension of your account at [SITEURL] has been lifted. Here are your login details:<br/>
-Username: USER_NAME<br/>Password: Hidden for security reasons<br/>
-If you have forgot your password you can reset it via the following link: LOST_PASSWORD<br/>
-Regards,<br/>[SITEUSERNAME]";
-$locale['global_453'] = "Hello USER_NAME,<br/>The suspension of your account at [SITEURL] has been lifted.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_452'] = "Witaj USER_NAME,<br/>
+
+Zawieszenie konta na [SITEURL] zostało zniesione. Oto Twoje dane logowania:<br/>
+
+Nazwa użytkownika: USER_NAME<br/>
+Hasło: Ukryte ze względów bezpieczeństwa<br/>
+
+Jeśli zapomniałeś hasła, możesz je zresetować za pomocą poniższego linku: LOST_PASSWORD<br/>
+
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
+$locale['global_453'] = "Witaj USER_NAME,<br/>
+Zawieszenie konta na [SITEURL] zostało zniesione.<br/>
+
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
 $locale['global_454'] = "Reaktywowano konto na [SITENAME]";
 $locale['global_455'] = "Witaj USER_NAME,<br/>
 Ostatnio zalogowałeś się na swoje konto zostało ponownie aktywowane w [SITEURL] i Twoje konto nie jest już oznaczone jako nieaktywne.<br/>
 Pozdrawiamy,<br/>[SITEUSERNAME]";
 $locale['global_456'] = "Powiadomienie o nowym haśle dla [SITENAME]";
-$locale['global_457'] = "Hi USER_NAME,
-<br/>A new password has been set for your account at [SITENAME]. Please find the enclosed new login details:<br/>
-Username: USER_NAME<br/>Password: [PASSWORD]<br/>Regards,<br/>[SITEUSERNAME]";
+$locale['global_457'] = "Witaj USER_NAME,
+<br/>
+Nowe hasło zostało ustawione dla Twojego konta na [SITENAME]. Załączamy nowe dane logowania:<br/>
+
+Nazwa użytkownika: USER_NAME<br/>
+Hasło: [PASSWORD]<br/>
+Pozdrawiamy,<br/>
+[SITEUSERNAME]";
 $locale['global_458'] = "Nowe hasło zostało ustawione dla USER_NAME";
 $locale['global_459'] = "Nowe hasło zostało ustawione dla USER_NAME, a e-mail nie został wysłany. Upewnij się, że poinformuj użytkownika o nowych szczegółach.";
 // Function parsebytesize()
@@ -394,7 +412,7 @@ $locale['update'] = "Aktualizuj";
 $locale['updated'] = "Zaktualizowano";
 $locale['remove'] = "Usuń";
 $locale['delete'] = "Usuń";
-$locale['search'] = "Szukaj";
+$locale['search'] = "Wyszukiwarka";
 $locale['help'] = "Pomoc";
 $locale['register'] = "Zarejestruj się";
 $locale['ban'] = "Zbanuj";

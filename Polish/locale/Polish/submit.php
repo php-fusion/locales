@@ -72,7 +72,7 @@ $locale['581'] = "Zatwierdź inne zdjęcie";
 $locale['600'] = "Zdjęcie nie może byc dodane";
 $locale['601'] = "Nieprawidłowa nazwa pliku.";
 $locale['602'] = "Obraz musi być mniejszy niż %u bytes.";
-$locale['603'] = "Obraz musi mieć rozszerzenie GIF, JPEG or PNG.";
+$locale['603'] = "Dozwolony typ obrazu to GIF, JPEG or PNG file.";
 $locale['604'] = "Obraz nie może być większy niż %us i %uw pikseli.";
 // Submit Photo Form
 $locale['620'] = "Skorzystaj z poniższego formularza, aby przesłać zdjęcie. Twoje zgłoszenie zostanie sprawdzone przez

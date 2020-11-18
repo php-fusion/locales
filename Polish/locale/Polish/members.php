@@ -8,4 +8,4 @@ $locale['405'] = "Grupy użytkownika";
 $locale['406'] = "Nie zapisany do żadnej z grup";
 $locale['407'] = "Dostęp do wszystkich grup";
 $locale['408'] = "Szukaj użytkowników:";
-$locale['409'] = "Szukaj";
+$locale['409'] = "Wyszukiwarka";

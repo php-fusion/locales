@@ -48,7 +48,7 @@ $locale['535'] = "Pobierz załączniki:";
 $locale['540'] = "Ustawienia forum:";
 $locale['541'] = "Łączenie postów:";
 $locale['542'] = "Włączone";
-$locale['543'] = "Wyłączone";
+$locale['543'] = "Disabled";
 // Current Forums
 $locale['550'] = "Obecne Fora";
 $locale['551'] = "Kategoria/Forum";

@@ -30,7 +30,7 @@ $locale['434'] = "Temat";
 $locale['435'] = "Wiadomość";
 $locale['436'] = "Tło"; // Button
 $locale['437'] = "Testuj ten szablon";
-$locale['438'] = "Szablon zostanie zapisany, a wiadomość testowa zostanie wysłana na Twój adres: %s. Kontynuować? "; 
+$locale['438'] = "Szablon zostanie zapisany, a wiadomość testowa zostanie wysłana na Twój adres: %s. Kontynuować? ";
 $locale['439'] = "Zapisz";
 $locale['440'] = "Resetuj";
 // Help

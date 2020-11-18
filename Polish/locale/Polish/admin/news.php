@@ -9,14 +9,14 @@ $locale['411'] = "Zaktualizowano newsa.";
 $locale['412'] = "Usunięto newsa.";
 $locale['413'] = "Nieprawidłowa nazwa pliku.";
 $locale['414'] = "Obraz musi być mniejszy niż %s.";
-$locale['415'] = "Image must be a GIF, JPEG or PNG file.";
+$locale['415'] = "Dozwolony typ obrazu to GIF, JPEG or PNG file.";
 $locale['416'] = "Obraz nie może być większy niż %us i %uw pikseli.";
 // News form
 $locale['420'] = "Edytuj";
 $locale['421'] = "Usuń";
 $locale['422'] = "Temat:";
 $locale['423'] = "Kategoria:";
-$locale['424'] = "- None -";
+$locale['424'] = "- Żadna -";
 $locale['425'] = "Treść:";
 $locale['426'] = "Treść rozszerzona:";
 $locale['427'] = "Data publikacji:";
@@ -32,7 +32,7 @@ $locale['436'] = "Podgląd aktualności";
 $locale['437'] = "Zapisz aktualność";
 $locale['438'] = "[SZKIC]";
 $locale['439'] = "Zdjęcie do newsa";
-$locale['440'] = "Max. rozmiar: %s / Dozwolone rozszerzenia: GIF, JPEG or PNG.";
+$locale['440'] = "Max. filesize: %s / Allowed filetypes: GIF, JPEG or PNG.";
 $locale['441'] = "Pagebreak";
 // Popup Error/Warning Messages
 $locale['450'] = "Proszę podać tytuł";

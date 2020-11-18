@@ -105,7 +105,7 @@ $locale['540'] = "Przejdź do forum";
 $locale['541'] = "Top";
 $locale['542'] = "Powrót do góry";
 // Search Forum
-$locale['550'] = "Szukaj";
+$locale['550'] = "Wyszukiwarka";
 // Image Alt attributes
 $locale['560'] = "Nowe posty";
 $locale['561'] = "Brak nowych postów";

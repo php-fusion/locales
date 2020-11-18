@@ -16,7 +16,7 @@ $locale['422'] = "Author:";
 $locale['423'] = "Posty:";
 $locale['424'] = "Lokalizacja:";
 $locale['425'] = "Dołączył:";
-$locale['426'] = "Posted on ";
+$locale['426'] = "Dodano ";
 $locale['427'] = "Edytowany przez ";
 $locale['428'] = " dnia ";
 $locale['429'] = " wrote:";
@@ -78,16 +78,16 @@ $locale['520'] = "Scalony z";
 // Search Forum Form
 $locale['530'] = "Przeszukaj Forum";
 $locale['531'] = "Szukaj słowa(słów)";
-$locale['532'] = "Szukaj";
+$locale['532'] = "Wyszukiwarka";
 // Forum Notification Email
 $locale['550'] = "Powiadomienie o odpowiedzi w wątku - {THREAD_SUBJECT}";
-$locale['551'] = "Witaj {USERNAME},
+$locale['551'] = "Hello {USERNAME},
 
-Odpowiedź została zamieszczona w wątku na forum "{THREAD_SUBJECT}", który śledzisz w [SITENAME]. Aby wyświetlić odpowiedź, możesz użyć następującego linku:
+A reply has been posted in the forum thread '{THREAD_SUBJECT}' which you are tracking at [SITENAME]. You can use the following link to view the reply:
 
 {THREAD_URL}
 
-Jeśli nie chcesz już śledzić tego wątku, możesz kliknąć link "Zatrzymaj śledzenie tego wątku" znajdujący się w górnej części wątku.
+If you no longer wish to watch this thread you can click the 'Stop tracking this thread' link located at the top of the thread.
 
-Z poważaniem 
+Regards,
 [SITEUSERNAME].";
