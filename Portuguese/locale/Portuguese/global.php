@@ -295,28 +295,49 @@ $locale['global_412'] = "Esta conta foi anonimizada, provavelmente por inactivid
 // Flood control
 $locale['global_440'] = "Ban Automático pelo Controlo Anti-Flood";
 $locale['global_441'] = "A sua conta em [SITENAME] foi banida";
-$locale['global_442'] = "Hello [USER_NAME],<br/>
-Your account on [SITENAME] was caught posting too many items to the system in very short time from the IP [USER_IP], and have therefor been banned. This is done to prevent bots from submitting spam messages in rapid succession.<br/>
-Please contact the site administrator at [SITE_EMAIL] to have your account restored or report if this was not you causing this security ban.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_442'] = "Olá [USER_NAME],<br/>
+
+A sua conta em [SITENAME] foi apanhada publicando muitos itens no sistema em muito pouco tempo a partir do IP [USER_IP], e foi banida! Isto é feito para evitar que os bots enviem mensagens de spam rapida e sucessivamente.<br/>
+
+Entre em contacto com o administrador do site em [SITE_EMAIL] para que a sua conta seja restaurada ou reporte se não foi você que causou essa falha de segurança.<br/>
+
+Atenciosamente,<br/>
+[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Suspensão automaticamente levantada pelo sistema";
 $locale['global_451'] = "Suspensão levantada às [SITENAME]";
-$locale['global_452'] = "Hello USER_NAME,<br/>
-The suspension of your account at [SITEURL] has been lifted. Here are your login details:<br/>
-Username: USER_NAME<br/>Password: Hidden for security reasons<br/>
-If you have forgot your password you can reset it via the following link: LOST_PASSWORD<br/>
-Regards,<br/>[SITEUSERNAME]";
-$locale['global_453'] = "Hello USER_NAME,<br/>The suspension of your account at [SITEURL] has been lifted.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_452'] = "Olá USER_NAME,<br/>
+
+A suspensão da sua conta em [SITEURL] foi levantada. Aqui estão os seus detalhes de login:<br/>
+
+Nome de utilizador: USER_NAME<br/>
+Palavra-passe: Oculto por razões de segurança<br/>
+
+Se você esqueceu sua Palavra-passe, você pode restaurá-la através do seguinte link: LOST_PASSWORD<br/>
+
+Atenciosamente,<br/>
+[SITEUSERNAME]";
+$locale['global_453'] = "Olá USER_NAME,<br/>
+A suspensão da sua conta em [SITEURL] foi levantada.<br/>
+
+Atenciosamente,<br/>
+[SITEUSERNAME]";
 $locale['global_454'] = "Conta reactivada em [SITENAME]";
-$locale['global_455'] = "Hello USER_NAME,<br/>
-Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_455'] = "Olá USER_NAME,<br/>
+
+Na última vez que você entrou na sua conta em [SITEURL], a mesma foi reactivada e não está mais marcada como inactiva.<br/>
+
+Atenciosamente,<br/>
+[SITEUSERNAME]";
 $locale['global_456'] = "Nova notificação da palavra-passe para [SITENAME]";
-$locale['global_457'] = "Hi USER_NAME,
-<br/>A new password has been set for your account at [SITENAME]. Please find the enclosed new login details:<br/>
-Username: USER_NAME<br/>Password: [PASSWORD]<br/>Regards,<br/>[SITEUSERNAME]";
+$locale['global_457'] = "Oi USER_NAME,
+<br/>
+Uma nova palavra-passe foi definida para a sua conta em [SITENAME]. Por favor, encontre os novos detalhes de login:<br/>
+
+Nome de Utilizador: USER_NAME<br/>
+Senha: [PASSWORD]<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
 $locale['global_458'] = "Nova senha foi definida para USER_NAME";
 $locale['global_459'] = "Nova palavra-passe foi definida para USER_NAME, e o e-mail não foi enviado. Por favor, certifique-se de informar o utilizador dos novos detalhes.";
 // Function parsebytesize()

@@ -94,9 +94,9 @@ $locale['u148a'] = "As novas palavras-passe de Administrador não são idêntica
 $locale['u149'] = "A sua Palavra-passe de utilizador Actual não foi especificada ou é inválida.";
 $locale['u149a'] = "A sua Palavra-passe de Admnistrador Actual não foi especificada ou é inválida.";
 $locale['u149b'] = "Your Current Login Password was not specified or is invalid.<br />You can't set your admin password without your correct login password.";
-// Email actiation
+// Email activation
 $locale['u150'] = "Your registration is almost complete, you will receive an email containing your login details along with a link to verify your account. <br /> Remember to check your spam mail folder if you do not receive a confirmation email.";
-$locale['u151'] = "Welcome to ";
+$locale['u151'] = "Bemvindo ao [SITENAME]";
 $locale['u152'] = "Olá USER_NAME,<br/>
 
 Bem-vindo ao SITENAME. Aqui estão os seus detalhes de login:<br/>
