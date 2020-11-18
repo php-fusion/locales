@@ -295,28 +295,49 @@ $locale['global_412'] = "Bu hesap, muhtemelen hareketsizlik nedeniyle anonimleş
 // Flood control
 $locale['global_440'] = "Saldırı Kontrolü ile Otomatik Yasaklama";
 $locale['global_441'] = "[SITENAME] hesabınız yasaklandı";
-$locale['global_442'] = "Hello [USER_NAME],<br/>
-Your account on [SITENAME] was caught posting too many items to the system in very short time from the IP [USER_IP], and have therefor been banned. This is done to prevent bots from submitting spam messages in rapid succession.<br/>
-Please contact the site administrator at [SITE_EMAIL] to have your account restored or report if this was not you causing this security ban.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_442'] = "Merhaba [USER_NAME],<br/>
+
+[SITENAME] hesabınız [USER_IP] IP adresiyle çok kısa sürede çok fazla öğe göndererek yakalandı ve bu nedenle yasaklandı. Bu, botların hızlı bir şekilde art arda spam mesajları göndermesini önlemek için yapılır.<br/>
+
+Hesabınızın eski durumuna getirilebilmesi için bu sitenin yöneticisi olan [SITE_EMAIL] ile irtibata geçin veya bu güvenlik yasağına neden olmuyorsanız, bunu raporlayın.<br/>
+
+Saygılarımızla,<br/>
+[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Askıya alma sistem tarafından otomatik olarak kaldırıldı";
 $locale['global_451'] = "[SITENAME] sitesinde askıya alma kaldırıldı";
-$locale['global_452'] = "Hello USER_NAME,<br/>
-The suspension of your account at [SITEURL] has been lifted. Here are your login details:<br/>
-Username: USER_NAME<br/>Password: Hidden for security reasons<br/>
-If you have forgot your password you can reset it via the following link: LOST_PASSWORD<br/>
-Regards,<br/>[SITEUSERNAME]";
-$locale['global_453'] = "Hello USER_NAME,<br/>The suspension of your account at [SITEURL] has been lifted.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_452'] = "Merhaba USER_NAME,<br/>
+
+[SITEURL] adresinde hesabınızın askıya alınması kaldırıldı. İşte giriş bilgileriniz:<br/>
+
+Kullanıcı Adı: USER_NAME<br/>
+Şifre: Güvenlik nedeniyle gizli<br/>
+
+Şifrenizi unuttuysanız bağlantıyı kullanarak şifrenizi sıfırlayabilirsiniz: LOST_PASSWORD<br/>
+
+Saygılarımızla,<br/>
+[SITEUSERNAME]";
+$locale['global_453'] = "Merhaba USER_NAME,<br/>
+[SITEURL] adresindeki hesabınızın askıya alınması kaldırılmıştır.<br/>
+
+Saygılarımızla,<br/>
+[SITEUSERNAME]";
 $locale['global_454'] = "[SITENAME] sitesinde yeniden etkinleştirilen hesap";
-$locale['global_455'] = "Hello USER_NAME,<br/>
+$locale['global_455'] = "Merhaba USER_NAME,<br/>
+
 Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>
-Regards,<br/>[SITEUSERNAME]";
+
+Saygılarımızla,<br/>
+[SITEUSERNAME]";
 $locale['global_456'] = "[SITENAME] için yeni şifre bildirimi";
-$locale['global_457'] = "Hi USER_NAME,
-<br/>A new password has been set for your account at [SITENAME]. Please find the enclosed new login details:<br/>
-Username: USER_NAME<br/>Password: [PASSWORD]<br/>Regards,<br/>[SITEUSERNAME]";
+$locale['global_457'] = "Merhaba USER_NAME,
+<br/>
+Hesabiniz için [SITENAME] sitesinde yeni şifre ayarlandı. Lütfen ilişikdeki yeni oturum açma ayrıntılarına bakın:<br/>
+
+Kullanıcı Adı: USER_NAME<br/>
+Şifre: [PASSWORD]<br/>
+Saygılarımızla,<br/>
+[SITEUSERNAME]";
 $locale['global_458'] = "USER_NAME için yeni şifre ayarlandı";
 $locale['global_459'] = "USER_NAME için yeni şifre belirlendi ve E-posta gönderilmedi. Lütfen yeni ayrıntıları kullanıcıya bildirin.";
 // Function parsebytesize()

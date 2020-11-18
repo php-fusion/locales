@@ -94,9 +94,9 @@ $locale['u148a'] = "Yeni Yönetici Şifreleri aynı değildir.";
 $locale['u149'] = "Geçerli Giriş Şifreniz belirtilmedi veya geçersiz.";
 $locale['u149a'] = "Geçerli Yönetici Şifreniz belirtilmedi veya geçersiz.";
 $locale['u149b'] = "Your Current Login Password was not specified or is invalid.<br />You can't set your admin password without your correct login password.";
-// Email actiation
+// Email activation
 $locale['u150'] = "Your registration is almost complete, you will receive an email containing your login details along with a link to verify your account. <br /> Remember to check your spam mail folder if you do not receive a confirmation email.";
-$locale['u151'] = "Welcome to ";
+$locale['u151'] = "[SITENAME] Sitesine Hoşgeldiniz";
 $locale['u152'] = "Merhaba USER_NAME,<br/>\r\n
 SITENAME Sitesine Hoşgeldiniz. İşte giriş ayrıntılarınız:<br/>\r\n
 Kullanıcı Adı: USER_NAME<br/>\r\n
