@@ -267,6 +267,9 @@ $locale['T203'] = "Hej [RECEIVER],\r\n\r\nEt svar er oprettet i den debattråd \
 $locale['T301'] = "Kontaktformular";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
+$locale['T304'] = "Mailaktivering";
+$locale['T305'] = "Velkommen til [SITENAME]";
+$locale['T306'] = "Hej USER_NAME,<br/>\nVelkommen til SITENAME. Her er dine loginoplysninger:<br/>\nBrugernavn: USER_NAME<br/>\nAdgangskode: USER_PASSWORD<br/>\nAktiver venligst din konto via følgende link: ACTIVATION_LINK<br/>\nHilsen,<br/>\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Multisprogsindstillinger";

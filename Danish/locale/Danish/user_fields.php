@@ -94,9 +94,9 @@ $locale['u148a'] = "De to administrative kodeord er ikke identiske.";
 $locale['u149'] = "Der blev ikke angivet et nyt kodeord eller også var kodeord forkert.";
 $locale['u149a'] = "Dit administrative kodeord blev ikke angivet eller var forkert.";
 $locale['u149b'] = "Dit aktuelle kodeord blev ikke opgivet eller er forkert.<br/>Du kan ikke ændre dit administrative kodeord uden at angive det gældende kodeord korrekt.";
-// Email actiation
+// Email activation
 $locale['u150'] = "Din tilmelding er næsten færdig. Du vil modtage en mail med dine pålogningsoplysninger sammen med et link, du skal bruge til at verificere din brugerkonto.";
-$locale['u151'] = "Velkommen til ";
+$locale['u151'] = "Velkommen til [SITENAME]";
 $locale['u152'] = "Hej USER_NAME<br/>
 Velkommen til SITENAME. Herunder følger dine brugeroplysninger:<br/>
 Brugernavn: USER_NAME<br/>
