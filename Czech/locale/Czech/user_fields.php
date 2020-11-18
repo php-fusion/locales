@@ -94,9 +94,9 @@ $locale['u148a'] = "Nová administrační hesla se neshodují.";
 $locale['u149'] = "Vaše přihlašovací heslo nebylo zadáno nebo je nesprávné.";
 $locale['u149a'] = "Vaše současné heslo správce nebylo zadáno nebo je neplatné.";
 $locale['u149b'] = "Vaše přihlašovací heslo nebylo zadáno nebo je nesprávné.<br />Nemůžete si zvolit administrační heslo bez správného přihlašovacího hesla.";
-// Email actiation
+// Email activation
 $locale['u150'] = "Vaše registrace je téměř úplná, obdržíte e-mail obsahující vaše přihlašovací údaje spolu s odkazem na ověření vašeho účtu. <br /> Nezapomeňte zkontrolovat složku se spamem, pokud neobdržíte potvrzovací e-mail.";
-$locale['u151'] = "Vítejte na ";
+$locale['u151'] = "Vítejte na [SITENAME]";
 $locale['u152'] = "Dobrý den, USER_NAME,<br/>\r\n
 Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje:<br/>\r\n
 Uživatelské jméno: USER_NAME<br/>\r\n

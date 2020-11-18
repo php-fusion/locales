@@ -268,6 +268,9 @@ $locale['T203'] = "Ahoj [RECEIVER],<br/>Odpověď byla zveřejněna ve fóru \\'
 $locale['T301'] = "Kontaktní formulář";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
+$locale['T304'] = "Aktivace e-mailu";
+$locale['T305'] = "Vítejte v [SITENAME]";
+$locale['T306'] = "Dobrý den, USER_NAME,<br/>\nVítejte v SITENAME. Zde jsou vaše přihlašovací údaje:<br/>\nUživatelské jméno: USER_NAME<br/>\nHeslo: USER_PASSWORD<br/>\nAktivujte svůj účet prostřednictvím následujícího odkazu: ACTIVATION_LINK<br/>\nS pozdravem,<br/>\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Vícejazyčné nastavení";
