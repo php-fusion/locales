@@ -312,28 +312,60 @@ $locale['global_412'] = "Цей обліковий запис зроблено �
 // Flood control
 $locale['global_440'] = "Автоматичне блокування через порушення контролю за флудом";
 $locale['global_441'] = "Ваш обліковий запис на сайті [SITENAME] заблоковано";
-$locale['global_442'] = "Hello [USER_NAME],<br/>
-Your account on [SITENAME] was caught posting too many items to the system in very short time from the IP [USER_IP], and have therefor been banned. This is done to prevent bots from submitting spam messages in rapid succession.<br/>
-Please contact the site administrator at [SITE_EMAIL] to have your account restored or report if this was not you causing this security ban.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_442'] = "Вітаємо, [USER_NAME],
+
+З вашого облікового запису на сайті [SITENAME] зафіксовано надсилання надто великої кількості повідомлень за короткий проміжок часу через адресу IP [USER_IP], що призвело до його блокування. Це було зроблено з метою попередження поширення спаму через бот-системи.
+
+Будь ласка, зв&lsquo;яжіться із адміністрацією сайту за електронною адресою [SITE_EMAIL] , щоб розблокувати свій обліковий запис або повідомити про свою непричетність до зафіксованих потенційно шкідливих дій.
+
+З повагою,
+
+[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Призупинення автоматично скасовано системою";
 $locale['global_451'] = "Скасовано призупинення облікового запису на сайті [SITENAME]";
-$locale['global_452'] = "Hello USER_NAME,<br/>
-The suspension of your account at [SITEURL] has been lifted. Here are your login details:<br/>
-Username: USER_NAME<br/>Password: Hidden for security reasons<br/>
-If you have forgot your password you can reset it via the following link: LOST_PASSWORD<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_452'] = "Вітаємо, USER_NAME,
+
+Призупинення дії Вашого облікового запису [SITEURL] скасовано. Нагадуємо Ваші параметри авторизації на сайті:
+
+Ім&lsquo;я: USER_NAME
+
+Пароль: не показано з міркувань безпеки
+
+Якщо Ви забули свій пароль, можете надіслати запит через це посилання:
+
+LOST_PASSWORD
+
+
+З повагою,
+
+[SITEUSERNAME]";
 $locale['global_453'] = "Hello USER_NAME,<br/>The suspension of your account at [SITEURL] has been lifted.<br/>
 Regards,<br/>[SITEUSERNAME]";
 $locale['global_454'] = "Відновлено обліковий запис";
-$locale['global_455'] = "Hello USER_NAME,<br/>
-Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>
-Regards,<br/>[SITEUSERNAME]";
+$locale['global_455'] = "Вітаємо, USER_NAME,
+
+Під час Вашого останнього візиту на [SITEURL] Ваш обліковий запис було відновлено і його статус як неактивного скасовано.
+
+
+З повагою,
+
+[SITEUSERNAME]";
 $locale['global_456'] = "Ваш пароль на сайті [SITENAME] успішно оновлено";
-$locale['global_457'] = "Hi USER_NAME,
-<br/>A new password has been set for your account at [SITENAME]. Please find the enclosed new login details:<br/>
-Username: USER_NAME<br/>Password: [PASSWORD]<br/>Regards,<br/>[SITEUSERNAME]";
+$locale['global_457'] = "Вітаємо, USER_NAME,
+
+
+Вам надіслано новий пароль доступу до облікового запису на сайті [SITENAME]. Відтепер, будь ласка, використовуйте такі параметри для входу:
+
+
+Ім&lsquo;я: USER_NAME
+
+Пароль: [PASSWORD]
+
+
+З повагою,
+
+[SITEUSERNAME]";
 $locale['global_458'] = "Новий пароль надіслано користувачу USER_NAME";
 $locale['global_459'] = "Новий пароль для користувача USER_NAME встановлено, але повідомлення не надіслано. Будь ласка, забезпечте користувача інформацією про його нові параметри доступу.";
 // Function parsebytesize()

@@ -94,9 +94,9 @@ $locale['u148a'] = "Нові паролі адміністрування не с
 $locale['u149'] = "Не введено Ваш дійсний пароль авторизації або він некоректний.";
 $locale['u149a'] = "Не введено Ваш дійсний пароль адміністрування або він некоректний.";
 $locale['u149b'] = "Your Current Login Password was not specified or is invalid.<br />You can't set your admin password without your correct login password.";
-// Email actiation
+// Email activation
 $locale['u150'] = "Your registration is almost complete, you will receive an email containing your login details along with a link to verify your account. <br /> Remember to check your spam mail folder if you do not receive a confirmation email.";
-$locale['u151'] = "Welcome to ";
+$locale['u151'] = "Вітаємо на сайті [SITENAME]!";
 $locale['u152'] = "Вітаємо, USER_NAME!
 
 Раді Вас бачити на сайті SITENAME.
