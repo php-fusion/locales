@@ -3,46 +3,46 @@
 // Administrators messages
 $locale['400'] = "Dodano administratora";
 $locale['401'] = "Zaktualizowano uprawnienia administratora";
-$locale['402'] = "Usuniêto administratora";
+$locale['402'] = "UsuniÄ™to administratora";
 // Search/Add Administrator
 $locale['410'] = "Dodaj administratora";
-$locale['411'] = "Wyszukaj u¿ytkowników korzystaj±c z&nbsp;poni¿szego formularza.";
-$locale['412'] = "ID u¿ytkownika";
-$locale['413'] = "Nazwa u¿ytkownika";
+$locale['411'] = "Wyszukaj uÅ¼ytkownikÃ³w korzystajÄ…c z&nbsp;poniÅ¼szego formularza.";
+$locale['412'] = "ID uÅ¼ytkownika";
+$locale['413'] = "Nazwa uÅ¼ytkownika";
 $locale['414'] = "Szukaj";
 $locale['415'] = "Dodaj wszystkie uprawnienia";
-$locale['416'] = "Nadaj uprawnienia G³ównego administratora";
+$locale['416'] = "Nadaj uprawnienia GÅ‚Ã³wnego administratora";
 $locale['417'] = "Dodaj administratora";
-$locale['418'] = "Nie znaleziono u¿ytkowników.";
-$locale['419'] = "Spróbuj wyszukaæ jeszcze raz";
+$locale['418'] = "Nie znaleziono uÅ¼ytkownikÃ³w.";
+$locale['419'] = "SprÃ³buj wyszukaÄ‡ jeszcze raz";
 // Current Administrators
 $locale['420'] = "Administratorzy";
-$locale['421'] = "Nazwa u¿ytkownika";
+$locale['421'] = "Nazwa uÅ¼ytkownika";
 $locale['422'] = "Poziom administratora";
 $locale['423'] = "Opcje";
-$locale['424'] = "G³ówny administrator";
-$locale['425'] = "Bez dodatkowych uprawnieñ.";
+$locale['424'] = "GÅ‚Ã³wny administrator";
+$locale['425'] = "Bez dodatkowych uprawnieÅ„.";
 $locale['426'] = "Edytuj";
-$locale['427'] = "Usuñ";
+$locale['427'] = "UsuÅ„";
 // Edit Admin Rights
 $locale['440'] = "Edycja praw administratora";
-$locale['441'] = "Zarz±dzanie tre¶ci±";
-$locale['442'] = "Zarz±dzanie u¿ytkownikami";
-$locale['443'] = "Zarz±dzanie stron±";
+$locale['441'] = "ZarzÄ…dzanie treÅ›ciÄ…";
+$locale['442'] = "ZarzÄ…dzanie uÅ¼ytkownikami";
+$locale['443'] = "ZarzÄ…dzanie stronÄ…";
 $locale['444'] = "Wtyczki (Infusions)";
 $locale['445'] = "Zaznacz wszystko";
 $locale['446'] = "Odznacz wszystko";
-$locale['447'] = "Has³o administratora:";
+$locale['447'] = "HasÅ‚o administratora:";
 $locale['448'] = "Zapisz uprawnienia";
 $locale['449'] = "Ustawienia";
 $locale['450'] = "Tylko podstawowe";
 // Popup Error/Warning Messages
-$locale['460'] = "Usun±æ administratora?";
-$locale['461'] = "Dodaæ administratora?";
-$locale['462'] = "Danie praw administratora stanowi potencjalne zagro¿enie bezpieczeñstwa!";
+$locale['460'] = "UsunÄ…Ä‡ administratora?";
+$locale['461'] = "DodaÄ‡ administratora?";
+$locale['462'] = "Danie praw administratora stanowi potencjalne zagroÅ¼enie bezpieczeÅ„stwa!";
 // Remove Admin confirmation
 $locale['470'] = "Usuwanie administratora";
-$locale['471'] = "Aby potwierdziæ usuniêcie administratora, wpisz swoje has³o administratora:";
-$locale['472'] = "Potwierd¼";
+$locale['471'] = "Aby potwierdziÄ‡ usuniÄ™cie administratora, wpisz swoje hasÅ‚o administratora:";
+$locale['472'] = "PotwierdÅº";
 $locale['473'] = "Anuluj";
 ?>

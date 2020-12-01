@@ -1,30 +1,30 @@
 <?php
 // Official SVN Trunk Rev: 2165
 // Delete blacklisted user
-$locale['400'] = "Usuñ u¿ytkownika z&nbsp;czarnej listy";
-$locale['401'] = "Usuniêto u¿ytkownika z&nbsp;czarnej listy";
-$locale['402'] = "Powróæ do zarz±dzania czarn± list±";
-$locale['403'] = "Powróæ do pocz±tku panelu administracyjnego";
+$locale['400'] = "UsuÅ„ uÅ¼ytkownika z&nbsp;czarnej listy";
+$locale['401'] = "UsuniÄ™to uÅ¼ytkownika z&nbsp;czarnej listy";
+$locale['402'] = "PowrÃ³Ä‡ do zarzÄ…dzania czarnÄ… listÄ…";
+$locale['403'] = "PowrÃ³Ä‡ do poczÄ…tku panelu administracyjnego";
 // Add/Edit Blacklist Titles
 $locale['420'] = "Dodaj adres do czarnej listy";
 $locale['421'] = "Edycja zablokowanego adresu";
 // Add/Edit blacklist form
-$locale['440'] = "<p>Dodanie adresu IP do czarnej listy uniemo¿liwi osobom o&nbsp;takim numerze IP odwiedzenie strony. Mo¿esz podaæ ca³y numer IP, np. <em>123.123.123.123</em>, lub jego czê¶æ, np. <em>123.123.123</em> lub <em>123.123</em>.</p>
-<p>Pamiêtaj! Adresy klasy IPv6 s± zapisywane w ich pe³nej formie, np. <em>ABCD:1234:5:6:7:8:9:FF</em> bêdzie pokazane jako <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
-Mieszane adresy, czê¶ciowo zawieraj±ce dane z IPv6 i IPv4 nie bêd± sprawdzane.</p>
-<p>Dodanie do czarnej listy adresu e-mail uniemo¿liwi u¿ytkownikowi danego adresu rejestracjê na stronie. Mo¿esz podaæ ca³y adres e-mail, np. <em>foo@bar.com</em> lub domenê, której posiadaczom kont e-mail chcesz uniemo¿liwiæ rejestracjê, np. <em>bar.com</em></p>";
+$locale['440'] = "<p>Dodanie adresu IP do czarnej listy uniemoÅ¼liwi osobom o&nbsp;takim numerze IP odwiedzenie strony. MoÅ¼esz podaÄ‡ caÅ‚y numer IP, np. <em>123.123.123.123</em>, lub jego czÄ™Å›Ä‡, np. <em>123.123.123</em> lub <em>123.123</em>.</p>
+<p>PamiÄ™taj! Adresy klasy IPv6 sÄ… zapisywane w ich peÅ‚nej formie, np. <em>ABCD:1234:5:6:7:8:9:FF</em> bÄ™dzie pokazane jako <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
+Mieszane adresy, czÄ™Å›ciowo zawierajÄ…ce dane z IPv6 i IPv4 nie bÄ™dÄ… sprawdzane.</p>
+<p>Dodanie do czarnej listy adresu e-mail uniemoÅ¼liwi uÅ¼ytkownikowi danego adresu rejestracjÄ™ na stronie. MoÅ¼esz podaÄ‡ caÅ‚y adres e-mail, np. <em>foo@bar.com</em> lub domenÄ™, ktÃ³rej posiadaczom kont e-mail chcesz uniemoÅ¼liwiÄ‡ rejestracjÄ™, np. <em>bar.com</em></p>";
 $locale['441'] = "Adres IP do zablokowania: <strong>lub</strong>";
 $locale['442'] = "Adres e-mail do zablokowania:";
-$locale['443'] = "Powód:";
+$locale['443'] = "PowÃ³d:";
 $locale['444'] = "Zablokuj";
 // Current blacklisted users
-$locale['460'] = "Lista zablokowanych adresów";
+$locale['460'] = "Lista zablokowanych adresÃ³w";
 $locale['461'] = "Informacja o&nbsp;zablokowanych";
 $locale['462'] = "Opcje";
 $locale['463'] = "Edytuj";
-$locale['464'] = "Usuñ";
-$locale['465'] = "Brak adresów na czarnej li¶cie.";
-$locale['466'] = "Niedostêpne";
+$locale['464'] = "UsuÅ„";
+$locale['465'] = "Brak adresÃ³w na czarnej liÅ›cie.";
+$locale['466'] = "NiedostÄ™pne";
 $locale['467'] = "Administrator";
 $locale['468'] = "Data";
 /*

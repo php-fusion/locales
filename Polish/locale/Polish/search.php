@@ -3,47 +3,47 @@
 $locale['400'] = "Przeszukaj ".$settings['sitename'];
 $locale['401'] = "Szukaj:";
 $locale['402'] = "Szukaj";
-$locale['403'] = "Szukaj któregokolwiek s³owa";
-$locale['404'] = "Szukaj wszystkich s³ów";
+$locale['403'] = "Szukaj ktÃ³regokolwiek sÅ‚owa";
+$locale['404'] = "Szukaj wszystkich sÅ‚Ã³w";
 $locale['405'] = "Gdzie:";
 $locale['406'] = "Opcje:";
-$locale['407'] = "Ca³a strona";
+$locale['407'] = "CaÅ‚a strona";
 $locale['408'] = "Wyniki wyszukiwania";
 //addition date
 $locale['420'] = "Przeszukaj:";
 $locale['421'] = "wszystkie dni";
-$locale['422'] = "ostatni dzieñ";
-$locale['423'] = "ostatni tydzieñ";
+$locale['422'] = "ostatni dzieÅ„";
+$locale['423'] = "ostatni tydzieÅ„";
 $locale['424'] = "ostatnie 2 tygodnie";
-$locale['425'] = "ostatni miesi±c";
-$locale['426'] = "ostatnie 3 miesi±ce";
-$locale['427'] = "ostatnie 6 miesiêcy";
+$locale['425'] = "ostatni miesiÄ…c";
+$locale['426'] = "ostatnie 3 miesiÄ…ce";
+$locale['427'] = "ostatnie 6 miesiÄ™cy";
 //where
-$locale['430'] = "tytu³y i&nbsp;tre¶æ";
-$locale['431'] = "tylko tre¶æ";
-$locale['432'] = "tylko tytu³y";
+$locale['430'] = "tytuÅ‚y i&nbsp;treÅ›Ä‡";
+$locale['431'] = "tylko treÅ›Ä‡";
+$locale['432'] = "tylko tytuÅ‚y";
 //sort by
-$locale['440'] = "Sortuj wed³ug:";
+$locale['440'] = "Sortuj wedÅ‚ug:";
 $locale['441'] = "daty dodania";
-$locale['442'] = "tytu³u";
+$locale['442'] = "tytuÅ‚u";
 $locale['443'] = "autora";
 //
-$locale['450'] = "malej±co";
-$locale['451'] = "rosn±co";
+$locale['450'] = "malejÄ…co";
+$locale['451'] = "rosnÄ…co";
 //characters in results
-$locale['460'] = "Poka¿:";
-$locale['461'] = "znaków z&nbsp;wyniku";
-$locale['462'] = "ca³y tekst";
+$locale['460'] = "PokaÅ¼:";
+$locale['461'] = "znakÃ³w z&nbsp;wyniku";
+$locale['462'] = "caÅ‚y tekst";
 //No results
-$locale['500'] = "Nie znaleziono elementów spe³niaj±cych powy¿sze kryteria.";
-$locale['501'] = "Wyra¿enie musi zawieraæ przynajmniej 3 znaki.";
-$locale['502'] = "Wyra¿enia zawieraj±ce mniej ni¿ 3 znaki (%s) zosta³y zignorowane.";
+$locale['500'] = "Nie znaleziono elementÃ³w speÅ‚niajÄ…cych powyÅ¼sze kryteria.";
+$locale['501'] = "WyraÅ¼enie musi zawieraÄ‡ przynajmniej 3 znaki.";
+$locale['502'] = "WyraÅ¼enia zawierajÄ…ce mniej niÅ¼ 3 znaki (%s) zostaÅ‚y zignorowane.";
 //Global search
-$locale['510'] = "wyników w&nbsp;ca³ej stronie";
+$locale['510'] = "wynikÃ³w w&nbsp;caÅ‚ej stronie";
 //
 $locale['520'] = "wynik";
-$locale['521'] = "wyników";
-$locale['522'] = " powy¿sze kryteria";
+$locale['521'] = "wynikÃ³w";
+$locale['522'] = " powyÅ¼sze kryteria";
 //more than 100 results
-$locale['530'] = "Sprecyzuj dok³adniej swoje zapytanie. Jest %s wyników spe³niaj±cych kryteria wyszukiwania, mo¿na wy¶wietliæ tylko 100 pierwszych.";
+$locale['530'] = "Sprecyzuj dokÅ‚adniej swoje zapytanie. Jest %s wynikÃ³w speÅ‚niajÄ…cych kryteria wyszukiwania, moÅ¼na wyÅ›wietliÄ‡ tylko 100 pierwszych.";
 ?>

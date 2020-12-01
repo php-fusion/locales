@@ -1,4 +1,4 @@
 <?php
-$locale['bb_justify_description'] = "Wyrównuje zaznaczony tekst do obu marginesów";
+$locale['bb_justify_description'] = "WyrÃ³wnuje zaznaczony tekst do obu marginesÃ³w";
 $locale['bb_justify_usage'] = "wyjustowany tekst";
 ?>

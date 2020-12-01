@@ -1,4 +1,4 @@
 <?php
-$locale['bb_right_description'] = "Wyrównuje tekst do prawego marginesu";
-$locale['bb_right_usage'] = "tekst wyrównany do prawego marginesu";
+$locale['bb_right_description'] = "WyrÃ³wnuje tekst do prawego marginesu";
+$locale['bb_right_usage'] = "tekst wyrÃ³wnany do prawego marginesu";
 ?>

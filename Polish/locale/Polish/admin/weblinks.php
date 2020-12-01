@@ -1,14 +1,14 @@
 <?php
 // Web Link Category titles
-$locale['400'] = "Dodaj kategoriê linków";
-$locale['401'] = "Edytuj kategoriê linków";
-$locale['402'] = "Istniej±ce kategorie linków";
+$locale['400'] = "Dodaj kategoriÄ™ linkÃ³w";
+$locale['401'] = "Edytuj kategoriÄ™ linkÃ³w";
+$locale['402'] = "IstniejÄ…ce kategorie linkÃ³w";
 // Web Link Category messages
-$locale['410'] = "Dodano kategoriê linków.";
-$locale['411'] = "Zaktualizowano kategoriê linków.";
-$locale['412'] = "Kategoria linków nie mog³a byæ usuniêta. ";
-$locale['413'] = "Do kategorii s± przypisane linki.<br />Przenie¶ je do innej kategorii.";
-$locale['414'] = "Usuniêto kategoriê linków.";
+$locale['410'] = "Dodano kategoriÄ™ linkÃ³w.";
+$locale['411'] = "Zaktualizowano kategoriÄ™ linkÃ³w.";
+$locale['412'] = "Kategoria linkÃ³w nie mogÅ‚a byÄ‡ usuniÄ™ta. ";
+$locale['413'] = "Do kategorii sÄ… przypisane linki.<br />PrzenieÅ› je do innej kategorii.";
+$locale['414'] = "UsuniÄ™to kategoriÄ™ linkÃ³w.";
 // Add/Edit Web Link Category Form
 $locale['420'] = "Nazwa:";
 $locale['421'] = "Opis:";
@@ -16,41 +16,41 @@ $locale['422'] = "Sortuj wg:";
 $locale['423'] = "ID linku";
 $locale['424'] = "Nazwa linku";
 $locale['425'] = "Daty dodania";
-$locale['426'] = "Rosn±co";
-$locale['427'] = "Malej±co";
-$locale['428'] = "Dostêp dla:";
+$locale['426'] = "RosnÄ…co";
+$locale['427'] = "MalejÄ…co";
+$locale['428'] = "DostÄ™p dla:";
 $locale['429'] = "Zapisz";
 // Current Web Link categories
 $locale['430'] = "Kategoria";
-$locale['431'] = "Dostêp";
+$locale['431'] = "DostÄ™p";
 // Delete Web Link category
-$locale['440'] = "Usun±æ kategoriê linków?";
+$locale['440'] = "UsunÄ…Ä‡ kategoriÄ™ linkÃ³w?";
 // Web Link titles
 $locale['500'] = "Dodaj link";
 $locale['501'] = "Edytuj link";
-$locale['502'] = "Istniej±ce linki";
+$locale['502'] = "IstniejÄ…ce linki";
 // Web Link messages
 $locale['510'] = "Dodano link.";
 $locale['511'] = "Zaktualizowano link.";
-$locale['512'] = "Usuniêto link.";
+$locale['512'] = "UsuniÄ™to link.";
 // Web Link form
 $locale['520'] = "Nazwa strony:";
 $locale['521'] = "Opis:";
 $locale['522'] = "Adres URL:";
 $locale['523'] = "Kategoria:";
-$locale['524'] = "Zaktualizuj datê dodania";
+$locale['524'] = "Zaktualizuj datÄ™ dodania";
 $locale['525'] = "Zapisz";
 // Current Web Links
-$locale['531'] = "Linki [Kliknij, aby przetestowaæ]";
+$locale['531'] = "Linki [Kliknij, aby przetestowaÄ‡]";
 $locale['532'] = "Opcje";
 $locale['533'] = "Edytuj";
-$locale['534'] = "Usuñ";
-$locale['535'] = "Nie dodano linków do kategorii.";
-$locale['536'] = "Nie zdefiniowano kategorii linków.";
-$locale['537'] = "Nie zdefiniowano kategorii linków";
-$locale['538'] = "Przed dodaniem linków musisz zdefiniowaæ przynajmniej jedn± kategoriê linków.";
-$locale['539'] = "Dodaj kategoriê linków";
+$locale['534'] = "UsuÅ„";
+$locale['535'] = "Nie dodano linkÃ³w do kategorii.";
+$locale['536'] = "Nie zdefiniowano kategorii linkÃ³w.";
+$locale['537'] = "Nie zdefiniowano kategorii linkÃ³w";
+$locale['538'] = "Przed dodaniem linkÃ³w musisz zdefiniowaÄ‡ przynajmniej jednÄ… kategoriÄ™ linkÃ³w.";
+$locale['539'] = "Dodaj kategoriÄ™ linkÃ³w";
 $locale['540'] = "";/*to go to Web Link Categories"; - cleared by jantom*/
 // Delete Web Link
-$locale['550'] = "Usun±æ link?";
+$locale['550'] = "UsunÄ…Ä‡ link?";
 ?>

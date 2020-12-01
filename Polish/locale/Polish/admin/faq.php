@@ -1,42 +1,42 @@
 <?php
 // Official SVN Trunk Rev: 2222
 // FAQ Category titles
-$locale['400'] = "Dodaj kategoriê pytañ i&nbsp;odpowiedzi";
-$locale['401'] = "Edytuj kategorie Pytañ i&nbsp;odpowiedzi";
+$locale['400'] = "Dodaj kategoriÄ™ pytaÅ„ i&nbsp;odpowiedzi";
+$locale['401'] = "Edytuj kategorie PytaÅ„ i&nbsp;odpowiedzi";
 // FAQ Category messages
-$locale['410'] = "Dodano kategoriê pytañ i&nbsp;odpowiedzi.";
-$locale['411'] = "Zaktualizowano kategoriê pytañ i&nbsp;odpowiedzi.";
-$locale['412'] = "Nie mo¿na by³o usun±æ kategorii pytañ i&nbsp;odpowiedzi.";
-$locale['413'] = "Do kategorii s± przypisane pytania i&nbsp;odpowiedzi.<br />Przenie¶ je do innej kategorii.";
-$locale['414'] = "Usuniêto kategoriê pytañ i&nbsp;odpowiedzi.";
+$locale['410'] = "Dodano kategoriÄ™ pytaÅ„ i&nbsp;odpowiedzi.";
+$locale['411'] = "Zaktualizowano kategoriÄ™ pytaÅ„ i&nbsp;odpowiedzi.";
+$locale['412'] = "Nie moÅ¼na byÅ‚o usunÄ…Ä‡ kategorii pytaÅ„ i&nbsp;odpowiedzi.";
+$locale['413'] = "Do kategorii sÄ… przypisane pytania i&nbsp;odpowiedzi.<br />PrzenieÅ› je do innej kategorii.";
+$locale['414'] = "UsuniÄ™to kategoriÄ™ pytaÅ„ i&nbsp;odpowiedzi.";
 // FAQ Category form
 $locale['420'] = "Nazwa kategorii";
 $locale['421'] = "Opis";
 $locale['422'] = "Zapisz";
 // FAQ titles
-$locale['500'] = "Dodaj pytanie i&nbsp;odpowied¼";
-$locale['501'] = "Edytuj pytanie i&nbsp;odpowied¼";
-$locale['502'] = "Istniej±ce pytania i&nbsp;odpowiedzi";
+$locale['500'] = "Dodaj pytanie i&nbsp;odpowiedÅº";
+$locale['501'] = "Edytuj pytanie i&nbsp;odpowiedÅº";
+$locale['502'] = "IstniejÄ…ce pytania i&nbsp;odpowiedzi";
 // FAQ messages
-$locale['510'] = "Dodano pytanie i&nbsp;odpowied¼.";
-$locale['511'] = "Zaktualizowano pytanie i&nbsp;odpowied¼.";
-$locale['512'] = "Usuniêto pytanie i&nbsp;odpowied¼.";
+$locale['510'] = "Dodano pytanie i&nbsp;odpowiedÅº.";
+$locale['511'] = "Zaktualizowano pytanie i&nbsp;odpowiedÅº.";
+$locale['512'] = "UsuniÄ™to pytanie i&nbsp;odpowiedÅº.";
 // FAQ Form
 $locale['520'] = "Kategoria";
 $locale['521'] = "Pytanie";
-$locale['522'] = "Odpowied¼";
+$locale['522'] = "OdpowiedÅº";
 $locale['523'] = "Zapisz";
 // Current FAQs
 $locale['540'] = "Kategorie/Pytania";
 $locale['541'] = "Opcje";
 $locale['542'] = "Edytuj";
-$locale['543'] = "Usuñ";
-$locale['544'] = "Nie zdefiniowano pytañ i&nbsp;odpowiedzi.";
-$locale['545'] = "Nie zdefiniowano kategorii pytañ i&nbsp;odpowiedzi.";
-$locale['546'] = "Usun±æ kategoriê pytañ i&nbsp;odpowiedzi?";
-$locale['547'] = "Usun±æ pytanie i&nbsp;odpowied¼?";
+$locale['543'] = "UsuÅ„";
+$locale['544'] = "Nie zdefiniowano pytaÅ„ i&nbsp;odpowiedzi.";
+$locale['545'] = "Nie zdefiniowano kategorii pytaÅ„ i&nbsp;odpowiedzi.";
+$locale['546'] = "UsunÄ…Ä‡ kategoriÄ™ pytaÅ„ i&nbsp;odpowiedzi?";
+$locale['547'] = "UsunÄ…Ä‡ pytanie i&nbsp;odpowiedÅº?";
 // Error Messages
-$locale['460'] = "Musisz podaæ nazwê kategorii.";
-$locale['461'] = "Kategoria o takiej nazwie ju¿ istnieje.";
-$locale['462'] = "Musisz wpisaæ tre¶æ pytania i&nbsp;odpowied¼ na nie."
+$locale['460'] = "Musisz podaÄ‡ nazwÄ™ kategorii.";
+$locale['461'] = "Kategoria o takiej nazwie juÅ¼ istnieje.";
+$locale['462'] = "Musisz wpisaÄ‡ treÅ›Ä‡ pytania i&nbsp;odpowiedÅº na nie."
 ?>

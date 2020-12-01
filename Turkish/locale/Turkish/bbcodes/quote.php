@@ -1,4 +1,4 @@
 <?php
-$locale['bb_quote_description'] = "Seçili metni alýntý yapar";
-$locale['bb_quote_usage'] = "Alýntý yapýlacak metin";
+$locale['bb_quote_description'] = "Se&#231;ili metni al&#305;nt&#305; yapar";
+$locale['bb_quote_usage'] = "Al&#305;nt&#305; yap&#305;lacak metin";
 ?>

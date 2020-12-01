@@ -1,90 +1,90 @@
 <?php
 // Official SVN Trunk Rev: 2500
 // Forum Category titles
-$locale['400'] = "Dodaj kategoriê forum";
-$locale['401'] = "Edytuj kategoriê forum";
+$locale['400'] = "Dodaj kategoriÄ™ forum";
+$locale['401'] = "Edytuj kategoriÄ™ forum";
 // Forum Category messages
-$locale['410'] = "Dodano kategoriê forum.";
-$locale['411'] = "Zaktualizowano kategoriê forum.";
-$locale['412'] = "Nie mo¿na by³o usun±æ kategorii forum.";
-$locale['413'] = "Do kategorii s± przypisane fora.<br />Przenie¶ je do innej kategorii.";
-$locale['414'] = "Usuniêto kategoriê forum.";
+$locale['410'] = "Dodano kategoriÄ™ forum.";
+$locale['411'] = "Zaktualizowano kategoriÄ™ forum.";
+$locale['412'] = "Nie moÅ¼na byÅ‚o usunÄ…Ä‡ kategorii forum.";
+$locale['413'] = "Do kategorii sÄ… przypisane fora.<br />PrzenieÅ› je do innej kategorii.";
+$locale['414'] = "UsuniÄ™to kategoriÄ™ forum.";
 // Forum Category form
 $locale['420'] = "Nazwa:";
-$locale['421'] = "Kolejno¶æ:";
+$locale['421'] = "KolejnoÅ›Ä‡:";
 $locale['422'] = "Zapisz";
 // Delete Forum Category
-$locale['440'] = "Usun±æ kategoriê forum?";
+$locale['440'] = "UsunÄ…Ä‡ kategoriÄ™ forum?";
 // Forum titles
-$locale['500'] = "Dodaj dzia³ forum";
-$locale['501'] = "Edytuj dzia³ forum";
+$locale['500'] = "Dodaj dziaÅ‚ forum";
+$locale['501'] = "Edytuj dziaÅ‚ forum";
 // Forum Category messages
-$locale['510'] = "Dodano dzia³ forum.";
-$locale['511'] = "Zaktualizowano dzia³ forum.";
-$locale['512'] = "Nie mo¿na by³o usun±æ dzia³u forum.";
-$locale['513'] = "Do dzia³u forum s± przypisane tematy.<br />Przenie¶ je do innych dzia³ów.";
-$locale['514'] = "Usuniêto dzia³ forum.";
-$locale['515'] = "Zaktualizowano moderatorów dzia³u forum.";
-$locale['516'] = "Musisz podaæ nazwê kategorii forum.";
-$locale['517'] = "Musisz podaæ niepowtarzaln± nazwê dzia³u forum.";
+$locale['510'] = "Dodano dziaÅ‚ forum.";
+$locale['511'] = "Zaktualizowano dziaÅ‚ forum.";
+$locale['512'] = "Nie moÅ¼na byÅ‚o usunÄ…Ä‡ dziaÅ‚u forum.";
+$locale['513'] = "Do dziaÅ‚u forum sÄ… przypisane tematy.<br />PrzenieÅ› je do innych dziaÅ‚Ã³w.";
+$locale['514'] = "UsuniÄ™to dziaÅ‚ forum.";
+$locale['515'] = "Zaktualizowano moderatorÃ³w dziaÅ‚u forum.";
+$locale['516'] = "Musisz podaÄ‡ nazwÄ™ kategorii forum.";
+$locale['517'] = "Musisz podaÄ‡ niepowtarzalnÄ… nazwÄ™ dziaÅ‚u forum.";
 // Add/Edit Forum Form
 $locale['520'] = "Nazwa:";
 $locale['521'] = "Opis:";
 $locale['522'] = "Kategoria forum:";
-$locale['523'] = "Kolejno¶æ:";
-$locale['524'] = "W³a¶ciwo¶ci:";
+$locale['523'] = "KolejnoÅ›Ä‡:";
+$locale['524'] = "WÅ‚aÅ›ciwoÅ›ci:";
 $locale['525'] = "Widoczne dla:";
-$locale['526'] = "Mo¿liwo¶æ zak³adania tematów przez:";
-$locale['527'] = "Mo¿liwo¶æ dopisywania odpowiedzi przez:";
-$locale['528'] = "Mo¿liwo¶æ dodania za³±czników przez:";
-$locale['529'] = "Mo¿liwo¶æ za³o¿enia ankiety przez:";
-$locale['530'] = "Mo¿liwo¶æ zag³osowania przez:";
-$locale['531'] = "Wy³±czone";
+$locale['526'] = "MoÅ¼liwoÅ›Ä‡ zakÅ‚adania tematÃ³w przez:";
+$locale['527'] = "MoÅ¼liwoÅ›Ä‡ dopisywania odpowiedzi przez:";
+$locale['528'] = "MoÅ¼liwoÅ›Ä‡ dodania zaÅ‚Ä…cznikÃ³w przez:";
+$locale['529'] = "MoÅ¼liwoÅ›Ä‡ zaÅ‚oÅ¼enia ankiety przez:";
+$locale['530'] = "MoÅ¼liwoÅ›Ä‡ zagÅ‚osowania przez:";
+$locale['531'] = "WyÅ‚Ä…czone";
 $locale['532'] = "Zapisz";
 $locale['533'] = "Moderowane przez:";
-$locale['534'] = "Zapisz moderatorów forum";
-$locale['535'] = "Mo¿liwo¶æ pobierania za³±czników przez::";
+$locale['534'] = "Zapisz moderatorÃ³w forum";
+$locale['535'] = "MoÅ¼liwoÅ›Ä‡ pobierania zaÅ‚Ä…cznikÃ³w przez::";
 // Forum Settings
-$locale['540'] = "Ustawienia dzia³u:";
-$locale['541'] = "W³±czyæ ³±czenie postów:";
+$locale['540'] = "Ustawienia dziaÅ‚u:";
+$locale['541'] = "WÅ‚Ä…czyÄ‡ Å‚Ä…czenie postÃ³w:";
 $locale['542'] = "Tak";
 $locale['543'] = "Nie";
 // Current Forums
-$locale['550'] = "Istniej±ce dzia³y";
-$locale['551'] = "Kategorie/Dzia³y";
-$locale['552'] = "Kolejno¶æ";
+$locale['550'] = "IstniejÄ…ce dziaÅ‚y";
+$locale['551'] = "Kategorie/DziaÅ‚y";
+$locale['552'] = "KolejnoÅ›Ä‡";
 $locale['553'] = "Opcje";
 $locale['554'] = "Edytuj";
-$locale['555'] = "Usuñ";
-$locale['556'] = "Przenie¶ wy¿ej";
-$locale['557'] = "Przenie¶ ni¿ej";
-$locale['558'] = "Przenie¶ wy¿ej";
-$locale['559'] = "Przenie¶ ni¿ej";
+$locale['555'] = "UsuÅ„";
+$locale['556'] = "PrzenieÅ› wyÅ¼ej";
+$locale['557'] = "PrzenieÅ› niÅ¼ej";
+$locale['558'] = "PrzenieÅ› wyÅ¼ej";
+$locale['559'] = "PrzenieÅ› niÅ¼ej";
 $locale['560'] = "Nie zdefiniowano kategorii forum";
-$locale['561'] = "Nie zdefiniowano dzia³ów";
-$locale['562'] = "Od¶wie¿ kolejno¶æ";
-$locale['563'] = "Wyczy¶æ dzia³";
+$locale['561'] = "Nie zdefiniowano dziaÅ‚Ã³w";
+$locale['562'] = "OdÅ›wieÅ¼ kolejnoÅ›Ä‡";
+$locale['563'] = "WyczyÅ›Ä‡ dziaÅ‚";
 // Delete Forum
-$locale['570'] = "Usun±æ?";
+$locale['570'] = "UsunÄ…Ä‡?";
 // Pruning
-$locale['600'] = "Wyczy¶æ dzia³";
-$locale['601'] = "Niniejsze narzêdzie s³u¿y do";
-$locale['602'] = "czyszczenia dzia³u z&nbsp;materia³ów z&nbsp;wybranego przedzia³u czasu.";
-$locale['603'] = "Wyczy¶æ dzia³ z&nbsp;materia³ów starszych ni¿: ";
-$locale['604'] = "tydzieñ";
+$locale['600'] = "WyczyÅ›Ä‡ dziaÅ‚";
+$locale['601'] = "Niniejsze narzÄ™dzie sÅ‚uÅ¼y do";
+$locale['602'] = "czyszczenia dziaÅ‚u z&nbsp;materiaÅ‚Ã³w z&nbsp;wybranego przedziaÅ‚u czasu.";
+$locale['603'] = "WyczyÅ›Ä‡ dziaÅ‚ z&nbsp;materiaÅ‚Ã³w starszych niÅ¼: ";
+$locale['604'] = "tydzieÅ„";
 $locale['605'] = "tygodnie";
-$locale['606'] = "miesi±c";
-$locale['607'] = "miesi±ce";
-$locale['608'] = "Zakoñczono czyszczenie dzia³u.";
-$locale['609'] = "Usuniêto postów: ";
-$locale['610'] = "Usuniêto za³±czników: ";
-$locale['611'] = "Usuniêto tematów: ";
-$locale['612'] = "Czyszczenie dzia³u bezpowrotnie usunie tematy, posty oraz za³±czniki z&nbsp;wybranego przedzia³u czasu. Na pewno chcesz wyczy¶ciæ forum?";
+$locale['606'] = "miesiÄ…c";
+$locale['607'] = "miesiÄ…ce";
+$locale['608'] = "ZakoÅ„czono czyszczenie dziaÅ‚u.";
+$locale['609'] = "UsuniÄ™to postÃ³w: ";
+$locale['610'] = "UsuniÄ™to zaÅ‚Ä…cznikÃ³w: ";
+$locale['611'] = "UsuniÄ™to tematÃ³w: ";
+$locale['612'] = "Czyszczenie dziaÅ‚u bezpowrotnie usunie tematy, posty oraz zaÅ‚Ä…czniki z&nbsp;wybranego przedziaÅ‚u czasu. Na pewno chcesz wyczyÅ›ciÄ‡ forum?";
 
 /* My own patch, if you don't want it - comment lines below.
- * To moja w³asna ³atka, je¶li nie chcesz z niej korzystaæ - zakomentuj poni¿sze linie
+ * To moja wÅ‚asna Å‚atka, jeÅ›li nie chcesz z niej korzystaÄ‡ - zakomentuj poniÅ¼sze linie
  * Tomasz "jantom" Jankowski, Date: 11 04 2011 13:40 */
-$locale['607a'] = "miesiêcy";
+$locale['607a'] = "miesiÄ™cy";
 replace_in_output("6 ".$locale['607'],"6 ".$locale['607a']);
 replace_in_output("5 ".$locale['607'],"5 ".$locale['607a']);
 ?>

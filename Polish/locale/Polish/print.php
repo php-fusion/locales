@@ -3,9 +3,9 @@
 //news, articles
 $locale['400'] = "Dodane przez ";
 $locale['401'] = " dnia ";
-$locale['402'] = "Tre¶æ rozszerzona";
+$locale['402'] = "TreÅ›Ä‡ rozszerzona";
 //forums
-$locale['500'] = "Tytu³:";
+$locale['500'] = "TytuÅ‚:";
 $locale['501'] = "Dodane przez ";
 $locale['502'] = " dnia ";
 $locale['503'] = "Edytowane przez ";

@@ -5,14 +5,14 @@ $locale['400'] = "Edytuj komentarz";
 $locale['401'] = "Komentarze";
 // Comments messages
 $locale['410'] = "Zaktualizowano komentarz.";
-$locale['411'] = "Usuniêto komentarz.";
+$locale['411'] = "UsuniÄ™to komentarz.";
 // Edit Comment form
-$locale['420'] = "Wy³±cz u¶mieszki";
+$locale['420'] = "WyÅ‚Ä…cz uÅ›mieszki";
 $locale['421'] = "Dodaj";
 // Comments
 $locale['430'] = "Edytuj";
-$locale['431'] = "Usuñ";
-$locale['432'] = "IP u¿ytkownika:";
-$locale['433'] = "Usun±æ komentarz?";
+$locale['431'] = "UsuÅ„";
+$locale['432'] = "IP uÅ¼ytkownika:";
+$locale['433'] = "UsunÄ…Ä‡ komentarz?";
 $locale['434'] = "Brak komentarzy.";
 ?>

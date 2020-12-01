@@ -1,4 +1,4 @@
 <?php
-$locale['bb_big_description'] = "Powiêksza zaznaczony tekst";
-$locale['bb_big_usage'] = "powiêkszony tekst";
+$locale['bb_big_description'] = "PowiÄ™ksza zaznaczony tekst";
+$locale['bb_big_usage'] = "powiÄ™kszony tekst";
 ?>

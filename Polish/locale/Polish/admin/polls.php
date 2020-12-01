@@ -1,28 +1,28 @@
 <?php
 // Official SVN Trunk Rev: 1732
 // Polls titles
-$locale['400'] = "Dodaj ankietê";
-$locale['401'] = "Edytuj ankietê";
-$locale['402'] = "Istniej±ce ankiety";
-$locale['403'] = "Podgl±d ankiety";
+$locale['400'] = "Dodaj ankietÄ™";
+$locale['401'] = "Edytuj ankietÄ™";
+$locale['402'] = "IstniejÄ…ce ankiety";
+$locale['403'] = "PodglÄ…d ankiety";
 // Polls messages
-$locale['410'] = "Dodano ankietê.";
-$locale['411'] = "Zaktualizowano ankietê.";
-$locale['412'] = "Usuniêto ankietê.";
+$locale['410'] = "Dodano ankietÄ™.";
+$locale['411'] = "Zaktualizowano ankietÄ™.";
+$locale['412'] = "UsuniÄ™to ankietÄ™.";
 // Edit/Delete Polls
-$locale['420'] = "Istniej±ce ankiety";
+$locale['420'] = "IstniejÄ…ce ankiety";
 $locale['421'] = "Edytuj";
-$locale['422'] = "Usuñ";
+$locale['422'] = "UsuÅ„";
 // Preview Polls
-$locale['430'] = "Zag³osuj";
+$locale['430'] = "ZagÅ‚osuj";
 // Polls Form
-$locale['431'] = "Tytu³ ankiety:";
+$locale['431'] = "TytuÅ‚ ankiety:";
 $locale['432'] = "Opcje ";
-$locale['433'] = " Zakoñcz ankietê";
-$locale['434'] = "Rozpoczêto: ";
-$locale['435'] = "Zakoñczono: ";
-$locale['436'] = "Dodaj opcjê";
-$locale['437'] = "Podgl±d";
+$locale['433'] = " ZakoÅ„cz ankietÄ™";
+$locale['434'] = "RozpoczÄ™to: ";
+$locale['435'] = "ZakoÅ„czono: ";
+$locale['436'] = "Dodaj opcjÄ™";
+$locale['437'] = "PodglÄ…d";
 $locale['438'] = "Zapisz";
 $locale['439'] = "Niezdefiniowane";
 ?>

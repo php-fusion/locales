@@ -1,4 +1,4 @@
 <?php
-$locale['bb_size_description'] = "Umo¿liwia okre¶lenie wielko¶æ czcionki zaznaczonego tekstu (w pikselach)";
-$locale['bb_size_usage'] = "tekst o&nbsp;zmienionej wielko¶ci";
+$locale['bb_size_description'] = "UmoÅ¼liwia okreÅ›lenie wielkoÅ›Ä‡ czcionki zaznaczonego tekstu (w pikselach)";
+$locale['bb_size_usage'] = "tekst o&nbsp;zmienionej wielkoÅ›ci";
 ?>

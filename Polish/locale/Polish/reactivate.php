@@ -1,21 +1,21 @@
 <?php
 // Official SVN Trunk Rev: 1732
 // Error messages
-$locale['500'] = "Wyst±pi³ b³±d!";
-$locale['501'] = "Link reaktywuj±cy utraci³ swoj± wa¿no¶æ.<br /><br />
-Skontaktuj siê z&nbsp;administracj± strony wysy³aj±c e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu rêcznej reaktywacji konta.";
-$locale['502'] = "Link reaktywuj±cy jest nieprawid³owy!<br /><br />
-Skontaktuj siê z&nbsp;administracj± strony wysy³aj±c e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu rêcznej reaktywacji konta.";
-$locale['503'] = "Nie mo¿na by³o reaktywowaæ konta!<br />
-Byæ mo¿e Twoje konto ju¿ zosta³o reaktywowane. Aby to sprawdziæ, <a href='".$settings['siteurl']."login.php'>zaloguj siê</a>.<br /><br />
-Je¶li logowanie nie uda³o siê, skontaktuj siê z&nbsp;administracj± strony wysy³aj±c e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu rêcznej reaktywacji konta.";
+$locale['500'] = "WystÄ…piÅ‚ bÅ‚Ä…d!";
+$locale['501'] = "Link reaktywujÄ…cy utraciÅ‚ swojÄ… waÅ¼noÅ›Ä‡.<br /><br />
+Skontaktuj siÄ™ z&nbsp;administracjÄ… strony wysyÅ‚ajÄ…c e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu rÄ™cznej reaktywacji konta.";
+$locale['502'] = "Link reaktywujÄ…cy jest nieprawidÅ‚owy!<br /><br />
+Skontaktuj siÄ™ z&nbsp;administracjÄ… strony wysyÅ‚ajÄ…c e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu rÄ™cznej reaktywacji konta.";
+$locale['503'] = "Nie moÅ¼na byÅ‚o reaktywowaÄ‡ konta!<br />
+ByÄ‡ moÅ¼e Twoje konto juÅ¼ zostaÅ‚o reaktywowane. Aby to sprawdziÄ‡, <a href='".$settings['siteurl']."login.php'>zaloguj siÄ™</a>.<br /><br />
+JeÅ›li logowanie nie udaÅ‚o siÄ™, skontaktuj siÄ™ z&nbsp;administracjÄ… strony wysyÅ‚ajÄ…c e-mail na adres <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> w celu rÄ™cznej reaktywacji konta.";
 // Send confirmation mail
 $locale['504'] = "Reaktywowano konto na ".$settings['sitename'];
 $locale['505'] = "Witaj [USER_NAME]!\n
-Twoje konto na ".$settings['sitename']." zosta³o reaktywowane. Liczymy, ¿e bêdziesz nas czê¶ciej odwiedzaæ.\n\n
+Twoje konto na ".$settings['sitename']." zostaÅ‚o reaktywowane. Liczymy, Å¼e bÄ™dziesz nas czÄ™Å›ciej odwiedzaÄ‡.\n\n
 Z pozdrowieniami\n\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo¶æ zosta³a wys³ana automatycznie. Nie odpowiadaj na ni±.";
-$locale['506'] = "Reaktywowano przez u¿ytkownika.";
+Niniejsza wiadomoÅ›Ä‡ zostaÅ‚a wysÅ‚ana automatycznie. Nie odpowiadaj na niÄ….";
+$locale['506'] = "Reaktywowano przez uÅ¼ytkownika.";
 ?>

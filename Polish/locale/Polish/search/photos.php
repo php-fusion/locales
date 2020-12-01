@@ -1,9 +1,9 @@
 <?php
-$locale['p400'] = "Galeria zdjêæ";
-$locale['p401'] = "zdjêcie spe³niaj±ce";
-$locale['p402'] = "zdjêæ spe³niaj±cych";
+$locale['p400'] = "Galeria zdjÄ™Ä‡";
+$locale['p401'] = "zdjÄ™cie speÅ‚niajÄ…ce";
+$locale['p402'] = "zdjÄ™Ä‡ speÅ‚niajÄ…cych";
 $locale['p403'] = "[NOWY]";
 $locale['p404'] = "Album:";
 $locale['p405'] = "Data dodania:";
-$locale['p406'] = "Wy¶wietleñ:";
+$locale['p406'] = "WyÅ›wietleÅ„:";
 ?>

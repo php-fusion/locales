@@ -1,9 +1,9 @@
 <?php
 $locale['n400'] = "Newsy";
-$locale['n401'] = "news spe³niaj±cy";
-$locale['n402'] = "newsów spe³niaj±cych";
+$locale['n401'] = "news speÅ‚niajÄ…cy";
+$locale['n402'] = "newsÃ³w speÅ‚niajÄ…cych";
 $locale['n403'] = "znalezionych w";
 $locale['n404'] = "temacie newsa";
-$locale['n405'] = "tre¶ci newsa";
-$locale['n406'] = "rozszerzonej tre¶ci newsa.";
+$locale['n405'] = "treÅ›ci newsa";
+$locale['n406'] = "rozszerzonej treÅ›ci newsa.";
 ?>

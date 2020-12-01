@@ -3,23 +3,23 @@
 // Titles
 $locale['400'] = "robots.txt";
 // Messages
-$locale['410'] = "Na pewno? Plik robots.txt zostanie przywrócony do pocz±tkowych ustawieñ.";
-$locale['411'] = "Brak pliku robots.txt. Utwórz go w g³ównym katalogu strony i spróbuj ponownie.";
+$locale['410'] = "Na pewno? Plik robots.txt zostanie przywrÃ³cony do poczÄ…tkowych ustawieÅ„.";
+$locale['411'] = "Brak pliku robots.txt. UtwÃ³rz go w gÅ‚Ã³wnym katalogu strony i sprÃ³buj ponownie.";
 $locale['412'] = "Zaktualizowano plik robots.txt.";
-$locale['413'] = "Wyst±pi³y nastêpuj±ce b³êdy:";
+$locale['413'] = "WystÄ…piÅ‚y nastÄ™pujÄ…ce bÅ‚Ä™dy:";
 $locale['414'] = "plik robots.txt jest tylko do odczytu.";
-$locale['415'] = "nie mo¿na by³o zapisaæ pliku robots.txt.";
+$locale['415'] = "nie moÅ¼na byÅ‚o zapisaÄ‡ pliku robots.txt.";
 // Edit form
 $locale['420'] = "Edytuj plik robots.txt";
-$locale['421'] = "Wiêcej informacji na temat pliku robots.txt";
+$locale['421'] = "WiÄ™cej informacji na temat pliku robots.txt";
 $locale['422'] = "Zapisz";
-$locale['423'] = "Przywróæ domy¶lne ustawienia";
+$locale['423'] = "PrzywrÃ³Ä‡ domyÅ›lne ustawienia";
 
 /* My own patch, if you don't want it - comment lines below.
- * To moja w³asna ³atka, je¶li nie chcesz z niej korzystaæ - zakomentuj poni¿sze linie
+ * To moja wÅ‚asna Å‚atka, jeÅ›li nie chcesz z niej korzystaÄ‡ - zakomentuj poniÅ¼sze linie
  * Tomasz "jantom" Jankowski, Date: 11 04 2011 10:30 */
 require_once INCLUDES."output_handling_include.php";
-$locale['421'] = "Wiêcej informacji na temat pliku robots.txt po ";
+$locale['421'] = "WiÄ™cej informacji na temat pliku robots.txt po ";
 $locale['421a']= "<a href='http://www.robotstxt.org/' target='_blank'>angielsku</a> lub po <a href='http://pl.wikipedia.org/wiki/Robots.txt' target='_blank'>polsku</a>.";
 replace_in_output("<a href=\'http://www.robotstxt.org/\' target=\'_blank\'>".$locale['421']."</a>",$locale['421'].addslashes($locale['421a']));
 ?>

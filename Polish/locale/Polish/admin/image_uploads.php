@@ -1,29 +1,29 @@
 <?php
 // Official SVN Trunk Rev: 1732
 // Delete Image
-$locale['400'] = "Usuwanie obrazów";
-$locale['401'] = "Obraz zosta³ usuniêty.";
-$locale['402'] = "Powróæ do zarz±dzania obrazami";
-$locale['403'] = "Powróæ do pocz±tku panelu administracyjnego";
+$locale['400'] = "Usuwanie obrazÃ³w";
+$locale['401'] = "Obraz zostaÅ‚ usuniÄ™ty.";
+$locale['402'] = "PowrÃ³Ä‡ do zarzÄ…dzania obrazami";
+$locale['403'] = "PowrÃ³Ä‡ do poczÄ…tku panelu administracyjnego";
 // Upload Image
 $locale['420'] = "Dodaj obraz";
 $locale['421'] = "Nazwa pliku:";
 $locale['422'] = "Obrazy";
-$locale['423'] = "Obrazy artyku³ów";
-$locale['424'] = "Obrazy newsów";
-$locale['425'] = "Mo¿esz wgraæ pliki w&nbsp;rozszerzeniach *.gif, *.jpg lub *.png";
-$locale['426'] = "Obraz zosta³ wgrany";
-$locale['427'] = "Obrazy kategorii newsów";
+$locale['423'] = "Obrazy artykuÅ‚Ã³w";
+$locale['424'] = "Obrazy newsÃ³w";
+$locale['425'] = "MoÅ¼esz wgraÄ‡ pliki w&nbsp;rozszerzeniach *.gif, *.jpg lub *.png";
+$locale['426'] = "Obraz zostaÅ‚ wgrany";
+$locale['427'] = "Obrazy kategorii newsÃ³w";
 // View Image
 $locale['440'] = "Zobacz obraz";
-$locale['441'] = "Nie mo¿na by³o wy¶wietliæ obrazu. Nieznany format pliku.";
-$locale['442'] = "Usuñ ten obraz";
+$locale['441'] = "Nie moÅ¼na byÅ‚o wyÅ›wietliÄ‡ obrazu. Nieznany format pliku.";
+$locale['442'] = "UsuÅ„ ten obraz";
 // Image Management
-$locale['460'] = "Lista obrazów";
+$locale['460'] = "Lista obrazÃ³w";
 $locale['461'] = "Zobacz";
-$locale['462'] = "Usuñ";
-$locale['463'] = "Brak obrazów w&nbsp;folderze";
-$locale['464'] = "Aktualizuj listê obrazów dla edytora TinyMCE";
+$locale['462'] = "UsuÅ„";
+$locale['463'] = "Brak obrazÃ³w w&nbsp;folderze";
+$locale['464'] = "Aktualizuj listÄ™ obrazÃ³w dla edytora TinyMCE";
 // Popup Error/Warning Messages
-$locale['470'] = "Usun±æ ten obraz?";
+$locale['470'] = "UsunÄ…Ä‡ ten obraz?";
 ?>

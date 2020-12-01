@@ -1,6 +1,6 @@
 <?php
-$locale['bb_code_description'] = "Wy秝ietla zaznaczony tekst jako kod 紃骴硂wy";
-$locale['bb_code_usage'] = "kod 紃骴硂wy";
-$locale['bb_code_code'] = "Kod 紃骴硂wy";
-$locale['bb_code_save'] = "Pobierz kod 紃骴硂wy";
+$locale['bb_code_description'] = "Wy艣wietla zaznaczony tekst jako kod 藕r贸d艂owy";
+$locale['bb_code_usage'] = "kod 藕r贸d艂owy";
+$locale['bb_code_code'] = "Kod 藕r贸d艂owy";
+$locale['bb_code_save'] = "Pobierz kod 藕r贸d艂owy";
 ?>

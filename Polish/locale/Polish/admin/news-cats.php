@@ -1,26 +1,26 @@
 <?php
 // Official SVN Trunk Rev: 2023
 // News Categories titles
-$locale['400'] = "Edytuj kategoriê newsów";
-$locale['401'] = "Dodaj kategoriê newsów";
-$locale['402'] = "Istniej±ce kategorie newsów";
+$locale['400'] = "Edytuj kategoriÄ™ newsÃ³w";
+$locale['401'] = "Dodaj kategoriÄ™ newsÃ³w";
+$locale['402'] = "IstniejÄ…ce kategorie newsÃ³w";
 // News Categories messages
-$locale['420'] = "Dodano kategoriê newsów.";
-$locale['421'] = "Zaktualizowano kategoriê newsów.";
-$locale['422'] = "Nie mo¿na by³o usun±æ kategorii newsów.";
-$locale['423'] = "Do kategorii s± przypisane newsy.<br />Przenie¶ je do innej kategorii.";
-$locale['424'] = "Usuniêto kategoriê newsów.";
+$locale['420'] = "Dodano kategoriÄ™ newsÃ³w.";
+$locale['421'] = "Zaktualizowano kategoriÄ™ newsÃ³w.";
+$locale['422'] = "Nie moÅ¼na byÅ‚o usunÄ…Ä‡ kategorii newsÃ³w.";
+$locale['423'] = "Do kategorii sÄ… przypisane newsy.<br />PrzenieÅ› je do innej kategorii.";
+$locale['424'] = "UsuniÄ™to kategoriÄ™ newsÃ³w.";
 // News Categories form
 $locale['430'] = "Nazwa kategorii:";
 $locale['431'] = "Obraz kategorii:";
 $locale['432'] = "Zapisz";
 $locale['433'] = "Edytuj";
-$locale['434'] = "Usuñ";
-$locale['435'] = "Nie zdefiniowano kategorii newsów";
-$locale['436'] = "Przejd¼ do zarz±dzania obrazami kategorii newsów";
+$locale['434'] = "UsuÅ„";
+$locale['435'] = "Nie zdefiniowano kategorii newsÃ³w";
+$locale['436'] = "PrzejdÅº do zarzÄ…dzania obrazami kategorii newsÃ³w";
 // Popup Error/Warning Messages
-$locale['450'] = "Usun±æ kategoriê newsów?";
+$locale['450'] = "UsunÄ…Ä‡ kategoriÄ™ newsÃ³w?";
 // Error Messages
-$locale['460'] = "Musisz podaæ nazwê kategorii.";
-$locale['461'] = "Kategoria o takiej nazwie ju¿ istnieje.";
+$locale['460'] = "Musisz podaÄ‡ nazwÄ™ kategorii.";
+$locale['461'] = "Kategoria o takiej nazwie juÅ¼ istnieje.";
 ?>

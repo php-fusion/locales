@@ -1,9 +1,9 @@
 <?php
 // Official SVN Trunk Rev: 1934
-$locale['400'] = "Artyku³y";
-$locale['401'] = "Brak udostêpnionych kategorii artyku³ów.";
+$locale['400'] = "ArtykuÅ‚y";
+$locale['401'] = "Brak udostÄ™pnionych kategorii artykuÅ‚Ã³w.";
 $locale['402'] = "NOWY";
-$locale['403'] = "Brak udostêpnionych artyku³ów.";
-$locale['404'] = "Artyku³y";
+$locale['403'] = "Brak udostÄ™pnionych artykuÅ‚Ã³w.";
+$locale['404'] = "ArtykuÅ‚y";
 $locale['405'] = "Nawigacja";
 ?>

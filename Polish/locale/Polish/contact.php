@@ -2,29 +2,29 @@
 // Official SVN Trunk Rev: 1732
 // Contact Form
 $locale['400'] = "Kontakt";
-$locale['401'] = "Z administracj± ".$settings['sitename']." mo¿na skontaktowaæ siê poprzez:
+$locale['401'] = "Z administracjÄ… ".$settings['sitename']." moÅ¼na skontaktowaÄ‡ siÄ™ poprzez:
 <ul>
-	<li>Bezpo¶rednie wys³anie e-maila na adres ".hide_email($settings['siteemail']).".</li>
-	<li>Wys³anie <a href='messages.php?msg_send=1'>prywatnej wiadomo¶ci</a>.</li>
-	<li>Wys³anie znajduj±cego siê poni¿ej formularza. Jego tre¶æ zostanie dostarczona za po¶rednictwem e-maila.</li>
+	<li>BezpoÅ›rednie wysÅ‚anie e-maila na adres ".hide_email($settings['siteemail']).".</li>
+	<li>WysÅ‚anie <a href='messages.php?msg_send=1'>prywatnej wiadomoÅ›ci</a>.</li>
+	<li>WysÅ‚anie znajdujÄ…cego siÄ™ poniÅ¼ej formularza. Jego treÅ›Ä‡ zostanie dostarczona za poÅ›rednictwem e-maila.</li>
 </ul>";
 $locale['402'] = "Nick:";
 $locale['403'] = "Adres e-mail:";
 $locale['404'] = "Temat:";
-$locale['405'] = "Tre¶æ wiadomo¶ci:";
-$locale['406'] = "Wy¶lij";
-$locale['407'] = "Kod potwierdzaj±cy:";
-$locale['408'] = "Wpisz kod potwierdzaj±cy";
+$locale['405'] = "TreÅ›Ä‡ wiadomoÅ›ci:";
+$locale['406'] = "WyÅ›lij";
+$locale['407'] = "Kod potwierdzajÄ…cy:";
+$locale['408'] = "Wpisz kod potwierdzajÄ…cy";
 // Contact Errors
 $locale['420'] = "nie podano nicku";
 $locale['421'] = "nie podano poprawnego adresu e-mail";
 $locale['422'] = "nie podano tematu";
-$locale['423'] = "nie podano tre¶ci wiadomo¶ci";
-$locale['424'] = "nie podano poprawnego kodu potwierdzaj±cego";
-$locale['425'] = "B³±d wewnêtrzny! Nie mo¿na wys³aæ wiadomo¶ci.";
+$locale['423'] = "nie podano treÅ›ci wiadomoÅ›ci";
+$locale['424'] = "nie podano poprawnego kodu potwierdzajÄ…cego";
+$locale['425'] = "BÅ‚Ä…d wewnÄ™trzny! Nie moÅ¼na wysÅ‚aÄ‡ wiadomoÅ›ci.";
 // Message Sent
-$locale['440'] = "Wiadomo¶æ zosta³a wys³ana.";
-$locale['441'] = "Dziêkujê";
-$locale['442'] = "Wiadomo¶æ nie zosta³a wys³ana, poniewa¿:";
-$locale['443'] = "Spróbuj wys³aæ jeszcze raz.";
+$locale['440'] = "WiadomoÅ›Ä‡ zostaÅ‚a wysÅ‚ana.";
+$locale['441'] = "DziÄ™kujÄ™";
+$locale['442'] = "WiadomoÅ›Ä‡ nie zostaÅ‚a wysÅ‚ana, poniewaÅ¼:";
+$locale['443'] = "SprÃ³buj wysÅ‚aÄ‡ jeszcze raz.";
 ?>

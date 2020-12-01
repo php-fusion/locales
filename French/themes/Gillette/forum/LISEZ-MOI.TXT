@@ -1,9 +1,0 @@
-Francisation des boutons et images présent dans le forum du thème Gillette
-
-Comment faire :
-copiez tous les fichiers qui sont dans le répertoire French, vers le serveur FTP dans le répertoire themes\Gillette\forum\
-
-
-Francisation d'autres thèmes :
-rendez-vous ici : http://phpfusion.playingtobetogether.fr/articles.php?article_id=25
-

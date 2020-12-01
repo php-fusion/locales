@@ -2,16 +2,16 @@
 // Official SVN Trunk Rev: 1872
 // Database Restore
 $locale['400'] = "Kopia bazy danych";
-$locale['401'] = "B³±d";
-$locale['402'] = "Nieprawid³owy format kopii bazy danych";
+$locale['401'] = "BÅ‚Ä…d";
+$locale['402'] = "NieprawidÅ‚owy format kopii bazy danych";
 $locale['403'] = "Zamknij";
 // Backup File Information
 $locale['410'] = "Opcje zapisu";
-$locale['411'] = "Informacje dotycz±ce kopii bazy danych";
+$locale['411'] = "Informacje dotyczÄ…ce kopii bazy danych";
 $locale['412'] = "Nazwa pliku:";
 $locale['413'] = "Data:";
 $locale['414'] = "Nazwa bazy danych:";
-$locale['415'] = "Prefix g³ównych tabel:";
+$locale['415'] = "Prefix gÅ‚Ã³wnych tabel:";
 $locale['416'] = "Tabele:";
 $locale['417'] = "Zobacz";
 $locale['418'] = "Anuluj";
@@ -20,14 +20,14 @@ $locale['419'] = "tabel";
 $locale['430'] = "Opcje przywracania bazy danych";
 $locale['431'] = "Nazwa pliku:";
 $locale['432'] = "Data:";
-$locale['433'] = "Utwórz tabele:";
-$locale['434'] = "Zawarto¶æ tabel:";
+$locale['433'] = "UtwÃ³rz tabele:";
+$locale['434'] = "ZawartoÅ›Ä‡ tabel:";
 $locale['435'] = "Wybierz:";
 $locale['436'] = "wszystko";
 $locale['437'] = "nic";
-$locale['438'] = "Przywróæ";
+$locale['438'] = "PrzywrÃ³Ä‡";
 $locale['439'] = "Anuluj";
-$locale['440'] = "Wspierane typy plików:";
+$locale['440'] = "Wspierane typy plikÃ³w:";
 // Database Backup
 $locale['450'] = "Tworzenie kopii zapasowej";
 $locale['451'] = "Informacje o&nbsp;bazie danych";
@@ -37,11 +37,11 @@ $locale['454'] = "Opcje zapisu kopii:";
 $locale['455'] = "Rozszerzenie kopii bazy danych:";
 $locale['456'] = "(kompresja)";
 $locale['457'] = "Tabele bazy danych";
-$locale['458'] = "rdzeñ";
-$locale['459'] = "Wykonaj kopiê";
-$locale['460'] = "Has³o administratora:";
+$locale['458'] = "rdzeÅ„";
+$locale['459'] = "Wykonaj kopiÄ™";
+$locale['460'] = "HasÅ‚o administratora:";
 $locale['461'] = "Wymagane informacje";
 // Backup List
-$locale['480'] = "Przywróæ kopiê bazy danych";
+$locale['480'] = "PrzywrÃ³Ä‡ kopiÄ™ bazy danych";
 $locale['481'] = "Nazwa pliku:";
 ?>

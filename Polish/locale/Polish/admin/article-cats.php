@@ -1,36 +1,36 @@
 <?php
 // Official SVN Trunk Rev: 2222
 // Category titles
-$locale['400'] = "Dodaj kategoriê artyku³ów";
-$locale['401'] = "Edytuj kategoriê artyku³ów";
-$locale['402'] = "Istniej±ce kategorie artyku³ów";
+$locale['400'] = "Dodaj kategoriÄ™ artykuÅ‚Ã³w";
+$locale['401'] = "Edytuj kategoriÄ™ artykuÅ‚Ã³w";
+$locale['402'] = "IstniejÄ…ce kategorie artykuÅ‚Ã³w";
 // Category messages
-$locale['410'] = "Dodano kategoriê artyku³ów.";
-$locale['411'] = "Zaktualizowano kategoriê artyku³ów.";
-$locale['412'] = "Nie mo¿na by³o usun±æ kategorii artyku³ów.";
-$locale['413'] = "Do kategorii s± przypisane artyku³y.<br />Przenie¶ je do innej kategorii.";
-$locale['414'] = "Usuniêto kategoriê artyku³ów.";
+$locale['410'] = "Dodano kategoriÄ™ artykuÅ‚Ã³w.";
+$locale['411'] = "Zaktualizowano kategoriÄ™ artykuÅ‚Ã³w.";
+$locale['412'] = "Nie moÅ¼na byÅ‚o usunÄ…Ä‡ kategorii artykuÅ‚Ã³w.";
+$locale['413'] = "Do kategorii sÄ… przypisane artykuÅ‚y.<br />PrzenieÅ› je do innej kategorii.";
+$locale['414'] = "UsuniÄ™to kategoriÄ™ artykuÅ‚Ã³w.";
 // Category form
 $locale['420'] = "Nazwa kategorii:";
 $locale['421'] = "Opis kategorii:";
 $locale['422'] = "Sortuj wg:";
-$locale['423'] = "ID Artyku³u";
-$locale['424'] = "Tematu artyku³u";
+$locale['423'] = "ID ArtykuÅ‚u";
+$locale['424'] = "Tematu artykuÅ‚u";
 $locale['425'] = "Daty dodania";
-$locale['426'] = "Rosn±co";
-$locale['427'] = "Malej±co";
-$locale['428'] = "Dostêp dla:";
+$locale['426'] = "RosnÄ…co";
+$locale['427'] = "MalejÄ…co";
+$locale['428'] = "DostÄ™p dla:";
 $locale['429'] = "Zapisz";
 // Current category options
 $locale['440'] = "Kategoria";
-$locale['441'] = "Dostêp dla";
+$locale['441'] = "DostÄ™p dla";
 $locale['442'] = "Opcje";
 $locale['443'] = "Edycja";
-$locale['444'] = "Usuñ";
-$locale['445'] = "Nie zdefiniowano kategorii artyku³ów";
+$locale['444'] = "UsuÅ„";
+$locale['445'] = "Nie zdefiniowano kategorii artykuÅ‚Ã³w";
 // Delete Article category
-$locale['450'] = "Usun±æ kategoriê artyku³ów?";
+$locale['450'] = "UsunÄ…Ä‡ kategoriÄ™ artykuÅ‚Ã³w?";
 // Error Messages
-$locale['460'] = "Musisz podaæ nazwê kategorii.";
-$locale['461'] = "Kategoria o takiej nazwie ju¿ istnieje.";
+$locale['460'] = "Musisz podaÄ‡ nazwÄ™ kategorii.";
+$locale['461'] = "Kategoria o takiej nazwie juÅ¼ istnieje.";
 ?>

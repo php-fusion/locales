@@ -4,52 +4,52 @@ $locale['susp00'] = "Aktywne";
 $locale['susp01'] = "Zablokowane";
 $locale['susp02'] = "Nieaktywne";
 $locale['susp03'] = "Zawieszone";
-$locale['susp04'] = "Zablokowane zp. bezpieczeñstwa";
-$locale['susp05'] = "Wy³±czone zp. bezczynno¶ci";
+$locale['susp04'] = "Zablokowane zp. bezpieczeÅ„stwa";
+$locale['susp05'] = "WyÅ‚Ä…czone zp. bezczynnoÅ›ci";
 $locale['susp06'] = "Ukryte";
-$locale['susp07'] = "Wy³±czone";
+$locale['susp07'] = "WyÅ‚Ä…czone";
 $locale['susp08'] = "Bezczynne";
 
-/*Sprawdzenie i wybranie odpowiedniej odmiany wyrazów*/
+/*Sprawdzenie i wybranie odpowiedniej odmiany wyrazÃ³w*/
 if (!isset($_GET['action'])) {
-	/*Normalny widok w PA, bez podjêcia jakiejkolwiek akcji (pole wyboru w przy li¶cie u¿ytkowników*/
-	$locale['susp10'] = "Przywróæ";
+	/*Normalny widok w PA, bez podjÄ™cia jakiejkolwiek akcji (pole wyboru w przy liÅ›cie uÅ¼ytkownikÃ³w*/
+	$locale['susp10'] = "PrzywrÃ³Ä‡";
 	$locale['susp11'] = "Zablokuj";
 	$locale['susp12'] = "Deaktywuj";
-	$locale['susp13'] = "Zawie¶";
-	$locale['susp14'] = "Zablokuj zp. bezpieczeñstwa";
-	$locale['susp15'] = "Wy³±cz zp. bezczynno¶ci";
+	$locale['susp13'] = "ZawieÅ›";
+	$locale['susp14'] = "Zablokuj zp. bezpieczeÅ„stwa";
+	$locale['susp15'] = "WyÅ‚Ä…cz zp. bezczynnoÅ›ci";
 	$locale['susp16'] = "Ukryj";
-	$locale['susp17'] = "Wy³±cz";
+	$locale['susp17'] = "WyÅ‚Ä…cz";
 	$locale['susp18'] = "Bezczynne";
 } else {
 	/*Odmiana dla dzienniku konta*/
-	$locale['susp10'] = "Przywróceñ";
+	$locale['susp10'] = "PrzywrÃ³ceÅ„";
 	$locale['susp11'] = "Blokad";
 	$locale['susp12'] = "Deaktywacji";
-	$locale['susp13'] = "Zawieszeñ";
-	$locale['susp14'] = "Blokad zp. bezpieczeñstwa";
-	$locale['susp15'] = "Wy³±czeñ zp. bezczynno¶ci";
-	$locale['susp16'] = "Ukryæ";
-	$locale['susp17'] = "Wy³±czeñ";
-	$locale['susp18'] = "Bezczynno¶ci";
+	$locale['susp13'] = "ZawieszeÅ„";
+	$locale['susp14'] = "Blokad zp. bezpieczeÅ„stwa";
+	$locale['susp15'] = "WyÅ‚Ä…czeÅ„ zp. bezczynnoÅ›ci";
+	$locale['susp16'] = "UkryÄ‡";
+	$locale['susp17'] = "WyÅ‚Ä…czeÅ„";
+	$locale['susp18'] = "BezczynnoÅ›ci";
 }
 $locale['susp_sys'] = "Akcje";
-$locale['susp100'] = "Dziennik konta u¿ytkownika %s";
+$locale['susp100'] = "Dziennik konta uÅ¼ytkownika %s";
 $locale['susp100b'] = "%s dla %s";
 $locale['susp101'] = "Dziennik konta dla  %s";
-$locale['susp102'] = "Wcze¶niejsza historia <strong>%s</strong> dla konta %s";
+$locale['susp102'] = "WczeÅ›niejsza historia <strong>%s</strong> dla konta %s";
 $locale['susp103'] = "Nr";
 $locale['susp104'] = "Data";
-$locale['susp105'] = "Typ/Powód";
+$locale['susp105'] = "Typ/PowÃ³d";
 $locale['susp106'] = "Administrator";
 $locale['susp107'] = "Nie podano powodu!";
 $locale['susp108'] = "IP";
 $locale['susp109'] = "Akcje";
-$locale['susp110'] = "Konto u¿ytkownika nie posiada zarejestrowanych akcji.";
+$locale['susp110'] = "Konto uÅ¼ytkownika nie posiada zarejestrowanych akcji.";
 $locale['susp111'] = "Aktywowano";
 $locale['susp112'] = "IP: ";
-$locale['susp113'] = "Zdjêty";
+$locale['susp113'] = "ZdjÄ™ty";
 $locale['susp114'] = "Dziennik konta";
-$locale['susp115'] = "Konta u¿ytkowników";
+$locale['susp115'] = "Konta uÅ¼ytkownikÃ³w";
 ?>

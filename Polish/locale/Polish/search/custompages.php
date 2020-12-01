@@ -1,8 +1,8 @@
 <?php
 $locale['c400'] = "Dodatkowe strony";
-$locale['c401'] = "dodatkowa strona spe³niaj±ca";
-$locale['c402'] = "dodatkowych stron spe³niaj±cych";
+$locale['c401'] = "dodatkowa strona speÅ‚niajÄ…ca";
+$locale['c402'] = "dodatkowych stron speÅ‚niajÄ…cych";
 $locale['c403'] = "znalezionych w";
 $locale['c404'] = "tytule strony";
-$locale['c405'] = "tre¶ci strony.";
+$locale['c405'] = "treÅ›ci strony.";
 ?>

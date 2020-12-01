@@ -3,45 +3,45 @@
 // Album titles
 $locale['400'] = "Dodaj album";
 $locale['401'] = "Edytuj album";
-$locale['402'] = "Istniej±ce albumy";
-$locale['403'] = "Powa¿ny b³±d galerii zdjêæ";
+$locale['402'] = "IstniejÄ…ce albumy";
+$locale['403'] = "PowaÅ¼ny bÅ‚Ä…d galerii zdjÄ™Ä‡";
 // Album messages
 $locale['410'] = "Dodano album.";
 $locale['411'] = "Zaktualizowano album.";
-$locale['412'] = "Usuniêto miniaturê albumu.";
-$locale['413'] = "Usuniêto album.";
-$locale['414'] = "Wyst±pi³y nastêpuj±ce b³êdy:";
-$locale['415'] = "Nieprawid³owa nazwa pliku miniatury. Usuñ z&nbsp;niej wszystkie spacje oraz polskie znaki diakrytyczne.";
-$locale['416'] = "Miniatura nie mo¿e byæ wiêksza ni¿ %s.";
-$locale['417'] = "Miniatura musi mieæ format pliku GIF, JPEG lub PNG.";
-$locale['418'] = "Wymiary miniatury nie mog± byæ wiêksze ni¿ %u x %u pikseli.";
-$locale['419'] = "Nie mo¿na by³o usun±æ albumu. Wpisano niepoprawne has³o.";
-$locale['420'] = "Nie wykryto biblioteki GD. Galeria zdjêæ nie bêdzie bez niej poprawnie dzia³aæ. Wiêcej informacji mo¿esz uzyskaæ od swojego hostingodawcy, skontaktuj siê z&nbsp;nim.";
+$locale['412'] = "UsuniÄ™to miniaturÄ™ albumu.";
+$locale['413'] = "UsuniÄ™to album.";
+$locale['414'] = "WystÄ…piÅ‚y nastÄ™pujÄ…ce bÅ‚Ä™dy:";
+$locale['415'] = "NieprawidÅ‚owa nazwa pliku miniatury. UsuÅ„ z&nbsp;niej wszystkie spacje oraz polskie znaki diakrytyczne.";
+$locale['416'] = "Miniatura nie moÅ¼e byÄ‡ wiÄ™ksza niÅ¼ %s.";
+$locale['417'] = "Miniatura musi mieÄ‡ format pliku GIF, JPEG lub PNG.";
+$locale['418'] = "Wymiary miniatury nie mogÄ… byÄ‡ wiÄ™ksze niÅ¼ %u x %u pikseli.";
+$locale['419'] = "Nie moÅ¼na byÅ‚o usunÄ…Ä‡ albumu. Wpisano niepoprawne hasÅ‚o.";
+$locale['420'] = "Nie wykryto biblioteki GD. Galeria zdjÄ™Ä‡ nie bÄ™dzie bez niej poprawnie dziaÅ‚aÄ‡. WiÄ™cej informacji moÅ¼esz uzyskaÄ‡ od swojego hostingodawcy, skontaktuj siÄ™ z&nbsp;nim.";
 // Album confirmation
-$locale['430'] = "Potwierdzenie usuniêcia albumu";
-$locale['431'] = "Album, który chcesz usun±æ zawiera jedno lub wiêcej zdjêæ.<br />\n"."Je¶li nadal chcesz usun±æ ten album, wpisz swoje has³o administratora:";
-$locale['432'] = "Potwierd¼";
+$locale['430'] = "Potwierdzenie usuniÄ™cia albumu";
+$locale['431'] = "Album, ktÃ³ry chcesz usunÄ…Ä‡ zawiera jedno lub wiÄ™cej zdjÄ™Ä‡.<br />\n"."JeÅ›li nadal chcesz usunÄ…Ä‡ ten album, wpisz swoje hasÅ‚o administratora:";
+$locale['432'] = "PotwierdÅº";
 $locale['433'] = "Anuluj";
 // Album form
-$locale['440'] = "Tytu³: ";
+$locale['440'] = "TytuÅ‚: ";
 $locale['441'] = "Opis: ";
-$locale['442'] = "Dostêp dla: ";
-$locale['443'] = "kolejno¶æ: ";
+$locale['442'] = "DostÄ™p dla: ";
+$locale['443'] = "kolejnoÅ›Ä‡: ";
 $locale['444'] = "Miniatura: ";
 $locale['445'] = "Zapisz";
 // Current Albums
-$locale['460'] = "Otwórz album";
+$locale['460'] = "OtwÃ³rz album";
 $locale['461'] = "Brak miniatur";
 $locale['462'] = "Data: ";
 $locale['463'] = "Utworzony przez: ";
-$locale['464'] = "Dostêp dla: ";
-$locale['465'] = "Zdjêæ: ";
-$locale['466'] = "Przenie¶ wy¿ej";
-$locale['467'] = "Przenie¶ ni¿ej";
+$locale['464'] = "DostÄ™p dla: ";
+$locale['465'] = "ZdjÄ™Ä‡: ";
+$locale['466'] = "PrzenieÅ› wyÅ¼ej";
+$locale['467'] = "PrzenieÅ› niÅ¼ej";
 $locale['468'] = "Edytuj";
-$locale['469'] = "Usuñ";
-$locale['470'] = "Od¶wie¿ kolejno¶æ albumów i&nbsp;zdjêæ";
-$locale['471'] = "Nie dodano albumów.";
+$locale['469'] = "UsuÅ„";
+$locale['470'] = "OdÅ›wieÅ¼ kolejnoÅ›Ä‡ albumÃ³w i&nbsp;zdjÄ™Ä‡";
+$locale['471'] = "Nie dodano albumÃ³w.";
 // Delete Album
-$locale['500'] = "Usun±æ album?";
+$locale['500'] = "UsunÄ…Ä‡ album?";
 ?>

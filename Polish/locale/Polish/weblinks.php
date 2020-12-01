@@ -6,6 +6,6 @@ $locale['410'] = "[NOWY]";
 $locale['411'] = "Data dodania:";
 $locale['412'] = "Wizyt:";
 // Downloads Notices
-$locale['430'] = "Brak udostêpnionych kategorii linków.";
-$locale['431'] = "Brak udostêpnionych linków.";
+$locale['430'] = "Brak udostÄ™pnionych kategorii linkÃ³w.";
+$locale['431'] = "Brak udostÄ™pnionych linkÃ³w.";
 ?>

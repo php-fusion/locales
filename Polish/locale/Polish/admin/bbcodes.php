@@ -3,22 +3,22 @@
 $locale['400'] = "Tagi BBCode";
 $locale['401'] = "Przetestuj tagi BBCode";
 // Enabled BB Codes
-$locale['402'] = "W³±czone tagi BBCode";
+$locale['402'] = "WÅ‚Ä…czone tagi BBCode";
 $locale['403'] = "Nazwa";
 $locale['404'] = "Ikona";
 $locale['405'] = "Opis";
-$locale['406'] = "Sposób u¿ycia";
-$locale['407'] = "Kolejno¶æ";
-$locale['408'] = "Przenie¶ ni¿ej";
-$locale['409'] = "Przenie¶ wy¿ej";
-$locale['410'] = "Wy³±cz";
-$locale['411'] = "Brak w³±czonych tagów BBCode.";
+$locale['406'] = "SposÃ³b uÅ¼ycia";
+$locale['407'] = "KolejnoÅ›Ä‡";
+$locale['408'] = "PrzenieÅ› niÅ¼ej";
+$locale['409'] = "PrzenieÅ› wyÅ¼ej";
+$locale['410'] = "WyÅ‚Ä…cz";
+$locale['411'] = "Brak wÅ‚Ä…czonych tagÃ³w BBCode.";
 // Disabled BB Codes
-$locale['413'] = "Wy³±czone tagi BBCode";
-$locale['414'] = "W³±cz";
-$locale['415'] = "£amanie linii";
-$locale['416'] = "Brak wy³±czonych tagów BBCode.";
+$locale['413'] = "WyÅ‚Ä…czone tagi BBCode";
+$locale['414'] = "WÅ‚Ä…cz";
+$locale['415'] = "Åamanie linii";
+$locale['416'] = "Brak wyÅ‚Ä…czonych tagÃ³w BBCode.";
 // Test BB Codes
-$locale['417'] = "Test tagów BBCode";
-$locale['418'] = "Wy³±cz u¶mieszki";
+$locale['417'] = "Test tagÃ³w BBCode";
+$locale['418'] = "WyÅ‚Ä…cz uÅ›mieszki";
 ?>

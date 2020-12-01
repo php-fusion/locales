@@ -1,29 +1,29 @@
 <?php
 // Official SVN Trunk Rev: 1732
 // Smiley titles
-$locale['401'] = "Dodaj u¶mieszka";
-$locale['402'] = "Edytuj u¶mieszka";
-$locale['400'] = "Istniej±ce u¶mieszki";
+$locale['401'] = "Dodaj uÅ›mieszka";
+$locale['402'] = "Edytuj uÅ›mieszka";
+$locale['400'] = "IstniejÄ…ce uÅ›mieszki";
 // Smiley messages
-$locale['410'] = "Dodano u¶mieszka.";
-$locale['411'] = "Zaktualizowano u¶mieszka.";
-$locale['412'] = "Usuniêto u¶mieszka.";
-$locale['413'] = "Nie mo¿na by³o zaktualizowaæ u¶mieszka, poniewa¿";
-$locale['414'] = "Nie mo¿na by³o dodaæ u¶mieszka, poniewa¿";
-$locale['415'] = "taki kod jest ju¿ w&nbsp;u¿yciu.";
-$locale['416'] = "Usun±æ u¶mieszka?";
+$locale['410'] = "Dodano uÅ›mieszka.";
+$locale['411'] = "Zaktualizowano uÅ›mieszka.";
+$locale['412'] = "UsuniÄ™to uÅ›mieszka.";
+$locale['413'] = "Nie moÅ¼na byÅ‚o zaktualizowaÄ‡ uÅ›mieszka, poniewaÅ¼";
+$locale['414'] = "Nie moÅ¼na byÅ‚o dodaÄ‡ uÅ›mieszka, poniewaÅ¼";
+$locale['415'] = "taki kod jest juÅ¼ w&nbsp;uÅ¼yciu.";
+$locale['416'] = "UsunÄ…Ä‡ uÅ›mieszka?";
 // Smiley form
-$locale['420'] = "Kod u¶mieszka:";
-$locale['421'] = "Obraz u¶mieszka:";
-$locale['422'] = "Opis u¶mieszka:";
+$locale['420'] = "Kod uÅ›mieszka:";
+$locale['421'] = "Obraz uÅ›mieszka:";
+$locale['422'] = "Opis uÅ›mieszka:";
 $locale['423'] = "Zapisz";
-$locale['424'] = "Podgl±d u¶mieszka:";
+$locale['424'] = "PodglÄ…d uÅ›mieszka:";
 // Current Smileys
 $locale['430'] = "Kod";
 $locale['431'] = "Obraz";
 $locale['432'] = "Opis";
 $locale['433'] = "Opcje";
 $locale['434'] = "Edytuj";
-$locale['435'] = "Usuñ";
-$locale['436'] = "Nie zdefiniowano u¶mieszków.";
+$locale['435'] = "UsuÅ„";
+$locale['436'] = "Nie zdefiniowano uÅ›mieszkÃ³w.";
 ?>

@@ -1,8 +1,8 @@
 <?php
-$locale['a400'] = "Artyku³y";
-$locale['a401'] = "artyku³ spe³niaj±cy";
-$locale['a402'] = "artyku³ów spe³niaj±cych";
+$locale['a400'] = "ArtykuÅ‚y";
+$locale['a401'] = "artykuÅ‚ speÅ‚niajÄ…cy";
+$locale['a402'] = "artykuÅ‚Ã³w speÅ‚niajÄ…cych";
 $locale['a403'] = "znalezionych w";
-$locale['a404'] = "temacie artyku³u";
-$locale['a405'] = "tre¶ci artyku³u.";
+$locale['a404'] = "temacie artykuÅ‚u";
+$locale['a405'] = "treÅ›ci artykuÅ‚u.";
 ?>

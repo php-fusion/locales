@@ -1,40 +1,40 @@
 <?php
 // Official SVN Trunk Rev: 2242
 // Forum Ranks Titles
-$locale['400'] = "Dodaj rangê";
-$locale['401'] = "Edytuj rangê";
-$locale['402'] = "Istniej±ce rangi";
-$locale['403'] = "Wy³±czono system rang";
+$locale['400'] = "Dodaj rangÄ™";
+$locale['401'] = "Edytuj rangÄ™";
+$locale['402'] = "IstniejÄ…ce rangi";
+$locale['403'] = "WyÅ‚Ä…czono system rang";
 // News messages
-$locale['410'] = "Dodano rangê.";
-$locale['411'] = "Zaktualizowano rangê.";
-$locale['412'] = "Usuniêto rangê.";
-$locale['413'] = "Administratorzy i&nbsp;moderatorzy mog± mieæ tylko po jednej randze.";
+$locale['410'] = "Dodano rangÄ™.";
+$locale['411'] = "Zaktualizowano rangÄ™.";
+$locale['412'] = "UsuniÄ™to rangÄ™.";
+$locale['413'] = "Administratorzy i&nbsp;moderatorzy mogÄ… mieÄ‡ tylko po jednej randze.";
 // Forum Ranks form
-$locale['420'] = "Tytu³ rangi:";
+$locale['420'] = "TytuÅ‚ rangi:";
 $locale['421'] = "Obraz rangi:";
-$locale['422'] = "Wymagana liczba postów:";
-$locale['423'] = "Dostêpna dla:";
-$locale['424'] = "U¿ytkowników";
-$locale['425'] = "Moderatorów";
-$locale['426'] = "Administratorów";
-$locale['427'] = "G³ównych administratorów";
+$locale['422'] = "Wymagana liczba postÃ³w:";
+$locale['423'] = "DostÄ™pna dla:";
+$locale['424'] = "UÅ¼ytkownikÃ³w";
+$locale['425'] = "ModeratorÃ³w";
+$locale['426'] = "AdministratorÃ³w";
+$locale['427'] = "GÅ‚Ã³wnych administratorÃ³w";
 $locale['428'] = "Zapisz";
 $locale['429'] = "Typ:";
 $locale['429a'] = "Specjalna";
-$locale['429b'] = "Administratorów";
-$locale['429c'] = "Od liczby postów";
+$locale['429b'] = "AdministratorÃ³w";
+$locale['429c'] = "Od liczby postÃ³w";
 // Current Forum Ranks
-$locale['430'] = "Tytu³";
-$locale['431'] = "Dostêpna dla";
+$locale['430'] = "TytuÅ‚";
+$locale['431'] = "DostÄ™pna dla";
 $locale['432'] = "Obraz";
-$locale['433'] = "Wymagana liczba postów";
+$locale['433'] = "Wymagana liczba postÃ³w";
 $locale['434'] = "Opcje";
 $locale['435'] = "Edytuj";
-$locale['436'] = "Usuñ";
+$locale['436'] = "UsuÅ„";
 $locale['437'] = "Nie zdefiniowano rang na forum.";
-$locale['438'] = "Typ / Postów";
+$locale['438'] = "Typ / PostÃ³w";
 // Forum Ranks Disabled
-$locale['450'] = "System rang na forum jest wy³±czony.<br />Przejd¼ do %s, aby go w³±czyæ.";
-$locale['451'] = "ustawieñ forum";
+$locale['450'] = "System rang na forum jest wyÅ‚Ä…czony.<br />PrzejdÅº do %s, aby go wÅ‚Ä…czyÄ‡.";
+$locale['451'] = "ustawieÅ„ forum";
 ?>

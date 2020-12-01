@@ -1,11 +1,11 @@
 <?php
 // Official SVN Trunk Rev: 1732
 $locale['400'] = "Lista kont";
-$locale['401'] = "Nazwa u¿ytkownika";
+$locale['401'] = "Nazwa uÅ¼ytkownika";
 $locale['402'] = "Typ konta";
-$locale['403'] = "Brak kont rozpoczynaj±cych siê podanych znakiem ";
-$locale['404'] = "Poka¿ wszystkie";
-$locale['405'] = "Grupa u¿ytkowników";
-$locale['406'] = "Nie nale¿y do jakiejkolwiek grupy";
-$locale['407'] = "Nale¿y do ka¿dej grupy";
+$locale['403'] = "Brak kont rozpoczynajÄ…cych siÄ™ podanych znakiem ";
+$locale['404'] = "PokaÅ¼ wszystkie";
+$locale['405'] = "Grupa uÅ¼ytkownikÃ³w";
+$locale['406'] = "Nie naleÅ¼y do jakiejkolwiek grupy";
+$locale['407'] = "NaleÅ¼y do kaÅ¼dej grupy";
 ?>

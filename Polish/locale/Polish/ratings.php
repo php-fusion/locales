@@ -1,28 +1,28 @@
 <?php
 // Official SVN Trunk Rev: 1960
 $locale['r100'] = "Oceny";
-$locale['r101'] = "Brak ocen. Mo¿e czas dodaæ swoj±?";
-$locale['r102'] = "Usuñ ocenê";
-$locale['r103'] = "Dodaj ocenê";
-$locale['r104'] = "Tylko zarejestrowani u¿ytkownicy mog± oceniaæ zawarto¶æ strony<br /><a href='".BASEDIR."login.php'>Zaloguj siê</a> ".($settings['enable_registration'] ? " lub <a href='".BASEDIR."register.php'>zarejestruj</a>" : "").", ¿eby móc zag³osowaæ.";
+$locale['r101'] = "Brak ocen. MoÅ¼e czas dodaÄ‡ swojÄ…?";
+$locale['r102'] = "UsuÅ„ ocenÄ™";
+$locale['r103'] = "Dodaj ocenÄ™";
+$locale['r104'] = "Tylko zarejestrowani uÅ¼ytkownicy mogÄ… oceniaÄ‡ zawartoÅ›Ä‡ strony<br /><a href='".BASEDIR."login.php'>Zaloguj siÄ™</a> ".($settings['enable_registration'] ? " lub <a href='".BASEDIR."register.php'>zarejestruj</a>" : "").", Å¼eby mÃ³c zagÅ‚osowaÄ‡.";
 $locale['r105'] = "Ocenione przez Ciebie na <b>%s</b> dnia %s";
-$locale['r106'] = "Oceñ dany materia³";
+$locale['r106'] = "OceÅ„ dany materiaÅ‚";
 $locale['r107'] = "- nie wybrano oceny -";
-$locale['r108'] = "0 g³osów";
-$locale['r109'] = "g³os";
-$locale['r110'] = "g³osów";
+$locale['r108'] = "0 gÅ‚osÃ³w";
+$locale['r109'] = "gÅ‚os";
+$locale['r110'] = "gÅ‚osÃ³w";
 // Rating Options
-$locale['r120'] = "¦wietne!";
+$locale['r120'] = "Åšwietne!";
 $locale['r121'] = "Bardzo dobre";
 $locale['r122'] = "Dobre";
-$locale['r123'] = "¦rednie";
-$locale['r124'] = "S³abe";
+$locale['r123'] = "Åšrednie";
+$locale['r124'] = "SÅ‚abe";
 
 /* My own patch, if you don't want it - comment lines below.
- * To moja w³asna ³atka, je¶li nie chcesz z niej korzystaæ - zakomentuj poni¿sze linie
+ * To moja wÅ‚asna Å‚atka, jeÅ›li nie chcesz z niej korzystaÄ‡ - zakomentuj poniÅ¼sze linie
  * Tomasz "jantom" Jankowski, Date: 11 04 2011 16:10 */
 require_once INCLUDES."output_handling_include.php";
-$locale['r110a'] = "g³osy";
+$locale['r110a'] = "gÅ‚osy";
 replace_in_output("2 ".$locale['r110'],"2 ".$locale['r110a']);
 replace_in_output("3 ".$locale['r110'],"3 ".$locale['r110a']);
 replace_in_output("4 ".$locale['r110'],"4 ".$locale['r110a']);

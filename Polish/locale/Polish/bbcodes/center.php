@@ -1,4 +1,4 @@
 <?php
-$locale['bb_center_description'] = "Wy¶rodkowuje zaznaczony tekst";
-$locale['bb_center_usage'] = "wy¶rodkowany tekst";
+$locale['bb_center_description'] = "WyÅ›rodkowuje zaznaczony tekst";
+$locale['bb_center_usage'] = "wyÅ›rodkowany tekst";
 ?>

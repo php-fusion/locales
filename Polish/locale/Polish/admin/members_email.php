@@ -2,58 +2,58 @@
 // Official SVN Trunk Rev: 1732
 $locale['email_create_subject'] = "Utworzono konto na ";
 $locale['email_create_message'] = "Witaj [USER_NAME]!\n
-Twoje konto na ".$settings['sitename']." zosta³o utworzone.\n
-Teraz mo¿esz zalogowaæ siê, korzystaj±c z poni¿szych informacji:\n
-nazwa u¿ytkownika: [USER_NAME]\n
-has³o: [PASSWORD]\n\n
+Twoje konto na ".$settings['sitename']." zostaÅ‚o utworzone.\n
+Teraz moÅ¼esz zalogowaÄ‡ siÄ™, korzystajÄ…c z poniÅ¼szych informacji:\n
+nazwa uÅ¼ytkownika: [USER_NAME]\n
+hasÅ‚o: [PASSWORD]\n\n
 Z pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo¶æ zosta³a wys³ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomoÅ›Ä‡ zostaÅ‚a wysÅ‚ana automatycznie. Nie odpowiadaj na niÄ….";
 
 $locale['email_activate_subject'] = "Aktywowano konto na ";
 $locale['email_activate_message'] = "Witaj [USER_NAME]!\n
-Twoje konto na  ".$settings['sitename']." zosta³o aktywowane.\n
-Teraz mo¿esz zalogowaæ siê przy u¿yciu swojej nazwy u¿ytkownika i has³a.\n
+Twoje konto na  ".$settings['sitename']." zostaÅ‚o aktywowane.\n
+Teraz moÅ¼esz zalogowaÄ‡ siÄ™ przy uÅ¼yciu swojej nazwy uÅ¼ytkownika i hasÅ‚a.\n
 Wszystkiego dobrego\n
 ".$settings['siteusername'];
 
 $locale['email_deactivate_subject'] = "Reaktywacja konta na ".$settings['sitename'];
 $locale['email_deactivate_message'] = "Witaj [USER_NAME]!\n
-Minê³o ".$settings['deactivation_period']." dni od Twojego ostatniego zalogowania siê na ".$settings['sitename'].". Twoje konto zosta³o uznane za bezczynne. Dane z nim zwi±zane pozosta³y niezmienione.\n
-Aby reaktywowaæ konto, naci¶nij na poni¿szy link:\n
+MinÄ™Å‚o ".$settings['deactivation_period']." dni od Twojego ostatniego zalogowania siÄ™ na ".$settings['sitename'].". Twoje konto zostaÅ‚o uznane za bezczynne. Dane z nim zwiÄ…zane pozostaÅ‚y niezmienione.\n
+Aby reaktywowaÄ‡ konto, naciÅ›nij na poniÅ¼szy link:\n
 ".$settings['siteurl']."reactivate.php?user_id=[USER_ID]&code=[CODE]\n
 Z pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo¶æ zosta³a wys³ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomoÅ›Ä‡ zostaÅ‚a wysÅ‚ana automatycznie. Nie odpowiadaj na niÄ….";
 
-$locale['email_ban_subject'] = "Twoje konto na ".$settings['sitename']." zosta³o zablokowane";
+$locale['email_ban_subject'] = "Twoje konto na ".$settings['sitename']." zostaÅ‚o zablokowane";
 $locale['email_ban_message'] = "Witaj [USER_NAME]!\n
-Twoje konto na ".$settings['sitename']." zosta³o zablokowane przez ".$userdata['user_name']." z nastêpuj±cych powodów:\n
+Twoje konto na ".$settings['sitename']." zostaÅ‚o zablokowane przez ".$userdata['user_name']." z nastÄ™pujÄ…cych powodÃ³w:\n
 [REASON].\n
-Je¶li potrzebujesz szczegó³owych informacji dotycz±cych blokady konta, skontaktuj siê z administracj± strony wysy³aj±c e-mail na adres ".$settings['siteemail'].".\n
+JeÅ›li potrzebujesz szczegÃ³Å‚owych informacji dotyczÄ…cych blokady konta, skontaktuj siÄ™ z administracjÄ… strony wysyÅ‚ajÄ…c e-mail na adres ".$settings['siteemail'].".\n
 Z pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo¶æ zosta³a wys³ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomoÅ›Ä‡ zostaÅ‚a wysÅ‚ana automatycznie. Nie odpowiadaj na niÄ….";
 
-$locale['email_secban_subject'] = "Twoje konto na ".$settings['sitename']." zosta³o zablokowane";
+$locale['email_secban_subject'] = "Twoje konto na ".$settings['sitename']." zostaÅ‚o zablokowane";
 $locale['email_secban_message'] = "Witaj [USER_NAME]!\n
-Twoje konto na ".$settings['sitename']." zosta³o zablokowane przez ".$userdata['user_name'].", poniewa¿ podjête przez Ciebie dzia³ania stanowi³y zagro¿enie dla strony i jej u¿ytkowników.\n
-Je¶li potrzebujesz szczegó³owych informacji dotycz±cych blokady konta, skontaktuj siê z administracj± strony wysy³aj±c e-mail na adres ".$settings['siteemail'].".\n
+Twoje konto na ".$settings['sitename']." zostaÅ‚o zablokowane przez ".$userdata['user_name'].", poniewaÅ¼ podjÄ™te przez Ciebie dziaÅ‚ania stanowiÅ‚y zagroÅ¼enie dla strony i jej uÅ¼ytkownikÃ³w.\n
+JeÅ›li potrzebujesz szczegÃ³Å‚owych informacji dotyczÄ…cych blokady konta, skontaktuj siÄ™ z administracjÄ… strony wysyÅ‚ajÄ…c e-mail na adres ".$settings['siteemail'].".\n
 Z pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo¶æ zosta³a wys³ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomoÅ›Ä‡ zostaÅ‚a wysÅ‚ana automatycznie. Nie odpowiadaj na niÄ….";
 
-$locale['email_suspend_subject'] = "Twoje konto na ".$settings['sitename']."zosta³o zawieszone";
+$locale['email_suspend_subject'] = "Twoje konto na ".$settings['sitename']."zostaÅ‚o zawieszone";
 $locale['email_suspend_message'] = "Witaj [USER_NAME]!\n
-Twoje konto na ".$settings['sitename']." zosta³o zawieszona przez ".$userdata['user_name']." do [DATE] (wg czasu strony) z nastêpuj±cych powodów:\n
+Twoje konto na ".$settings['sitename']." zostaÅ‚o zawieszona przez ".$userdata['user_name']." do [DATE] (wg czasu strony) z nastÄ™pujÄ…cych powodÃ³w:\n
 [REASON].\n
-Je¶li potrzebujesz szczegó³owych informacji dotycz±cych zawieszenia konta, skontaktuj siê z administracj± strony wysy³aj±c e-mail na adres ".$settings['siteemail'].".\n
+JeÅ›li potrzebujesz szczegÃ³Å‚owych informacji dotyczÄ…cych zawieszenia konta, skontaktuj siÄ™ z administracjÄ… strony wysyÅ‚ajÄ…c e-mail na adres ".$settings['siteemail'].".\n
 Z pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo¶æ zosta³a wys³ana automatycznie. Nie odpowiadaj na ni±."
+Niniejsza wiadomoÅ›Ä‡ zostaÅ‚a wysÅ‚ana automatycznie. Nie odpowiadaj na niÄ…."
 ?>

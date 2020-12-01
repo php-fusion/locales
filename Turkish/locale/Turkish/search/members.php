@@ -1,6 +1,6 @@
 <?php
-$locale['m400'] = "Üyeler";
-$locale['m401'] = "Üye";
-$locale['m402'] = "Üyeler";
-$locale['m403'] = "Üye profillerini sadece üyeler görebilir!";
+$locale['m400'] = "&#220;yeler";
+$locale['m401'] = "&#220;ye";
+$locale['m402'] = "&#220;yeler";
+$locale['m403'] = "&#220;ye profillerini sadece &#252;yeler g&#246;rebilir!";
 ?>

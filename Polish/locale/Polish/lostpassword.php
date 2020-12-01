@@ -1,30 +1,30 @@
 <?php
 // Official SVN Trunk Rev: 2195
-$locale['400'] = "Zapomniane has≥o";
-$locale['401'] = "Na TwÛj adres e-mail wys≥ano wiadomo∂Ê potwierdzaj±c±. Kliknij na znajduj±cy siÍ w&nbsp;niej odno∂nik, aby wybraÊ nowe has≥o.";
-$locale['402'] = "Na TwÛj adres e-mail wys≥ano nowe has≥o.";
-$locale['403'] = "PowrÛÊ do strony g≥Ûwnej";
+$locale['400'] = "Zapomniane has≈Ço";
+$locale['401'] = "Na Tw√≥j adres e-mail wys≈Çano wiadomo≈õƒá potwierdzajƒÖcƒÖ. Kliknij na znajdujƒÖcy siƒô w&nbsp;niej odno≈õnik, aby wybraƒá nowe has≈Ço.";
+$locale['402'] = "Na Tw√≥j adres e-mail wys≈Çano nowe has≈Ço.";
+$locale['403'] = "Powr√≥ƒá do strony g≈Ç√≥wnej";
 $locale['404'] = "Nie znaleziono podanego adresu e-mail.";
-$locale['405'] = "Podano nieprawid≥owy adres e-mail.";
-$locale['406'] = "SprÛbuj jeszcze raz.";
-$locale['407'] = "Podaj adres e-mail, na ktÛry konto zosta≥o zarejestrowane<br />
-Nowe has≥o zostanie automatycznie utworzone i&nbsp;na niego wys≥ane.";
-$locale['408'] = "Wy∂lij has≥o";
-$locale['409'] = "Nowe has≥o dla ";
+$locale['405'] = "Podano nieprawid≈Çowy adres e-mail.";
+$locale['406'] = "Spr√≥buj jeszcze raz.";
+$locale['407'] = "Podaj adres e-mail, na kt√≥ry konto zosta≈Ço zarejestrowane<br />
+Nowe has≈Ço zostanie automatycznie utworzone i&nbsp;na niego wys≈Çane.";
+$locale['408'] = "Wy≈õlij has≈Ço";
+$locale['409'] = "Nowe has≈Ço dla ";
 $locale['410'] = "Witaj [USER_NAME],\n
-Poproszono o zmianÍ has≥a do Twojego konta na stronie ".$settings['sitename']." .\n
-Je∂li dalej chcesz zmieniÊ has≥o, kliknij na poniøszy link:\n
+Poproszono o zmianƒô has≈Ça do Twojego konta na stronie ".$settings['sitename']." .\n
+Je≈õli dalej chcesz zmieniƒá has≈Ço, kliknij na poni≈ºszy link:\n
 [NEW_PASS_LINK]\n
 Z pozdrowieniami,
 ".$settings['siteusername']."\n\n
 ------
-Niniejsza wiadomo∂Ê zosta≥a wys≥ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomo≈õƒá zosta≈Ça wys≈Çana automatycznie. Nie odpowiadaj na niƒÖ.";
 $locale['411'] = "Witaj [USER_NAME],\n
-Twoje nowe has≥o na stronie ".$settings['sitename']." to:\n
+Twoje nowe has≈Ço na stronie ".$settings['sitename']." to:\n
 [NEW_PASS]\n
 Z pozdrowieniami,
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo∂Ê zosta≥a wys≥ana automatycznie. Nie odpowiadaj na ni±.";
-$locale['412'] = "Wyst±pi≥ b≥±d, sprÛbuj ponownie.";
+Niniejsza wiadomo≈õƒá zosta≈Ça wys≈Çana automatycznie. Nie odpowiadaj na niƒÖ.";
+$locale['412'] = "WystƒÖpi≈Ç b≈ÇƒÖd, spr√≥buj ponownie.";
 ?>

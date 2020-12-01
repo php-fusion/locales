@@ -5,31 +5,31 @@
  Email: digitanium@php-fusion.co.uk
  Web: http://www.php-fusion.co.uk
 
- Polish (ISO-8859-2) Language Fileset for PHP-Fusion v7.02.03, based at translation for PHP-Fusion v7.01.xx
+ Polish (UTF-8) Language Fileset for PHP-Fusion v7.02.03, based at translation for PHP-Fusion v7.01.xx
  Translations from english, modifications and tests:
  PHP-Fusion po Polsku (PHP-Fusion in Polish)
  https://launchpad.net/pf-pl
  Main translator: Tomasz Jankowski (jantom)
- Translator and tester: Micha≥ PospieszyÒski (sony)
+ Translator and tester: Micha≈Ç Pospieszy≈Ñski (sony)
  This program is released as free software under the
  Affero GPL license.*/
 
 // Locale Settings
-setlocale(LC_TIME, "pl", "pl_PL", "polish"); // Linux Server (Windows may differ)
-$locale['charset'] = "iso-8859-2";
+setlocale(LC_TIME, "pl", "pl_PL.UTF-8", "polish"); // Linux Server (Windows may differ)
+$locale['charset'] = "utf-8";
 $locale['xml_lang'] = "pl";
 $locale['tinymce'] = "pl";
 $locale['phpmailer'] = "pl";
 
 // Full & Short Months
-$locale['months'] = "&nbsp|styczeÒ|luty|marzec|kwiecieÒ|maj|czerwiec|lipiec|sierpieÒ|wrzesieÒ|paºdziernik|listopad|grudzieÒ";
-$locale['shortmonths'] = "&nbsp|st.|lt.|mar.|kwi.|maj|czer.|lip.|sier.|wrz.|paº.|lis.|gru.";
+$locale['months'] = "&nbsp|stycze≈Ñ|luty|marzec|kwiecie≈Ñ|maj|czerwiec|lipiec|sierpie≈Ñ|wrzesie≈Ñ|pa≈∫dziernik|listopad|grudzie≈Ñ";
+$locale['shortmonths'] = "&nbsp|st.|lt.|mar.|kwi.|maj|czer.|lip.|sier.|wrz.|pa≈∫.|lis.|gru.";
 
 // Standard User Levels
-$locale['user0'] = "Go∂Ê";
-$locale['user1'] = "Uøytkownik";
+$locale['user0'] = "Go≈õƒá";
+$locale['user1'] = "U≈ºytkownik";
 $locale['user2'] = "Administrator";
-$locale['user3'] = "G≥Ûwny administrator";
+$locale['user3'] = "G≈Ç√≥wny administrator";
 $locale['user_na'] = "Nd.";
 $locale['user_anonymous'] = "Konto ukryte";
 // Standard User Status
@@ -37,38 +37,38 @@ $locale['status0'] = "Aktywne";
 $locale['status1'] = "Zablokowane";
 $locale['status2'] = "Nieaktywne";
 $locale['status3'] = "Zawieszone";
-$locale['status4'] = "Zablokowane zp. bezpieczeÒstwa";
-$locale['status5'] = "Wy≥±czone zp. bezczynno∂ci";
+$locale['status4'] = "Zablokowane zp. bezpiecze≈Ñstwa";
+$locale['status5'] = "Wy≈ÇƒÖczone zp. bezczynno≈õci";
 $locale['status6'] = "Ukryte";
-$locale['status7'] = "Wy≥±czone";
+$locale['status7'] = "Wy≈ÇƒÖczone";
 $locale['status8'] = "Bezczynne";
 // Forum Moderator Level(s)
 $locale['userf1'] = "Moderator";
 // Navigation
 $locale['global_001'] = "Nawigacja";
-$locale['global_002'] = "Brak linkÛw\n";
+$locale['global_002'] = "Brak link√≥w\n";
 // Users Online
 $locale['global_010'] = "Aktualnie online";
-$locale['global_011'] = "Go∂ci online";
-$locale['global_012'] = "UøytkownikÛw online";
-$locale['global_013'] = "Brak uøytkownikÛw online";
-$locale['global_014'] = "£±cznie uøytkownikÛw";
-$locale['global_015'] = "Nieaktywnych uøytkownikÛw";
-$locale['global_016'] = "Najnowszy uøytkownik";
+$locale['global_011'] = "Go≈õci online";
+$locale['global_012'] = "U≈ºytkownik√≥w online";
+$locale['global_013'] = "Brak u≈ºytkownik√≥w online";
+$locale['global_014'] = "≈ÅƒÖcznie u≈ºytkownik√≥w";
+$locale['global_015'] = "Nieaktywnych u≈ºytkownik√≥w";
+$locale['global_016'] = "Najnowszy u≈ºytkownik";
 // Forum Side panel
 $locale['global_020'] = "Ostatnio na forum";
 $locale['global_021'] = "Najnowsze tematy";
 $locale['global_022'] = "Najciekawsze tematy";
-$locale['global_023'] = "Brak tematÛw na forum";
+$locale['global_023'] = "Brak temat√≥w na forum";
 // Comments Side panel
 $locale['global_025'] = "Ostatnie komentarze";
 $locale['global_026'] = "Brak komentarzy";
 // Articles Side panel
-$locale['global_030'] = "Ostatnie artyku≥y";
-$locale['global_031'] = "Brak artyku≥Ûw";
+$locale['global_030'] = "Ostatnie artyku≈Çy";
+$locale['global_031'] = "Brak artyku≈Ç√≥w";
 // Downloads Side panel
 $locale['global_032'] = "Ostatnie pliki";
-$locale['global_033'] = "Brak plikÛw";
+$locale['global_033'] = "Brak plik√≥w";
 // Welcome panel
 $locale['global_035'] = "Powitanie";
 // Latest Active Forum Threads panel
@@ -77,7 +77,7 @@ $locale['global_041'] = "Moje ostatnie tematy";
 $locale['global_042'] = "Moje ostatnie posty";
 $locale['global_043'] = "Nowe posty";
 $locale['global_044'] = "Temat";
-$locale['global_045'] = "Wy∂wietleÒ";
+$locale['global_045'] = "Wy≈õwietle≈Ñ";
 $locale['global_046'] = "Odpowiedzi";
 $locale['global_047'] = "Ostatni post";
 $locale['global_048'] = "Forum";
@@ -85,93 +85,93 @@ $locale['global_049'] = "Napisane przez";
 $locale['global_050'] = "Autor";
 $locale['global_051'] = "Ankieta";
 $locale['global_052'] = "Przeniesiony";
-$locale['global_053'] = "Brak rozpoczÍtych przez Ciebie tematÛw.";
-$locale['global_054'] = "Brak napisanych przez Ciebie postÛw.";
-$locale['global_055'] = "Nowych postÛw od Twojej ostatniej wizyty: %u w %u tematach";
+$locale['global_053'] = "Brak rozpoczƒôtych przez Ciebie temat√≥w.";
+$locale['global_054'] = "Brak napisanych przez Ciebie post√≥w.";
+$locale['global_055'] = "Nowych post√≥w od Twojej ostatniej wizyty: %u w %u tematach";
 $locale['global_056'] = "Moje obserwowane tematy";
 $locale['global_057'] = "Opcje";
-$locale['global_058'] = "PrzestaÒ <br /> obserwowaÊ";
-$locale['global_059'] = "Brak obserwowanych przez Ciebie tematÛw.";
-$locale['global_060'] = "PrzestaÊ obserwowaÊ temat?";
+$locale['global_058'] = "Przesta≈Ñ <br /> obserwowaƒá";
+$locale['global_059'] = "Brak obserwowanych przez Ciebie temat√≥w.";
+$locale['global_060'] = "Przestaƒá obserwowaƒá temat?";
 // News & Articles
 $locale['global_070'] = "Napisane przez ";
 $locale['global_071'] = "dnia ";
-$locale['global_072'] = "Czytaj wiÍcej";
+$locale['global_072'] = "Czytaj wiƒôcej";
 $locale['global_073'] = " komentarzy";
 $locale['global_073b'] = " komentarz";
-$locale['global_074'] = " czytaÒ";
+$locale['global_074'] = " czyta≈Ñ";
 $locale['global_075'] = "Drukuj";
 $locale['global_076'] = "Edytuj";
 $locale['global_077'] = "News";
-$locale['global_078'] = "Brak opublikowanych newsÛw.";
+$locale['global_078'] = "Brak opublikowanych news√≥w.";
 $locale['global_079'] = "Kategoria: ";
 $locale['global_080'] = "Bez kategorii";
 // Page Navigation
 $locale['global_090'] = "Poprzednia";
-$locale['global_091'] = "NastÍpna";
+$locale['global_091'] = "Nastƒôpna";
 $locale['global_092'] = "Strona ";
 $locale['global_093'] = " z&nbsp;";
 // Guest User Menu
 $locale['global_100'] = "Logowanie";
-$locale['global_101'] = "Nazwa uøytkownika";
-$locale['global_102'] = "Has≥o";
-$locale['global_103'] = "ZapamiÍtaj mnie";
+$locale['global_101'] = "Nazwa u≈ºytkownika";
+$locale['global_102'] = "Has≈Ço";
+$locale['global_103'] = "Zapamiƒôtaj mnie";
 $locale['global_104'] = "Zaloguj";
-$locale['global_105'] = "Nie masz jeszcze konta? <br /><a href='".BASEDIR."register.php' class='side'>Zarejestruj siÍ</a>";
-$locale['global_106'] = "Nie moøesz siÍ zalogowaÊ?<br /> Popro∂ o&nbsp;<a href='".BASEDIR."lostpassword.php' class='side'>nowe has≥o</a>";
+$locale['global_105'] = "Nie masz jeszcze konta? <br /><a href='".BASEDIR."register.php' class='side'>Zarejestruj siƒô</a>";
+$locale['global_106'] = "Nie mo≈ºesz siƒô zalogowaƒá?<br /> Popro≈õ o&nbsp;<a href='".BASEDIR."lostpassword.php' class='side'>nowe has≈Ço</a>";
 $locale['global_107'] = "Rejestracja";
-$locale['global_108'] = "Zapomniane has≥o";
+$locale['global_108'] = "Zapomniane has≈Ço";
 // Member User Menu
 $locale['global_120'] = "Edytuj profil";
-$locale['global_121'] = "Prywatne wiadomo∂ci";
-$locale['global_122'] = "Lista uøytkownikÛw";
+$locale['global_121'] = "Prywatne wiadomo≈õci";
+$locale['global_122'] = "Lista u≈ºytkownik√≥w";
 $locale['global_123'] = "Panel administratora";
 $locale['global_124'] = "Wyloguj";
 $locale['global_125'] = "%u";
-$locale['global_126'] = " nieprzeczytana wiadomo∂Ê";
-$locale['global_127'] = " nieprzeczytane wiadomo∂ci";
-$locale['global_128'] = " nades≥any materia≥";
-$locale['global_129'] = " nades≥ane materia≥y";
+$locale['global_126'] = " nieprzeczytana wiadomo≈õƒá";
+$locale['global_127'] = " nieprzeczytane wiadomo≈õci";
+$locale['global_128'] = " nades≈Çany materia≈Ç";
+$locale['global_129'] = " nades≈Çane materia≈Çy";
 // Poll
 $locale['global_130'] = "Ankieta";
-$locale['global_131'] = "Zag≥osuj";
-$locale['global_132'] = "Musisz zalogowaÊ siÍ, aby mÛc zag≥osowaÊ.";
-$locale['global_133'] = "g≥os";
-$locale['global_134'] = "g≥osÛw";
-$locale['global_135'] = "OgÛ≥em g≥osÛw: ";
-$locale['global_136'] = "RozpoczÍto: ";
-$locale['global_137'] = "ZakoÒczono: ";
+$locale['global_131'] = "Zag≈Çosuj";
+$locale['global_132'] = "Musisz zalogowaƒá siƒô, aby m√≥c zag≈Çosowaƒá.";
+$locale['global_133'] = "g≈Ços";
+$locale['global_134'] = "g≈Ços√≥w";
+$locale['global_135'] = "Og√≥≈Çem g≈Ços√≥w: ";
+$locale['global_136'] = "Rozpoczƒôto: ";
+$locale['global_137'] = "Zako≈Ñczono: ";
 $locale['global_138'] = "Archiwum ankiet";
-$locale['global_139'] = "Wybierz ankietÍ z&nbsp;listy:";
+$locale['global_139'] = "Wybierz ankietƒô z&nbsp;listy:";
 $locale['global_140'] = "Zobacz wyniki";
 $locale['global_141'] = "Wyniki ankiety";
 $locale['global_142'] = "Brak przeprowadzanych ankiet.";
 
 //Captcha
-$locale['global_150'] = "Kod potwierdzaj±cy:";
-$locale['global_151'] = "Wpisz kod potwierdzaj±cy:";
+$locale['global_150'] = "Kod potwierdzajƒÖcy:";
+$locale['global_151'] = "Wpisz kod potwierdzajƒÖcy:";
 
 // Footer Counter
 $locale['global_170'] = "unikalna wizyta";
 $locale['global_171'] = "unikalne wizyty";
 $locale['global_172'] = "Wygenerowano w&nbsp;sekund: %s";
-$locale['global_173'] = "zapytaÒ MySQL";
+$locale['global_173'] = "zapyta≈Ñ MySQL";
 // Admin Navigation
-$locale['global_180'] = "PowrÛÊ do panelu administracyjnego";
-$locale['global_181'] = "PowrÛÊ do strony g≥Ûwnej";
-$locale['global_182'] = "<strong>Uwaga:</strong> Podane has≥o administratora jest nieprawid≥owe lub puste.";
+$locale['global_180'] = "Powr√≥ƒá do panelu administracyjnego";
+$locale['global_181'] = "Powr√≥ƒá do strony g≈Ç√≥wnej";
+$locale['global_182'] = "<strong>Uwaga:</strong> Podane has≈Ço administratora jest nieprawid≈Çowe lub puste.";
 // Miscellaneous
 $locale['global_190'] = "Aktywowano tryb serwisowy na serwerze.";
 $locale['global_191'] = "Twoje IP jest zablokowane.";
-$locale['global_192'] = "MinÍ≥a waøno∂Ê ciasteczka (cookie). Zaloguj siÍ ponownie.";
-$locale['global_193'] = "Nie moøna by≥o ustawiÊ ciasteczka (cookie). Upewnij siÍ, øe masz w≥±czon± obs≥ugÍ ciasteczek w przegl±darce, aby mÛc zalogowaÊ siÍ.";
-$locale['global_194'] = "Konto zosta≥o zablokowane.";
+$locale['global_192'] = "Minƒô≈Ça wa≈ºno≈õƒá ciasteczka (cookie). Zaloguj siƒô ponownie.";
+$locale['global_193'] = "Nie mo≈ºna by≈Ço ustawiƒá ciasteczka (cookie). Upewnij siƒô, ≈ºe masz w≈ÇƒÖczonƒÖ obs≈Çugƒô ciasteczek w przeglƒÖdarce, aby m√≥c zalogowaƒá siƒô.";
+$locale['global_194'] = "Konto zosta≈Ço zablokowane.";
 $locale['global_195'] = "Konto nie jest aktywne.";
-$locale['global_196'] = "Nieprawid≥owa nazwa uøytkownika lub has≥o.";
-$locale['global_197'] = "ProszÍ czekaÊ na przekierowanie...<br /><br />
-[ <a href='index.php'>Nie chcÍ czekaÊ</a> ]";
-$locale['global_198'] = "<strong>Ostrzeøenie:</strong> Wykryto plik setup.php. ProszÍ, usuÒ go natychmiast.";
-$locale['global_199'] = "<strong>Ostrzeøenie:</strong> Nie ustawiono has≥a administratora, <a href='".BASEDIR."edit_profile.php'>ustaw je</a> natychmiast.";
+$locale['global_196'] = "Nieprawid≈Çowa nazwa u≈ºytkownika lub has≈Ço.";
+$locale['global_197'] = "Proszƒô czekaƒá na przekierowanie...<br /><br />
+[ <a href='index.php'>Nie chcƒô czekaƒá</a> ]";
+$locale['global_198'] = "<strong>Ostrze≈ºenie:</strong> Wykryto plik setup.php. Proszƒô, usu≈Ñ go natychmiast.";
+$locale['global_199'] = "<strong>Ostrze≈ºenie:</strong> Nie ustawiono has≈Ça administratora, <a href='".BASEDIR."edit_profile.php'>ustaw je</a> natychmiast.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
@@ -179,91 +179,91 @@ $locale['global_202'] = $locale['global_200']."Szukaj";
 $locale['global_203'] = $locale['global_200']."FAQ";
 $locale['global_204'] = $locale['global_200']."Forum";
 //Themes
-$locale['global_210'] = "Przejdº do tre∂ci";
+$locale['global_210'] = "Przejd≈∫ do tre≈õci";
 // No themes found
-$locale['global_300'] = "nie znaleziono skÛrki.";
-$locale['global_301'] = "Nie moøna wy∂wietliÊ strony. Jest to spowodowane brakiem plikÛw odpowiadaj±cych za wygl±d strony. Je∂li jeste∂ administratorem strony, uruchom swojego klienta FTP i&nbsp;wgraj do katalogu <em>/themes</em> jak±kolwiek skÛrkÍ zaprojektowan± dla <em>PHP-Fusion v7</em>. NastÍpnie sprawdº w&nbsp;<em>G≥Ûwnych ustawieniach</em> w&nbsp;<em>Panelu administratora</em> oraz upewnij siÍ, øe wybrana tam skÛrka jest w&nbsp;Twoim katalogu <em>/themes</em>. Je∂li tak nie jest, sprawdº, czy wgrana skÛrka ma tak± sam± nazwÍ (wliczaj±c w&nbsp;to wielko∂Ê znakÛw, waøne na serwerach uniksowych) jak ta wybrana w&nbsp;<em>G≥Ûwnych ustawieniach</em>.<br /><br />Je∂li jeste∂ uøytkownikiem tej strony, skontaktuj siÍ z&nbsp;administracj± strony poprzez wys≥anie e-maila na adres ".hide_email($settings['siteemail'])." oraz poinformuj o&nbsp;istniej±cym problemie.";
-$locale['global_302'] = "Wybrana przez Ciebie skÛrka nie istnieje lub jest niekompletna!";
+$locale['global_300'] = "nie znaleziono sk√≥rki.";
+$locale['global_301'] = "Nie mo≈ºna wy≈õwietliƒá strony. Jest to spowodowane brakiem plik√≥w odpowiadajƒÖcych za wyglƒÖd strony. Je≈õli jeste≈õ administratorem strony, uruchom swojego klienta FTP i&nbsp;wgraj do katalogu <em>/themes</em> jakƒÖkolwiek sk√≥rkƒô zaprojektowanƒÖ dla <em>PHP-Fusion v7</em>. Nastƒôpnie sprawd≈∫ w&nbsp;<em>G≈Ç√≥wnych ustawieniach</em> w&nbsp;<em>Panelu administratora</em> oraz upewnij siƒô, ≈ºe wybrana tam sk√≥rka jest w&nbsp;Twoim katalogu <em>/themes</em>. Je≈õli tak nie jest, sprawd≈∫, czy wgrana sk√≥rka ma takƒÖ samƒÖ nazwƒô (wliczajƒÖc w&nbsp;to wielko≈õƒá znak√≥w, wa≈ºne na serwerach uniksowych) jak ta wybrana w&nbsp;<em>G≈Ç√≥wnych ustawieniach</em>.<br /><br />Je≈õli jeste≈õ u≈ºytkownikiem tej strony, skontaktuj siƒô z&nbsp;administracjƒÖ strony poprzez wys≈Çanie e-maila na adres ".hide_email($settings['siteemail'])." oraz poinformuj o&nbsp;istniejƒÖcym problemie.";
+$locale['global_302'] = "Wybrana przez Ciebie sk√≥rka nie istnieje lub jest niekompletna!";
 // JavaScript Not Enabled
-$locale['global_303'] = "<p>O&nbsp;nie! Ta strona potrzebuje w≥±czonej obs≥ugi jÍzyka <strong>JavaScript</strong>!</p><p>Twoja przegl±darka nie obs≥uguje tego jÍzyka lub ma wy≥±czon± jego obs≥ugÍ. <strong>W≥±cz wykonywanie kodu JavaScript</strong> w swojej przegl±darce internetowej, aby skorzystaÊ ze wszystkich funkcji strony<br /> lub <strong>skorzystaj</strong> z&nbsp;programu obs≥uguj±cego jÍzyk JavaScript, np. <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Mozilla Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Apple Safari'>Apple Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Google Chrome</a> lub <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Windows Internet Explorer'>Windows Internet Explorer</a> w&nbsp;wersji wyøszej niø 6.</p>";
+$locale['global_303'] = "<p>O&nbsp;nie! Ta strona potrzebuje w≈ÇƒÖczonej obs≈Çugi jƒôzyka <strong>JavaScript</strong>!</p><p>Twoja przeglƒÖdarka nie obs≈Çuguje tego jƒôzyka lub ma wy≈ÇƒÖczonƒÖ jego obs≈Çugƒô. <strong>W≈ÇƒÖcz wykonywanie kodu JavaScript</strong> w swojej przeglƒÖdarce internetowej, aby skorzystaƒá ze wszystkich funkcji strony<br /> lub <strong>skorzystaj</strong> z&nbsp;programu obs≈ÇugujƒÖcego jƒôzyk JavaScript, np. <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Mozilla Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Apple Safari'>Apple Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Google Chrome</a> lub <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Windows Internet Explorer'>Windows Internet Explorer</a> w&nbsp;wersji wy≈ºszej ni≈º 6.</p>";
 // User Management
 // Member status
 $locale['global_400'] = "zawieszone";
 $locale['global_401'] = "zablokowane";
-$locale['global_402'] = "wy≥±czone";
-$locale['global_403'] = "konto wy≥±czone";
+$locale['global_402'] = "wy≈ÇƒÖczone";
+$locale['global_403'] = "konto wy≈ÇƒÖczone";
 $locale['global_404'] = "konto ukryte";
 $locale['global_405'] = "ukryte";
-$locale['global_406'] = "Konto zosta≥o zbanowane z&nbsp;nastÍpuj±cych powodÛw:";
+$locale['global_406'] = "Konto zosta≈Ço zbanowane z&nbsp;nastƒôpujƒÖcych powod√≥w:";
 $locale['global_407'] = "Konto jest zawieszone do ";
-$locale['global_408'] = " z&nbsp;nastÍpuj±cych powodÛw:";
-$locale['global_409'] = "Konto zosta≥o zablokowane ze wzglÍdÛw bezpieczeÒstwa.";
-$locale['global_410'] = "PowÛd: ";
-$locale['global_411'] = "Konto zosta≥o zablokowane zp. bezczynno∂ci";
-$locale['global_412'] = "Konto zosta≥o anonimizowane, prawdopodobnie z&nbsp;powodu bezczynno∂ci";
+$locale['global_408'] = " z&nbsp;nastƒôpujƒÖcych powod√≥w:";
+$locale['global_409'] = "Konto zosta≈Ço zablokowane ze wzglƒôd√≥w bezpiecze≈Ñstwa.";
+$locale['global_410'] = "Pow√≥d: ";
+$locale['global_411'] = "Konto zosta≈Ço zablokowane zp. bezczynno≈õci";
+$locale['global_412'] = "Konto zosta≈Ço anonimizowane, prawdopodobnie z&nbsp;powodu bezczynno≈õci";
 // Banning due to flooding
-$locale['global_440'] = "Automatyczne zbanowanie przez blokadÍ antyfloodow±";
-$locale['global_441'] = "Twoje konto na ".$settings['sitename']." zosta≥o zbanowane.";
+$locale['global_440'] = "Automatyczne zbanowanie przez blokadƒô antyfloodowƒÖ";
+$locale['global_441'] = "Twoje konto na ".$settings['sitename']." zosta≈Ço zbanowane.";
 $locale['global_442'] = "Witaj [USER_NAME]!\n
-Z Twojego konta na ".$settings['sitename']." wys≥ano zbyt wiele wiadomo∂ci w krÛtkim czasie z nastÍpuj±cego IP: ".USER_IP.", w zwi±zku z czym zosta≥o zablokowane. Powyøsze dzia≥anie zosta≥o podjÍte w celu ochrony strony przed botami dodaj±cymi wiadomo∂ci w krÛtkim odstÍpie czasu.\n
-Skontaktuj siÍ z administracj± strony wysy≥aj±c e-mail na adres ".$settings['siteemail'].", øeby odblokowaÊ konto lub wyja∂niÊ zaistnia≥± sytuacjÍ.\n
+Z Twojego konta na ".$settings['sitename']." wys≈Çano zbyt wiele wiadomo≈õci w kr√≥tkim czasie z nastƒôpujƒÖcego IP: ".USER_IP.", w zwiƒÖzku z czym zosta≈Ço zablokowane. Powy≈ºsze dzia≈Çanie zosta≈Ço podjƒôte w celu ochrony strony przed botami dodajƒÖcymi wiadomo≈õci w kr√≥tkim odstƒôpie czasu.\n
+Skontaktuj siƒô z administracjƒÖ strony wysy≈ÇajƒÖc e-mail na adres ".$settings['siteemail'].", ≈ºeby odblokowaƒá konto lub wyja≈õniƒá zaistnia≈ÇƒÖ sytuacjƒô.\n
 Z pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo∂Ê zosta≥a wys≥ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomo≈õƒá zosta≈Ça wys≈Çana automatycznie. Nie odpowiadaj na niƒÖ.";
 // Lifting of suspension
-$locale['global_450'] = "Automatyczne zdjÍcie zawieszenia konta.";
-$locale['global_451'] = "ZdjÍcie zawieszenia konta na ".$settings['sitename'];
+$locale['global_450'] = "Automatyczne zdjƒôcie zawieszenia konta.";
+$locale['global_451'] = "Zdjƒôcie zawieszenia konta na ".$settings['sitename'];
 $locale['global_452'] = "Witaj USER_NAME!\n
-Zawieszenie Twojego konta na ".$settings['siteurl']." zosta≥o zdjÍte. Zaloguj siÍ korzystaj±c z poniøszych danych:\n
-Nazwa uøytkownika: USER_NAME
-Has≥o: ukryte ze wzglÍdÛw bezpieczeÒstwa\n
-Je∂li nie pamiÍtasz has≥a, zresetuj je korzystaj±c z poniøszego linka: LOST_PASSWORD\nZ pozdrowieniami\n\n
+Zawieszenie Twojego konta na ".$settings['siteurl']." zosta≈Ço zdjƒôte. Zaloguj siƒô korzystajƒÖc z poni≈ºszych danych:\n
+Nazwa u≈ºytkownika: USER_NAME
+Has≈Ço: ukryte ze wzglƒôd√≥w bezpiecze≈Ñstwa\n
+Je≈õli nie pamiƒôtasz has≈Ça, zresetuj je korzystajƒÖc z poni≈ºszego linka: LOST_PASSWORD\nZ pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo∂Ê zosta≥a wys≥ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomo≈õƒá zosta≈Ça wys≈Çana automatycznie. Nie odpowiadaj na niƒÖ.";
 $locale['global_453'] = "Witaj USER_NAME!\n
-ZdjÍto zawieszenie Twojego konta na ".$settings['siteurl'].".\n
+Zdjƒôto zawieszenie Twojego konta na ".$settings['siteurl'].".\n
 Z pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo∂Ê zosta≥a wys≥ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomo≈õƒá zosta≈Ça wys≈Çana automatycznie. Nie odpowiadaj na niƒÖ.";
 $locale['global_454'] = "Reaktywowano konto na ".$settings['sitename'];
 $locale['global_455'] = "Witaj USER_NAME!\n
-Twoja ostatnia wizyta na ".$settings['siteurl']." reaktywowa≥a Twoje konto, w zwi±zku z czym, przesta≥o ono byÊ uznawane za bezczynne.\n
+Twoja ostatnia wizyta na ".$settings['siteurl']." reaktywowa≈Ça Twoje konto, w zwiƒÖzku z czym, przesta≈Ço ono byƒá uznawane za bezczynne.\n
 Z pozdrowieniami\n\n
 ".$settings['siteusername']."\n\n
 ------\n
-Niniejsza wiadomo∂Ê zosta≥a wys≥ana automatycznie. Nie odpowiadaj na ni±.";
+Niniejsza wiadomo≈õƒá zosta≈Ça wys≈Çana automatycznie. Nie odpowiadaj na niƒÖ.";
 // Function parsebytesize()
 $locale['global_460'] = "Plik pusty";
-$locale['global_461'] = "BajtÛw";
+$locale['global_461'] = "Bajt√≥w";
 $locale['global_462'] = "kB";
 $locale['global_463'] = "MB";
 $locale['global_464'] = "GB";
 $locale['global_465'] = "TB";
 //Safe Redirect
-$locale['global_500'] = "Trwa przekierowanie na adres %s, proszÍ czekaÊ. Naci∂nij, je∂li CiÍ nie przekierowa≥o.";
+$locale['global_500'] = "Trwa przekierowanie na adres %s, proszƒô czekaƒá. Naci≈õnij, je≈õli Ciƒô nie przekierowa≈Ço.";
 
 // Captcha Locales
-$locale['global_600'] = "Kod potwierdzaj±cy";
+$locale['global_600'] = "Kod potwierdzajƒÖcy";
 $locale['recaptcha'] = "pl";
-$locale['recaptcha_l10n'] = "visual_challenge:'Graficzny kod potwierdzaj±cy', ";
-$locale['recaptcha_l10n'] .= "audio_challenge:'DºwiÍkowy kod potwierdzaj±cy', ";
+$locale['recaptcha_l10n'] = "visual_challenge:'Graficzny kod potwierdzajƒÖcy', ";
+$locale['recaptcha_l10n'] .= "audio_challenge:'D≈∫wiƒôkowy kod potwierdzajƒÖcy', ";
 $locale['recaptcha_l10n'] .= "refresh_btn:'Nowy test', ";
-$locale['recaptcha_l10n'] .= "instructions_visual:'Wpisz dwa s≥owa:', ";
-$locale['recaptcha_l10n'] .= "instructions_context:'Wpisz s≥owa w polu:', ";
-$locale['recaptcha_l10n'] .= "instructions_audio:'Wpisz co s≥yszysz:', ";
+$locale['recaptcha_l10n'] .= "instructions_visual:'Wpisz dwa s≈Çowa:', ";
+$locale['recaptcha_l10n'] .= "instructions_context:'Wpisz s≈Çowa w polu:', ";
+$locale['recaptcha_l10n'] .= "instructions_audio:'Wpisz co s≈Çyszysz:', ";
 $locale['recaptcha_l10n'] .= "help_btn:'Pomoc (po angielsku)', ";
-$locale['recaptcha_l10n'] .= "play_again:'OdtwÛrz ponownie', ";
+$locale['recaptcha_l10n'] .= "play_again:'Odtw√≥rz ponownie', ";
 $locale['recaptcha_l10n'] .= "cant_hear_this:'Pobierz jako MP3', ";
-$locale['recaptcha_l10n'] .= "incorrect_try_again:'Nieprawid≥owy kod potwierdzaj±cy. SprÛbuj ponownie.'";
+$locale['recaptcha_l10n'] .= "incorrect_try_again:'Nieprawid≈Çowy kod potwierdzajƒÖcy. Spr√≥buj ponownie.'";
 
 //Miscellaneous
-$locale['global_900'] = "Nie moøna by≥o przekonwertowaÊ z HEX na DEC";
+$locale['global_900'] = "Nie mo≈ºna by≈Ço przekonwertowaƒá z HEX na DEC";
 
 /* My own patch, if you don't want it - comment lines below.
- * To moja w≥asna ≥atka, je∂li nie chcesz z niej korzystaÊ - zakomentuj poniøsze linie
+ * To moja w≈Çasna ≈Çatka, je≈õli nie chcesz z niej korzystaƒá - zakomentuj poni≈ºsze linie
  * Tomasz "jantom" Jankowski, Date: 21 04 2011 00:30 */
 require_once INCLUDES."output_handling_include.php";
 $locale['global_073c'] = " komentarze";
