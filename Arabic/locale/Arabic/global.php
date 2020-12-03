@@ -1,14 +1,14 @@
 <?php
-$locale['setlocale'] = "ar_AE"; // https://www.php.net/manual/en/function.setlocale.php
+$locale['setlocale'] = "ar_JO"; // https://www.php.net/manual/en/function.setlocale.php
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['region'] = "KW"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
+$locale['region'] = "JO"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "ar";
 $locale['short_lang_name'] = "ar";
 $locale['tinymce'] = "ar"; // refer to path includes/jscripts/tinymce/langs/{value}.js
 $locale['select2'] = "ar"; // refer to path includes/jscripts/select2/select2_locale_{value}.js
 $locale['phpmailer'] = "ar"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "ar"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "ar-kw";
+$locale['datepicker'] = "ar";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y H:i:s";
 $locale['password_strength'] = "ar";
@@ -16,15 +16,15 @@ $locale['date_day'] = "%d%b";
 $locale['text-direction'] = "rtl";
 
 // Full & Short Months
-$locale['months'] = "&nbsp;|يناير|فبراير|مارس|أبريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر";
-$locale['shortmonths'] = "&nbsp;|يناير|فبراير|مارس|أبريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر";
+$locale['months'] = "&nbsp;|كانون2|شباط|آذار|نيسان|أيار|حزيران|تموز|آب|أيلول|تشرين1|تشرين2|كانون1";
+$locale['shortmonths'] = "&nbsp;|كانون2|شباط|آذار|نيسان|أيار|حزيران|تموز|آب|أيلول|تشرين1|تشرين2|كانون1";
 $locale['weekdays'] = "الأحد|الإثنين|الثلاثاء|الأربعاء|الخميس|الجمعة|السبت";
 // Timers
-$locale['year'] = "سنه";
+$locale['year'] = "سنة";
 $locale['year_a'] = "سنوات";
 $locale['month'] = "شهر";
 $locale['month_a'] = "شهور";
-$locale['week'] = "أسبوع";
+$locale['week'] = "اسبوع";
 $locale['week_a'] = "أسابيع";
 $locale['day'] = "يوم";
 $locale['day_a'] = "أيام";
@@ -34,9 +34,9 @@ $locale['minute'] = "دقيقة";
 $locale['minute_a'] = "دقائق";
 $locale['second'] = "ثانية";
 $locale['second_a'] = "ثواني";
-$locale['just_now'] = "قبل لحظات";
+$locale['just_now'] = "في هذا الوقت";
 $locale['now'] = 'الآن';
-$locale['ago'] = "منذ";
+$locale['ago'] = "ماضية";
 // Name
 $locale['name'] = "الاسم الكامل";
 $locale['username_pretext'] = "اسم المستخدم العام الخاص بك هو نفسه اسم ملف تعريف المستخدم الموجود في: %s %s";
@@ -342,7 +342,7 @@ $locale['global_460'] = "فارغ";
 $locale['global_461'] = "بايت";
 $locale['global_462'] = " ك ب";
 $locale['global_463'] = " م ب";
-$locale['global_464'] = "KW";
+$locale['global_464'] = "JO";
 $locale['global_465'] = " ت ب";
 //Safe Redirect
 $locale['global_500'] = "يتم نقلك إلى  %s، نرجو الإنتظار. إذا لم يتم نقلك، اضغط هنا.";
@@ -383,7 +383,7 @@ $locale['off'] = "إيقاف";
 $locale['on'] = "تشغيل";
 $locale['or'] = "أو";
 $locale['by'] = "بواسطة";
-$locale['in'] = "في";
+$locale['in'] = "بشكل";
 $locale['of'] = "من";
 $locale['and'] = "و";
 $locale['na'] = "غير متاح";

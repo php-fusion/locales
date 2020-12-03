@@ -18,7 +18,7 @@ $locale['009'] = "الإنتهاء";
 $locale['010'] = "يرجى تحديد اللغة المطلوبة:";
 $locale['011'] = "تنزيل المزيد من اللغات من <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>موقع دعم PHP-Fusion الرسمي</strong></a>";
 $locale['012'] = "يتطلب منك الموافقة على اتفاقية الشروط والأحكام قبل استخدام الفيوشن.";
-$locale['013'] = "&nbsp;قرأت وأوافق على الشروط والأحكام الفيوشن <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>أحكام وشروط الإستخدام</a> ";
+$locale['013'] = "&nbsp;قرأت وأوافق على الشروط والأحكام الفيوشن <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>أحكام وشروط الإستخدام</a> ";
 
 // Step 2
 $locale['020'] = "من أجل مواصلة التثبيت ، الملفات/ المجلدات التالية يجب أن تكون قابلة للكتابة:";
@@ -268,9 +268,9 @@ $locale['T203'] = "مرحبا [RECEIVER],\r\n\r\nتم إرسال رد في مو�
 $locale['T301'] = "نموذج المراسلة";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
-$locale['T304'] = "Email activation";
+$locale['T304'] = "تفعيل البريد الإلكتروني";
 $locale['T305'] = "مرحباً بك في [SITENAME]";
-$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
+$locale['T306'] = "مرحبا USER_NAME,<br/>\nمرحبًا بكم في SITENAME. هنا تفاصيل تسجيل الدخول الخاصة بك:<br/>\nاسم المستخدم: USER_NAME<br/>\nكلمة المرور: USER_PASSWORD<br/>\nيرجى تفعيل حسابك عبر الرابط التالي: ACTIVATION_LINK<br/>\nتحياتنا,<br/>\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "إعدادات متعددة اللغات";
