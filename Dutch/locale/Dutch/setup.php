@@ -18,7 +18,7 @@ $locale['009'] = "Afronden";
 $locale['010'] = "Kies a.u.b. de gewenste taal (locale):";
 $locale['011'] = "U kunt meer talen downloaden van de <a href='https://www.php-fusion.co.uk/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
 $locale['012'] = "Om PHP-Fusion te kunnen gebruiken dient u akkoord te gaan met de algemene voorwaarden van PHP-Fusion,";
-$locale['013'] = " I heb heb de algemene voorwaarden gelezen van PHP-Fusion en ga hiermee akkoord <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>Terms and Conditions of Use</a>";
+$locale['013'] = " I heb heb de algemene voorwaarden gelezen van PHP-Fusion en ga hiermee akkoord <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Terms and Conditions of Use</a>";
 
 // Step 2
 $locale['020'] = "Om de setup te kunnen vervolgen dienen de volgende bestanden/mappen schrijfbaar te zijn:";
@@ -282,9 +282,9 @@ Indien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \\'Vol
 $locale['T301'] = "Contact formulier";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
-$locale['T304'] = "Email activation";
+$locale['T304'] = "E-mail activeren";
 $locale['T305'] = "Welkom op [SITENAME]";
-$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
+$locale['T306'] = "Hallo USER_NAME,<br/>\nWelkom op SITENAME. Hier zijn uw login gegevens:<br/>\nGebruikersnaam: USER_NAME<br/>\nWachtwoord: USER_PASSWORD<br/>\nGelieve uw account te activeren via de volgende link: ACTIVATION_LINK<br/>\nMet vriendelijke groeten,<br/>\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Meertalige instellingen";
