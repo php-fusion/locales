@@ -39,7 +39,7 @@ $locale['order'] = "Порядок";
 $locale['id'] = "ID";
 $locale['title'] = "Заголовок";
 $locale['rights'] = "Права";
-$locale['image'] = "Image/Icons";
+$locale['image'] = "Изображение/Значки";
 $locale['info'] = "Данные";
 
 // Forms
@@ -57,7 +57,7 @@ $locale['in'] = "в";
 $locale['profile'] = "Профиль";
 $locale['edit'] = "Правка";
 $locale['view'] = "Смотреть<br/>";
-$locale['login'] = "Log in";
+$locale['login'] = "Войти";
 $locale['logout'] = "Выход";
 $locale['pm'] = "Личные сообщения";
 $locale['logged'] = "Вошли как ";
