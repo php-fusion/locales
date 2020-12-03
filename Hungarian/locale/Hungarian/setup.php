@@ -18,7 +18,7 @@ $locale['009'] = "Befejezés";
 $locale['010'] = "Válaszd ki a használni kívánt nyelvet:";
 $locale['011'] = "További nyelveket itt találhatsz: <a href='http://www.php-fusion.co.uk'>php-fusion.co.uk</a>";
 $locale['012'] = "A PHP-Fusion használatához el kell olvasni és elfogadni a felhasználási feltételeket.";
-$locale['013'] = " Elolvastam és elfogadom a PHP-Fusion <a href='www.php-fusion.co.uk/licensing/licensing.php'>használati feltételeit</a>.";
+$locale['013'] = " Elolvastam és elfogadom a PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>használati feltételeit</a>";
 
 // Step 2
 $locale['020'] = "A folytatáshoz az alábbi fájloknak és mappáknak írhatóaknak kell lenniük:";
@@ -286,9 +286,9 @@ Ha nem akarod tovább nyomon követni a témát kattints a \\'Téma nyomköveté
 $locale['T301'] = "Kapcsolatok űrlap";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
-$locale['T304'] = "Email activation";
+$locale['T304'] = "E-mail aktiválása";
 $locale['T305'] = "Üdvözlünk - [SITENAME]";
-$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
+$locale['T306'] = "Hello USER_NAME, <br/>\nÜdvözöljük a SITENAME oldalon. Itt vannak a bejelentkezési adatai: <br/>\nFelhasználónév: USER_NAME <br/>\nJelszó: USER_PASSWORD <br/>\nKérjük, aktiválja fiókját a következő linken keresztül: ACTIVATION_LINK <br/>\nÜdvözlettel: <br/>\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Többnyelvű beállítások";
