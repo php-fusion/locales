@@ -18,7 +18,7 @@ $locale['009'] = "Dokončit";
 $locale['010'] = "Prosím vyberte vaši lokalizaci (jazyk):";
 $locale['011'] = "Více lokalizací systému stáhnete na adrese <a href='https://www.php-fusion.co.uk/infusions/downloads/downloads.php?cat_id=29' target='_blank'>php-fusion.co.uk</a>";
 $locale['012'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolovat a souhlasit s podmínkami PHP-Fusion.";
-$locale['013'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>podmínkami používání</a>";
+$locale['013'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>podmínkami používání</a>";
 
 // Step 2
 $locale['020'] = "Pro pokračování instalace musíte následujícím souborům/složkám povolit zápis:";
