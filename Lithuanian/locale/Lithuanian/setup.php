@@ -18,7 +18,7 @@ $locale['009'] = "Baigti";
 $locale['010'] = "Prašome pasirinkti reikiamą kalbą:";
 $locale['011'] = "Parsisiųskite daugiau kalbų iš <a href='http://www.phpfusion-lt.com'>phpfusion-lt.com</a>";
 $locale['012'] = "Norėdami naudotis PHP-Fusion, turite perskaityti ir sutikti su sąlygomis</a>.";
-$locale['013'] = " Perskaičiau ir sutinku su PHP-Fusion <a href='https://php-fusion.co.uk/license/' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>.";
+$locale['013'] = " Perskaičiau ir sutinku su PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>";
 
 // Step 2
 $locale['020'] = "Kad galėtumėme tęsti instaliaciją, įsitikinkite, kad sekantiems failams/katalogams suteiktos įrašymo teisės:";
