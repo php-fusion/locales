@@ -1,6 +1,6 @@
 <?php
 // Blog titles
-$locale['400'] = "Current Blog";
+$locale['400'] = "Bieżący blog";
 $locale['401'] = "Dodaj wpis";
 $locale['402'] = "Edytuj wpis";
 // Blog messages
@@ -31,8 +31,8 @@ $locale['435'] = "Włącz oceny";
 $locale['436'] = "Podgląd wpisu";
 $locale['437'] = "Zapisz";
 $locale['438'] = "[SZKIC]";
-$locale['439'] = "Blog Image";
-$locale['440'] = "Max. filesize: %s / Allowed filetypes: GIF, JPEG or PNG.";
+$locale['439'] = "Obraz wpisu";
+$locale['440'] = "Maksymalny rozmiar pliku: %s / Dozwolone typy plików: GIF, JPEG lub PNG.";
 $locale['441'] = "Pagebreak";
 // Popup Error/Warning Messages
 $locale['450'] = "Proszę podać tytuł";
@@ -40,4 +40,4 @@ $locale['451'] = "Usunąć wpis?";
 $locale['452'] = "%s jest wyłączona globalnie i&nbsp;będzie niedostępna, dopóki ustawienia nie ulegną zmianie.";
 $locale['453'] = "Komentarze";
 $locale['454'] = "Oceny";
-$locale['455'] = $locale['453']." and ".$locale['454'];
+$locale['455'] = $locale['453']." i ".$locale['454'];

@@ -18,7 +18,7 @@ $locale['009'] = "Zakończ";
 $locale['010'] = "Wybierz język strony:";
 $locale['011'] = "Więcej wersji językowych na <a href='https://www.php-fusion.co.uk'>php-fusion.co.uk</a>";
 $locale['012'] = "Aby korzystać z PHP-Fusion, musisz sprawdzić i zaakceptować warunki PHP-Fusion</a>.";
-$locale['013'] = " Przeczytałem i akceptuję <a href='https://php-fusion.co.uk/license/' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
+$locale['013'] = " Przeczytałem i akceptuję <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
 
 // Step 2
 $locale['020'] = "Aby kontynuować konfigurację, następujące pliki/foldery muszą być zapisywalne:";
@@ -267,9 +267,9 @@ $locale['T203'] = "Witaj [RECEIVER],\r\n\r\nDodano odpowiedź na forum w temacie
 $locale['T301'] = "Formularz kontaktowy";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
-$locale['T304'] = "Email activation";
+$locale['T304'] = "Aktywacja email";
 $locale['T305'] = "Witamy na [SITENAME]";
-$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
+$locale['T306'] = "Witaj USER_NAME,<br/>\nWitamy na SITENAME. Tutaj są dane logowania:<br/>\nNazwa użytkownika: USER_NAME<br/>\nHasło: USER_PASSWORD<br/>\nAktywuj swoje konto poprzez następujący link: ACTIVATION_LINK<br/>\nPozdrawiamy,<br/>\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Ustawienia wielojęzykowe";
