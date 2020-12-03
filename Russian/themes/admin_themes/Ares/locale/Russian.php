@@ -1,6 +1,6 @@
 <?php
-$locale['ares_001'] = 'Admin Pages';
+$locale['ares_001'] = 'Администрирование страниц';
 $locale['ares_002'] = 'Создана';
-$locale['ares_003'] = 'User Dashboard';
-$locale['ares_004'] = 'Quick Launch';
-$locale['ares_005'] = 'Sections';
+$locale['ares_003'] = 'Отчет пользователя';
+$locale['ares_004'] = 'Быстрый Запуск';
+$locale['ares_005'] = 'Разрезы';
