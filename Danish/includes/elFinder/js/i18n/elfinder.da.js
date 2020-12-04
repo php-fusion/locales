@@ -30,7 +30,7 @@
 			'errNode'              : 'elFinder kræver DOM Element oprettet.',
 			'errURL'               : 'Ugyldig elFinder konfiguration! URL option er ikke sat.',
 			'errAccess'            : 'Adgang nægtet.',
-			'errConnect'           : 'Kan ikke få kontatkt med backend.',
+			'errConnect'           : 'Kan ikke få kontakt med backend.',
 			'errAbort'             : 'Forbindelse afbrudt.',
 			'errTimeout'           : 'Forbindelse timeout.',
 			'errNotFound'          : 'Backend ikke fundet.',
