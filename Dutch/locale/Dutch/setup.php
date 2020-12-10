@@ -282,7 +282,7 @@ Indien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \\'Vol
 $locale['T301'] = "Contact formulier";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
-$locale['T304'] = "E-mail activeren";
+$locale['T304'] = "E-mail activatie";
 $locale['T305'] = "Welkom op [SITENAME]";
 $locale['T306'] = "Hallo USER_NAME,<br/>\nWelkom op SITENAME. Hier zijn uw login gegevens:<br/>\nGebruikersnaam: USER_NAME<br/>\nWachtwoord: USER_PASSWORD<br/>\nGelieve uw account te activeren via de volgende link: ACTIVATION_LINK<br/>\nMet vriendelijke groeten,<br/>\nSITEUSERNAME";
 
