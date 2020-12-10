@@ -1,18 +1,12 @@
 <?php
 $locale['setlocale'] = "pt_PT"; // https://www.php.net/manual/en/function.setlocale.php
-$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['region'] = "GB"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
-$locale['xml_lang'] = "en";
-$locale['short_lang_name'] = "en";
+$locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets/character-sets.xhtml
+$locale['region'] = "GB"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
+$locale['xml_lang'] = "en"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['tinymce'] = "pt_PT"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "pt-PT"; // refer to path includes/jscripts/select2/select2_locale_{value}.js
+$locale['select2'] = "pt-PT"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
 $locale['phpmailer'] = "en"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "pt_PT"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "pt-pt";
-$locale['datepicker_js'] = "DD-MM-YYYY HH:mm:ss";
-$locale['datepicker_php'] = "d-m-Y H:i:s";
-$locale['password_strength'] = "en";
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 
 // Full & Short Months
