@@ -1,18 +1,12 @@
 <?php
 $locale['setlocale'] = "ru_RU"; // https://www.php.net/manual/en/function.setlocale.php
-$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['region'] = "RU"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
-$locale['xml_lang'] = "ru";
-$locale['short_lang_name'] = "ru";
+$locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets/character-sets.xhtml
+$locale['region'] = "RU"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
+$locale['xml_lang'] = "ru"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['tinymce'] = "ru"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "ru"; // refer to path includes/jscripts/select2/select2_locale_{value}.js
+$locale['select2'] = "ru"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
 $locale['phpmailer'] = "ru"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "ru"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "ru-ru";
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
-$locale['datepicker_php'] = "m-d-Y H:i:s";
-$locale['password_strength'] = "ru";
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 
 // Full & Short Months
