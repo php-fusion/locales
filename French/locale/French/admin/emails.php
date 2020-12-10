@@ -1,0 +1,52 @@
+<?php
+// Titles
+$locale['400'] = "Modèles d'e-mail";
+$locale['401'] = "Available Templates";
+$locale['410'] = "Modèle mis à jour avec succès.";
+$locale['411'] = "Email de test envoyé à %s.";
+$locale['412'] = "Objet du test";
+$locale['413'] = "Message de test";
+$locale['414'] = "Un certain utilisateur";
+$locale['415'] = "Destinataire du message";
+$locale['416'] = "URL du fil de discussion";
+$locale['417'] = "Modifier";
+$locale['418'] = "Format HTML";
+$locale['419'] = "Format du texte brut";
+$locale['420'] = "Template: ";
+$locale['421'] = "Utiliser un modèle";
+$locale['422'] = "Les e-mails seront envoyés au format %s en utilisant ce modèle.";
+$locale['423'] = "Les courriels seront envoyés en format texte brut en utilisant les fichiers régionaux par défaut.";
+$locale['424'] = "Oui";
+$locale['425'] = "Non";
+$locale['426'] = "Format du modèle";
+$locale['427'] = "<strong>Note:</strong> Using images and text styling will not work in plain text mails!";
+$locale['428'] = "Nom du destinataire";
+$locale['429'] = "Nom de l''expéditeur";
+$locale['430'] = "Will be used as Sender name for template testing";
+$locale['431'] = "Adresse e-mail du destinataire";
+$locale['432'] = "Adresse e-mail de l''expéditeur";
+$locale['433'] = "Sera utilisé comme email de l'expéditeur pour le test du modèle";
+$locale['434'] = "Objet";
+$locale['435'] = "Message";
+$locale['436'] = "Arrière-plan"; // Button
+$locale['437'] = "Tester ce modèle";
+$locale['438'] = "Template will be saved and a test mail will be sent to your address: %s. Continue?";
+$locale['439'] = "Sauvegarder";
+$locale['440'] = "Réinitialiser";
+// Help
+$locale['450'] = "Aide";
+$locale['451'] = "Aperçu court des boutons";
+$locale['452'] = "Bouton";
+$locale['453'] = "Fonction / Remplacement";
+$locale['454'] = "Sujet du message ou de la discussion";
+$locale['455'] = "Extrait du texte du message ou publication";
+$locale['456'] = "Expéditeur d'un message, auteur d'une discussion ou d'un message";
+$locale['457'] = "Expéditeur du mail";
+$locale['458'] = "Destinataire du mail";
+$locale['459'] = "URL du sujet du forum, utilisée uniquement dans la notification pour les nouveaux messages du forum.";
+// Messages
+$locale['469'] = "Insérer une image";
+$locale['470'] = "Le sujet ne peut pas être vide !";
+$locale['471'] = "Le message ne peut pas être vide !";
+$locale['472'] = "Le nom de l'expéditeur ne peut pas être vide !";
+$locale['473'] = "L'e-mail de l'expéditeur ne peut pas être vide !";

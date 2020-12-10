@@ -1,0 +1,21 @@
+<?php
+$locale['100'] = "Journal de l'utilisateur";
+$locale['101'] = "Id";
+$locale['102'] = "Date ";
+$locale['103'] = "Nom d'utilisateur";
+$locale['104'] = "Champ utilisateur";
+$locale['105'] = "Value Old";
+$locale['106'] = "Value New";
+$locale['107'] = "Trier par :";
+$locale['108'] = "Nom d'utilisateur / ID d'utilisateur :";
+$locale['109'] = "Soumettre";
+$locale['110'] = "Delete entries older than";
+$locale['111'] = "Jours";
+$locale['112'] = "Il n'y a pas de logs disponibles pour le moment.";
+$locale['113'] = "Selected User Name:";
+$locale['114'] = "Annuler";
+$locale['115'] = "Champ utilisateur :";
+$locale['116'] = "Supprimer";
+$locale['117'] = "Options";
+$locale['118'] = "Toutes les entrées de plus de %d jours sont supprimées.";
+$locale['119'] = "Entrée du journal d'utilisateur supprimée";

@@ -1,0 +1,109 @@
+<?php
+// Standard
+$locale['400'] = "Messages privés";
+$locale['401'] = "Write new message";
+$locale['402'] = "Boîte de réception";
+$locale['403'] = "Boîte d'envoi";
+$locale['404'] = "Archive";
+$locale['405'] = "Objet";
+$locale['406'] = "De";
+$locale['407'] = "Date ";
+$locale['408'] = "Propriétaire du site";
+$locale['409'] = "Faire avec les éléments sélectionnés :";
+$locale['410'] = "Sélectionner tout";
+$locale['411'] = "Tout décocher";
+$locale['412'] = "Sauvegarder";
+$locale['413'] = "Annuler l'enregistrement";
+$locale['414'] = "Lu";
+$locale['415'] = "Non lu";
+$locale['416'] = "Supprimer";
+$locale['417'] = "Afficher l'expéditeur avec les lettres :";
+$locale['418'] = "Tous";
+$locale['419'] = "Vous n'avez aucun message privé";
+$locale['420'] = "Envoyer un message privé";
+$locale['421'] = "To";
+$locale['422'] = "Message";
+$locale['422a'] = "Original Message";
+$locale['423'] = "BB Code";
+$locale['424'] = "Émoticône";
+$locale['425'] = "Options";
+$locale['426'] = "Envoyer";
+$locale['427'] = "Désactiver les émoticônes dans le message";
+$locale['428'] = "Afficher la signature dans le message";
+$locale['429'] = "Aperçu";
+$locale['430'] = "Envoyer";
+$locale['431'] = "Lire un message privé";
+$locale['432'] = "Fermer";
+$locale['433'] = "Réponse";
+$locale['434'] = "Envoyer à tous";
+$locale['435'] = "Annuler";
+$locale['436'] = "Prévisualiser la réponse";
+$locale['437'] = "Envoyer";
+$locale['438'] = "Preview Message";
+$locale['439'] = "Réponse";
+$locale['440'] = "(reçu %s)";
+$locale['441'] = "Écrire en tant que propriétaire du site";
+$locale['442'] = "Niveaux de l'utilisateur";
+$locale['443'] = "Groupes";
+
+// Search Options
+$locale['450'] = "Options de recherche et de tri";
+$locale['451'] = "Rechercher / Trier";
+$locale['452'] = "Vider";
+$locale['453'] = "Rien n'a été trouvé lors de votre recherche";
+$locale['454'] = "Recherche pour";
+$locale['455'] = "dans";
+$locale['456'] = "Trier par";
+$locale['457'] = "(Utiliser ? et * comme des caractères génériques)";
+$locale['458'] = "Afficher actuellement les membres avec '%s' dans '%s' ' ";
+$locale['459'] = "L'expéditeur commence par '%s' ";
+$locale['460'] = "Trier par '%s'";
+$locale['461'] = "Cette boîte de message est vide";
+$locale['462'] = "Objet";
+$locale['463'] = "Message";
+$locale['464'] = "Expéditeur";
+$locale['465'] = "Date/Heure de réception";
+
+// Error Messages
+$locale['480'] = "Erreur";
+$locale['481'] = "Mauvais ID de message";
+$locale['482'] = "Mauvais identifiant de membre";
+$locale['483'] = "Pour les membres seulement";
+$locale['484'] = "Votre service de messagerie privée a été retiré en raison d'une utilisation abusive.";
+$locale['485'] = "Veuillez sélectionner au moins un message";
+$locale['486'] = "You must complete all fields: To, Subject and Message";
+$locale['487'] = "Inondation ! Veuillez patienter %s secondes avant d'écrire le message suivant.";
+
+// Tooltips
+$locale['500'] = "Cliquez pour écrire un nouveau message";
+$locale['501'] = "Cliquez pour voir vos messages reçus";
+$locale['502'] = "Cliquez pour voir vos messages envoyés";
+$locale['503'] = "Cliquez pour voir vos messages enregistrés";
+$locale['504'] = "Cliquez pour marquer ce message";
+$locale['505'] = "Cliquez pour voir ce message";
+$locale['506'] = "Cliquez pour voir le profil des expéditeurs";
+$locale['507'] = "Cliquez pour marquer tous les messages";
+$locale['508'] = "Cliquez pour décocher tous les messages";
+$locale['509'] = "Cliquez pour afficher les messages de tous les expéditeurs";
+$locale['510'] = "Cliquez pour afficher les messages des expéditeurs commençant par %s";
+$locale['511'] = "Cliquez pour déplacer les messages marqués dans votre boîte de sauvegarde";
+$locale['512'] = "Cliquez pour déplacer les messages marqués dans votre boîte de réception";
+$locale['513'] = "Cliquez pour définir les messages marqués comme lus";
+$locale['514'] = "Cliquez pour définir les messages marqués comme non lus";
+$locale['515'] = "Cliquez pour supprimer les messages marqués";
+$locale['516'] = "Cliquez pour modifier la configuration";
+
+// Options
+$locale['620'] = "Options";
+$locale['621'] = "M'avertir par e-mail lorsque je reçois un nouveau message privé :";
+$locale['622'] = "Enregistrer automatiquement les messages envoyés :";
+$locale['623'] = "Save Options";
+$locale['624'] = "Saved Options";
+$locale['625'] = "Vous avez un nouveau message privé en attente sur [SITENAME]";
+$locale['626'] = ",<br/>\r\nYou have received a new Private Message titled [SUBJECT] from [USER] at [SITENAME]. You can [LINK]read[/LINK] your private message.<br/>\r\nYou can disable email notification through the options panel of the Private Message page if you no longer wish to be notified of new messages.";
+$locale['627'] = "Erreur";
+$locale['628'] = "Unable to send the Private Message. The user's inbox is full.";
+$locale['629'] = "Vous ne pouvez pas déplacer le(s) message(s) sélectionné(s) dans le dossier spécifié, car il dépassera la limite maximale de message.";
+$locale['630'] = " Limite de message";
+$locale['631'] = "Oui";
+$locale['632'] = "Non";
