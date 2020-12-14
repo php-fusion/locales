@@ -16,9 +16,9 @@ $locale['009'] = "Dokončiť";
 
 // Step 1
 $locale['010'] = "Vyberte prosím lokalitu (jazyk):";
-$locale['011'] = "Ďalšie preklady sťahujte z <a href='https://www.php-fusion.co.uk/infusions/downloads/downloads.php?cat_id=29' target='_blank'>Oficiálnej PHP-Fusion podpory</a>";
+$locale['011'] = "Ďalšie preklady sťahujte z <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'>Oficiálnej PHP-Fusion podpory</a>";
 $locale['012'] = "Aby ste mohli používať PHP-Fusion, musíte skontrolovať a súhlasiť s podmienkami PHP-Fusion.";
-$locale['013'] = " Prečítal som a súhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>podmienkami používania</a>";
+$locale['013'] = " Prečítal som a súhlasim s PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>podmienkami používania</a>";
 
 // Step 2
 $locale['020'] = "Ak chcete pokračovať, musíte zmeniť atribúty na 777 pre nasledujúce zložky a súbory:";

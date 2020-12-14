@@ -16,9 +16,9 @@ $locale['009'] = "Zakończ";
 
 // Step 1
 $locale['010'] = "Wybierz język strony:";
-$locale['011'] = "Więcej wersji językowych na <a href='https://www.php-fusion.co.uk'>php-fusion.co.uk</a>";
+$locale['011'] = "Więcej wersji językowych na <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'>phpfusion.com</a>";
 $locale['012'] = "Aby korzystać z PHP-Fusion, musisz sprawdzić i zaakceptować warunki PHP-Fusion</a>.";
-$locale['013'] = " Przeczytałem i akceptuję <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
+$locale['013'] = " Przeczytałem i akceptuję <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
 
 // Step 2
 $locale['020'] = "Aby kontynuować konfigurację, następujące pliki/foldery muszą być zapisywalne:";

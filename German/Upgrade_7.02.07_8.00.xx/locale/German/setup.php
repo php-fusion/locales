@@ -16,9 +16,9 @@ $locale['009'] = "Weiter";
 
 // Step 1
 $locale['010'] = "Bitte w&auml;hle die gew&uuml;nschte Sprache aus:";
-$locale['011'] = "Weitere Sprachen kannst du auf <a href='http://www.php-fusion.co.uk/' title='http://www.php-fusion.co.uk/' target='_blank' rel='nofollow'>http://www.php-fusion.co.uk</a> herunterladen.";
+$locale['011'] = "Weitere Sprachen kannst du auf <a href='http://www.phpfusion.com/' title='http://www.phpfusion.com/' target='_blank' rel='nofollow'>http://www.phpfusion.com</a> herunterladen.";
 $locale['012'] = "Wenn du PHP-Fusion nutzten m&ouml;chtest, musst du die aktuellen Lizenzbedinungen akzeptieren.";
-$locale['013'] = " Ich habe die aktuellen <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Lizenzbedienungen</a> gelesen und akzeptiere diese";
+$locale['013'] = " Ich habe die aktuellen <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Lizenzbedienungen</a> gelesen und akzeptiere diese";
 
 // Step 2
 $locale['020'] = "Um die Installation fortzusetzten, m&uuml;ssen die folgenden Dateien/Ordner schreibbar sein:";

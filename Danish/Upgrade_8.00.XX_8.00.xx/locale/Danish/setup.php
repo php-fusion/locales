@@ -16,9 +16,9 @@ $locale['009'] = "Afslut";
 
 // Step 1
 $locale['010'] = "Vælg et sprog";
-$locale['011'] = "Hent flere sprogfiler på <a href='https://www.php-fusion.co.uk'>php-fusion.co.uk</a>.";
+$locale['011'] = "Hent flere sprogfiler på <a href='https://www.phpfusion.com'>phpfusion.com</a>.";
 $locale['012'] = "For at kunne bruge PHP-Fusion, skal du acceptere betingelserne.";
-$locale['013'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>betingelser</a>";
+$locale['013'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>betingelser</a>";
 
 // Step 2
 $locale['020'] = "For at installationen kan fortsætte, skal følgende filer være skrivbare:";

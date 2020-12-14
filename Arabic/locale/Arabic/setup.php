@@ -18,7 +18,7 @@ $locale['009'] = "الإنتهاء";
 $locale['010'] = "يرجى تحديد اللغة المطلوبة:";
 $locale['011'] = "تنزيل المزيد من اللغات من <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>موقع دعم PHP-Fusion الرسمي</strong></a>";
 $locale['012'] = "يتطلب منك الموافقة على اتفاقية الشروط والأحكام قبل استخدام الفيوشن.";
-$locale['013'] = "&nbsp;قرأت وأوافق على الشروط والأحكام الفيوشن <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>أحكام وشروط الإستخدام</a> ";
+$locale['013'] = "&nbsp;قرأت وأوافق على الشروط والأحكام الفيوشن <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>أحكام وشروط الإستخدام</a> ";
 
 // Step 2
 $locale['020'] = "من أجل مواصلة التثبيت ، الملفات/ المجلدات التالية يجب أن تكون قابلة للكتابة:";

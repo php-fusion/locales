@@ -16,9 +16,9 @@ $locale['009'] = "Готово";
 
 // Step 1
 $locale['010'] = "Пожалуйста, выберите Ваш язык:";
-$locale['011'] = "Больше переводов можно загрузить с <a href='http://www.php-fusion.co.uk'>php-fusion.co.uk</a>";
+$locale['011'] = "Больше переводов можно загрузить с <a href='http://www.phpfusion.com'>phpfusion.com</a>";
 $locale['012'] = "Для установки и использования PHP-Fusion Вы дожлжны ознакомиться с правилами и принять их.";
-$locale['013'] = " Я прочитал и соглашаюсь с <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Правилами и условиями использования</a> PHP-Fusion";
+$locale['013'] = " Я прочитал и соглашаюсь с <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Правилами и условиями использования</a> PHP-Fusion";
 
 // Step 2
 $locale['020'] = "Чтобы продолжить установку, следующие файлы/папки должны быть доступны для записи:";

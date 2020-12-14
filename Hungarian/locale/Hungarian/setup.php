@@ -16,9 +16,9 @@ $locale['009'] = "Befejezés";
 
 // Step 1
 $locale['010'] = "Válaszd ki a használni kívánt nyelvet:";
-$locale['011'] = "További nyelveket itt találhatsz: <a href='http://www.php-fusion.co.uk'>php-fusion.co.uk</a>";
+$locale['011'] = "További nyelveket itt találhatsz: <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'>phpfusion.com</a>";
 $locale['012'] = "A PHP-Fusion használatához el kell olvasni és elfogadni a felhasználási feltételeket.";
-$locale['013'] = " Elolvastam és elfogadom a PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>használati feltételeit</a>";
+$locale['013'] = " Elolvastam és elfogadom a PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>használati feltételeit</a>";
 
 // Step 2
 $locale['020'] = "A folytatáshoz az alábbi fájloknak és mappáknak írhatóaknak kell lenniük:";

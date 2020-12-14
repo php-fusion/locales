@@ -16,9 +16,9 @@ $locale['009'] = "Finish";
 
 // Step 1
 $locale['010'] = "Please select the required locale (language):";
-$locale['011'] = "Download more locales from <a href='https://www.php-fusion.co.uk/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
+$locale['011'] = "Download more locales from <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
 $locale['012'] = "Pour utiliser PHP-Fusion, vous devez vérifier et accepter les termes de PHP-Fusion.";
-$locale['013'] = " J'ai lu et accepté les <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Conditions d'utilisation de PHP-Fusion</a>";
+$locale['013'] = " J'ai lu et accepté les <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Conditions d'utilisation de PHP-Fusion</a>";
 
 // Step 2
 $locale['020'] = "In order for setup to continue, the following files/folders must be writable:";
