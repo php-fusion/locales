@@ -7,6 +7,7 @@ $locale['ac02'] = "Užívatelia";
 $locale['ac03'] = "Systém";
 $locale['ac04'] = "Nastavenia";
 $locale['ac05'] = "Infúzie";
+//$locale['ac06'] = "Tools"; // for a future release, no need to translate atm
 $locale['ac10'] = "Dashboard";
 $locale['202'] = "Konfigurácia profilu užívateľa";
 
@@ -128,4 +129,4 @@ $locale['search_msg_102'] = 'Stránky sa nepodarilo načítať';
 $locale['search_msg_103'] = 'Hľadaný výraz je príliš krátky';
 $locale['search_msg_104'] = 'Neboli nájdené žiadne výsledky';
 
-$locale['new_update_avalaible'] = "K dispozícii je nová aktualizácia [LINK]PHP-Fusion v[VERSION][/LINK]. Aktualizujte prosím!";
+$locale['new_update_avalaible'] = "K dispozícii je nová aktualizácia [LINK]PHPFusion v[VERSION][/LINK]. Aktualizujte prosím!";

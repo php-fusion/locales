@@ -1,7 +1,6 @@
 <?php
-$locale['title'] = "PHP-Fusion Core 8 - Inštalácia";
-$locale['sub-title'] = "PHP-Fusion Core 8 - Inštalácia";
-$locale['os_version'] = '8.0';
+$locale['title'] = "PHPFusion Core 8 - Inštalácia";
+$locale['sub-title'] = "PHPFusion Core 8 - Inštalácia";
 $locale['xml_lang'] = "sk";
 $locale['charset'] = "utf-8";
 $locale['001'] = "Krok 1: Jazyk";
@@ -16,9 +15,9 @@ $locale['009'] = "Dokončiť";
 
 // Step 1
 $locale['010'] = "Vyberte prosím lokalitu (jazyk):";
-$locale['011'] = "Ďalšie preklady sťahujte z <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'>Oficiálnej PHP-Fusion podpory</a>";
-$locale['012'] = "Aby ste mohli používať PHP-Fusion, musíte skontrolovať a súhlasiť s podmienkami PHP-Fusion.";
-$locale['013'] = " Prečítal som a súhlasim s PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>podmienkami používania</a>";
+$locale['011'] = "Ďalšie preklady sťahujte z <a href='https://phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'>Oficiálnej PHPFusion podpory</a>";
+$locale['012'] = "Aby ste mohli používať PHPFusion, musíte skontrolovať a súhlasiť s podmienkami PHPFusion.";
+$locale['013'] = " Prečítal som a súhlasim s PHPFusion <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>podmienkami používania</a>";
 
 // Step 2
 $locale['020'] = "Ak chcete pokračovať, musíte zmeniť atribúty na 777 pre nasledujúce zložky a súbory:";
@@ -146,6 +145,9 @@ $locale['130a'] = "Kategórie blogov";
 $locale['130b'] = "Blog";
 $locale['130c'] = "Nastavenia blogu";
 $locale['130d'] = "Fusion správca súborov";
+/*$locale['130e'] = "Fusion Security"; // for a future release, no need to translate atm
+$locale['130f'] = "Database Optimization";
+$locale['130g'] = "User IP Lookup";*/
 
 // Step 6 - Navigation Links
 $locale['130'] = "Domov";
@@ -205,7 +207,7 @@ $locale['187'] = "Modifikácie";
 $locale['188'] = "Filmy";
 $locale['189'] = "Sieť";
 $locale['190'] = "Novinky";
-$locale['191'] = "PHP-Fusion";
+$locale['191'] = "PHPFusion";
 $locale['192'] = "Bezpečnosť";
 $locale['193'] = "Softvér";
 $locale['194'] = "Vzhľady";
@@ -244,11 +246,11 @@ $locale['224'] = "Súkromie";
 $locale['230'] = "Vitajte na vašich stránkach";
 
 // Final message
-$locale['240'] = "Inštalácia bola úspešne dokončená, PHP-Fusion 8 je pripravený na používanie.<br>
-Kliknite na dokončiť, pre prechod na vašu stránku PHP-Fusion.<br>
+$locale['240'] = "Inštalácia bola úspešne dokončená, PHPFusion 8 je pripravený na používanie.<br>
+Kliknite na dokončiť, pre prechod na vašu stránku PHPFusion.<br>
 <strong>Upozornenie:</strong> vymažte setup.php zo svojho servera<br>
 a zmeňte atribúty súboru config.php späť na 644 pre zabezpečenie bezpečnosti.<br><br>
-Ďakujeme, že ste sa rozhodli pre používanie systému PHP-Fusion.";
+Ďakujeme, že ste sa rozhodli pre používanie systému PHPFusion.";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";

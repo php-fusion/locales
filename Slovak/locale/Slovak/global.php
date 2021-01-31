@@ -264,7 +264,7 @@ $locale['global_204'] = " - Fórum";
 $locale['global_210'] = "Prejsť na obsah";
 $locale['global_300'] = "nebola nájdená žiadna téma";
 $locale['global_301'] = "Je nám ľúto, ale táto stránka sa nedá zobraziť. Z nejakých okolností nie je možné nájsť tému webu.
- Ak ste administrátorom stránky, použite svoj FTP klient na nahrávanie akejkoľvek témy určenej pre PHP-Fusion 9 do priečinka tém.
+ Ak ste administrátorom stránky, použite svoj FTP klient na nahrávanie akejkoľvek témy určenej pre PHPFusion 9 do priečinka tém.
  Po nahraní skontrolujte nastavenia témy, či ste správne nahrali vybranú tému do priečinka tém.
  Upozorňujeme, že nahraná zložka témy musí mať presne rovnaký názov (vrátane znakovej sady, ktorá je dôležitá na Unixových serveroch)
  ako je vybraná na stránke Nastavenie tém.<br/><br/>Ak ste pravidelný člen tejto stránky, prosím kontaktujte administrátora cez [SITE_EMAIL] e-mail a nahláste tento problém.";
