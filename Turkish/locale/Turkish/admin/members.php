@@ -11,88 +11,88 @@ $locale['407'] = "Etkinleştir";
 $locale['408'] = "Yasağı Kaldır";
 $locale['409'] = "Yasak";
 $locale['410'] = "Sil";
-$locale['411'] = "There are no %s members";
-$locale['412'] = " beginning with ";
-$locale['413'] = " matching ";
+$locale['411'] = "Hiçbir %s üye bulunmaktadır";
+$locale['412'] = " ile başlayan ";
+$locale['413'] = " eşleşen ";
 $locale['414'] = "Hepsini Göster";
-$locale['415'] = "Search for member:";
+$locale['415'] = "Üye için ara:";
 $locale['416'] = "Ara";
-$locale['417'] = "Select Action";
+$locale['417'] = "Eylem Seç";
 $locale['418'] = "İptal";
 $locale['419'] = "Yasağı Kaldır";
 // Ban/Unban/Delete Member
-$locale['420'] = "Ban Imposed";
-$locale['421'] = "Ban Removed";
-$locale['422'] = "Member Deleted";
-$locale['423'] = "Are you sure you wish to delete this member?";
-$locale['424'] = "Member Activated";
-$locale['425'] = "<h2>Warning!</h2><br />
-You are about to delete user <strong>%s</strong> !<br />
-The following content <u>posted by this user</u> on this site will be deleted if you proceed:<br />
-- Articles<br />
-- News<br />
-- Forum threads. Note that posts made by other users in these threads will also be deleted, along with the poll votes and attachments existent in this threads.<br />
-- Forum posts<br />
-- Forum attachments<br />
-- Comments<br />
-- Private messages sent or received by this user<br />
-- Poll votes<br />
-- Ratings given<br />
-Unless this is a spammer for eg. we recommend you to Ban, Suspend, Cancel or Anonymize this user.<br />
+$locale['420'] = "Yasaklandı";
+$locale['421'] = "Yasak Kaldırıldı";
+$locale['422'] = "Üye Silindi";
+$locale['423'] = "Bu üyeyi silmek istediğinizden emin misiniz?";
+$locale['424'] = "Üye Etkinleştirildi";
+$locale['425'] = "<h2>Uyarı!</h2><br />
+<strong>%s</strong> kullanıcısını silmek üzeresiniz!<br />
+Devam ederseniz, bu sitede <u>bu kullanıcı tarafından yayınlanan</u> aşağıdaki içerik silinecektir:<br />
+- Makaleler<br />
+- Haberler<br />
+- Forum konuları. Bu konu başlığında bulunan diğer kullanıcılar tarafından yapılan gönderilerin, anket oyları ve bu ileti dizisindeki eklerle birlikte silineceğini unutmayın.<br />
+- Forum gönderileri<br />
+- Forum ekleri<br />
+- Yorumlar<br />
+- Bu kullanıcı tarafından gönderilen veya alınan özel mesajlar<br />
+- Anket oyları<br />
+- Verilen derecelendirmeler<br />
+Bu, örneğin bir spam göndericisi değilse. bu kullanıcıyı Yasaklamanızı, Askıya Almanızı, İptal etmenizi veya Anonimleştirmenizi öneririz.<br />
 <br />
-Are you sure you want to delete this user?<br />";
+Bu kullanıcıyı silmek istediğinizden emin misiniz?<br />";
 $locale['426'] = "Evet";
 $locale['427'] = "Hayır";
 // Edit Member Details
-$locale['430'] = "Edit Member";
-$locale['431'] = "Member details updated";
-$locale['432'] = "Return to Members Admin";
+$locale['430'] = "Üyeyi Düzenle";
+$locale['431'] = "Üye ayrıntıları güncellendi";
+$locale['432'] = "Üye Yönetimine Geri Dön";
 $locale['433'] = "Site Yönetimine Dön";
-$locale['434'] = "Unable to Update Member details:";
+$locale['434'] = "Üye ayrıntıları güncellenemiyor:";
 // Extra Edit Member Details form options
 $locale['440'] = "Değişiklikleri Kaydet";
 // Update Profile Errors
-$locale['450'] = "Cannot edit primary administrator.";
-$locale['451'] = "You must specify a user name and email address.";
+$locale['450'] = "Birincil yönetici düzenlenemez.";
+$locale['451'] = "Bir kullanıcı adı ve e-posta adresi belirtmelisiniz.";
 $locale['452'] = "Kullanıcı adı geçersiz karakterler içeriyor.";
-$locale['453'] = "The user name [user_name] is in use.";
-$locale['454'] = "Invalid email address.";
-$locale['455'] = "The email address [user_email] is in use.";
-$locale['456'] = "New Passwords do not match.";
-$locale['457'] = "Invalid password, use alpha numeric characters only.<br />
-Password must be a minimum of 6 characters long.";
-$locale['458'] = "<strong>Warning:</strong> unexpected script execution.";
+$locale['453'] = "[user_name] kullanıcı adı kullanımda.";
+$locale['454'] = "Geçersiz e-posta adresi.";
+$locale['455'] = "[user_email] e-posta adresi kullanımda.";
+$locale['456'] = "Yeni şifreler uyuşmuyor.";
+$locale['457'] = "Geçersiz şifre, yalnızca alfa sayısal karakterler kullanın <br />
+Parola minimum 6 karakter uzunluğunda olmalıdır.";
+$locale['458'] = "<strong>Uyarı:</strong> Beklenmeyen komut dosyası yürütmesi.";
 // View Member Profile
 $locale['470'] = "Üye Profili";
 $locale['472'] = "İstatistikler";
 $locale['473'] = "Kullanıcı Grupları";
 // Add Member Errors
-$locale['480'] = "Add Member";
-$locale['481'] = "The member account has been created.";
-$locale['482'] = "The member account could not be created.";
+$locale['480'] = "Üye Ekle";
+$locale['481'] = "Üye hesabı oluşturulmuştur.";
+$locale['482'] = "Üye hesabı oluşturulamadı.";
 // Suspension Log
-$locale['510s'] = "Suspension Log for ";
-$locale['511s'] = "There are no recorded suspensions for this member in the suspension log.";
-$locale['512s'] = "Previous suspensions of ";
+$locale['510s'] = "Askıya Alma Günlüğü ";
+$locale['511s'] = "Askıya alma günlüğünde bu üye için askıya alma kaydı yok.";
+$locale['512s'] = "Önceki Askıya Alınamaları ";
 $locale['513'] = "No."; // as in number
 $locale['514'] = "Tarih";
 $locale['515'] = "Sebep";
-$locale['516'] = "Suspending Administrator";
+$locale['516'] = "Askıya Alma Yönetimi";
 $locale['517'] = "Sistem Eylemi";
-$locale['518'] = "Back to User Profile";
-$locale['519'] = "Suspension Log for this User ";
+$locale['518'] = "Kullanıcı Profiline Geri Dön";
+$locale['519'] = "Bu Kullanıcı için Askıya Alma Günlüğü ";
 $locale['520'] = "Lifted: ";
 $locale['521'] = "IP:";
-$locale['522'] = "Not yet reinstated";
+$locale['522'] = "Henüz eski durumuna getirilmedi";
 $locale['540'] = "Hata";
-$locale['541'] = "Error: You must state a reason for the Suspension!";
-$locale['542'] = "Error: You must state a reason for the Security Ban!";
+$locale['541'] = "Hata: Askıya Almak için bir neden belirtmelisiniz!";
+$locale['542'] = "Hata: Güvenlik Yasağı için bir neden belirtmelisiniz!";
 // User Management Admin
 $locale['550'] = "Suspend User: ";
 $locale['551'] = "Duration in days:";
 $locale['552'] = "Reason:";
 $locale['553'] = "Askıya Al";
-$locale['554'] = "There are no recorded suspensions for this member in the suspension log.";
+$locale['554'] = "Askıya alma günlüğünde bu üye için askıya alma kaydı yok.";
 $locale['555'] = "If you decide that this user should be banned click on 'Ban'";
 $locale['556'] = "Lift Suspension of User: ";
 $locale['557'] = "Lift Suspension";

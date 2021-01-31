@@ -22,7 +22,7 @@ $locale['470'] = "Use the following form to submit News. Your submission will be
 Administrator. [SITENAME] reserves the right to amend or edit any submission. Your News submission should be applicable to the content of this site. 
 Unsuitable submissions will be deleted.";
 $locale['471'] = "Konu:";
-$locale['472'] = "News:";
+$locale['472'] = "Haber:";
 $locale['473'] = " Enable Automatic Line-Breaks";
 $locale['474'] = "Haber Önizlemesi";
 $locale['475'] = "Haber Gönder";

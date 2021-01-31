@@ -7,6 +7,7 @@ $locale['ac02'] = "Kullanıcı Yöneticisi";
 $locale['ac03'] = "Sistem Yöneticisi";
 $locale['ac04'] = "Ayarlar";
 $locale['ac05'] = "Uygulamalar";
+//$locale['ac06'] = "Tools"; // for a future release, no need to translate atm
 $locale['ac10'] = "Yönetim Gösterge Panosu";
 $locale['202'] = "Kullanıcı Profili Yapılandırması";
 
@@ -128,4 +129,4 @@ $locale['search_msg_102'] = 'Sayfalar Yüklenemedi';
 $locale['search_msg_103'] = 'Arama Dizesi Çok Kısa';
 $locale['search_msg_104'] = 'Sonuç Bulunamadı';
 
-$locale['new_update_avalaible'] = "Yeni bir [LINK]PHP-Fusion v[VERSION] güncellemesi [/LINK] mevcut. Lütfen güncelle!";
+$locale['new_update_avalaible'] = "Yeni bir [LINK]PHPFusion v[VERSION] güncellemesi [/LINK] mevcut. Lütfen güncelle!";

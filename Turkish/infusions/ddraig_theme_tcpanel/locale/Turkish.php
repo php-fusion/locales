@@ -22,5 +22,5 @@ $locale['winter_des'] = "Bu, temaya bazı kış stilleri ekleyecek";
 
 $locale['save_sets'] = "Ayarları Kaydet";
 
-$locale['enabled'] = "Etkinleştirildi";
+$locale['enabled'] = "Etkin";
 $locale['disabled'] = "Devre dışı";

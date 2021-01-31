@@ -2,12 +2,12 @@
 // News Categories titles
 $locale['400'] = "Haber Kategorisini Düzenle";
 $locale['401'] = "Haber Kategorisi Ekle";
-$locale['402'] = "Current News Categories";
+$locale['402'] = "Mevcut Haber Kategorileri";
 // News Categories messages
-$locale['420'] = "News Category added";
-$locale['421'] = "News Category updated";
+$locale['420'] = "Haber Kategorisi eklendi";
+$locale['421'] = "Haber Kategorisi güncellendi";
 $locale['422'] = "Haber Kategorisi silinemez";
-$locale['423'] = "There are news items linked to this category";
+$locale['423'] = "Bu kategoriye bağlı haberler var";
 $locale['424'] = "Haber Kategorisi silindi";
 // News Categories form
 $locale['430'] = "Kategori Adı:";

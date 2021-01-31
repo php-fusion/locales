@@ -46,7 +46,7 @@ $locale['534'] = "Forum Moderatörlerini Kaydet";
 $locale['535'] = "İndirilen Eklentiler:";
 // Forum Settings
 $locale['540'] = "Forum Ayarları:";
-$locale['541'] = "Post Merger:";
+$locale['541'] = "Mesaj Birleşimi:";
 $locale['542'] = "Etkinleştirildi";
 $locale['543'] = "Devre dışı";
 // Current Forums

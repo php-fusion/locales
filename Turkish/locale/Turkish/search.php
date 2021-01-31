@@ -1,6 +1,6 @@
 <?php
 $locale['400'] = "[SITENAME] Ara";
-$locale['401'] = "Search for:";
+$locale['401'] = "İçin ara:";
 $locale['402'] = "Ara";
 $locale['403'] = "Bu Kelimelerden Herhangi Birini Ara";
 $locale['404'] = "Sonucun Tümü Bu Kelimeleri İçermesi Gerekir";

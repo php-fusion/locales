@@ -2,11 +2,11 @@
 // News titles
 $locale['400'] = "Güncel Haberler";
 $locale['401'] = "Haber Ekle";
-$locale['402'] = "Edit News";
+$locale['402'] = "Haberi Düzenle";
 // News messages
-$locale['410'] = "News Item added";
-$locale['411'] = "News Item updated";
-$locale['412'] = "News Item deleted";
+$locale['410'] = "Haber Öğesi eklendi";
+$locale['411'] = "Haber Öğesi güncellendi";
+$locale['412'] = "Haber Öğesi silindi";
 $locale['413'] = "Geçersiz Resim Dosyası Adı.";
 $locale['414'] = "Resim %s Boyutundan Az Olmalı.";
 $locale['415'] = "Resim bir GIF, JPEG veya PNG dosyası olmalıdır.";
@@ -17,8 +17,8 @@ $locale['421'] = "Sil";
 $locale['422'] = "Konu:";
 $locale['423'] = "Kategori:";
 $locale['424'] = "- Yok -";
-$locale['425'] = "News:";
-$locale['426'] = "Extended News:";
+$locale['425'] = "Haber:";
+$locale['426'] = "Genişletilmiş Haber:";
 $locale['427'] = "Başlangıç Tarihi:";
 $locale['428'] = "Bitiş Tarihi:";
 $locale['429'] = "(İsteğe Bağlı)";
@@ -31,7 +31,7 @@ $locale['435'] = "Beğenilmeleri Etkinleştir";
 $locale['436'] = "Haber Önizlemesi";
 $locale['437'] = "Haberi Kaydet";
 $locale['438'] = "[DRAFT]";
-$locale['439'] = "News Image";
+$locale['439'] = "Haber Görüntüsü";
 $locale['440'] = "Maks. dosya boyutu: %s / İzin verilen dosya türleri: GIF, JPG veya PNG.";
 $locale['441'] = "Sayfa Sonu";
 // Popup Error/Warning Messages
