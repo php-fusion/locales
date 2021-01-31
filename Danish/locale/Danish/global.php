@@ -267,7 +267,7 @@ $locale['global_210'] = "Spring til indhold";
 $locale['global_300'] = "intet tema fundet";
 $locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte årsager kan sidens tema ikke findes.
 Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema designet til brug i forbindelse med
-PHP-Fusion version 8 til folderen themes. Efter at du har gjort det, skal du se
+PHPFusion version 8 til folderen themes. Efter at du har gjort det, skal du se
 under Hovedopsætning for at sikre dig, at det uploadede tema er kommet korrekt op på siden.
 Bemærk at den uploadede temafolder skal have nøjagtigt samme navn inklusive store og små bogstaver som navnet
 på det tema, du vælger under Hovedopsætning.<br/><br/> Hvis du er medlem på siden, så skal

@@ -7,6 +7,7 @@ $locale['ac02'] = "Brugere";
 $locale['ac03'] = "System";
 $locale['ac04'] = "Opsætning";
 $locale['ac05'] = "Infusioner";
+//$locale['ac06'] = "Tools"; // for a future release, no need to translate atm
 $locale['ac10'] = "Admin oversigt";
 $locale['202'] = "Brugerprofilopsætning";
 
@@ -128,4 +129,4 @@ $locale['search_msg_102'] = 'Siderne kunne ikke indlæses';
 $locale['search_msg_103'] = 'Søgeudtryk er for kort';
 $locale['search_msg_104'] = 'Der er ikke fundet nogen resultater';
 
-$locale['new_update_avalaible'] = "En ny [LINK]PHP-Fusion v[VERSION] updatering[/LINK] er tilgængelig. Venligst opdater!";
+$locale['new_update_avalaible'] = "En ny [LINK]PHPFusion v[VERSION] updatering[/LINK] er tilgængelig. Venligst opdater!";

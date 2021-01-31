@@ -1,7 +1,6 @@
 <?php
-$locale['title'] = "PHP-Fusion version 8 installation";
-$locale['sub-title'] = "PHP-Fusion version 8 installation";
-$locale['os_version'] = '8.0';
+$locale['title'] = "PHPFusion version 8 installation";
+$locale['sub-title'] = "PHPFusion version 8 installation";
 $locale['xml_lang'] = "da";
 $locale['charset'] = "utf-8";
 $locale['001'] = "Trin 1: Sprogvalg";
@@ -16,9 +15,9 @@ $locale['009'] = "Afslut";
 
 // Step 1
 $locale['010'] = "Vælg et sprog";
-$locale['011'] = "Hent flere sprogfiler på <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'>phpfusion.com</a>.";
-$locale['012'] = "For at kunne bruge PHP-Fusion, skal du acceptere betingelserne.";
-$locale['013'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>betingelser</a>";
+$locale['011'] = "Hent flere sprogfiler på <a href='https://phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'>phpfusion.com</a>.";
+$locale['012'] = "For at kunne bruge PHPFusion, skal du acceptere betingelserne.";
+$locale['013'] = " Jeg har læst og accepteret de relevante PHPFusion <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>betingelser</a>";
 
 // Step 2
 $locale['020'] = "For at installationen kan fortsætte, skal følgende filer være skrivbare:";
@@ -146,6 +145,9 @@ $locale['130a'] = "Blogkategorier";
 $locale['130b'] = "Blog";
 $locale['130c'] = "Blogindstillinger";
 $locale['130d'] = "Fusion Fil Manager";
+/*$locale['130e'] = "Fusion Security"; // for a future release, no need to translate atm
+$locale['130f'] = "Database Optimization";
+$locale['130g'] = "User IP Lookup";*/
 
 // Step 6 - Navigation Links
 $locale['130'] = "Forside";
@@ -205,7 +207,7 @@ $locale['187'] = "Systemmodifikationer";
 $locale['188'] = "Film";
 $locale['189'] = "Netværk";
 $locale['190'] = "Nyheder";
-$locale['191'] = "PHP-Fusion";
+$locale['191'] = "PHPFusion";
 $locale['192'] = "Sikkerhed";
 $locale['193'] = "Software";
 $locale['194'] = "Temaer";
@@ -244,10 +246,10 @@ $locale['224'] = "Privaliv";
 $locale['230'] = "Velkommen til din side";
 
 // Final message
-$locale['240'] = "Installationen er færdig, og PHP-Fusion 8 er nu klar til brug.<br/>
-<a href='index.php'>Klik her</a> for at gå videre til din nye PHP-Fusion-side.<br/>
+$locale['240'] = "Installationen er færdig, og PHPFusion 8 er nu klar til brug.<br/>
+<a href='index.php'>Klik her</a> for at gå videre til din nye PHPFusion-side.<br/>
 <strong>HUSK</strong> at du bør slette filen setup.php fra din server og ændre rettighederne<br/> på filen config.php tilbage til 644 af sikkerhedshensyn<br/><br/>
-Tak fordi du valgte PHP-Fusion.";
+Tak fordi du valgte PHPFusion.";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";
