@@ -14,4 +14,4 @@ $locale['E_USER_NOTICE'] = "ملاحظة تم إنشاؤه بواسطة المس
 $locale['E_ALL'] = "يعرف جميع الرسائل باستثناء E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "لا شيء";
-$locale['err_101'] = "<strong>تحذير:</strong> حصل خطأ أثناء إنشاء الصفحة. رجاء، انظر <a href='[ERROR_LOG_URL]' class='alt'>سجل الأخطاء</a> الخاص بـ PHP-Fusion للمزيد من التفاصيل.";
+$locale['err_101'] = "<strong>تحذير:</strong> حصل خطأ أثناء إنشاء الصفحة. رجاء، انظر <a href='[ERROR_LOG_URL]' class='alt'>سجل الأخطاء</a> الخاص بـ PHPFusion للمزيد من التفاصيل.";

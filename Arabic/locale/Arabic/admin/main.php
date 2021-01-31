@@ -7,6 +7,7 @@ $locale['ac02'] = "إدارة الأعضاء";
 $locale['ac03'] = "إدارة النظام";
 $locale['ac04'] = "الاعدادات";
 $locale['ac05'] = "الملاحق البرمجية";
+//$locale['ac06'] = "Tools"; // for a future release, no need to translate atm
 $locale['ac10'] = "لوحة التحكم الرئيسية";
 $locale['202'] = "اعدادات المستخدم";
 
@@ -128,4 +129,4 @@ $locale['search_msg_102'] = 'فشل في تحميل الصفحة';
 $locale['search_msg_103'] = 'سلسلة البحث قصيرة جدا';
 $locale['search_msg_104'] = 'لم يتم العثور على نتائج';
 
-$locale['new_update_avalaible'] = "تحديث [LINK]PHP-Fusion v[VERSION] جديد[/LINK] متوفر . الرجاء التحديث!";
+$locale['new_update_avalaible'] = "تحديث [LINK]PHPFusion v[VERSION] جديد[/LINK] متوفر . الرجاء التحديث!";

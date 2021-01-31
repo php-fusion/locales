@@ -7,11 +7,11 @@ $locale['403'] = "برنامج الوب سرفر";
 $locale['404'] = "إصدار PHP";
 $locale['405'] = "واجهة PHP";
 $locale['406'] = "إصدار سرفر MySQL";
-$locale['407'] = "إصدار PHP-Fusion";
+$locale['407'] = "إصدار PHPFusion";
 $locale['408'] = "سابقة الجداول";
 $locale['409'] = "سابقة الكوكيز";
 $locale['410'] = "المتصفح والنظام التشغيل";
-$locale['411'] = "الترجمة إلى اللغة العربية  بواسطة : Eng. Khamis Alqutob </br>   الدعم العربي لمجلة PHP-Fusion العربية © 2020 </br>   http://phpfusion-ar.xyz </br> إحدى قنوات شبكة زاد العرب - ArabZad.Com "; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "الترجمة إلى اللغة العربية  بواسطة : Eng. Khamis Alqutob </br>   الدعم العربي لمجلة PHPFusion العربية © 2020 </br>   http://phpfusion-ar.xyz </br> إحدى قنوات شبكة زاد العرب - ArabZad.Com "; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "إعدادات PHP";
 $locale['421'] = "نعم";
