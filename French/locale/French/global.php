@@ -264,7 +264,7 @@ $locale['global_204'] = " - Forum";
 $locale['global_210'] = "Passer au contenu";
 $locale['global_300'] = "aucun thème trouvé";
 $locale['global_301'] = "Cette page ne peut pas être affichée. Pour des raisons inconnues, un thème de site valide ne peut être trouvé.
- Si vous êtes l'administrateur, veuillez utiliser votre client FTP pour télécharger n'importe quel thème conçu pour PHP-Fusion 9 dans le dossier thèmes.
+ Si vous êtes l'administrateur, veuillez utiliser votre client FTP pour télécharger n'importe quel thème conçu pour PHPFusion 9 dans le dossier thèmes.
  Après le téléchargement, vérifiez dans les paramètres du thème pour voir si le thème sélectionné a été correctement téléchargé dans le répertoire de vos thèmes
  Veuillez noter que le dossier du thème téléchargé doit avoir exactement le même nom (y compris le cas de caractères ce qui est important pour les serveurs basés sur Unix)
  comme choisi dans la page Paramètres du thème.<br/>Si vous êtes un membre régulier de ce site, veuillez contacter l\\'administrateur du site via [SITE_EMAIL] e-mail et signaler ce problème.";
