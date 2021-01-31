@@ -7,6 +7,7 @@ $locale['ac02'] = "Пользователи";
 $locale['ac03'] = "Система";
 $locale['ac04'] = "Параметры";
 $locale['ac05'] = "Плагины";
+//$locale['ac06'] = "Tools"; // for a future release, no need to translate atm
 $locale['ac10'] = "Админпанель";
 $locale['202'] = "Настройка профиля пользователя";
 
@@ -128,4 +129,4 @@ $locale['search_msg_102'] = 'Не удалось загрузить страни
 $locale['search_msg_103'] = 'Строка поиска слишком короткая';
 $locale['search_msg_104'] = 'Результаты не найдены';
 
-$locale['new_update_avalaible'] = "Доступно новое обновление [LINK]PHP-Fusion v[VERSION][/LINK]. Пожалуйста, обновите!";
+$locale['new_update_avalaible'] = "Доступно новое обновление [LINK]PHPFusion v[VERSION][/LINK]. Пожалуйста, обновите!";
