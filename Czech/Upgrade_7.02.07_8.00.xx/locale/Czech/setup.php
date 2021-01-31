@@ -1,6 +1,6 @@
 <?php
-$locale['title'] = "PHP-Fusion Core 8 - Instalace";
-$locale['sub-title'] = "PHP-Fusion Core 8 - Instalace";
+$locale['title'] = "PHPFusion Core 8 - Instalace";
+$locale['sub-title'] = "PHPFusion Core 8 - Instalace";
 $locale['os_version'] = '8.0';
 $locale['xml_lang'] = "cs";
 $locale['charset'] = "utf-8";
@@ -17,8 +17,8 @@ $locale['009'] = "Dokončit";
 // Step 1
 $locale['010'] = "Prosím vyberte vaši lokalizaci (jazyk):";
 $locale['011'] = "Více lokalizací systému stáhnete na adrese <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'>phpfusion.com</a>";
-$locale['012'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolovat a souhlasit s podmínkami PHP-Fusion.";
-$locale['013'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>podmínkami používání</a>";
+$locale['012'] = "Abyste mohli používat PHPFusion, musíte zkontrolovat a souhlasit s podmínkami PHPFusion.";
+$locale['013'] = " Četl jsem a souhlasim s PHPFusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>podmínkami používání</a>";
 
 // Step 2
 $locale['020'] = "Pro pokračování instalace musíte následujícím souborům/složkám povolit zápis:";
@@ -205,7 +205,7 @@ $locale['187'] = "Módy";
 $locale['188'] = "Filmy";
 $locale['189'] = "Síť";
 $locale['190'] = "Novinky";
-$locale['191'] = "PHP-Fusion";
+$locale['191'] = "PHPFusion";
 $locale['192'] = "Bezpečnost";
 $locale['193'] = "Software";
 $locale['194'] = "Vzhledy";
@@ -244,11 +244,11 @@ $locale['224'] = "Soukromí";
 $locale['230'] = "Vítejte na vašem webu";
 
 // Final message
-$locale['240'] = "Instalace byla úspěšně dokončena, PHP-Fusion 8 je připraven k použití.<br>
+$locale['240'] = "Instalace byla úspěšně dokončena, PHPFusion 8 je připraven k použití.<br>
 Pro přechod na vaši nově nainstalovanou stránku, klikněte na tlačítko Dokončit.<br>
 <strong>Poznámka:</strong> Z bezpečnostních důvodů SMAŽTE soubor setup.php z vašeho serveru.
 Dále nastavte CHMOD souboru config.php na 644.<br><br>
-Děkujeme, že jste si vybrali PHP-Fusion.";
+Děkujeme, že jste si vybrali PHPFusion.";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";

@@ -1,6 +1,6 @@
 <?php
-$locale['title'] = "PHP-Fusion Core 8 Edition - Telepítés";
-$locale['sub-title'] = "PHP-Fusion Core 8 Edition - Telepítés";
+$locale['title'] = "PHPFusion Core 8 Edition - Telepítés";
+$locale['sub-title'] = "PHPFusion Core 8 Edition - Telepítés";
 $locale['os_version'] = '8.0';
 $locale['xml_lang'] = "hu";
 $locale['charset'] = "utf-8";
@@ -17,8 +17,8 @@ $locale['009'] = "Befejezés";
 // Step 1
 $locale['010'] = "Válaszd ki a használni kívánt nyelvet:";
 $locale['011'] = "További nyelveket itt találhatsz: <a href='http://www.phpfusion.com'>phpfusion.com</a>";
-$locale['012'] = "A PHP-Fusion használatához el kell olvasni és elfogadni a felhasználási feltételeket.";
-$locale['013'] = " Elolvastam és elfogadom a PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>használati feltételeit</a>";
+$locale['012'] = "A PHPFusion használatához el kell olvasni és elfogadni a felhasználási feltételeket.";
+$locale['013'] = " Elolvastam és elfogadom a PHPFusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>használati feltételeit</a>";
 
 // Step 2
 $locale['020'] = "A folytatáshoz az alábbi fájloknak és mappáknak írhatóaknak kell lenniük:";
@@ -205,7 +205,7 @@ $locale['187'] = "Modok";
 $locale['188'] = "Videók";
 $locale['189'] = "Hálózat";
 $locale['190'] = "Hírek";
-$locale['191'] = "PHP-Fusion";
+$locale['191'] = "PHPFusion";
 $locale['192'] = "Védelem";
 $locale['193'] = "Szoftver";
 $locale['194'] = "Felületek";
@@ -244,11 +244,11 @@ $locale['224'] = "Magán";
 $locale['230'] = "Üdvözöllek oldalunkon.";
 
 // Final message
-$locale['240'] = "A telepítés befejeződött, a PHP-Fusion v8 használatra kész.<br />
+$locale['240'] = "A telepítés befejeződött, a PHPFusion v8 használatra kész.<br />
 Újdonsült weboldaladat a 'Befejezés' gombra kattintva tekintheted meg.<br /><br />
 <strong>Megjegyzés:</strong> a 'setup.php' fájlt biztonsági okokból törölni kell a szerverről,<br />
 és a 'config.php' fájl jogosultságait 644-re kell állítani (CHMOD)!<br /><br />
-Köszönjük, hogy a PHP-Fusion-t választottad!";
+Köszönjük, hogy a PHPFusion-t választottad!";
 
 // Default time settings
 $locale['shortdate'] = "%Y.%m.%d";

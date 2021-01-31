@@ -21,8 +21,8 @@ $locale['013'] = " Perskaičiau ir sutinku su PHPFusion <a href='https://phpfusi
 
 // Step 2
 $locale['020'] = "Kad galėtumėme tęsti instaliaciją, įsitikinkite, kad sekantiems failams/katalogams suteiktos įrašymo teisės:";
-$locale['021'] = "Įrašymo teisių patikrinimas sėkmingas, spauskite [Toliau] norėdami tęsti.<br />==================================<br />Jeigu iškilo problemų instaliacijos metų, kurių negalite išspręsti, praneškite savo problemą oficialiame Lietuvos Php-Fusion palaikymo tinklapyje, adresu <a href='http://www.phpfusion-lt.com'>PHPFusion-Lt.com</a>";
-$locale['022'] = "Įrašymo teisių patikrinimas nesėkmingas, prašome patikrinti ar suteikėte reikiamas CHMOD atžymas failams/katalogams pažymėtiems [Nesėkmingas].<br />==================================<br />Jeigu iškilo problemų instaliacijos metų, kurių negalite išspręsti, praneškite savo problemą oficialiame Lietuvos Php-Fusion palaikymo tinklapyje, adresu <a href='http://www.phpfusion-lt.com'>PHPFusion-Lt.com</a>";
+$locale['021'] = "Įrašymo teisių patikrinimas sėkmingas, spauskite [Toliau] norėdami tęsti.";
+$locale['022'] = "Įrašymo teisių patikrinimas nesėkmingas, prašome patikrinti ar suteikėte reikiamas CHMOD atžymas failams/katalogams pažymėtiems [Nesėkmingas].";
 $locale['023'] = "Sėkmingas";
 $locale['024'] = "Nesėkmingas";
 $locale['025'] = "Atnaujinti";
@@ -249,14 +249,7 @@ $locale['230'] = "Sveiki atvykę į savo tinklapį!";
 $locale['240'] = "Diegimas baigtas, sistema paruošta naudojimui.<br />
 Paspauskite [Baigti], norėdami pereiti į savo tinklapį.<br />
 <strong>Pastaba:</strong> Prieš įeidami į tinklapį būtinai pašalinkite setup.php iš serverio ir su CHMOD&#39;inkite failą config.php atgal į 644 dėl saugumo.<br /><br />
-Dėkojame, kad renkatės PHPFusion.<br /><br />
-
-Jeigu kils kokių nors klausimų susijusių su Php-Fusion sistema,
-visapusiškos pagalbos galite sulaukti apsilankę Lietuvos
-Php-Fusion pagalbos tinklapiuose:<br />
-<a href='http://www.phpfusion-lt.com' target='_blank'>PhpFusion-LT.com</a> - Pagrindinis Lietuvos Php-Fusion pagalbos tinklapis<br />
-<a href='http://modai.phpfusion-lt.com' target='_blank'>Modai.PhpFusion-LT.com</a> - Lietuvos Php-Fusion modifikacijų tinklapis<br />
-<a href='http://themes.phpfusion-lt.com' target='_blank'>Themes.PhpFusion-LT.com</a> - Lietuvos Php-Fusion dizainų tinklapis";
+Dėkojame, kad renkatės PHPFusion.";
 
 // Default time settings
 $locale['shortdate'] = "%y-%m-%d";

@@ -264,7 +264,7 @@ $locale['global_204'] = " - Forum";
 $locale['global_210'] = "Przejdź do zawartości";
 $locale['global_300'] = "nie znaleziono motywu";
 $locale['global_301'] = "Naprawdę przykro nam, ale ta strona nie może być wyświetlana. Z powodu pewnych okoliczności nie można znaleźć motywu witryny.
- Jeśli jesteś administratorem witryny, użyj swojego klienta FTP, aby przesłać dowolny motyw przeznaczony dla PHP-Fusion 8 do folderu motywów.
+ Jeśli jesteś administratorem witryny, użyj swojego klienta FTP, aby przesłać dowolny motyw przeznaczony dla PHPFusion 8 do folderu motywów.
  Po przesłaniu sprawdź w ustawieniach motywu, czy wybrany motyw został poprawnie przesłany do katalogu Twoich motywów.
  Pamiętaj, że przesłany folder motywu musi mieć dokładnie taką samą nazwę (w tym wielkość liter, co jest ważne na serwerach opartych o Unix)
  zgodnie z wyborem na stronie Ustawienia motywu.<br/>Jeśli jesteś zwykłym członkiem tej witryny, skontaktuj się z administratorem witryny za pomocą adresu e-mail [SITE_EMAIL] i zgłoś ten problem.";

@@ -1,6 +1,6 @@
 <?php
-$locale['title'] = "PHP-Fusion Core 8 Установка скрипта";
-$locale['sub-title'] = "PHP-Fusion Core 8 Установка скрипта";
+$locale['title'] = "PHPFusion Core 8 Установка скрипта";
+$locale['sub-title'] = "PHPFusion Core 8 Установка скрипта";
 $locale['os_version'] = '8.0';
 $locale['xml_lang'] = "ru";
 $locale['charset'] = "utf-8";
@@ -17,8 +17,8 @@ $locale['009'] = "Готово";
 // Step 1
 $locale['010'] = "Пожалуйста, выберите Ваш язык:";
 $locale['011'] = "Больше переводов можно загрузить с <a href='http://www.phpfusion.com'>phpfusion.com</a>";
-$locale['012'] = "Для установки и использования PHP-Fusion Вы дожлжны ознакомиться с правилами и принять их.";
-$locale['013'] = " Я прочитал и соглашаюсь с <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Правилами и условиями использования</a> PHP-Fusion";
+$locale['012'] = "Для установки и использования PHPFusion Вы дожлжны ознакомиться с правилами и принять их.";
+$locale['013'] = " Я прочитал и соглашаюсь с <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Правилами и условиями использования</a> PHPFusion";
 
 // Step 2
 $locale['020'] = "Чтобы продолжить установку, следующие файлы/папки должны быть доступны для записи:";
@@ -205,7 +205,7 @@ $locale['187'] = "Моды";
 $locale['188'] = "Фильмы";
 $locale['189'] = "Сеть";
 $locale['190'] = "Новости";
-$locale['191'] = "PHP-Fusion";
+$locale['191'] = "PHPFusion";
 $locale['192'] = "Безопасность";
 $locale['193'] = "Программы";
 $locale['194'] = "Темы";
@@ -248,7 +248,7 @@ $locale['240'] = "Установка успешно завершена.<br />
 Нажми кнопку Готово для перехода на сайт.<br />
 <strong>Примечание</strong> Вы должны удалить файл setup.php на сервере<br />
 и установить CHMOD  config.php обратно в 644 в целях безопасности.<br /><br />
-Спасибо за выбор PHP-Fusion.";
+Спасибо за выбор PHPFusion.";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";

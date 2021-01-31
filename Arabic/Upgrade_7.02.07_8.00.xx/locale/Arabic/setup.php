@@ -1,6 +1,6 @@
 <?php
-$locale['title'] = "تثبيت ملفات برمجية إدارة المحتوى PHP-Fusion العربية الأساسية النسخة 8";
-$locale['sub-title'] = "تثبيت ملفات برمجية إدارة المحتوى PHP-Fusion العربية الأساسية النسخة 8";
+$locale['title'] = "تثبيت ملفات برمجية إدارة المحتوى PHPFusion العربية الأساسية النسخة 8";
+$locale['sub-title'] = "تثبيت ملفات برمجية إدارة المحتوى PHPFusion العربية الأساسية النسخة 8";
 $locale['os_version'] = '8';
 $locale['xml_lang'] = "ar";
 $locale['charset'] = "utf-8";
@@ -16,7 +16,7 @@ $locale['009'] = "الإنتهاء";
 
 // Step 1
 $locale['010'] = "يرجى تحديد اللغة المطلوبة:";
-$locale['011'] = "تنزيل المزيد من اللغات من <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>موقع دعم PHP-Fusion الرسمي</strong></a>";
+$locale['011'] = "تنزيل المزيد من اللغات من <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>موقع دعم PHPFusion الرسمي</strong></a>";
 $locale['012'] = "يتطلب منك الموافقة على اتفاقية الشروط والأحكام قبل استخدام الفيوشن.";
 $locale['013'] = "&nbsp;قرأت وأوافق على الشروط والأحكام الفيوشن <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>أحكام وشروط الإستخدام</a> ";
 
@@ -244,11 +244,11 @@ $locale['224'] = "الخصوصية";
 $locale['230'] = "مرحباً بك في موقعك!";
 
 // Final message
-$locale['240'] = "التثبيت إنتهى , وبرمجية إدارة المحتوى PHP-Fusion 8 جاهزة الآن للإستخدام.<br />
-إضغط على الإنتهاء في الأسفل للتوجه إلى موقعك بدعم من PHP-Fusion العربية.<br />
+$locale['240'] = "التثبيت إنتهى , وبرمجية إدارة المحتوى PHPFusion 8 جاهزة الآن للإستخدام.<br />
+إضغط على الإنتهاء في الأسفل للتوجه إلى موقعك بدعم من PHPFusion العربية.<br />
 <strong>ملاحظة:</strong> بعد أن تدخل موقعك فيجب أن تقوم بحذف الملف setup.php من خادمك
 و تغيير تصاريح الملف config.php وإعادتها إلى 644 لأسباب أمنية.<br /><br />
-شكراً لك على إختيارك مجلة PHP-Fusion العربية.";
+شكراً لك على إختيارك مجلة PHPFusion العربية.";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";

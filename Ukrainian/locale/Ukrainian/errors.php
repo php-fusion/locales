@@ -14,4 +14,4 @@ $locale['E_USER_NOTICE'] = "Зауваження через задану кор�
 $locale['E_ALL'] = "Визначення усіх повідомлень, крім E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "немає";
-$locale['err_101'] = "<strong>WARNING:</strong> An error occurred while parsing the page. Please see PHP-Fusion's <a href='[ERROR_LOG_URL]' class='alt'>error log</a> for more details.";
+$locale['err_101'] = "<strong>WARNING:</strong> An error occurred while parsing the page. Please see PHPFusion's <a href='[ERROR_LOG_URL]' class='alt'>error log</a> for more details.";

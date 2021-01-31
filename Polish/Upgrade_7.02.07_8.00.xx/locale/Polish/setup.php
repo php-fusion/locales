@@ -1,6 +1,6 @@
 <?php
-$locale['title'] = "Instalator PHP-Fusion Core 8";
-$locale['sub-title'] = "Instalator PHP-Fusion Core 8";
+$locale['title'] = "Instalator PHPFusion Core 8";
+$locale['sub-title'] = "Instalator PHPFusion Core 8";
 $locale['os_version'] = '8';
 $locale['xml_lang'] = "pl";
 $locale['charset'] = "utf-8";
@@ -17,8 +17,8 @@ $locale['009'] = "Zakończ";
 // Step 1
 $locale['010'] = "Wybierz język strony:";
 $locale['011'] = "Więcej wersji językowych na <a href='https://www.phpfusion.com'>phpfusion.com</a>";
-$locale['012'] = "Aby korzystać z PHP-Fusion, musisz sprawdzić i zaakceptować warunki PHP-Fusion</a>.";
-$locale['013'] = " Przeczytałem i akceptuję <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
+$locale['012'] = "Aby korzystać z PHPFusion, musisz sprawdzić i zaakceptować warunki PHPFusion</a>.";
+$locale['013'] = " Przeczytałem i akceptuję <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>regulamin użytkowania</a> PHPFusion";
 
 // Step 2
 $locale['020'] = "Aby kontynuować konfigurację, następujące pliki/foldery muszą być zapisywalne:";
@@ -205,7 +205,7 @@ $locale['187'] = "Modyfikacje";
 $locale['188'] = "Filmy";
 $locale['189'] = "Sieć";
 $locale['190'] = "Aktualności";
-$locale['191'] = "PHP-Fusion";
+$locale['191'] = "PHPFusion";
 $locale['192'] = "Bezpieczeństwo";
 $locale['193'] = "Oprogramowanie";
 $locale['194'] = "Motywy";
@@ -244,10 +244,10 @@ $locale['224'] = "Prywatność";
 $locale['230'] = "Witamy na witrynie";
 
 // Final message
-$locale['240'] = "<p>Zakończono instalację, PHP-Fusion 8 jest gotowe do użycia.<br />
-Naciśnij Zakończ, aby przejść na swoją stronę opartą o&nbsp;PHP-Fusion.</p><p>
+$locale['240'] = "<p>Zakończono instalację, PHPFusion 8 jest gotowe do użycia.<br />
+Naciśnij Zakończ, aby przejść na swoją stronę opartą o&nbsp;PHPFusion.</p><p>
 <strong>Informacja:</strong> Usuń plik setup.php ze swojego serwera oraz zmień prawa dostępu do pliku config.php (chmod 644) ze względów bezpieczeństwa.</p><p>
-Dziękujemy za wybranie PHP-Fusion.</p>";
+Dziękujemy za wybranie PHPFusion.</p>";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";
