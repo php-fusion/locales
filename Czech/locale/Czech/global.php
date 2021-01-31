@@ -264,7 +264,7 @@ $locale['global_204'] = " - Fórum";
 $locale['global_210'] = "Přejít na obsah";
 $locale['global_300'] = "žádná téma nebyla nalezena";
 $locale['global_301'] = "Je nám líto, ale tuto stránku nelze zobrazit. Vzhledem k některým okolnostem nelze nalézt téma webu.
-  Pokud jste správcem webu, použijte prosím FTP klienta pro nahrání libovolného motivu určeného pro PHP-Fusion 9 do složky témat.
+  Pokud jste správcem webu, použijte prosím FTP klienta pro nahrání libovolného motivu určeného pro PHPFusion 9 do složky témat.
   Po nahrání zkontrolujte nastavení tématu a zjistěte, zda je vybrané téma správně nahráno do vašeho adresáře témat.
   Vezměte prosím na vědomí, že nahraná složka témat musí mít přesně stejný název (včetně znakového případu, který je důležitý na serverech se systémem Unix)
   Jak je vybráno na stránce Nastavení témat.<br/><br/>Pokud jste řádným členem tohoto webu, kontaktujte prosím naše stránky administrátor přes [SITE_EMAIL] e-mail a nahlásit tento problém.";
