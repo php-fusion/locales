@@ -7,6 +7,7 @@ $locale['ac02'] = "Gebruikers Beheer";
 $locale['ac03'] = "Systeem Beheer";
 $locale['ac04'] = "Instellingen Beheer";
 $locale['ac05'] = "Infusie Beheer";
+//$locale['ac06'] = "Tools"; // for a future release, no need to translate atm
 $locale['ac10'] = "Beheerders Dashboard";
 $locale['202'] = "Gebruikers profiel configuratie";
 
@@ -128,4 +129,4 @@ $locale['search_msg_102'] = 'Pagina&rsquo;s niet geladen';
 $locale['search_msg_103'] = 'Zoek term is te kort';
 $locale['search_msg_104'] = 'Geen zoekresultaten gevonden';
 
-$locale['new_update_avalaible'] = "Er is een nieuwe [LINK]PHP-Fusion v[VERSION] update[/LINK] beschikbaar. A.u.b. updaten!";
+$locale['new_update_avalaible'] = "Er is een nieuwe [LINK]PHPFusion v[VERSION] update[/LINK] beschikbaar. A.u.b. updaten!";

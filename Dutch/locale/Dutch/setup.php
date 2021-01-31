@@ -1,7 +1,6 @@
 <?php
-$locale['title'] = "PHP-Fusion 8 Basis Editie Setup";
-$locale['sub-title'] = "PHP-Fusion 8 Basis Editie Setup";
-$locale['os_version'] = '8.0';
+$locale['title'] = "PHPFusion 8 Basis Editie Setup";
+$locale['sub-title'] = "PHPFusion 8 Basis Editie Setup";
 $locale['xml_lang'] = "nl";
 $locale['charset'] = "utf-8";
 $locale['001'] = "Stap 1: Taal (locale)";
@@ -16,9 +15,9 @@ $locale['009'] = "Afronden";
 
 // Step 1
 $locale['010'] = "Kies a.u.b. de gewenste taal (locale):";
-$locale['011'] = "U kunt meer talen downloaden van de <a href='https://www.phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
-$locale['012'] = "Om PHP-Fusion te kunnen gebruiken dient u akkoord te gaan met de algemene voorwaarden van PHP-Fusion,";
-$locale['013'] = " I heb heb de algemene voorwaarden gelezen van PHP-Fusion en ga hiermee akkoord <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Terms and Conditions of Use</a>";
+$locale['011'] = "U kunt meer talen downloaden van de <a href='https://phpfusion.com/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>PHPFusion Official Support Site</strong></a>";
+$locale['012'] = "Om PHPFusion te kunnen gebruiken dient u akkoord te gaan met de algemene voorwaarden van PHPFusion,";
+$locale['013'] = " I heb heb de algemene voorwaarden gelezen van PHPFusion en ga hiermee akkoord <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>Terms and Conditions of Use</a>";
 
 // Step 2
 $locale['020'] = "Om de setup te kunnen vervolgen dienen de volgende bestanden/mappen schrijfbaar te zijn:";
@@ -146,6 +145,9 @@ $locale['130a'] = "Blog Categorieen";
 $locale['130b'] = "Blog";
 $locale['130c'] = "Blog Instellingen";
 $locale['130d'] = "Fusion Bestands beheerder";
+/*$locale['130e'] = "Fusion Security"; // for a future release, no need to translate atm
+$locale['130f'] = "Database Optimization";
+$locale['130g'] = "User IP Lookup";*/
 
 // Step 6 - Navigation Links
 $locale['130'] = "Start pagina";
@@ -205,7 +207,7 @@ $locale['187'] = "Mods";
 $locale['188'] = "Films";
 $locale['189'] = "Netwerk";
 $locale['190'] = "Nieuws";
-$locale['191'] = "PHP-Fusion";
+$locale['191'] = "PHPFusion";
 $locale['192'] = "Veiligheid";
 $locale['193'] = "Software";
 $locale['194'] = "Thema&rsquo;s";
@@ -244,10 +246,10 @@ $locale['224'] = "Privacy";
 $locale['230'] = "Welkom op uw site!";
 
 // Final message
-$locale['240'] = "De setup is voltooid! PHP-Fusion 8 is nu klaar voor gebruik.<br />
-Klik op <strong>Afronden</strong> om naar uw PHP-Fusion site te gaan.<br />
+$locale['240'] = "De setup is voltooid! PHPFusion 8 is nu klaar voor gebruik.<br />
+Klik op <strong>Afronden</strong> om naar uw PHPFusion site te gaan.<br />
 <strong>Opmerking:</strong> Indien uw site goed blijkt te werken dient u uit veiligheidsoverwegingen setup.php van uw server te verwijderen en moet u config.php tegen schrijven beveiligen (CHMOD 644).<br /><br />
-Dank u wel voor het kiezen van PHP-Fusion.";
+Dank u wel voor het kiezen van PHPFusion.";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";
