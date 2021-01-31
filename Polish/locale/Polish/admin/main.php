@@ -7,6 +7,7 @@ $locale['ac02'] = "Użytkownik administratora";
 $locale['ac03'] = "Konfiguracja administratora";
 $locale['ac04'] = "Ustawienia";
 $locale['ac05'] = "Wtyczki";
+//$locale['ac06'] = "Tools"; // for a future release, no need to translate atm
 $locale['ac10'] = "Panel administracyjny";
 $locale['202'] = "Konfiguracja profilu użytkownika";
 
@@ -128,4 +129,4 @@ $locale['search_msg_102'] = 'Nie udało się załadować stron';
 $locale['search_msg_103'] = 'Wyszukiwany ciąg jest zbyt krótki';
 $locale['search_msg_104'] = 'Nie znaleziono wyników';
 
-$locale['new_update_avalaible'] = "Nowa aktualizacja [LINK]PHP-Fusion v[VERSION][/LINK] jest dostępna. Proszę zaktualizować!";
+$locale['new_update_avalaible'] = "Nowa aktualizacja [LINK]PHPFusion v[VERSION][/LINK] jest dostępna. Proszę zaktualizować!";

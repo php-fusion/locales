@@ -263,11 +263,11 @@ $locale['global_204'] = " - Forum";
 //Themes
 $locale['global_210'] = "Przejdź do zawartości";
 $locale['global_300'] = "nie znaleziono motywu";
-$locale['global_301'] = "This page cannot be displayed. Due to unknown reasons a valid site theme can not be found.
- If you are the Administrator, please use your FTP client to upload any theme designed for PHP-Fusion 8 to the themes folder.
- After upload check in Theme Settings to see if the selected theme was correctly uploaded to your themes directory.
- Please note that the uploaded theme folder has to have the exact same name (including character case, which is important on Unix based servers)
- as chosen in Theme Settings page.<br/>If you are regular member of this site, please contact the site\\'s administrator via [SITE_EMAIL] e-mail and report this issue.";
+$locale['global_301'] = "Naprawdę przykro nam, ale ta strona nie może być wyświetlana. Z powodu pewnych okoliczności nie można znaleźć motywu witryny.
+ Jeśli jesteś administratorem witryny, użyj swojego klienta FTP, aby przesłać dowolny motyw przeznaczony dla PHP-Fusion 8 do folderu motywów.
+ Po przesłaniu sprawdź w ustawieniach motywu, czy wybrany motyw został poprawnie przesłany do katalogu Twoich motywów.
+ Pamiętaj, że przesłany folder motywu musi mieć dokładnie taką samą nazwę (w tym wielkość liter, co jest ważne na serwerach opartych o Unix)
+ zgodnie z wyborem na stronie Ustawienia motywu.<br/>Jeśli jesteś zwykłym członkiem tej witryny, skontaktuj się z administratorem witryny za pomocą adresu e-mail [SITE_EMAIL] i zgłoś ten problem.";
 $locale['global_302'] = "Motyw wybrany w ustawieniach głównych nie istnieje lub jest niekompletny!";
 // JavaScript Not Enabled
 $locale['global_303'] = "O nie! Gdzie jest JavaScript?<br/>Twoja przeglądarka internetowa nie ma włączonej obsługi JavaScript lub nie obsługuje JavaScript.
@@ -355,7 +355,7 @@ $locale['global_ML101'] = "- Wybierz język -";
 $locale['global_ML102'] = "Język witryny";
 $locale['global_ML103'] = "Zmień język";
 // Flood Control
-$locale['flood'] = "You are barred to post until the flood period cool down is over. Please wait for %s.";
+$locale['flood'] = "Nie możesz wysyłać wiadomości do czasu zakończenia okresu flood'u. Proszę poczekaj na %s.";
 $locale['no_image'] = "Brak obrazu";
 $locale['send_message'] = "Wyślij wiadomość";
 $locale['go_profile'] = "Przejdź do strony profilowej %s";

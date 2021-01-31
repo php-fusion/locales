@@ -7,7 +7,7 @@ $locale['402'] = "Bieżące kategorie blogów";
 $locale['420'] = "Dodano kategorię!";
 $locale['421'] = "Zaktualizowano kategorię";
 $locale['422'] = "Nie można usunąć kategorii";
-$locale['423'] = "There are Blog items linked to this category";
+$locale['423'] = "Istnieją wpisy na blogu powiązane z tą kategorią";
 $locale['424'] = "Usunięto kategorię";
 // Blog Categories form
 $locale['430'] = "Nazwa kategorii:";

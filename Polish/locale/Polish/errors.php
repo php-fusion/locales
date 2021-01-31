@@ -14,4 +14,4 @@ $locale['E_USER_NOTICE'] = "Powiadomienie wygenerowane przez użytkownika przy u
 $locale['E_ALL'] = "Definiuje wszystkie wiadomości, z wyjątkiem E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "Nie dotyczy";
-$locale['err_101'] = "<strong>WARNING:</strong> An error occurred while parsing the page. Please see PHP-Fusion's <a href='[ERROR_LOG_URL]' class='alt'>error log</a> for more details.";
+$locale['err_101'] = "<strong>OSTRZEŻENIE:</strong> Wystąpił błąd podczas analizowania strony. Aby uzyskać więcej informacji, zobacz dziennik błędów PHP-Fusion's <a href='[ERROR_LOG_URL]' class='alt'></a>.";

@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "FAQ (Frequently Asked Questions)";
+$locale['400'] = "FAQ (Najczęściej zadawane pytania)";
 $locale['401'] = "FAQ";
 $locale['402'] = "Top";
 // Notices

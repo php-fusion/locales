@@ -34,9 +34,9 @@ $locale['427'] = "Nie włączono bezpośrednich odnośników.";
 // Settings
 $locale['430'] = "Ustawienia SEO";
 $locale['431'] = "Ustawienia";
-$locale['432'] = "SEO Engine";
-$locale['433'] = "Toggle to turn the SEO engine on or off";
-$locale['434'] = "Normalize";
+$locale['432'] = "SEO Silnik";
+$locale['433'] = "Włącz lub wyłącz silnik SEO";
+$locale['434'] = "Normalizować";
 $locale['435'] = "Toggle to strip URLs from all special characters";
 $locale['436'] = "Debug SEO";
-$locale['437'] = "Toggle to start SEO Engine Debugger";
+$locale['437'] = "Włącz, aby uruchomić debugera silnika SEO";

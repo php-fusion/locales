@@ -17,8 +17,8 @@ $locale['max_wa'] = "Maksymalna szerokość motywu w Administracji:";
 $locale['max_wa_des'] = "Ustawia maksymalną szerokość motywu na inną wartość w administracji";
 $locale['home_icon'] = "Strona główna jako ikona:";
 $locale['home_icon_des'] = "Zastępuje link domowy w nawigacji nagłówka ikoną";
-$locale['winter'] = "Winter Mode:";
-$locale['winter_des'] = "This will add some winter styling to the theme";
+$locale['winter'] = "Tryb jasny:";
+$locale['winter_des'] = "Spowoduje to dodanie jasnego stylu do motywu";
 
 $locale['save_sets'] = "Zapisz ustawienia";
 

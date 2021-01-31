@@ -40,4 +40,4 @@ $locale['451'] = "Usunąć tę aktualność?";
 $locale['452'] = "%s jest wyłączona globalnie i&nbsp;będzie niedostępna, dopóki ustawienia nie ulegną zmianie.";
 $locale['453'] = "Komentarze";
 $locale['454'] = "Oceny";
-$locale['455'] = $locale['453']." and ".$locale['454'];
+$locale['455'] = $locale['453']." i ".$locale['454'];

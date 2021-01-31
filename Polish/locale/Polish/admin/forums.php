@@ -41,7 +41,7 @@ $locale['529'] = "Stwórz ankietę:";
 $locale['530'] = "Głosy oddane:";
 $locale['531'] = "Wyłączone";
 $locale['532'] = "Zapisz Forum";
-$locale['533'] = "Forum Moderators";
+$locale['533'] = "Moderatorzy forum";
 $locale['534'] = "Zapisz Moderatorów";
 $locale['535'] = "Pobierz załączniki:";
 // Forum Settings

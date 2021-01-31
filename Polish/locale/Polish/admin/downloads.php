@@ -57,4 +57,4 @@ $locale['460'] = "Usunąć plik z&nbsp;downloadu?";
 $locale['461'] = "%s jest wyłączona globalnie i&nbsp;będzie niedostępna, dopóki ustawienia nie ulegną zmianie.";
 $locale['462'] = "Komentarze";
 $locale['463'] = "Oceny";
-$locale['464'] = $locale['462']." and ".$locale['463'];
+$locale['464'] = $locale['462']." i ".$locale['463'];

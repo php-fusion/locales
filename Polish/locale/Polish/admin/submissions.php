@@ -130,4 +130,4 @@ $locale['658'] = "Usuń Screenshot";
 $locale['660'] = "%s jest wyłączona globalnie i&nbsp;będzie niedostępna, dopóki ustawienia nie ulegną zmianie.";
 $locale['661'] = "Komentarze";
 $locale['662'] = "Oceny";
-$locale['663'] = $locale['661']." and ".$locale['662'];
+$locale['663'] = $locale['661']." i ".$locale['662'];

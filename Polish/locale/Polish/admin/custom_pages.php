@@ -18,7 +18,7 @@ $locale['425'] = "Hasło administratora:";
 $locale['426'] = "Dodaj link do nawigacji";
 $locale['427'] = "Włącz komentarze";
 $locale['428'] = "Włącz oceny";
-$locale['429'] = "Preview Page";
+$locale['429'] = "Podgląd strony";
 $locale['430'] = "Zapisz stronę";
 $locale['431'] = "Pagebreak";
 // Popup errors / warning messages
@@ -29,7 +29,7 @@ $locale['453'] = "Hasło Admina nieprawidłowe";
 $locale['454'] = "%s jest wyłączona globalnie i&nbsp;będzie niedostępna, dopóki ustawienia nie ulegną zmianie.";
 $locale['455'] = "Komentarze";
 $locale['456'] = "Oceny";
-$locale['457'] = $locale['455']." and ".$locale['456'];
+$locale['457'] = $locale['455']." i ".$locale['456'];
 // TinyMCE editor
 $locale['460'] = "TinyMCE:";
 $locale['461'] = "Włączone";

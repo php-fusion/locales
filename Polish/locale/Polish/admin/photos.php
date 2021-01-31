@@ -79,4 +79,4 @@ $locale['510'] = "Nie znaleziono zdjęć";
 $locale['520'] = "%s jest wyłączona globalnie i&nbsp;będzie niedostępna, dopóki ustawienia nie ulegną zmianie.";
 $locale['521'] = "Komentarze";
 $locale['522'] = "Oceny";
-$locale['523'] = $locale['521']." and ".$locale['522'];
+$locale['523'] = $locale['521']." i ".$locale['522'];
