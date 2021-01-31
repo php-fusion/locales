@@ -1,7 +1,6 @@
 <?php
-$locale['title'] = "PHP-Fusion Core 8 Edition Setup";
-$locale['sub-title'] = "PHP-Fusion Core 8 Edition Setup";
-$locale['os_version'] = '8.0';
+$locale['title'] = "PHPFusion Core 8 Edition Setup";
+$locale['sub-title'] = "PHPFusion Core 8 Edition Setup";
 $locale['xml_lang'] = "de";
 $locale['charset'] = "utf-8";
 $locale['001'] = "Schritt 1: Sprache";
@@ -16,9 +15,9 @@ $locale['009'] = "Weiter";
 
 // Step 1
 $locale['010'] = "Bitte w&auml;hle die gew&uuml;nschte Sprache aus:";
-$locale['011'] = "Weitere Sprachen kannst du auf <a href='http://www.phpfusion.com/' title='http://www.phpfusion.com/' target='_blank' rel='nofollow'>http://www.phpfusion.com</a> herunterladen.";
-$locale['012'] = "Wenn du PHP-Fusion nutzten m&ouml;chtest, musst du die aktuellen Lizenzbedinungen akzeptieren.";
-$locale['013'] = " Ich habe die aktuellen <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Lizenzbedienungen</a> gelesen und akzeptiere diese";
+$locale['011'] = "Weitere Sprachen kannst du auf <a href='http://phpfusion.com/' title='http://phpfusion.com/' target='_blank' rel='nofollow'>http://phpfusion.com</a> herunterladen.";
+$locale['012'] = "Wenn du PHPFusion nutzten m&ouml;chtest, musst du die aktuellen Lizenzbedinungen akzeptieren.";
+$locale['013'] = " Ich habe die aktuellen <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>Lizenzbedienungen</a> gelesen und akzeptiere diese";
 
 // Step 2
 $locale['020'] = "Um die Installation fortzusetzten, m&uuml;ssen die folgenden Dateien/Ordner schreibbar sein:";
@@ -146,6 +145,9 @@ $locale['130a'] = "Blogkategorien";
 $locale['130b'] = "Blog";
 $locale['130c'] = "Blogeinstellungen";
 $locale['130d'] = "Fusion File Manager";
+/*$locale['130e'] = "Fusion Security"; // for a future release, no need to translate atm
+$locale['130f'] = "Database Optimization";
+$locale['130g'] = "User IP Lookup";*/
 
 // Step 6 - Navigation Links
 $locale['130'] = "Start";
@@ -205,7 +207,7 @@ $locale['187'] = "Modifikationen";
 $locale['188'] = "Filme";
 $locale['189'] = "Netzwerk";
 $locale['190'] = "News";
-$locale['191'] = "PHP-Fusion";
+$locale['191'] = "PHPFusion";
 $locale['192'] = "Sicherheit";
 $locale['193'] = "Software";
 $locale['194'] = "Themen";
@@ -244,7 +246,7 @@ $locale['224'] = "Privatsph&auml;hre";
 $locale['230'] = "Herzlich Willkommen auf deiner neuen Webseite!<br /><br />";
 
 // Final message
-$locale['240'] = "Die Installation von PHP-Fusion v7 ist nun abgeschlossen und benutzbar.<br />
+$locale['240'] = "Die Installation von PHPFusion v7 ist nun abgeschlossen und benutzbar.<br />
 ";
 
 // Default time settings

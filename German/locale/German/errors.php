@@ -14,4 +14,4 @@ $locale['E_USER_NOTICE'] = "Hinweis generiert von Benutzer unter Verwendung der 
 $locale['E_ALL'] = "Definiert alle Nachrichten mit der Ausnahme von E_STRICT.";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "Nicht definiert";
-$locale['err_101'] = "<strong>WARNUNG:</strong> Beim Parsen der Seite ist ein Fehler aufgetretten. Bitte siehe in den PHP-Fusion <a href='[ERROR_LOG_URL]' class='alt'>Fehlerlog</a> nach f&uuml;r mehr Informationen.";
+$locale['err_101'] = "<strong>WARNUNG:</strong> Beim Parsen der Seite ist ein Fehler aufgetretten. Bitte siehe in den PHPFusion <a href='[ERROR_LOG_URL]' class='alt'>Fehlerlog</a> nach f&uuml;r mehr Informationen.";
