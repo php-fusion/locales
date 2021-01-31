@@ -266,7 +266,7 @@ $locale['global_204'] = " - Fórum";
 //Themes
 $locale['global_210'] = "Ugrás az oldal tartalmához";
 $locale['global_300'] = "nem található felület";
-$locale['global_301'] = "Sajnáljuk, de nem tudjuk megjeleníteni az oldalt. Az oldalon nem található egyetlen theme (felület) sem. Ha te vagy az oldal adminisztrátora, akkor tölts fel FTP-n keresztül a szerver themes mappájába bármilyen PHP-Fusion 8 kompatibilis készült theme-t.
+$locale['global_301'] = "Sajnáljuk, de nem tudjuk megjeleníteni az oldalt. Az oldalon nem található egyetlen theme (felület) sem. Ha te vagy az oldal adminisztrátora, akkor tölts fel FTP-n keresztül a szerver themes mappájába bármilyen PHPFusion 8 kompatibilis készült theme-t.
  Feltöltés után ellenőrizd az Alap beállítások admin oldalon, hogy az általad választott felület szerepel-e a szerver themes mappájában. Ha igen, és mégsem működik, akkor ellenőrizd, hogy nincsenek-e különleges karakterek benne, illetve ügyelj arra, hogy a szerverek többsége megkülönbözteti a kis- és NAGYbetűket!<br /><br />Ha csak egy látogató vagy az oldalon, kérjük lépj kapcsolatba az oldal adminisztrátorával [SITE_EMAIL] és jelentsd neki a hibát.";
 $locale['global_302'] = "A Rendszer-beállítások - Alap beállítások menüpontja alatt beállított theme nem található vagy hibás!";
 // JavaScript Not Enabled

@@ -7,6 +7,7 @@ $locale['ac02'] = "Felhasználók";
 $locale['ac03'] = "Rendszer";
 $locale['ac04'] = "Beállítások";
 $locale['ac05'] = "Infusion admin";
+//$locale['ac06'] = "Tools"; // for a future release, no need to translate atm
 $locale['ac10'] = "Admin irányítópult";
 $locale['202'] = "Profil Beállítások";
 
@@ -128,4 +129,4 @@ $locale['search_msg_102'] = 'Oldalt nem sikerült betölteni';
 $locale['search_msg_103'] = 'Keresendő szöveg túl rövid';
 $locale['search_msg_104'] = 'Nincs találat';
 
-$locale['new_update_avalaible'] = "Elérhető egy új [LINK]PHP-Fusion v[VERSION] frissítés [/LINK]. Kérem frissítsen!";
+$locale['new_update_avalaible'] = "Elérhető egy új [LINK]PHPFusion v[VERSION] frissítés [/LINK]. Kérem frissítsen!";

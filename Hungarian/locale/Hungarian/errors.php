@@ -14,4 +14,4 @@ $locale['E_USER_NOTICE'] = "Bejegyzés keletkezett a felhasználó által haszn�
 $locale['E_ALL'] = "Meghatározottak kivételével minden üzenetet E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
-$locale['err_101'] = "<strong>FIGYELEM:</strong> Hiba történt az oldal generálása során. Kérjük tekintsd meg a PHP-Fusion <a href='[ERROR_LOG_URL]'>hibanaplóját</a> a részletekért.";
+$locale['err_101'] = "<strong>FIGYELEM:</strong> Hiba történt az oldal generálása során. Kérjük tekintsd meg a PHPFusion <a href='[ERROR_LOG_URL]'>hibanaplóját</a> a részletekért.";
