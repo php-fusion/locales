@@ -14,4 +14,4 @@ $locale['E_USER_NOTICE'] = "Pastaba išvesta vartotojo naudojant funkciją trigg
 $locale['E_ALL'] = "Apibrėžia visas žinutes, išskyrus E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "Nėra";
-$locale['err_101'] = "<strong>ĮSPĖJIMAS:</strong> Įvyko klaida generuojant puslapį. Norėdami sužinoti platesnę informaciją, peržiūrėkite PHP-Fusion <a href='[ERROR_LOG_URL]'>klaidų žurnalą</a>.";
+$locale['err_101'] = "<strong>ĮSPĖJIMAS:</strong> Įvyko klaida generuojant puslapį. Norėdami sužinoti platesnę informaciją, peržiūrėkite PHPFusion <a href='[ERROR_LOG_URL]'>klaidų žurnalą</a>.";
