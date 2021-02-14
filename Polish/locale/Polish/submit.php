@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Zatwierdź link";
+$locale['400'] = "Dodaj link";
 // Submit Link Success
 $locale['410'] = "Dziękujemy za przesłanie linku";
 $locale['411'] = "Prześlij inny link";
@@ -10,12 +10,12 @@ $locale['421'] = "Kategoria linku:";
 $locale['422'] = "Nazwa:";
 $locale['423'] = "Adres URL:";
 $locale['424'] = "Opis linku:";
-$locale['425'] = "Zatwierdź link";
+$locale['425'] = "Dodaj link";
 // Submit News
-$locale['450'] = "Zatwierdź aktualność";
+$locale['450'] = "Dodaj aktualność";
 // Submit News Success
 $locale['460'] = "Dziękujemy za zgłoszenie twojej aktualności";
-$locale['461'] = "Zatwierdź inną aktualność";
+$locale['461'] = "Dodaj inną aktualność";
 // Submit News Form
 $locale['470'] = "Skorzystaj z poniższego formularza, aby przesłać newsa. Twoje zgłoszenie zostanie sprawdzone przez
 Administrator. [SITENAME] zastrzega sobie prawo do zmiany lub edycji zgłoszenia. Twoje propozycje powinny odnosić się do zawartości tej witryny.
@@ -24,15 +24,15 @@ $locale['471'] = "Temat:";
 $locale['472'] = "Treść:";
 $locale['473'] = " Włącz automatyczne łamanie linii";
 $locale['474'] = "Podgląd aktualności";
-$locale['475'] = "Zatwierdź aktualność";
+$locale['475'] = "Dodaj aktualność";
 $locale['476'] = "Kategoria:";
 $locale['477'] = "- Żadna -";
 $locale['478'] = "Wprowadzenie:";
 // Submit Blog
-$locale['450b'] = "Zatwierdź wpis";
+$locale['450b'] = "Dodaj wpis";
 // Submit Blog Success
 $locale['460b'] = "Dziękujemy za zgłoszenie twojego wpisu";
-$locale['461b'] = "Zatwierdź inny wpis";
+$locale['461b'] = "Dodaj inny wpis";
 // Submit Blog Form
 $locale['470b'] = "Skorzystaj z poniższego formularza, aby przesłać wpis do bloga. Twoje zgłoszenie zostanie sprawdzone przez
 Administrator. [SITENAME] zastrzega sobie prawo do zmiany lub edycji zgłoszenia. Twoje propozycje powinny odnosić się do zawartości tej witryny.
@@ -41,12 +41,12 @@ $locale['471b'] = "Temat:";
 $locale['472b'] = "Blog:";
 $locale['473b'] = " Włącz automatyczne łamanie linii";
 $locale['474b'] = "Podgląd wpisu";
-$locale['475b'] = "Zatwierdź wpis";
+$locale['475b'] = "Dodaj wpis";
 $locale['476b'] = "Kategoria:";
 $locale['477b'] = "- Żadna -";
 $locale['478b'] = "Wprowadzenie:";
 // Submit Article
-$locale['500'] = "Zatwierdź artykuł";
+$locale['500'] = "Dodaj artykuł";
 // Submit Article Success
 $locale['510'] = "Dziekujemy za dodanie artykułu";
 $locale['511'] = "Dodaj kolejny artykuł";
@@ -58,16 +58,16 @@ $locale['523'] = "Wstęp:";
 $locale['524'] = "Treść:";
 $locale['525'] = " Włącz automatyczne łamanie linii";
 $locale['526'] = "Podgląd";
-$locale['527'] = "Zatwierdź artykuł";
+$locale['527'] = "Dodaj artykuł";
 // Submit Error
 $locale['550'] = "Uzupełnij wymagane pola.";
 $locale['551'] = "Brak zdefiniowanych kategorii.";
 $locale['552'] = "Brak zdefiniowanych albumów.";
 // Submit Photo
-$locale['570'] = "Zatwierdź zdjęcie";
+$locale['570'] = "Dodaj zdjęcie";
 // Submit Photo Success
 $locale['580'] = "Dziękujemy za zgłoszenie twojego zdjęcia";
-$locale['581'] = "Zatwierdź inne zdjęcie";
+$locale['581'] = "Dodaj inne zdjęcie";
 // Submit Photo Error
 $locale['600'] = "Zdjęcie nie może byc dodane";
 $locale['601'] = "Nieprawidłowa nazwa pliku.";
@@ -83,9 +83,9 @@ $locale['622'] = "Opis:";
 $locale['623'] = "Obraz: ";
 $locale['624'] = "Max. rozmiar: %s / Max. wielkość: %ux%u pixels";
 $locale['625'] = "Album:";
-$locale['626'] = "Zatwierdź zdjęcie";
+$locale['626'] = "Dodaj zdjęcie";
 // Submit Download
-$locale['650'] = "Zatwierdź plik";
+$locale['650'] = "Dodaj plik";
 // Submit Download Success
 $locale['660'] = "Dziękujemy za dodanie pliku";
 $locale['661'] = "Dodaj kolejny plik";
@@ -122,4 +122,4 @@ $locale['692'] = "Prawa autorskie:";
 $locale['693'] = "Rozmiar pliku:";
 $locale['694'] = "Maks. rozmiar pliku: %s / Dozwolone rozszerzenia: %s";
 $locale['694b'] = "Maks. rozmiar pliku: %s / Dozwolone rozszerzenia: %s / Maks. szerokość: %spx, maks. wysokość %spx";
-$locale['695'] = "Zatwierdź plik";
+$locale['695'] = "Dodaj plik";
