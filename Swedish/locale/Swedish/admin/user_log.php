@@ -1,0 +1,21 @@
+<?php
+$locale['100'] = "Användarlogg";
+$locale['101'] = "ID";
+$locale['102'] = "Datum";
+$locale['103'] = "Användarnamn";
+$locale['104'] = "Användarfält";
+$locale['105'] = "Gammalt värde";
+$locale['106'] = "Nytt värde";
+$locale['107'] = "Sortera efter:";
+$locale['108'] = "Användarnamn / Användar-ID:";
+$locale['109'] = "Skicka";
+$locale['110'] = "Radera alla poster äldre än";
+$locale['111'] = "Dagar";
+$locale['112'] = "Det finns inte loggar tillgängliga för tillfället.";
+$locale['113'] = "Valt användarnamn:";
+$locale['114'] = "Avbryt";
+$locale['115'] = "Användarfält:";
+$locale['116'] = "Radera";
+$locale['117'] = "Alternativ";
+$locale['118'] = "Alla poster äldre än %d dagar tas bort.";
+$locale['119'] = "Användarens logg raderad";

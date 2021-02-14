@@ -1,0 +1,109 @@
+<?php
+// Standard
+$locale['400'] = "Privata meddelanden";
+$locale['401'] = "Skriv nytt meddelande";
+$locale['402'] = "Inkorg";
+$locale['403'] = "Utkorg";
+$locale['404'] = "Arkiv";
+$locale['405'] = "Ämne";
+$locale['406'] = "Från";
+$locale['407'] = "Datum";
+$locale['408'] = "Sidans ägare";
+$locale['409'] = "Gör med markerade meddelanden:";
+$locale['410'] = "Markera alla";
+$locale['411'] = "Avmarkera alla";
+$locale['412'] = "Spara";
+$locale['413'] = "Spara ej";
+$locale['414'] = "Lästa";
+$locale['415'] = "Olästa";
+$locale['416'] = "Radera";
+$locale['417'] = "Visa avsändare som börjar med:";
+$locale['418'] = "Samtliga";
+$locale['419'] = "Du har inga privata meddelanden";
+$locale['420'] = "Skicka privat meddelande";
+$locale['421'] = "Till";
+$locale['422'] = "Meddelande";
+$locale['422a'] = "Ursprungligt meddelande";
+$locale['423'] = "BB-kod";
+$locale['424'] = "Smileys";
+$locale['425'] = "Inställningar";
+$locale['426'] = "Skicka";
+$locale['427'] = "Avaktivera smileys i detta meddelande";
+$locale['428'] = "Visa signatur i meddelande";
+$locale['429'] = "Förhandsgranska";
+$locale['430'] = "Skicka";
+$locale['431'] = "Läs privat meddelande";
+$locale['432'] = "Stäng";
+$locale['433'] = "Svara";
+$locale['434'] = "Skicka till alla";
+$locale['435'] = "Avbryt";
+$locale['436'] = "Förhandsgranska svar";
+$locale['437'] = "Skicka";
+$locale['438'] = "Förhandsgranska meddelande";
+$locale['439'] = "Svara";
+$locale['440'] = "(mottaget %s)";
+$locale['441'] = "Skriv som sidans ägare";
+$locale['442'] = "Användarnivåer";
+$locale['443'] = "Användargrupper";
+
+// Search Options
+$locale['450'] = "Inställningar för sök och sortering";
+$locale['451'] = "Sök / Sortera";
+$locale['452'] = "Rensa";
+$locale['453'] = "Sökningen gav inget resultat";
+$locale['454'] = "Sök efter";
+$locale['455'] = "i";
+$locale['456'] = "Sortera efter";
+$locale['457'] = "(Använd ? och * som wildcards)";
+$locale['458'] = "F n visas användare med '%s' i '%s' ";
+$locale['459'] = "Avsändare som börjar på '%s' ";
+$locale['460'] = "Sortera efter '%s'";
+$locale['461'] = "Denna meddelandebox är tom";
+$locale['462'] = "Ämne";
+$locale['463'] = "Meddelande";
+$locale['464'] = "Avsändare";
+$locale['465'] = "Mottaget tid/datum";
+
+// Error Messages
+$locale['480'] = "Fel";
+$locale['481'] = "Fel meddelande-ID";
+$locale['482'] = "Fel användar-ID";
+$locale['483'] = "Endast för registrerade användare";
+$locale['484'] = "Din privata meddelandefunktion är avstängd på grund av missbruk.";
+$locale['485'] = "Välj minst ett meddelande";
+$locale['486'] = "Du måste fylla i följande fält: Ämne och Meddelande";
+$locale['487'] = "Spamfilter! Vänta %s sekunder innan du skriver nästa meddelande.";
+
+// Tooltips
+$locale['500'] = "Klicka här för att skriva ett nytt meddelande";
+$locale['501'] = "Klicka här för att visa dina mottagna meddelanden";
+$locale['502'] = "Klicka här för att visa dina skickade meddelanden";
+$locale['503'] = "Klicka här för att visa dina sparade meddelanden";
+$locale['504'] = "Klicka här för att markera detta meddelande";
+$locale['505'] = "Klicka här för att läsa detta meddelande";
+$locale['506'] = "Klicka här för att visa avsändarens profil";
+$locale['507'] = "Klicka här för att markera samtliga meddelanden";
+$locale['508'] = "Klicka här för att avmarkera samtliga meddelanden";
+$locale['509'] = "Klicka här för att visa meddelanden från alla avsändare";
+$locale['510'] = "Klicka här för att visa alla meddelanden som börjar med bokstaven %s";
+$locale['511'] = "Klicka här för att flytta markerade meddelanden till Arkiv";
+$locale['512'] = "Klicka här för att flytta markerade meddelanden till din Inkorg";
+$locale['513'] = "Klicka här för att visa markerade meddelanden som lästa";
+$locale['514'] = "Klicka här för att visa markerade meddelanden som olästa";
+$locale['515'] = "Klicka här för att radera markerade meddelanden";
+$locale['516'] = "Klicka här för att ändra dina inställningar";
+
+// Options
+$locale['620'] = "Inställningar";
+$locale['621'] = "Meddela mig via e-post när jag får ett nytt meddelande:";
+$locale['622'] = "Sparade skickade meddelanden automatiskt:";
+$locale['623'] = "Spara inställningar";
+$locale['624'] = "Inställningar sparade";
+$locale['625'] = "Du har ett nytt privat meddelande väntar på [SITENAME]";
+$locale['626'] = ",<br/>\nDu har fått ett nytt privat meddelande med titeln [SUBJECT] från [USER] på [SITENAME]. Du kan [LINK]läsa[/LINK] ditt privata meddelande.<br/>\nDu kan inaktivera e-postmeddelande via panelen för inställningar på sidan Privat meddelande om du inte längre vill bli meddelad om nya meddelanden.";
+$locale['627'] = "Fel";
+$locale['628'] = "Användarens inkorg är full, det gick ej att skicka meddelandet.";
+$locale['629'] = "Du kan inte flytta de valda meddelande(n) till den angivna mappen eftersom den överskrider den maximala meddelandegränsen.";
+$locale['630'] = " Maximal storlek för meddelanden";
+$locale['631'] = "Ja";
+$locale['632'] = "Nej";

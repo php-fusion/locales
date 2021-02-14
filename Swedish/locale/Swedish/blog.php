@@ -1,0 +1,30 @@
+<?php
+$locale['blog_100'] = "Bloggarkiv";
+
+$locale['blog_070'] = "Publicerat av ";
+$locale['blog_070b'] = "Visa alla inlägg av %s";
+$locale['blog_071'] = "den ";
+$locale['blog_071b'] = "Författare";
+$locale['blog_072'] = "Fortsätt läsa";
+$locale['blog_073'] = " Kommentarer";
+$locale['blog_073b'] = " Kommentarer";
+$locale['blog_074'] = " Visningar";
+$locale['blog_074b'] = " Visningar";
+$locale['blog_075'] = "Utskrift";
+$locale['blog_076'] = "Redigera";
+$locale['blog_077'] = "Blogg";
+$locale['blog_078'] = "Inga Blogg inlägg har skrivits ännu";
+$locale['blog_079'] = "I ";
+$locale['blog_080'] = "Okategoriserad";
+$locale['blog_081'] = "Blogg Hem";
+$locale['blog_082'] = "Blogg";
+$locale['blog_083'] = "Senast uppdaterad";
+$locale['blog_084'] = "Blogg Kategori";
+$locale['blog_085'] = "Alla andra kategorier";
+$locale['blog_086'] = "Senaste bloggarna";
+$locale['blog_087'] = "Mest kommenterade bloggarna";
+$locale['blog_088'] = "Högsta betyg";
+$locale['blog_089'] = "Bli den första som skriver en kommentar till %s";
+$locale['blog_089a'] = "Bli först med att betygsätta denna %s";
+$locale['blog_089b'] = "Miniatyrvy";
+$locale['blog_089c'] = "Listvy";

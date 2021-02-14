@@ -1,0 +1,20 @@
+<?php
+$locale['html400'] = "- Välj Färg -";
+$locale['html401'] = "- Välj bild -";
+$locale['html402'] = "Vinröd";
+$locale['html403'] = "Röd";
+$locale['html404'] = "Orange";
+$locale['html405'] = "Brun";
+$locale['html406'] = "Gul";
+$locale['html407'] = "Grön";
+$locale['html408'] = "Limegrön";
+$locale['html409'] = "Olivgrön";
+$locale['html410'] = "Turkos";
+$locale['html411'] = "Blå";
+$locale['html412'] = "Marinblå";
+$locale['html413'] = "Lila";
+$locale['html414'] = "Violett";
+$locale['html415'] = "Svart";
+$locale['html416'] = "Grå";
+$locale['html417'] = "Silver";
+$locale['html418'] = "Vit";
