@@ -11,17 +11,17 @@ $locale['413'] = "Es befinden sich noch Artikel in dieser Kategorie.";
 $locale['414'] = "Die Artikel Kategorie wurde gel&ouml;scht.";
 // Category form
 $locale['420'] = "Kategoriename";
-$locale['421'] = "Beschreibung:";
+$locale['421'] = "Kategorie Beschreibung:";
 $locale['422'] = "Sortieren nach:";
 $locale['423'] = "Artikel ID";
 $locale['424'] = "Artikel-Betreff";
 $locale['425'] = "Artikel Datum";
 $locale['426'] = "Aufsteigend";
 $locale['427'] = "Absteigend";
-$locale['428'] = "Zugriff:";
+$locale['428'] = "Kategorie-Zugriff:";
 $locale['429'] = "Kategorie speichern";
 // Current category options
-$locale['440'] = "Kommentare erlaubt";
+$locale['440'] = "Kategorie";
 $locale['441'] = "Zugriff";
 $locale['442'] = "Optionen";
 $locale['443'] = "Bearbeiten";
@@ -31,4 +31,4 @@ $locale['445'] = "Keine Artikel Kategorien definiert.";
 $locale['450'] = "Willst du diese Kategorie wirklich löschen?";
 // Error Messages
 $locale['460'] = "Du musst einen Namen f&uuml;r die Blogkategorie angeben.";
-$locale['461'] = "Es existiert bereits eine Blogkategorie mit dem selben Namen.";
+$locale['461'] = "Diese Kategorie ist bereits vorhanden.";

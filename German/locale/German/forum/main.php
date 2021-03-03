@@ -143,7 +143,7 @@ $locale['612'] = "Datei hochgeladen";
 $locale['613'] = "Bild hochgeladen";
 $locale['614'] = "Umfrage";
 // Move Posts Errors
-$locale['error-MP000'] = "Beitr&auml;ge verschieben - Fehler";
+$locale['error-MP000'] = "Beiträge verschieben - Fehler";
 $locale['error-MP001'] = "Das neue Thema existiert nicht.";
 $locale['error-MP002'] = "Die Beitr&auml;ge, die du zum verschieben markiert hast, existieren nicht oder wurden bereits verschoben.";
 $locale['error-MP003'] = "Es existieren keine Beitr&auml;ge, welche verschoben werden k&ouml;nnen.";

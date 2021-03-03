@@ -1,46 +1,46 @@
 <?php
 // Album titles
-$locale['400'] = "Album hinzuf&uuml;gen";
+$locale['400'] = "Album hinzufügen";
 $locale['401'] = "Album bearbeiten";
-$locale['402'] = "Current Albums";
-$locale['403'] = "Serious Photoalbum Error";
+$locale['402'] = "Aktuelle Alben";
+$locale['403'] = "Schwerer Photo Album-Fehler";
 // Album messages
-$locale['409'] = "Sie m&uuml;ssen einen Titel f&uuml;r das Album angeben.";
-$locale['410'] = "Album added";
-$locale['411'] = "Album updated";
-$locale['412'] = "Album thumbnail deleted";
+$locale['409'] = "Sie müssen einen Namen für das Album angeben";
+$locale['410'] = "Album hinzugefügt";
+$locale['411'] = "Album wurde aktualisiert";
+$locale['412'] = "Album Vorschaubild wurde gelöscht";
 $locale['413'] = "Das Fotoalbum wurde erfolgreich entfernt.";
-$locale['414'] = "Der folgendene Fehler ist aufgetreten:";
+$locale['414'] = "Der folgender Fehler ist aufgetreten:";
 $locale['415'] = "Ungültiger Dateiname.";
 $locale['416'] = "Bild muss kleiner als %s sein.";
-$locale['417'] = "Image must be a GIF, JPEG or PNG file.";
-$locale['418'] = "Das Bild darf eine maximale Gr&ouml;&szlig;e von %uw x %uh Pixel haben.";
-$locale['419'] = "Album cannot be deleted. Your password is incorrect.";
-$locale['420'] = "No GD library detected. Photoalbums will not work without GD library. Contact your host provider for further information.";
+$locale['417'] = "Bild muss eine GIF, JPEG oder PNG Datei sein.";
+$locale['418'] = "Das Bild darf eine maxi. Größe von %uw x %uh Pixel haben.";
+$locale['419'] = "Album kann nicht gelöscht werden. Dein Passwort ist falsch.";
+$locale['420'] = "Keine GD-Bibliothek erkannt. Fotoalben funktionieren ohne GD-Bibliothek nicht. Wenden Sie sich an Ihren Host-Anbieter, um weitere Informationen zu erhalten.";
 // Album confirmation
-$locale['430'] = "Delete album confirmation";
-$locale['431'] = "The Album you are trying delete contains one or more photos.<br />\n"."In order to delete this album, please enter your admin password:";
-$locale['432'] = "Best&auml;tigen";
+$locale['430'] = "Album Bestätigung löschen";
+$locale['431'] = "Das Album, das Sie löschen möchten, enthält ein oder mehrere Fotos.<br />\n"."Um dieses Album zu löschen, geben Sie bitte Ihr Admin-Passwort ein:";
+$locale['432'] = "Bestätigen";
 $locale['433'] = "Abbrechen";
 // Album form
-$locale['440'] = "Title: ";
-$locale['441'] = "Description: ";
+$locale['440'] = "Name: ";
+$locale['441'] = "Beschreibung: ";
 $locale['442'] = "Zugriff: ";
-$locale['443'] = "Order: ";
-$locale['444'] = "Thumb: ";
+$locale['443'] = "Reihenfolge: ";
+$locale['444'] = "Vorschau: ";
 $locale['445'] = "Album speichern";
 // Current Albums
-$locale['460'] = "Album &ouml;ffnen";
-$locale['461'] = "Keine Miniaturansicht";
-$locale['462'] = "Date: ";
-$locale['463'] = "Created by: ";
+$locale['460'] = "Album öffnen";
+$locale['461'] = "Keine Miniatur Ansicht";
+$locale['462'] = "Datum: ";
+$locale['463'] = "Erstellt von: ";
 $locale['464'] = "Zugriff: ";
-$locale['465'] = "Photos: ";
-$locale['466'] = "Aufw&auml;rts";
-$locale['467'] = "Abw&auml;rts";
+$locale['465'] = "Fotos: ";
+$locale['466'] = "Aufwärts";
+$locale['467'] = "Abwärts";
 $locale['468'] = "Bearbeiten";
 $locale['469'] = "Entfernen";
-$locale['470'] = "Refresh Album and Photo Ordering";
-$locale['471'] = "No Photo Albums defined.";
+$locale['470'] = "Album- und Foto-Reihenfolge aktualisieren";
+$locale['471'] = "Es wurden noch keine Fotoalben angelegt.";
 // Delete Album
-$locale['500'] = "Delete this Album?";
+$locale['500'] = "Dieses Album wirklich löschen?";

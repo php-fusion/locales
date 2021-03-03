@@ -12,7 +12,7 @@ $locale['407'] = "Die Benutzergruppe wurde entfernt.";
 $locale['420'] = "Benutzergruppen";
 $locale['421'] = "Bearbeiten";
 $locale['422'] = "Entfernen";
-$locale['423'] = "Delete this user group?";
+$locale['423'] = "Diese Gruppe löschen?";
 // Edit/Add User Group
 $locale['430'] = "Benutzergruppe bearbeiten";
 $locale['431'] = "Benutzergruppe hinzuf&uuml;gen";

@@ -1,6 +1,6 @@
 <?php
 // Post Titles
-$locale['400'] = "Themenvorschau";
+$locale['400'] = "Themen vorschau";
 $locale['401'] = "Thema starten";
 $locale['402'] = "Vorschau";
 $locale['403'] = " Antwort hinzuf&uuml;gen";
@@ -48,15 +48,14 @@ $locale['462'] = "Schriftfarbe: ";
 $locale['463'] = "Optionen";
 $locale['464'] = "Anhang";
 $locale['465'] = " (Optional)";
-$locale['466'] = "Maximale Dateigr&ouml;&szlig;e: %s<br />
-";
-$locale['467'] = "Umfrage hinzuf&uuml;gen (Optional)";
+$locale['466'] = "Max. Dateigröße: %s / Erlaubte Dateitypen: %s / Max. Anzahl der Anhänge: %s";
+$locale['467'] = "Umfrage hinzufügen (optional)";
 $locale['468'] = "Umfrage bearbeiten";
 $locale['469'] = "Umfragetitel";
 $locale['470'] = "Antwort";
 $locale['470a'] = $locale['470']." 1";
 $locale['470b'] = $locale['470']." 2";
-$locale['471'] = "Add Option";
+$locale['471'] = "Option hinzufügen";
 $locale['472'] = "Aktualisieren";
 $locale['473'] = "Entfernen";
 $locale['474'] = "Bearbeitungsgrund";

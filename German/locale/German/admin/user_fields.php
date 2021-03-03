@@ -23,7 +23,7 @@ $locale['425'] = "Aktivieren";
 $locale['426'] = "API-Version:";
 $locale['427'] = "Pflichtfeld";
 $locale['428'] = "Dieses Benutzerfeld unterst&uuml;tzt die Option &quot;Pflichtfeld&quot; nicht.";
-$locale['429'] = "Log";
+$locale['429'] = "Protokoll";
 $locale['429a'] = "Dieses Benutzerfeld unterst&uuml;tzt die Option &quot;Log&quot; nicht.";
 // Disabled user fields
 $locale['430'] = "Aktuell deaktivierte Benutzerfelder";

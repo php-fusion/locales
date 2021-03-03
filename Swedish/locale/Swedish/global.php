@@ -318,7 +318,7 @@ $locale['global_460'] = "[Tomt]";
 $locale['global_461'] = "Bytes";
 $locale['global_462'] = "kB";
 $locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
+$locale['global_464'] = "SE";
 $locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "Du omdirigeras till %s, var god vänta. Om du inte dirigeras om, klicka här.";

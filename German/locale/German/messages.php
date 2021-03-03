@@ -49,7 +49,7 @@ $locale['443'] = "Benutzergruppen";
 // Search Options
 $locale['450'] = "Such- und Sortieroptionen";
 $locale['451'] = "Suche / Sortierung";
-$locale['452'] = "Clear";
+$locale['452'] = "Löschen";
 $locale['453'] = "Es wurden keine Suchergebnise gefunden.";
 $locale['454'] = "Suche nach";
 $locale['455'] = "in";

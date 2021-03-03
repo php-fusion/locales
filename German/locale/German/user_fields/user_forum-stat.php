@@ -1,3 +1,3 @@
 <?php
-$locale['uf_forum-stat'] = "Forenbeitr&auml;ge";
-$locale['uf_forum-stat_desc'] = "Displays number of forum posts.";
+$locale['uf_forum-stat'] = "Foren Beiträge";
+$locale['uf_forum-stat_desc'] = "Anzahl der Forenbeiträge.";

@@ -1,13 +1,13 @@
 <?php
 // Custom Pages titles
-$locale['400'] = "Eigene Seite hinzuf&uuml;gen";
+$locale['400'] = "Eigene Seite hinzufügen";
 $locale['401'] = "Eigene Seite bearbeiten";
 $locale['402'] = "Aktuell vorhandene eigene Seiten";
 // Custom Pages messages
-$locale['410'] = "Die eigene Seite wurde hinzugef&uuml;gt.";
+$locale['410'] = "Die eigene Seite wurde hinzugefügt";
 $locale['411'] = "Die eigene Seite wurde aktualisiert.";
 $locale['412'] = "Die Adresse zur eigenen Seite lautet: ";
-$locale['413'] = "Die eigene Seite wurde gel&ouml;scht.";
+$locale['413'] = "Die eigene Seite wurde gelöscht";
 // Custom Page form
 $locale['420'] = "Bearbeiten";
 $locale['421'] = "Entfernen";
@@ -20,7 +20,7 @@ $locale['427'] = "Kommentare aktivieren";
 $locale['428'] = "Bewertungen aktivieren";
 $locale['429'] = "Vorschau";
 $locale['430'] = "Seite speichern";
-$locale['431'] = "Pagebreak";
+$locale['431'] = "Seitenumbruch";
 // Popup errors / warning messages
 $locale['450'] = "Seite wirklich löschen?";
 $locale['451'] = "Bitte spezifiziere einen Seitentitel";

@@ -11,14 +11,14 @@ $locale['413'] = "Es befinden sich noch WLinks in dieser Kategorie.";
 $locale['414'] = "Die Link Kategorie wurde gel&ouml;scht.";
 // Add/Edit Web Link Category Form
 $locale['420'] = "Kategoriename";
-$locale['421'] = "Beschreibung:";
+$locale['421'] = "Kategorie Beschreibung:";
 $locale['422'] = "Sortieren nach:";
 $locale['423'] = "Link ID";
 $locale['424'] = "Link Name";
 $locale['425'] = "Link Datum";
 $locale['426'] = "Aufsteigend";
 $locale['427'] = "Absteigend";
-$locale['428'] = "Zugriff:";
+$locale['428'] = "Kategorie-Zugriff:";
 $locale['429'] = "Kategorie speichern";
 // Current Web Link categories
 $locale['430'] = "Kommentare erlaubt";

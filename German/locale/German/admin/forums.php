@@ -1,6 +1,6 @@
 <?php
 // Forum Category titles
-$locale['400'] = "Forum Kategorie hinzuf&uuml;gen";
+$locale['400'] = "Forum Kategorie hinzufügen";
 $locale['401'] = "Forum Kategorie bearbeiten";
 // Forum Category messages
 $locale['410'] = "Die Forum Kategorie wurde hinzugef&uuml;gt.";
@@ -48,7 +48,7 @@ $locale['535'] = "Anh&auml;nge herunterladen";
 $locale['540'] = "Einstellungen";
 $locale['541'] = "Posts zusammenf&uuml;hren";
 $locale['542'] = "Aktiviert";
-$locale['543'] = "Disabled";
+$locale['543'] = "Deaktiviert";
 // Current Forums
 $locale['550'] = "Aktuell vorhandene Foren";
 $locale['551'] = "Kategorie / Forum";

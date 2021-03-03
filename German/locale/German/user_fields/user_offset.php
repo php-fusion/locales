@@ -1,10 +1,10 @@
 <?php
 $locale['uf_offset'] = "Zeitzone";
 $locale['uf_offset_desc'] = "Benutzer definierte Zeitzone.";
-$locale['uf_offset_error'] = "Du musst eine Zeitzone ausw&auml;hlen.";
+$locale['uf_offset_error'] = "Du musst eine Zeitzone auswählen.";
 
 $locale['offset_n1200'] = "(GMT -12:00) Eniwetok, Kwajalein";
-$locale['offset_n1100'] = "(GMT -11:00) Midway Island, Samoa";
+$locale['offset_n1100'] = "(GMT -11:00) Midwayinseln, Samoa";
 $locale['offset_n1000'] = "(GMT -10:00) Hawaii";
 $locale['offset_n0900'] = "(GMT -9:00) Alaska";
 $locale['offset_n0800'] = "(GMT -8:00) Pacific Time (US &amp; Canada)";

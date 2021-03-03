@@ -36,7 +36,7 @@ $locale['460b'] = "Tack för att du föreslagit en Blogg";
 $locale['461b'] = "Föreslå ytterligare en Blogg";
 // Submit Blog Form
 $locale['470b'] = "Använd följande formulär för att skicka in en Blogg. Ditt bidrag kommer att granskas av en
-administratör. [SITENAME] förbehåller sig rätten att ändra eller redigera eventuella förslag. Bloggen 
+administratör. [SITENAME] förbehåller sig rätten att ändra eller redigera eventuella förslag. Bloggen
 bör vara tillämplig med innehållet på denna webbplats. Olämpliga bidrag kommer att raderas.";
 $locale['471b'] = "Ämne:";
 $locale['472b'] = "Blog:";
@@ -107,7 +107,7 @@ $locale['676'] = "Kort beskrivning kan inte lämnas tom.";
 $locale['676a'] = "Okänt fel";
 // Submit Download Form
 $locale['680'] = "Använd följande formulär för att skicka in en nedladdning. Ditt bidrag kommer att granskas av en
-administratör. [SITENAME] förbehåller sig rätten att ändra eller redigera eventuella förslag. Nedladdningen 
+administratör. [SITENAME] förbehåller sig rätten att ändra eller redigera eventuella förslag. Nedladdningen
 bör vara tillämplig med innehållet på denna webbplats. Olämpliga bidrag kommer att raderas.";
 $locale['681'] = "Titel:";
 $locale['682'] = "Beskrivning:";

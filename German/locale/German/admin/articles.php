@@ -1,6 +1,6 @@
 <?php
 // Article titles
-$locale['400'] = "Neuer Artikel";
+$locale['400'] = "Artikel hinzufügen";
 $locale['401'] = "Artikel bearbeiten";
 $locale['402'] = "Aktuell vorhandene Artikel";
 $locale['403'] = "Artikel";
@@ -19,7 +19,7 @@ $locale['426'] = "Als Entwurf speichern";
 $locale['427'] = "Automatische Zeilenumbr&uuml;che aktivieren";
 $locale['428'] = "Kommentare aktivieren";
 $locale['429'] = "Bewertungen aktivieren";
-$locale['430'] = "Vorschau";
+$locale['430'] = "Artikel Vorschau";
 $locale['431'] = "Artikel speichern";
 $locale['432'] = "Seitenumbruch";
 $locale['433'] = "[ENTWURF]";

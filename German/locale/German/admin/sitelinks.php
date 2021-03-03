@@ -13,28 +13,28 @@ $locale['421'] = "Adresse:";
 $locale['422'] = "Sichtbarkeit:";
 $locale['423'] = "Reihenfolge";
 $locale['424'] = "Position:";
-$locale['425'] = "Nur im Navigationspanel";
-$locale['426'] = "Im Header und im Navigationspanel";
+$locale['425'] = "nur Navigationsleiste";
+$locale['426'] = "navigationsleiste und in der Header Navigation";
 $locale['427'] = "Nur im Header";
-$locale['428'] = "Link in einem neuen Fenster &ouml;ffnen.";
+$locale['428'] = "Link in neuem Fenster öffnen";
 $locale['429'] = "Link speichern";
 // Site Links list
 $locale['440'] = "Link Name";
 $locale['441'] = "Zugriff";
 $locale['442'] = "Reihenfolge";
-$locale['443'] = "Optionen";
+$locale['443'] = "Einstellungen";
 $locale['444'] = "Bearbeiten";
 $locale['445'] = "Entfernen";
-$locale['446'] = "Derzeit wurden noch keine Navigationslinks hinzugef&uuml;gt.";
+$locale['446'] = "Derzeit wurden noch keine Navigationslinks hinzugefügt.";
 // Link Ordering
-$locale['450'] = "Aufw&auml;rts";
-$locale['451'] = "Abw&auml;rts";
-$locale['452'] = "Aufw&auml;rts";
-$locale['453'] = "Abw&auml;rts";
+$locale['450'] = "Aufwärts";
+$locale['451'] = "Abwärts";
+$locale['452'] = "Nach oben verschieben";
+$locale['453'] = "Nach unten verschieben";
 $locale['454'] = "Sortierung der Navigationslinks erneuern.";
 $locale['455'] = "Die Navigationslinks Reihenfolge wurde aktualisiert.";
 // Delete Site Link category
-$locale['460'] = "Bist du dir sicher, dass du den Navigationslink entfernen m&ouml;chtest?";
+$locale['460'] = "Willst du diesen Link wirklich löschen?";
 // Error
-$locale['461'] = "Du musst einen Namen f&uuml;r den Navigationslink angeben.";
-$locale['462'] = "Du musst eine Adresse f&uuml;r den Navigationslink angeben.";
+$locale['461'] = "Bitte geben Sie einen Link-Namen ein";
+$locale['462'] = "Bitte geben Sie eine Link-URL ein";

@@ -1,6 +1,6 @@
 <?php
-$locale['ares_001'] = 'Admin Pages';
+$locale['ares_001'] = 'Admin Seiten';
 $locale['ares_002'] = 'Erstellt von';
-$locale['ares_003'] = 'User Dashboard';
-$locale['ares_004'] = 'Quick Launch';
-$locale['ares_005'] = 'Sections';
+$locale['ares_003'] = 'Benutzer Übersicht';
+$locale['ares_004'] = 'Schnellstart';
+$locale['ares_005'] = 'Bereiche';
